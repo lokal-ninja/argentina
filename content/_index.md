@@ -1,0 +1,1 @@
+Argentina, oficialmente, República Argentina,a​ es un país soberano de América del Sur, ubicado en el extremo sur y sudeste de dicho subcontinente. Adopta la forma de gobierno republicana, democrática, representativa y federal. (Wikipedia)

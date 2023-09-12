@@ -1,0 +1,5 @@
+---
+title: "El 22"
+url: /posadas/el-22/
+shop: frutería
+---
