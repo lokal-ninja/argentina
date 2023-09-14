@@ -1,5 +1,5 @@
 ---
 title: "Piazza"
-url: /viedma/piazza/
+url: /viedma/piazza-gobernador-gallardo/
 shop: coche
 ---

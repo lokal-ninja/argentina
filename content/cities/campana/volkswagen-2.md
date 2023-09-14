@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
-url: /campana/volkswagen/
+url: /campana/volkswagen-2/
 shop: coche
 ---

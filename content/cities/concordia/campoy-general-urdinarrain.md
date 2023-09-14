@@ -1,5 +1,5 @@
 ---
 title: "Campoy"
-url: /concordia/campoy/
+url: /concordia/campoy-general-urdinarrain/
 shop: carnicero
 ---

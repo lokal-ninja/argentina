@@ -1,5 +1,5 @@
 ---
 title: "Pinturería Mercurio"
-url: /santa-fe/pintureria-mercurio/
+url: /santa-fe/pintureria-mercurio-avenida-aristobulo-del-valle/
 shop: pintura
 ---

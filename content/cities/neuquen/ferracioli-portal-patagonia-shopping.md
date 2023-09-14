@@ -1,5 +1,5 @@
 ---
 title: "Ferracioli"
-url: /neuquen/ferracioli/
+url: /neuquen/ferracioli-portal-patagonia-shopping/
 shop: deportes
 ---

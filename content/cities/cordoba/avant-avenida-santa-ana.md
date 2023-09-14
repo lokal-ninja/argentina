@@ -1,5 +1,5 @@
 ---
 title: "Avant"
-url: /cordoba/avant/
+url: /cordoba/avant-avenida-santa-ana/
 shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
-url: /buenos-aires/peugeot/
+url: /buenos-aires/peugeot-avenida-independencia/
 shop: coche
 ---

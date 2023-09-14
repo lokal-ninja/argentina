@@ -1,5 +1,5 @@
 ---
 title: "Honda"
-url: /trelew/honda/
+url: /trelew/honda-love-parry/
 shop: reparación de automóviles
 ---

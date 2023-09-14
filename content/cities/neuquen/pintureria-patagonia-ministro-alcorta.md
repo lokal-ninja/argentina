@@ -1,5 +1,5 @@
 ---
 title: "Pinturería Patagonia"
-url: /neuquen/pintureria-patagonia/
+url: /neuquen/pintureria-patagonia-ministro-alcorta/
 shop: pintura
 ---

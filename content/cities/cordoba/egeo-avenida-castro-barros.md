@@ -1,5 +1,5 @@
 ---
 title: "Egeo"
-url: /cordoba/egeo/
+url: /cordoba/egeo-avenida-castro-barros/
 shop: coche
 ---

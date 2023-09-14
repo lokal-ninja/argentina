@@ -1,5 +1,5 @@
 ---
 title: "Macowens"
-url: /posadas/macowens/
+url: /posadas/macowens-2/
 shop: ropa
 ---

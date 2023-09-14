@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
-url: /santa-rosa/cooperativa-obrera/
+url: /santa-rosa/cooperativa-obrera-avenida-roque-saenz-pena/
 shop: comodidad
 ---

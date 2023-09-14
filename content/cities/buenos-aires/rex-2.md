@@ -1,5 +1,5 @@
 ---
 title: "Rex"
-url: /buenos-aires/rex/
+url: /buenos-aires/rex-2/
 shop: pintura
 ---

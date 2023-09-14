@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
-url: /neuquen/colorshop/
+url: /neuquen/colorshop-combate-de-san-lorenzo/
 shop: pintura
 ---

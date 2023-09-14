@@ -1,5 +1,5 @@
 ---
 title: "Grimoldi"
-url: /neuquen/grimoldi/
+url: /neuquen/grimoldi-portal-patagonia-shopping/
 shop: ropa
 ---

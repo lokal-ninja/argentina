@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /neuquen/ford/
+url: /neuquen/ford-comisario-jose-lopez/
 shop: reparación de automóviles
 ---

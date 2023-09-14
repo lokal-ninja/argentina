@@ -1,5 +1,5 @@
 ---
 title: "Punto Caramelo"
-url: /zapala/punto-caramelo/
+url: /zapala/punto-caramelo-avenida-julio-argentino-roca/
 shop: confitería
 ---

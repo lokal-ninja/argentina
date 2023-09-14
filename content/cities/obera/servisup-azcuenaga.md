@@ -1,5 +1,5 @@
 ---
 title: "Servisup"
-url: /obera/servisup/
+url: /obera/servisup-azcuenaga/
 shop: electrónica
 ---

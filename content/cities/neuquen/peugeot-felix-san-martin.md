@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
-url: /neuquen/peugeot/
+url: /neuquen/peugeot-felix-san-martin/
 shop: coche
 ---

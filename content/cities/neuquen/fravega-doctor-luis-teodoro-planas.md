@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
-url: /neuquen/fravega/
+url: /neuquen/fravega-doctor-luis-teodoro-planas/
 shop: electrónica
 ---

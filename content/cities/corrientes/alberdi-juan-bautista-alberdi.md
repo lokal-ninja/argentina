@@ -1,5 +1,5 @@
 ---
 title: "Alberdi"
-url: /corrientes/alberdi/
-shop: quiosco
+url: /corrientes/alberdi-juan-bautista-alberdi/
+shop: frutería
 ---

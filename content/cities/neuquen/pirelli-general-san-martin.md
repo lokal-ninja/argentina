@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
-url: /neuquen/pirelli/
+url: /neuquen/pirelli-general-san-martin/
 shop: neumáticos
 ---

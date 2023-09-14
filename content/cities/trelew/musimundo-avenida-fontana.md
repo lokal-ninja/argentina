@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
-url: /trelew/musimundo/
+url: /trelew/musimundo-avenida-fontana/
 shop: electrónica
 ---

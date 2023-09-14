@@ -1,5 +1,5 @@
 ---
 title: "Cúspide"
-url: /mendoza/cuspide/
+url: /mendoza/cuspide-avenida-san-martin/
 shop: música
 ---

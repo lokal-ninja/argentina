@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
-url: /neuquen/mercedes-benz/
+url: /neuquen/mercedes-benz-autovia-norte/
 shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
-url: /ciudad-autonoma-de-buenos-aires/musimundo/
+url: /ciudad-autonoma-de-buenos-aires/musimundo-sarmiento/
 shop: música
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /neuquen/hyundai/
+url: /neuquen/hyundai-j-benigar/
 shop: reparación de automóviles
 ---

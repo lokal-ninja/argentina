@@ -1,5 +1,5 @@
 ---
 title: "Lotería La Neuquina"
-url: /cutral-co/loteria-la-neuquina/
+url: /cutral-co/loteria-la-neuquina-chubut/
 shop: lotería
 ---

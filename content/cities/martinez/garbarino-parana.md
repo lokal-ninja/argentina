@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
-url: /martinez/garbarino/
+url: /martinez/garbarino-parana/
 shop: electrónica
 ---

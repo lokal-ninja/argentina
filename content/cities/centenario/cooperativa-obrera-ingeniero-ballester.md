@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
-url: /centenario/cooperativa-obrera/
+url: /centenario/cooperativa-obrera-ingeniero-ballester/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /trelew/chevrolet/
+url: /trelew/chevrolet-moreno/
 shop: reparación de automóviles
 ---

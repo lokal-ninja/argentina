@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
-url: /san-carlos-de-bariloche/la-anonima/
+url: /san-carlos-de-bariloche/la-anonima-avenida-exequiel-bustillo/
 shop: supermercado
 ---

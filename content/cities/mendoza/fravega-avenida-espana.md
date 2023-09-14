@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
-url: /mendoza/fravega/
+url: /mendoza/fravega-avenida-espana/
 shop: electrónica
 ---

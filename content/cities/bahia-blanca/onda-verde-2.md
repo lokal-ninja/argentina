@@ -1,5 +1,5 @@
 ---
 title: "Onda Verde"
-url: /bahia-blanca/onda-verde/
+url: /bahia-blanca/onda-verde-2/
 shop: alimentación sana
 ---

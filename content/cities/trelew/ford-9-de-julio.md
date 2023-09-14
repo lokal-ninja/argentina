@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /trelew/ford/
+url: /trelew/ford-9-de-julio/
 shop: coche
 ---

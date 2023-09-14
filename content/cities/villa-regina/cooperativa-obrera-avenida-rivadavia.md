@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
-url: /villa-regina/cooperativa-obrera/
+url: /villa-regina/cooperativa-obrera-avenida-rivadavia/
 shop: supermercado
 ---

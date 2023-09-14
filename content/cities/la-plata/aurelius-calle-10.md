@@ -1,5 +1,5 @@
 ---
 title: "Aurelius"
-url: /la-plata/aurelius/
+url: /la-plata/aurelius-calle-10/
 shop: deportes
 ---

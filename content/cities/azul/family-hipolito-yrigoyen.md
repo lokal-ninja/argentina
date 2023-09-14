@@ -1,5 +1,5 @@
 ---
 title: "Family"
-url: /azul/family/
+url: /azul/family-hipolito-yrigoyen/
 shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /martinez/ferreteria/
+url: /martinez/ferreteria-avenida-santa-fe/
 shop: hardware
 ---

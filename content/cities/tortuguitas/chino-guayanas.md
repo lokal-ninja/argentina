@@ -1,5 +1,5 @@
 ---
 title: "Chino"
-url: /tortuguitas/chino/
+url: /tortuguitas/chino-guayanas/
 shop: supermercado
 ---

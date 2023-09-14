@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /bahia-blanca/movistar/
+url: /bahia-blanca/movistar-luis-maria-drago/
 shop: teléfono móvil
 ---

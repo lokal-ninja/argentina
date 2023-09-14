@@ -1,5 +1,5 @@
 ---
 title: "Reins"
-url: /bahia-blanca/reins/
+url: /bahia-blanca/reins-brown/
 shop: joyería
 ---

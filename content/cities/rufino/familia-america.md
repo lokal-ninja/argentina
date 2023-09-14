@@ -1,5 +1,5 @@
 ---
 title: "Familia"
-url: /rufino/familia/
+url: /rufino/familia-america/
 shop: comodidad
 ---

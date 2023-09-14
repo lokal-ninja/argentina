@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /neuquen/ford/
+url: /neuquen/ford-eugenio-perticone/
 shop: reparación de automóviles
 ---

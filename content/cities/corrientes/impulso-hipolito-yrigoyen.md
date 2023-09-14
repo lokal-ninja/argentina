@@ -1,5 +1,5 @@
 ---
 title: "Impulso"
-url: /corrientes/impulso/
+url: /corrientes/impulso-hipolito-yrigoyen/
 shop: supermercado
 ---

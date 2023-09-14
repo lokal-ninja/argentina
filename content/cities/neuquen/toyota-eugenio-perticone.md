@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
-url: /neuquen/toyota/
+url: /neuquen/toyota-eugenio-perticone/
 shop: reparación de automóviles
 ---

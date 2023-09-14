@@ -1,5 +1,5 @@
 ---
 title: "Personal"
-url: /rufino/personal/
+url: /rufino/personal-presidente-peron/
 shop: teléfono móvil
 ---

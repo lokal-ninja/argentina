@@ -1,5 +1,5 @@
 ---
 title: "Impulso"
-url: /corrientes/impulso/
+url: /corrientes/impulso-juan-bautista-alberdi/
 shop: supermercado
 ---

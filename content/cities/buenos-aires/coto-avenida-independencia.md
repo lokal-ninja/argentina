@@ -1,5 +1,5 @@
 ---
 title: "Coto"
-url: /buenos-aires/coto/
+url: /buenos-aires/coto-avenida-independencia/
 shop: supermercado
 ---

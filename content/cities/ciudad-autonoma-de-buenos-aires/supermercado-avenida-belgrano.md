@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
-url: /ciudad-autonoma-de-buenos-aires/supermercado/
+url: /ciudad-autonoma-de-buenos-aires/supermercado-avenida-belgrano/
 shop: supermercado
 ---

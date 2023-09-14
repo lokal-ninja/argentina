@@ -1,5 +1,5 @@
 ---
 title: "Urban"
-url: /neuquen/urban/
+url: /neuquen/urban-avenida-olascoaga/
 shop: ropa
 ---

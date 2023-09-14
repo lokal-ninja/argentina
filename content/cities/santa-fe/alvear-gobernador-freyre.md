@@ -1,5 +1,5 @@
 ---
 title: "Alvear"
-url: /santa-fe/alvear/
+url: /santa-fe/alvear-gobernador-freyre/
 shop: supermercado
 ---

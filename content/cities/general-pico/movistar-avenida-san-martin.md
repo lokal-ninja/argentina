@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /general-pico/movistar/
+url: /general-pico/movistar-avenida-san-martin/
 shop: teléfono móvil
 ---

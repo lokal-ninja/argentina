@@ -1,5 +1,5 @@
 ---
 title: "Mensajeras"
-url: /cipolletti/mensajeras/
+url: /cipolletti/mensajeras-hipolito-yrigoyen/
 shop: ropa
 ---

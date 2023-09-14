@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
-url: /neuquen/samsung/
+url: /neuquen/samsung-portal-patagonia-shopping/
 shop: electrónica
 ---

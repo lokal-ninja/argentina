@@ -1,5 +1,5 @@
 ---
 title: "Imcofue"
-url: /rio-grande/imcofue/
+url: /rio-grande/imcofue-islas-malvinas/
 shop: comercio
 ---

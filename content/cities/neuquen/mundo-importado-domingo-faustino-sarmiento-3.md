@@ -1,5 +1,5 @@
 ---
 title: "Mundo Importado"
-url: /neuquen/mundo-importado/
+url: /neuquen/mundo-importado-domingo-faustino-sarmiento-3/
 shop: tienda de variedades
 ---

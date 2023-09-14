@@ -1,5 +1,5 @@
 ---
 title: "El Palenque"
-url: /neuquen/el-palenque/
+url: /neuquen/el-palenque-general-manuel-belgrano/
 shop: cuero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /olivos/carrefour-market/
+url: /olivos/carrefour-market-avenida-maipu/
 shop: supermercado
 ---

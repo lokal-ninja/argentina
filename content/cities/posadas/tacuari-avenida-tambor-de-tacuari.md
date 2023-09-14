@@ -1,5 +1,5 @@
 ---
 title: "Tacuarí"
-url: /posadas/tacuari/
+url: /posadas/tacuari-avenida-tambor-de-tacuari/
 shop: hardware
 ---

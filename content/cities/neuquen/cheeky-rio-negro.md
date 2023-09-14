@@ -1,5 +1,5 @@
 ---
 title: "Cheeky"
-url: /neuquen/cheeky/
+url: /neuquen/cheeky-rio-negro/
 shop: ropa
 ---

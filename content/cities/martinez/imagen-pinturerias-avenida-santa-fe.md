@@ -1,5 +1,5 @@
 ---
 title: "Imagen Pinturerías"
-url: /martinez/imagen-pinturerias/
+url: /martinez/imagen-pinturerias-avenida-santa-fe/
 shop: pintura
 ---

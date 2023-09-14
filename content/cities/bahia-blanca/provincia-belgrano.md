@@ -1,5 +1,5 @@
 ---
 title: "Provincia"
-url: /bahia-blanca/provincia/
+url: /bahia-blanca/provincia-belgrano/
 shop: lotería
 ---

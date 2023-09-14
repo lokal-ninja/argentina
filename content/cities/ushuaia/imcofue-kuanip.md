@@ -1,5 +1,5 @@
 ---
 title: "Imcofue"
-url: /ushuaia/imcofue/
+url: /ushuaia/imcofue-kuanip/
 shop: comercio
 ---

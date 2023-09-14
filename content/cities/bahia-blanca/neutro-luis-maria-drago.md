@@ -1,5 +1,5 @@
 ---
 title: "Neutro"
-url: /bahia-blanca/neutro/
+url: /bahia-blanca/neutro-luis-maria-drago/
 shop: ropa
 ---

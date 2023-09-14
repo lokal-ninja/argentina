@@ -1,5 +1,5 @@
 ---
 title: "Motolandia"
-url: /acassuso/motolandia/
+url: /acassuso/motolandia-avenida-santa-fe/
 shop: motocicleta
 ---

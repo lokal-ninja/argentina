@@ -1,5 +1,5 @@
 ---
 title: "Macowens"
-url: /neuquen/macowens/
+url: /neuquen/macowens-corrientes/
 shop: ropa
 ---

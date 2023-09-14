@@ -1,5 +1,5 @@
 ---
 title: "Dani"
-url: /viedma/dani/
+url: /viedma/dani-boulevard-ituzaingo/
 shop: frutería
 ---

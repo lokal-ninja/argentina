@@ -1,5 +1,5 @@
 ---
 title: "Serodino"
-url: /bahia-blanca/serodino/
+url: /bahia-blanca/serodino-sarmiento/
 shop: ropa
 ---

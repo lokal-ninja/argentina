@@ -1,5 +1,5 @@
 ---
 title: "Buenos Días"
-url: /cordoba/buenos-dias/
+url: /cordoba/buenos-dias-agustin-garzon/
 shop: supermercado
 ---

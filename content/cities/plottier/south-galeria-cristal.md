@@ -1,5 +1,5 @@
 ---
 title: "South"
-url: /plottier/south/
+url: /plottier/south-galeria-cristal/
 shop: ropa
 ---

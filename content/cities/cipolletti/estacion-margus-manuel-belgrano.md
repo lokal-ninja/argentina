@@ -1,5 +1,5 @@
 ---
 title: "Estación Margus"
-url: /cipolletti/estacion-margus/
+url: /cipolletti/estacion-margus-manuel-belgrano/
 shop: panadería
 ---

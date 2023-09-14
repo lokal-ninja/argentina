@@ -1,5 +1,5 @@
 ---
 title: "Ferremax"
-url: /ciudad-autonoma-de-buenos-aires/ferremax/
+url: /ciudad-autonoma-de-buenos-aires/ferremax-avenida-santa-fe/
 shop: hardware
 ---

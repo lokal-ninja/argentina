@@ -1,5 +1,5 @@
 ---
 title: "Franchesca"
-url: /posadas/franchesca/
+url: /posadas/franchesca-las-bromelias/
 shop: material de oficina
 ---

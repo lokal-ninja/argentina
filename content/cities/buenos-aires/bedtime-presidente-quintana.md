@@ -1,5 +1,5 @@
 ---
 title: "BedTime"
-url: /buenos-aires/bedtime/
+url: /buenos-aires/bedtime-presidente-quintana/
 shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Araki"
-url: /obera/araki/
+url: /obera/araki-suiza/
 shop: mascotas
 ---

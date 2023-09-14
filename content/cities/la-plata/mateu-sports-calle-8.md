@@ -1,5 +1,5 @@
 ---
 title: "Mateu Sports"
-url: /la-plata/mateu-sports/
+url: /la-plata/mateu-sports-calle-8/
 shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiper Cooperativa Obrera"
-url: /bahia-blanca/hiper-cooperativa-obrera/
+url: /bahia-blanca/hiper-cooperativa-obrera-fragata-sarmiento/
 shop: supermercado
 ---

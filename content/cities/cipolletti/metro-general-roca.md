@@ -1,5 +1,5 @@
 ---
 title: "Metro"
-url: /cipolletti/metro/
+url: /cipolletti/metro-general-roca/
 shop: ropa
 ---

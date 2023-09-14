@@ -1,5 +1,5 @@
 ---
 title: "Puppis"
-url: /martinez/puppis/
+url: /martinez/puppis-avenida-sir-alexander-fleming/
 shop: mascotas
 ---

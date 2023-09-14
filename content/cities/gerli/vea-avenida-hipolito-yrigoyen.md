@@ -1,5 +1,5 @@
 ---
 title: "Vea"
-url: /gerli/vea/
+url: /gerli/vea-avenida-hipolito-yrigoyen/
 shop: supermercado
 ---

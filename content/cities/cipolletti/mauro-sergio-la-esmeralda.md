@@ -1,5 +1,5 @@
 ---
 title: "Mauro Sergio"
-url: /cipolletti/mauro-sergio/
+url: /cipolletti/mauro-sergio-la-esmeralda/
 shop: ropa
 ---

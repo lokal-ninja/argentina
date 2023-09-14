@@ -1,5 +1,5 @@
 ---
 title: "Vea"
-url: /godoy-cruz/vea/
+url: /godoy-cruz/vea-paso-de-los-andes/
 shop: supermercado
 ---

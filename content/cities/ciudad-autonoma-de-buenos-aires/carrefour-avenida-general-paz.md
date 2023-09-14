@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /ciudad-autonoma-de-buenos-aires/carrefour/
+url: /ciudad-autonoma-de-buenos-aires/carrefour-avenida-general-paz/
 shop: supermercado
 ---

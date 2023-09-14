@@ -1,5 +1,5 @@
 ---
 title: "Portsaid"
-url: /neuquen/portsaid/
+url: /neuquen/portsaid-diagonal-25-de-mayo/
 shop: ropa
 ---

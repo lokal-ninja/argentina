@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
-url: /neuquen/bridgestone/
+url: /neuquen/bridgestone-eugenio-perticone/
 shop: neumáticos
 ---

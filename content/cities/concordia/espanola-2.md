@@ -1,5 +1,5 @@
 ---
 title: "Española"
-url: /concordia/espanola/
+url: /concordia/espanola-2/
 shop: panadería
 ---

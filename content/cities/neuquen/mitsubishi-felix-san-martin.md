@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
-url: /neuquen/mitsubishi/
+url: /neuquen/mitsubishi-felix-san-martin/
 shop: coche
 ---

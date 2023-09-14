@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /viedma/claro/
+url: /viedma/claro-buenos-aires/
 shop: teléfono móvil
 ---

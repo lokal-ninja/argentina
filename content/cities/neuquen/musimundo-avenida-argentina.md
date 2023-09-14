@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
-url: /neuquen/musimundo/
+url: /neuquen/musimundo-avenida-argentina/
 shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Preti"
-url: /bahia-blanca/preti/
+url: /bahia-blanca/preti-donado/
 shop: deportes
 ---

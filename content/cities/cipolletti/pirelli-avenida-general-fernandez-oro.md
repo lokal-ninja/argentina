@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
-url: /cipolletti/pirelli/
+url: /cipolletti/pirelli-avenida-general-fernandez-oro/
 shop: neumáticos
 ---

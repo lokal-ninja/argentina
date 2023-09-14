@@ -1,5 +1,5 @@
 ---
 title: "Vea"
-url: /guaymallen/vea/
+url: /guaymallen/vea-carril-godoy-cruz/
 shop: supermercado
 ---

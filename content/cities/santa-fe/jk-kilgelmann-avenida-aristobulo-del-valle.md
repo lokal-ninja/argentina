@@ -1,5 +1,5 @@
 ---
 title: "JK Kilgelmann"
-url: /santa-fe/jk-kilgelmann/
+url: /santa-fe/jk-kilgelmann-avenida-aristobulo-del-valle/
 shop: supermercado
 ---

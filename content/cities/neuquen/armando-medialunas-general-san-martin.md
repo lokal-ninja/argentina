@@ -1,5 +1,5 @@
 ---
 title: "Armando Medialunas"
-url: /neuquen/armando-medialunas/
+url: /neuquen/armando-medialunas-general-san-martin/
 shop: panadería
 ---

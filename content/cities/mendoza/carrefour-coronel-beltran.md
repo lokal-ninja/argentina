@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /mendoza/carrefour/
+url: /mendoza/carrefour-coronel-beltran/
 shop: supermercado
 ---

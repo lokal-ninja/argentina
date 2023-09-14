@@ -1,5 +1,5 @@
 ---
 title: "Prestigio"
-url: /buenos-aires/prestigio/
+url: /buenos-aires/prestigio-avenida-rivadavia/
 shop: pintura
 ---

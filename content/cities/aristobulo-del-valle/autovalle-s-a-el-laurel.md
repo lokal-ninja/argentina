@@ -1,5 +1,5 @@
 ---
 title: "AutoValle S.A."
-url: /aristobulo-del-valle/autovalle-s-a/
+url: /aristobulo-del-valle/autovalle-s-a-el-laurel/
 shop: general
 ---

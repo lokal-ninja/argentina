@@ -1,5 +1,5 @@
 ---
 title: "Puppis"
-url: /vicente-lopez/puppis/
+url: /vicente-lopez/puppis-avenida-maipu/
 shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lotería La Neuquina"
-url: /neuquen/loteria-la-neuquina/
+url: /neuquen/loteria-la-neuquina-daniel-gatica/
 shop: lotería
 ---

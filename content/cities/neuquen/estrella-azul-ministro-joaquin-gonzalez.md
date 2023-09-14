@@ -1,5 +1,5 @@
 ---
 title: "Estrella Azul"
-url: /neuquen/estrella-azul/
+url: /neuquen/estrella-azul-ministro-joaquin-gonzalez/
 shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
-url: /neuquen/etam/
+url: /neuquen/etam-avenida-olascoaga/
 shop: ropa
 ---

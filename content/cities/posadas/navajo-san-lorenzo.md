@@ -1,5 +1,5 @@
 ---
 title: "Navajo"
-url: /posadas/navajo/
+url: /posadas/navajo-san-lorenzo/
 shop: tienda
 ---

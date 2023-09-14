@@ -1,5 +1,5 @@
 ---
 title: "Servicompras"
-url: /beccar/servicompras/
+url: /beccar/servicompras-avenida-del-libertador/
 shop: comodidad
 ---

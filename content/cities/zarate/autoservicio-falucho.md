@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio"
-url: /zarate/autoservicio/
+url: /zarate/autoservicio-falucho/
 shop: supermercado
 ---

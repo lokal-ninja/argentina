@@ -1,5 +1,5 @@
 ---
 title: "Bedtime"
-url: /ciudad-autonoma-de-buenos-aires/bedtime/
+url: /ciudad-autonoma-de-buenos-aires/bedtime-rincon/
 shop: cama
 ---

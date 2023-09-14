@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /mercedes/dia/
+url: /mercedes/dia-avenida-san-martin/
 shop: supermercado
 ---

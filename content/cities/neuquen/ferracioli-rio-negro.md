@@ -1,5 +1,5 @@
 ---
 title: "Ferracioli"
-url: /neuquen/ferracioli/
-shop: grandes almacenes
+url: /neuquen/ferracioli-rio-negro/
+shop: deportes
 ---

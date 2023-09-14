@@ -1,5 +1,5 @@
 ---
 title: "Laverap"
-url: /neuquen/laverap/
+url: /neuquen/laverap-jose-fava/
 shop: lavandería
 ---

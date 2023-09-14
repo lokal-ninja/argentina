@@ -1,5 +1,5 @@
 ---
 title: "Milanesia"
-url: /bahia-blanca/milanesia/
+url: /bahia-blanca/milanesia-vieytes/
 shop: carnicero
 ---

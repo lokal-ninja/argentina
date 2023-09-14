@@ -1,5 +1,5 @@
 ---
 title: "Calzados Neuquén"
-url: /neuquen/calzados-neuquen/
+url: /neuquen/calzados-neuquen-bartolome-mitre/
 shop: zapatos
 ---

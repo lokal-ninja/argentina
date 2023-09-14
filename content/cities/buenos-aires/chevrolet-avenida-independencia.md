@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /buenos-aires/chevrolet/
+url: /buenos-aires/chevrolet-avenida-independencia/
 shop: coche
 ---

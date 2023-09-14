@@ -1,5 +1,5 @@
 ---
 title: "Giorgio"
-url: /bahia-blanca/giorgio/
+url: /bahia-blanca/giorgio-ohiggins/
 shop: zapatos
 ---

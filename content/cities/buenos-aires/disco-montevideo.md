@@ -1,5 +1,5 @@
 ---
 title: "Disco"
-url: /buenos-aires/disco/
+url: /buenos-aires/disco-montevideo/
 shop: supermercado
 ---

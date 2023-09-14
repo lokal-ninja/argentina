@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
-url: /rio-grande/garbarino/
+url: /rio-grande/garbarino-monsenor-fagnano/
 shop: electrónica
 ---

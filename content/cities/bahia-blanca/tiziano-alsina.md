@@ -1,5 +1,5 @@
 ---
 title: "Tiziano"
-url: /bahia-blanca/tiziano/
+url: /bahia-blanca/tiziano-alsina/
 shop: ropa
 ---

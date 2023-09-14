@@ -1,5 +1,5 @@
 ---
 title: "Yenny"
-url: /neuquen/yenny/
+url: /neuquen/yenny-portal-patagonia-shopping/
 shop: libros
 ---

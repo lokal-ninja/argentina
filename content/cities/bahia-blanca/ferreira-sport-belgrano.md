@@ -1,5 +1,5 @@
 ---
 title: "Ferreira Sport"
-url: /bahia-blanca/ferreira-sport/
+url: /bahia-blanca/ferreira-sport-belgrano/
 shop: deportes
 ---

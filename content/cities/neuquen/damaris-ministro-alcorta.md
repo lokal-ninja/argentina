@@ -1,5 +1,5 @@
 ---
 title: "Damaris"
-url: /neuquen/damaris/
+url: /neuquen/damaris-ministro-alcorta/
 shop: ropa
 ---

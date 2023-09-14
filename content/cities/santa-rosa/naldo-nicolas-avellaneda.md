@@ -1,5 +1,5 @@
 ---
 title: "Naldo"
-url: /santa-rosa/naldo/
+url: /santa-rosa/naldo-nicolas-avellaneda/
 shop: electrónica
 ---

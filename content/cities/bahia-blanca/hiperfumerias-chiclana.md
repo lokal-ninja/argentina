@@ -1,5 +1,5 @@
 ---
 title: "Hiperfumerías"
-url: /bahia-blanca/hiperfumerias/
+url: /bahia-blanca/hiperfumerias-chiclana/
 shop: perfumería
 ---

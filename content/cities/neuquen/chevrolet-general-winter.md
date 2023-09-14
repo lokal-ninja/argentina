@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /neuquen/chevrolet/
+url: /neuquen/chevrolet-general-winter/
 shop: reparación de automóviles
 ---

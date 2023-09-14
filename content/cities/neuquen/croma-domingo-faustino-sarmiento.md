@@ -1,5 +1,5 @@
 ---
 title: "Croma"
-url: /neuquen/croma/
+url: /neuquen/croma-domingo-faustino-sarmiento/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vea"
-url: /mendoza/vea/
+url: /mendoza/vea-jorge-a-calle-y-neuquen/
 shop: supermercado
 ---

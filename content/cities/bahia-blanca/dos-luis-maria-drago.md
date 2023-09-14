@@ -1,5 +1,5 @@
 ---
 title: "Dos"
-url: /bahia-blanca/dos/
+url: /bahia-blanca/dos-luis-maria-drago/
 shop: ropa
 ---

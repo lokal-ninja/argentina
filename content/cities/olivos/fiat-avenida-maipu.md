@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
-url: /olivos/fiat/
+url: /olivos/fiat-avenida-maipu/
 shop: coche
 ---

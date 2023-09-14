@@ -1,5 +1,5 @@
 ---
 title: "Todomoda"
-url: /neuquen/todomoda/
+url: /neuquen/todomoda-perito-moreno/
 shop: ropa
 ---

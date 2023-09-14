@@ -1,5 +1,5 @@
 ---
 title: "La Casita"
-url: /neuquen/la-casita/
+url: /neuquen/la-casita-perito-moreno/
 shop: ropa
 ---

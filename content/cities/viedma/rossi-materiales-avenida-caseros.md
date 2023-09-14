@@ -1,5 +1,5 @@
 ---
 title: "Rossi Materiales"
-url: /viedma/rossi-materiales/
+url: /viedma/rossi-materiales-avenida-caseros/
 shop: comercio
 ---

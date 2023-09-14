@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
-url: /villa-bonita/despensa/
+url: /villa-bonita/despensa-2/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florería"
-url: /godoy-cruz/floreria/
+url: /godoy-cruz/floreria-paso-de-los-andes/
 shop: floristería
 ---

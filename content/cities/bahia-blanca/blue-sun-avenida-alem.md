@@ -1,5 +1,5 @@
 ---
 title: "Blue Sun"
-url: /bahia-blanca/blue-sun/
+url: /bahia-blanca/blue-sun-avenida-alem/
 shop: cosméticos
 ---

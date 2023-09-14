@@ -1,5 +1,5 @@
 ---
 title: "Amélie"
-url: /viedma/amelie/
+url: /viedma/amelie-belgrano/
 shop: tienda
 ---

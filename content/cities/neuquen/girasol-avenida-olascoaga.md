@@ -1,5 +1,5 @@
 ---
 title: "Girasol"
-url: /neuquen/girasol/
+url: /neuquen/girasol-avenida-olascoaga/
 shop: zapatos
 ---

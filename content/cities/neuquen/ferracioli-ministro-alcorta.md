@@ -1,5 +1,5 @@
 ---
 title: "Ferracioli"
-url: /neuquen/ferracioli/
+url: /neuquen/ferracioli-ministro-alcorta/
 shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
-url: /neuquen/colorshop/
+url: /neuquen/colorshop-doctor-luis-teodoro-planas/
 shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rockería Mitre"
-url: /neuquen/rockeria-mitre/
+url: /neuquen/rockeria-mitre-galeria-mitre/
 shop: ropa
 ---

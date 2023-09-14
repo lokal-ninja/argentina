@@ -1,5 +1,5 @@
 ---
 title: "RES"
-url: /vicente-lopez/res/
+url: /vicente-lopez/res-avenida-maipu/
 shop: carnicero
 ---
