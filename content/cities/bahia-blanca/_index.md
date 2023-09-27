@@ -1,6 +1,6 @@
 ---
 title: Bahía Blanca
 url: /bahia-blanca/
-latitude: -38.695
-longitude: -62.277
+latitude: -38.715
+longitude: -62.262
 ---
