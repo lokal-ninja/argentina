@@ -1,5 +1,5 @@
 ---
 title: "Tecno Grif"
 url: /victoria/tecno-grif/
-shop: general
+shop: menaje del hogar
 ---
