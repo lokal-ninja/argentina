@@ -1,6 +1,6 @@
 ---
 title: Tolhuin
 url: /tolhuin/
-latitude: -54.51
+latitude: -54.511
 longitude: -67.194
 ---

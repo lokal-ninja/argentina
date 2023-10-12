@@ -1,5 +1,5 @@
 ---
 title: "Adventurama"
 url: /martinez/adventurama/
-shop: general
+shop: juegos
 ---

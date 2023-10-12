@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /neuquen/ford/
-shop: coche
+shop: reparación de automóviles
 ---
