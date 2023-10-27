@@ -1,6 +1,6 @@
 ---
 title: Buenos Aires
 url: /buenos-aires/
-latitude: -34.613
-longitude: -58.423
+latitude: -34.575
+longitude: -58.408
 ---
