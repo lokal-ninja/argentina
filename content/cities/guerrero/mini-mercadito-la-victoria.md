@@ -1,5 +1,5 @@
 ---
-title: "MINI MERCADITO LA  VICTORIA"
+title: "Mini Mercadito La Victoria"
 url: /guerrero/mini-mercadito-la-victoria/
 shop: alimentación sana
 ---
