@@ -1,6 +1,6 @@
 ---
 title: San Salvador de Jujuy, Jujuy
 url: /san-salvador-de-jujuy-jujuy/
-latitude: -24.197
-longitude: -65.309
+latitude: -24.191
+longitude: -65.303
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Lucila
 url: /la-lucila/
-latitude: -34.493
+latitude: -34.494
 longitude: -58.485
 ---

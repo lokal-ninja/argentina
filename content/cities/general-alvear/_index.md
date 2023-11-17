@@ -1,6 +1,6 @@
 ---
 title: General Alvear
 url: /general-alvear/
-latitude: -34.978
-longitude: -67.697
+latitude: -36.025
+longitude: -60.014
 ---

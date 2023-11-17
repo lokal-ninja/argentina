@@ -1,5 +1,5 @@
 ---
-title: "autoservicio wendler"
+title: "Autoservicio Wendler"
 url: /colonia-la-argentina/autoservicio-wendler/
-shop: comodidad
+shop: supermercado
 ---

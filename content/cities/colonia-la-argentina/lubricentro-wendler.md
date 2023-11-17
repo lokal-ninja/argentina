@@ -1,5 +1,5 @@
 ---
-title: "lubricentro wendler"
+title: "Lubricentro Wendler"
 url: /colonia-la-argentina/lubricentro-wendler/
-shop: combustible
+shop: piezas de automóviles
 ---
