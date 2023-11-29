@@ -1,6 +1,6 @@
 ---
 title: Paraná
 url: /parana/
-latitude: -31.737
-longitude: -60.535
+latitude: -31.739
+longitude: -60.536
 ---
