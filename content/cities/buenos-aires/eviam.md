@@ -1,5 +1,5 @@
 ---
 title: "Eviam"
 url: /buenos-aires/eviam/
-shop: general
+shop: ropa
 ---

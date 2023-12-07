@@ -1,6 +1,6 @@
 ---
 title: Viale
 url: /viale/
-latitude: -31.867
-longitude: -60.005
+latitude: -31.87
+longitude: -60.009
 ---
