@@ -1,6 +1,6 @@
 ---
 title: Añatuya
 url: /anatuya/
-latitude: -28.467
-longitude: -62.826
+latitude: -28.462
+longitude: -62.832
 ---

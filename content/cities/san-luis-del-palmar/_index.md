@@ -1,6 +1,6 @@
 ---
 title: San Luis del Palmar
 url: /san-luis-del-palmar/
-latitude: -27.515
-longitude: -58.564
+latitude: -27.508
+longitude: -58.558
 ---
