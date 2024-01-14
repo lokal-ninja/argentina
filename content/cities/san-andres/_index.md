@@ -1,6 +1,6 @@
 ---
 title: San Andrés
 url: /san-andres/
-latitude: -34.573
-longitude: -58.545
+latitude: -34.564
+longitude: -58.542
 ---
