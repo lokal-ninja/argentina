@@ -1,6 +1,6 @@
 ---
 title: Leones
 url: /leones/
-latitude: -32.663
-longitude: -62.293
+latitude: -32.662
+longitude: -62.3
 ---
