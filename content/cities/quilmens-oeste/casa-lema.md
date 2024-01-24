@@ -1,5 +1,5 @@
 ---
-title: "casa lema"
+title: "Casa Lema"
 url: /quilmens-oeste/casa-lema/
-shop: supermercado
+shop: mayorista
 ---
