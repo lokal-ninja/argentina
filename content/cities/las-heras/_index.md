@@ -1,6 +1,6 @@
 ---
 title: Las Heras
 url: /las-heras/
-latitude: -46.542
-longitude: -68.938
+latitude: -32.854
+longitude: -68.834
 ---
