@@ -1,6 +1,6 @@
 ---
 title: Ciudad Evita
 url: /ciudad-evita/
-latitude: -34.715
-longitude: -58.543
+latitude: -34.724
+longitude: -58.522
 ---
