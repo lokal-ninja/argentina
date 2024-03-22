@@ -1,5 +1,5 @@
 ---
 title: "Bridas Rufino Saci"
 url: /rufino/bridas-rufino-saci/
-shop: comercio
+shop: general
 ---
