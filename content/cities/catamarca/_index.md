@@ -1,6 +1,6 @@
 ---
 title: Catamarca
 url: /catamarca/
-latitude: -28.468
-longitude: -65.777
+latitude: -28.466
+longitude: -65.78
 ---

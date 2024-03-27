@@ -1,6 +1,6 @@
 ---
 title: San Martin
 url: /san-martin/
-latitude: -34.574
-longitude: -58.543
+latitude: -34.573
+longitude: -58.544
 ---

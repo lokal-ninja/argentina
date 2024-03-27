@@ -1,6 +1,6 @@
 ---
 title: CABA
 url: /caba/
-latitude: -34.594
-longitude: -58.42
+latitude: -34.593
+longitude: -58.466
 ---

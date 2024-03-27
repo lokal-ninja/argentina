@@ -1,6 +1,6 @@
 ---
 title: Tandil
 url: /tandil/
-latitude: -37.322
-longitude: -59.137
+latitude: -37.325
+longitude: -59.136
 ---
