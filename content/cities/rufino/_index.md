@@ -1,6 +1,6 @@
 ---
 title: Rufino
 url: /rufino/
-latitude: -34.267
-longitude: -62.706
+latitude: -34.262
+longitude: -62.712
 ---

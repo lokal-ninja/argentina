@@ -1,5 +1,5 @@
 ---
 title: "Medamax"
 url: /berazategui/medamax/
-shop: supermercado
+shop: mayorista
 ---
