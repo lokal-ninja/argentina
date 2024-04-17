@@ -1,5 +1,5 @@
 ---
-title: "TUCHI automotores"
+title: "Tuchi automotores"
 url: /rufino/tuchi-automotores/
 shop: coche
 ---
