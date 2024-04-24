@@ -1,6 +1,6 @@
 ---
 title: Necochea
 url: /necochea/
-latitude: -38.575
-longitude: -58.722
+latitude: -38.552
+longitude: -58.743
 ---
