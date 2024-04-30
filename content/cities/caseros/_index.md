@@ -1,6 +1,6 @@
 ---
 title: Caseros
 url: /caseros/
-latitude: -34.593
+latitude: -34.603
 longitude: -58.562
 ---

@@ -1,5 +1,5 @@
 ---
-title: "San Jose"
+title: "San José"
 url: /ciudad-autonoma-de-buenos-aires/san-jose/
-shop: hardware
+shop: pasta
 ---

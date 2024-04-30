@@ -1,6 +1,6 @@
 ---
 title: Anisacate
 url: /anisacate/
-latitude: -31.697
-longitude: -64.427
+latitude: -31.696
+longitude: -64.424
 ---

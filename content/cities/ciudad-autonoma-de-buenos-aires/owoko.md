@@ -1,0 +1,5 @@
+---
+title: "Owoko"
+url: /ciudad-autonoma-de-buenos-aires/owoko/
+shop: ropa
+---

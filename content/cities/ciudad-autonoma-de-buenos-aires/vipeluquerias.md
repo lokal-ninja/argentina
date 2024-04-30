@@ -1,5 +1,5 @@
 ---
-title: "Vipeluquería's"
+title: "VIPeluquerías"
 url: /ciudad-autonoma-de-buenos-aires/vipeluquerias/
 shop: peluquería
 ---
