@@ -1,6 +1,6 @@
 ---
 title: Carapachay
 url: /carapachay/
-latitude: -34.525
-longitude: -58.537
+latitude: -34.533
+longitude: -58.541
 ---
