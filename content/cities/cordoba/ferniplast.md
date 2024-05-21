@@ -1,5 +1,5 @@
 ---
 title: "Ferniplast"
 url: /cordoba/ferniplast/
-shop: juguetes
+shop: general
 ---
