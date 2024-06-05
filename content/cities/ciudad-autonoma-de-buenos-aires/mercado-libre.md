@@ -1,5 +1,5 @@
 ---
-title: "Mercado libre"
+title: "Mercado Libre"
 url: /ciudad-autonoma-de-buenos-aires/mercado-libre/
-shop: foto
+shop: general
 ---
