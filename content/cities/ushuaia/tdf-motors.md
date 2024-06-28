@@ -1,5 +1,5 @@
 ---
 title: "TDF Motors"
 url: /ushuaia/tdf-motors/
-shop: coche
+shop: reparación de automóviles
 ---
