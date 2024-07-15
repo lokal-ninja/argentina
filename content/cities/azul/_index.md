@@ -1,6 +1,6 @@
 ---
 title: Azul
 url: /azul/
-latitude: -36.784
-longitude: -59.862
+latitude: -36.781
+longitude: -59.863
 ---

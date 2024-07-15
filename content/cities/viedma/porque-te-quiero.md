@@ -1,5 +1,5 @@
 ---
-title: "Porque te quiero"
+title: "Porque Te Quiero..."
 url: /viedma/porque-te-quiero/
 shop: ropa
 ---
