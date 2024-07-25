@@ -1,6 +1,6 @@
 ---
 title: Olivos
 url: /olivos/
-latitude: -34.506
+latitude: -34.504
 longitude: -58.494
 ---

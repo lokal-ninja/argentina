@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias B&V"
 url: /san-antonio-de-padua/fotocopias-byv/
-shop: general
+shop: copyshop
 ---
