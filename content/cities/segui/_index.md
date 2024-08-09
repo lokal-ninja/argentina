@@ -1,6 +1,6 @@
 ---
 title: Seguí
 url: /segui/
-latitude: -31.958
-longitude: -60.124
+latitude: -31.955
+longitude: -60.125
 ---

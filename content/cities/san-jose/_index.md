@@ -1,6 +1,6 @@
 ---
 title: San José
 url: /san-jose/
-latitude: -27.767
-longitude: -55.78
+latitude: -37.509
+longitude: -61.921
 ---

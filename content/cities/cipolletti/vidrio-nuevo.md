@@ -1,5 +1,5 @@
 ---
 title: "Vidrio Nuevo"
 url: /cipolletti/vidrio-nuevo/
-shop: general
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Changomás"
+title: "ChangoMâs"
 url: /san-carlos-de-bariloche/changomas/
 shop: supermercado
 ---
