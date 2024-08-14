@@ -1,5 +1,5 @@
 ---
-title: "niKEL Shoes"
+title: "Nikel Shoes"
 url: /cipolletti/nikel-shoes/
 shop: zapatos
 ---

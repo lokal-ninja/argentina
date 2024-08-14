@@ -1,5 +1,5 @@
 ---
 title: "Maral"
 url: /ciudad-autonoma-de-buenos-aires/maral/
-shop: muebles
+shop: erótico
 ---
