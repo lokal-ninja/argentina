@@ -1,6 +1,6 @@
 ---
 title: Haedo
 url: /haedo/
-latitude: -34.657
-longitude: -58.591
+latitude: -34.655
+longitude: -58.588
 ---
