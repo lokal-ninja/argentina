@@ -1,5 +1,5 @@
 ---
 title: "Alma Mia"
 url: /ciudad-autonoma-de-buenos-aires/alma-mia/
-shop: general
+shop: ropa
 ---
