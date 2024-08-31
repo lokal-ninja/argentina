@@ -1,6 +1,6 @@
 ---
 title: Hipólito Yrigoyen
 url: /hipolito-yrigoyen/
-latitude: -23.244
-longitude: -64.276
+latitude: -23.24
+longitude: -64.279
 ---
