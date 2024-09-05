@@ -1,5 +1,5 @@
 ---
 title: "Rovira Bikes"
 url: /santa-rosa/rovira-bikes/
-shop: bicicleta
+shop: Fahrrad
 ---

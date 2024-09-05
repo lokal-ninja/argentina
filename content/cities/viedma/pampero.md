@@ -1,5 +1,5 @@
 ---
 title: "Pampero"
 url: /viedma/pampero/
-shop: ropa
+shop: Kleidung
 ---

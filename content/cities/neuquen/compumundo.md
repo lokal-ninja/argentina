@@ -1,5 +1,5 @@
 ---
 title: "Compumundo"
 url: /neuquen/compumundo/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicletería Mario"
 url: /zarate/bicicleteria-mario/
-shop: bicicleta
+shop: Fahrrad
 ---

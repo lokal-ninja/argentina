@@ -1,5 +1,5 @@
 ---
 title: "Indumentaria Patagónica"
 url: /neuquen/indumentaria-patagonica/
-shop: ropa
+shop: Kleidung
 ---

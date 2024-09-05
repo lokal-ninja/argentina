@@ -1,5 +1,5 @@
 ---
 title: "DCJ"
 url: /ciudad-autonoma-de-buenos-aires/dcj/
-shop: ropa
+shop: Kleidung
 ---

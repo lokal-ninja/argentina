@@ -1,5 +1,5 @@
 ---
 title: "Laurita"
 url: /ciudad-autonoma-de-buenos-aires/laurita/
-shop: carnicero
+shop: Metzgerei
 ---

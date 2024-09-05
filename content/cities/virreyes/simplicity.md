@@ -1,5 +1,5 @@
 ---
 title: "Simplicity"
 url: /virreyes/simplicity/
-shop: general
+shop: Allgemein
 ---

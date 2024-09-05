@@ -1,5 +1,5 @@
 ---
 title: "Librería Ferrovía"
 url: /santa-fe/libreria-ferrovia/
-shop: libros
+shop: Bücher
 ---

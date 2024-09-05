@@ -1,5 +1,5 @@
 ---
 title: "Amanecer"
 url: /bragado/amanecer/
-shop: supermercado
+shop: Supermarkt
 ---

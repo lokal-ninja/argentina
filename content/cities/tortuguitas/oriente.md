@@ -1,5 +1,5 @@
 ---
 title: "Oriente"
 url: /tortuguitas/oriente/
-shop: supermercado
+shop: Supermarkt
 ---

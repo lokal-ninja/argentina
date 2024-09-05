@@ -1,5 +1,5 @@
 ---
 title: "El Cerrito"
 url: /villa-la-bolsa/el-cerrito/
-shop: comodidad
+shop: Lebensmittel
 ---

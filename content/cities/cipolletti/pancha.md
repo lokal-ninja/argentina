@@ -1,5 +1,5 @@
 ---
 title: "Pancha"
 url: /cipolletti/pancha/
-shop: ropa
+shop: Kleidung
 ---

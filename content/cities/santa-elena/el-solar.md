@@ -1,5 +1,5 @@
 ---
 title: "El Solar"
 url: /santa-elena/el-solar/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atalaya"
 url: /zapala/atalaya/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devoto"
 url: /villa-ballester/devoto/
-shop: pintura
+shop: Farben
 ---

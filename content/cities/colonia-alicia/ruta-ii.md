@@ -1,5 +1,5 @@
 ---
 title: "Ruta II"
 url: /colonia-alicia/ruta-ii/
-shop: hardware
+shop: Eisenwaren
 ---

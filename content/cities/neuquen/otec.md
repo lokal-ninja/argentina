@@ -1,5 +1,5 @@
 ---
 title: "Otec"
 url: /neuquen/otec/
-shop: eléctrico
+shop: Elektrisch
 ---

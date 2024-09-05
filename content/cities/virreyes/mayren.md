@@ -1,5 +1,5 @@
 ---
 title: "Mayren"
 url: /virreyes/mayren/
-shop: ropa
+shop: Kleidung
 ---

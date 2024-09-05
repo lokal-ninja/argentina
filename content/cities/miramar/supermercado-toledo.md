@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Toledo"
 url: /miramar/supermercado-toledo/
-shop: supermercado
+shop: Supermarkt
 ---

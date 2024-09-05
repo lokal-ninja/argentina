@@ -1,5 +1,5 @@
 ---
 title: "Norma"
 url: /obera/norma/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maiolo"
 url: /neuquen/maiolo/
-shop: mascotas
+shop: Tiere
 ---

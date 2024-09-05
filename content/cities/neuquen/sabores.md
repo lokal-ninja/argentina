@@ -1,5 +1,5 @@
 ---
 title: "Sabores"
 url: /neuquen/sabores/
-shop: panadería
+shop: Bäckerei
 ---

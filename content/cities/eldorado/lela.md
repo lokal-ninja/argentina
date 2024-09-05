@@ -1,5 +1,5 @@
 ---
 title: "Lela"
 url: /eldorado/lela/
-shop: quiosco
+shop: Kiosk
 ---

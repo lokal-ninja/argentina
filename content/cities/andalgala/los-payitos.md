@@ -1,5 +1,5 @@
 ---
 title: "Los Payitos"
 url: /andalgala/los-payitos/
-shop: supermercado
+shop: Supermarkt
 ---

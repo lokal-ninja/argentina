@@ -1,5 +1,5 @@
 ---
 title: "Benjamin"
 url: /ciudad-autonoma-de-buenos-aires/benjamin/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yrigoyen"
 url: /comodoro-rivadavia/yrigoyen/
-shop: frutería
+shop: Gemüse & Obst
 ---

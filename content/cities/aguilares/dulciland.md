@@ -1,5 +1,5 @@
 ---
 title: "Dulciland"
 url: /aguilares/dulciland/
-shop: supermercado
+shop: Supermarkt
 ---

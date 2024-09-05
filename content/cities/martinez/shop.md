@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /martinez/shop/
-shop: comodidad
+shop: Lebensmittel
 ---

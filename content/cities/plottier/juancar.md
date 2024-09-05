@@ -1,5 +1,5 @@
 ---
 title: "JuanCar"
 url: /plottier/juancar/
-shop: coche
+shop: Autohaus
 ---

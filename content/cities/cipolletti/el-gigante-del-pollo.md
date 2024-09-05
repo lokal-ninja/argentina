@@ -1,5 +1,5 @@
 ---
 title: "El Gigante del Pollo"
 url: /cipolletti/el-gigante-del-pollo/
-shop: carnicero
+shop: Metzgerei
 ---

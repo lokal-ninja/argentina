@@ -1,5 +1,5 @@
 ---
 title: "Don Paco"
 url: /viedma/don-paco/
-shop: comodidad
+shop: Lebensmittel
 ---

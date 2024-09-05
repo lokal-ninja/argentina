@@ -1,5 +1,5 @@
 ---
 title: "Manzana"
 url: /neuquen/manzana/
-shop: ropa
+shop: Kleidung
 ---

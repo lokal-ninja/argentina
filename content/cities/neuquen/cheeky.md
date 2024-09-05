@@ -1,5 +1,5 @@
 ---
 title: "Cheeky"
 url: /neuquen/cheeky/
-shop: ropa
+shop: Kleidung
 ---

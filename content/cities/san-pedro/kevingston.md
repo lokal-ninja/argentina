@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /san-pedro/kevingston/
-shop: ropa
+shop: Kleidung
 ---

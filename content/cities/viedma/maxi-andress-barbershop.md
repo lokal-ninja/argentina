@@ -1,5 +1,5 @@
 ---
 title: "Maxi Andress barbershop"
 url: /viedma/maxi-andress-barbershop/
-shop: peluquería
+shop: Friseur
 ---

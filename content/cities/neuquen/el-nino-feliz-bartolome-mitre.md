@@ -1,5 +1,5 @@
 ---
 title: "El Niño Feliz"
 url: /neuquen/el-nino-feliz-bartolome-mitre/
-shop: juguetes
+shop: Spielzeug
 ---

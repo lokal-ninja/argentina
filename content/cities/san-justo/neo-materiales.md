@@ -1,5 +1,5 @@
 ---
 title: "Neo Materiales"
 url: /san-justo/neo-materiales/
-shop: comercio
+shop: Baustoffe
 ---

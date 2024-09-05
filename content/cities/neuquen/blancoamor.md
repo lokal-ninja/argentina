@@ -1,5 +1,5 @@
 ---
 title: "Blancoamor"
 url: /neuquen/blancoamor/
-shop: cama
+shop: Betten
 ---

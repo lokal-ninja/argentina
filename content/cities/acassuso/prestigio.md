@@ -1,5 +1,5 @@
 ---
 title: "Prestigio"
 url: /acassuso/prestigio/
-shop: pintura
+shop: Farben
 ---

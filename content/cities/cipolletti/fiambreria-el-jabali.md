@@ -1,5 +1,5 @@
 ---
 title: "Fiambrería El Jabalí"
 url: /cipolletti/fiambreria-el-jabali/
-shop: charcutería
+shop: Feinkost
 ---

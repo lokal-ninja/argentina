@@ -1,5 +1,5 @@
 ---
 title: "Quassia"
 url: /viedma/quassia/
-shop: cosméticos
+shop: Kosmetik
 ---

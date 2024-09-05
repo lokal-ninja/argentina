@@ -1,5 +1,5 @@
 ---
 title: "Merlín"
 url: /viedma/merlin/
-shop: comodidad
+shop: Lebensmittel
 ---

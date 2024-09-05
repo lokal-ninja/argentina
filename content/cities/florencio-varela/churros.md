@@ -1,5 +1,5 @@
 ---
 title: "Churros"
 url: /florencio-varela/churros/
-shop: general
+shop: Allgemein
 ---

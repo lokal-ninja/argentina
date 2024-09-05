@@ -1,5 +1,5 @@
 ---
 title: "Shubox"
 url: /general-san-martin/shubox/
-shop: zapatos
+shop: Schuhe
 ---

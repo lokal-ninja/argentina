@@ -1,5 +1,5 @@
 ---
 title: "Estilo"
 url: /lobos/estilo/
-shop: libros
+shop: Bücher
 ---

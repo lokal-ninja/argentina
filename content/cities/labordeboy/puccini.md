@@ -1,5 +1,5 @@
 ---
 title: "Puccini"
 url: /labordeboy/puccini/
-shop: muebles
+shop: Möbel
 ---

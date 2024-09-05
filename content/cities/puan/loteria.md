@@ -1,5 +1,5 @@
 ---
 title: "Loteria"
 url: /puan/loteria/
-shop: lotería
+shop: Lotterie
 ---

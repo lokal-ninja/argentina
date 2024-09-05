@@ -1,5 +1,5 @@
 ---
 title: "Cotillon Papelera"
 url: /garin/cotillon-papelera/
-shop: regalo
+shop: Andenken
 ---

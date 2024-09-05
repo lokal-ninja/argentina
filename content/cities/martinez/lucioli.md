@@ -1,5 +1,5 @@
 ---
 title: "Lucioli"
 url: /martinez/lucioli/
-shop: zapatos
+shop: Schuhe
 ---

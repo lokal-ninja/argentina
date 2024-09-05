@@ -1,5 +1,5 @@
 ---
 title: "El Paraiso"
 url: /azul/el-paraiso/
-shop: frutería
+shop: Gemüse & Obst
 ---

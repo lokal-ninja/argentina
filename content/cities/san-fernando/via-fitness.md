@@ -1,5 +1,5 @@
 ---
 title: "Via Fitness"
 url: /san-fernando/via-fitness/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amalgama"
 url: /neuquen/amalgama/
-shop: ropa
+shop: Kleidung
 ---

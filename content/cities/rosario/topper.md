@@ -1,5 +1,5 @@
 ---
 title: "Topper"
 url: /rosario/topper/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newbikes"
 url: /ciudad-autonoma-de-buenos-aires/newbikes-monroe/
-shop: bicicleta
+shop: Fahrrad
 ---

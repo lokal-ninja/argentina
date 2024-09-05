@@ -1,5 +1,5 @@
 ---
 title: "Edel Erra"
 url: /ciudad-autonoma-de-buenos-aires/edel-erra/
-shop: ropa
+shop: Kleidung
 ---

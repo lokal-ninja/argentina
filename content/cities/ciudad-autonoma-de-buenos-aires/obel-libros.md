@@ -1,5 +1,5 @@
 ---
 title: "Obel Libros"
 url: /ciudad-autonoma-de-buenos-aires/obel-libros/
-shop: libros
+shop: Bücher
 ---

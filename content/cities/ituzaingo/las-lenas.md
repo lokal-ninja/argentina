@@ -1,5 +1,5 @@
 ---
 title: "Las Leñas"
 url: /ituzaingo/las-lenas/
-shop: frutería
+shop: Gemüse & Obst
 ---

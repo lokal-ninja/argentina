@@ -1,5 +1,5 @@
 ---
 title: "La Boutique"
 url: /cipolletti/la-boutique/
-shop: frutería
+shop: Gemüse & Obst
 ---

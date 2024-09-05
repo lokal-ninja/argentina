@@ -1,5 +1,5 @@
 ---
 title: "Lourdes"
 url: /ciudad-autonoma-de-buenos-aires/lourdes/
-shop: pasta
+shop: Pasta
 ---

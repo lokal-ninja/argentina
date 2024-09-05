@@ -1,5 +1,5 @@
 ---
 title: "Andino Fotografía"
 url: /san-carlos-de-bariloche/andino-fotografia/
-shop: foto
+shop: Foto
 ---

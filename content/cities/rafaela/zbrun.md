@@ -1,5 +1,5 @@
 ---
 title: "Zbrun"
 url: /rafaela/zbrun/
-shop: piezas de automóviles
+shop: Autoteile
 ---

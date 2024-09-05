@@ -1,5 +1,5 @@
 ---
 title: "Cetrohogar"
 url: /rosario/cetrohogar/
-shop: electrónica
+shop: Elektronik
 ---

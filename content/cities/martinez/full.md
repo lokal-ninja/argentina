@@ -1,5 +1,5 @@
 ---
 title: "Full"
 url: /martinez/full/
-shop: comodidad
+shop: Lebensmittel
 ---

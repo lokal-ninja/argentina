@@ -1,5 +1,5 @@
 ---
 title: "Kopiar San Juan"
 url: /san-juan/kopiar-san-juan/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gerlero"
 url: /rosario/gerlero/
-shop: general
+shop: Allgemein
 ---

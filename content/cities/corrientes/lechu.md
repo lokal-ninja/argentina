@@ -1,5 +1,5 @@
 ---
 title: "Lechu"
 url: /corrientes/lechu/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maria Angela"
 url: /ciudad-autonoma-de-buenos-aires/maria-angela/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olivos"
 url: /pergamino/olivos/
-shop: especias
+shop: Gewürze
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Sur"
 url: /cutral-co/distribuidora-sur/
-shop: mayorista
+shop: Großhandel
 ---

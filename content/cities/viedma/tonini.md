@@ -1,5 +1,5 @@
 ---
 title: "Tonini"
 url: /viedma/tonini/
-shop: hardware
+shop: Eisenwaren
 ---

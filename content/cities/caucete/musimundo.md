@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /caucete/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

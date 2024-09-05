@@ -1,5 +1,5 @@
 ---
 title: "Diechi"
 url: /ciudad-autonoma-de-buenos-aires/diechi/
-shop: helado
+shop: Eisprodukte
 ---

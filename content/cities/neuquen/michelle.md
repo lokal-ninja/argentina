@@ -1,5 +1,5 @@
 ---
 title: "Michelle"
 url: /neuquen/michelle/
-shop: peluquería
+shop: Friseur
 ---

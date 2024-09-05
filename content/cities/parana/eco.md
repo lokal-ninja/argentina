@@ -1,5 +1,5 @@
 ---
 title: "ECO"
 url: /parana/eco/
-shop: supermercado
+shop: Supermarkt
 ---

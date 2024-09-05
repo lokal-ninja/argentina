@@ -1,5 +1,5 @@
 ---
 title: "Recicla"
 url: /cipolletti/recicla/
-shop: copyshop
+shop: Kopieren
 ---

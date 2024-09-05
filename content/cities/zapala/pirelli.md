@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /zapala/pirelli/
-shop: neumáticos
+shop: Reifen
 ---

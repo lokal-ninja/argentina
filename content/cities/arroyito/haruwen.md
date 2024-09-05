@@ -1,5 +1,5 @@
 ---
 title: "Haruwen"
 url: /arroyito/haruwen/
-shop: ropa
+shop: Kleidung
 ---

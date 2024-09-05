@@ -1,5 +1,5 @@
 ---
 title: "Bombonetas"
 url: /neuquen/bombonetas/
-shop: ropa
+shop: Kleidung
 ---

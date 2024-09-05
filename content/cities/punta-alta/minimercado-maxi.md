@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Maxi"
 url: /punta-alta/minimercado-maxi/
-shop: comodidad
+shop: Lebensmittel
 ---

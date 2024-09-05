@@ -1,5 +1,5 @@
 ---
 title: "Fratellino"
 url: /cipolletti/fratellino/
-shop: ropa
+shop: Kleidung
 ---

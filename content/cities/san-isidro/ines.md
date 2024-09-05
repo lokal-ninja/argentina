@@ -1,5 +1,5 @@
 ---
 title: "Ines"
 url: /san-isidro/ines/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beijing"
 url: /carlos-casares/beijing/
-shop: supermercado
+shop: Supermarkt
 ---

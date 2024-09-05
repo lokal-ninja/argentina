@@ -1,5 +1,5 @@
 ---
 title: "DAM"
 url: /mendoza/dam/
-shop: instrumento musical
+shop: Instrumente
 ---

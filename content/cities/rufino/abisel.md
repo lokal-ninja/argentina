@@ -1,5 +1,5 @@
 ---
 title: "Abisel"
 url: /rufino/abisel/
-shop: lotería
+shop: Lotterie
 ---

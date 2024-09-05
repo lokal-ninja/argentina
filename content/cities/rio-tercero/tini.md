@@ -1,5 +1,5 @@
 ---
 title: "Tini"
 url: /rio-tercero/tini/
-shop: mayorista
+shop: Großhandel
 ---

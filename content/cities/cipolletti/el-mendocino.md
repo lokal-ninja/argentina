@@ -1,5 +1,5 @@
 ---
 title: "El Mendocino"
 url: /cipolletti/el-mendocino/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imcofue"
 url: /tolhuin/imcofue/
-shop: comercio
+shop: Baustoffe
 ---

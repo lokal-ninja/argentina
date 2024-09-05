@@ -1,5 +1,5 @@
 ---
 title: "Lo Que Hay"
 url: /guamini/lo-que-hay/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cholo Vázquez"
 url: /villa-ballester/cholo-vazquez/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Cesar"
 url: /tandil/peluqueria-cesar/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shunko"
 url: /ciudad-autonoma-de-buenos-aires/shunko/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Constancia"
 url: /la-constancia/la-constancia/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Owoko"
 url: /neuquen/owoko/
-shop: ropa
+shop: Kleidung
 ---

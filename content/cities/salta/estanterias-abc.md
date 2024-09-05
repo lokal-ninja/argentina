@@ -1,5 +1,5 @@
 ---
 title: "estanterias abc"
 url: /salta/estanterias-abc/
-shop: general
+shop: Allgemein
 ---

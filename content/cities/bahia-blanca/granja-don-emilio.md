@@ -1,5 +1,5 @@
 ---
 title: "Granja Don Emilio"
 url: /bahia-blanca/granja-don-emilio/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luz Azul"
 url: /santa-rosa/luz-azul/
-shop: queso
+shop: Käse
 ---

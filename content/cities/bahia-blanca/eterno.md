@@ -1,5 +1,5 @@
 ---
 title: "Eterno"
 url: /bahia-blanca/eterno/
-shop: comodidad
+shop: Lebensmittel
 ---

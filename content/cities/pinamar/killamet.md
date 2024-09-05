@@ -1,5 +1,5 @@
 ---
 title: "Killamet"
 url: /pinamar/killamet/
-shop: motocicleta
+shop: Motorrad
 ---

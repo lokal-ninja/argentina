@@ -1,5 +1,5 @@
 ---
 title: "Motolandia"
 url: /acassuso/motolandia/
-shop: motocicleta
+shop: Motorrad
 ---

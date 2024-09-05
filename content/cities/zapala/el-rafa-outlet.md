@@ -1,5 +1,5 @@
 ---
 title: "El Rafa Outlet"
 url: /zapala/el-rafa-outlet/
-shop: alquiler
+shop: Mieten
 ---

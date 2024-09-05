@@ -1,5 +1,5 @@
 ---
 title: "Haimovich"
 url: /parana/haimovich/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pegamil"
 url: /ciudad-autonoma-de-buenos-aires/pegamil-alvarez-jonte/
-shop: general
+shop: Allgemein
 ---

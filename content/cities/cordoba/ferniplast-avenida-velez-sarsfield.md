@@ -1,5 +1,5 @@
 ---
 title: "Ferniplast"
 url: /cordoba/ferniplast-avenida-velez-sarsfield/
-shop: general
+shop: Allgemein
 ---

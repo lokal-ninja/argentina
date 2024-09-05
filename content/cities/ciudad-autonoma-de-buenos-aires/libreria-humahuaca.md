@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /ciudad-autonoma-de-buenos-aires/libreria-humahuaca/
-shop: libros
+shop: Bücher
 ---

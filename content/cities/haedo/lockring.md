@@ -1,5 +1,5 @@
 ---
 title: "LockRing"
 url: /haedo/lockring/
-shop: bicicleta
+shop: Fahrrad
 ---

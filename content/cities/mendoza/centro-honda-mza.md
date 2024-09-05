@@ -1,5 +1,5 @@
 ---
 title: "Centro Honda Mza"
 url: /mendoza/centro-honda-mza/
-shop: motocicleta
+shop: Motorrad
 ---

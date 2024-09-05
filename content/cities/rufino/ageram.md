@@ -1,5 +1,5 @@
 ---
 title: "Ageram"
 url: /rufino/ageram/
-shop: ropa
+shop: Kleidung
 ---

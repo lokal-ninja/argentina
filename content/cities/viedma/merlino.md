@@ -1,5 +1,5 @@
 ---
 title: "Merlino"
 url: /viedma/merlino/
-shop: aparato
+shop: Haushaltsgeräte
 ---

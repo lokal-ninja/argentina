@@ -1,5 +1,5 @@
 ---
 title: "Loggio"
 url: /concordia/loggio/
-shop: piezas de automóviles
+shop: Autoteile
 ---

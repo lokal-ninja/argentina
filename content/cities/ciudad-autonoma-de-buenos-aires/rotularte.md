@@ -1,5 +1,5 @@
 ---
 title: "RotulArte"
 url: /ciudad-autonoma-de-buenos-aires/rotularte/
-shop: general
+shop: Allgemein
 ---

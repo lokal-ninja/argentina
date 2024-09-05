@@ -1,5 +1,5 @@
 ---
 title: "Alumia"
 url: /cipolletti/alumia/
-shop: comercio
+shop: Baustoffe
 ---

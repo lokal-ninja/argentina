@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /el-calafate/columbia/
-shop: ropa
+shop: Kleidung
 ---

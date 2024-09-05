@@ -1,5 +1,5 @@
 ---
 title: "Like"
 url: /ciudad-autonoma-de-buenos-aires/like/
-shop: comodidad
+shop: Lebensmittel
 ---

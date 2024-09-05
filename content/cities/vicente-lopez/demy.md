@@ -1,5 +1,5 @@
 ---
 title: "Demy"
 url: /vicente-lopez/demy/
-shop: supermercado
+shop: Supermarkt
 ---

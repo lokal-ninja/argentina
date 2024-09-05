@@ -1,5 +1,5 @@
 ---
 title: "Múnich"
 url: /viedma/munich/
-shop: zapatos
+shop: Schuhe
 ---

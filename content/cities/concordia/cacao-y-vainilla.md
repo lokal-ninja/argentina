@@ -1,5 +1,5 @@
 ---
 title: "Cacao y Vainilla"
 url: /concordia/cacao-y-vainilla/
-shop: panadería
+shop: Bäckerei
 ---

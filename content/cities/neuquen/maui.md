@@ -1,5 +1,5 @@
 ---
 title: "Maui"
 url: /neuquen/maui/
-shop: cosméticos
+shop: Kosmetik
 ---

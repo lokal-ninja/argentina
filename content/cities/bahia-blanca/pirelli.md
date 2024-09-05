@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /bahia-blanca/pirelli/
-shop: neumáticos
+shop: Reifen
 ---

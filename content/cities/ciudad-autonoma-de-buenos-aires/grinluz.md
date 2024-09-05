@@ -1,5 +1,5 @@
 ---
 title: "GrinLuz"
 url: /ciudad-autonoma-de-buenos-aires/grinluz/
-shop: general
+shop: Allgemein
 ---

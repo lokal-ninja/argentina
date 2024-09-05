@@ -1,5 +1,5 @@
 ---
 title: "Kofke"
 url: /neuquen/kofke/
-shop: pastelería
+shop: Konditorei
 ---

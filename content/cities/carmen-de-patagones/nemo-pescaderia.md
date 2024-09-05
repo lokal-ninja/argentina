@@ -1,5 +1,5 @@
 ---
 title: "Nemo Pescadería"
 url: /carmen-de-patagones/nemo-pescaderia/
-shop: marisco
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disseño"
 url: /tandil/disseno/
-shop: ropa
+shop: Kleidung
 ---

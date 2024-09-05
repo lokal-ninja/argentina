@@ -1,5 +1,5 @@
 ---
 title: "Supermercados DIA"
 url: /ciudad-autonoma-de-buenos-aires/supermercados-dia/
-shop: supermercado
+shop: Supermarkt
 ---

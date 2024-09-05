@@ -1,5 +1,5 @@
 ---
 title: "Dromo"
 url: /rosario/dromo/
-shop: ropa
+shop: Kleidung
 ---

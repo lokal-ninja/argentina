@@ -1,5 +1,5 @@
 ---
 title: "Compumax"
 url: /cipolletti/compumax/
-shop: ordenador
+shop: Computer
 ---

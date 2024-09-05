@@ -1,5 +1,5 @@
 ---
 title: "Hanna"
 url: /tandil/hanna/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Demarco"
 url: /campana/demarco/
-shop: lotería
+shop: Lotterie
 ---

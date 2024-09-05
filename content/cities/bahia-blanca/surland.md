@@ -1,5 +1,5 @@
 ---
 title: "Surland"
 url: /bahia-blanca/surland/
-shop: agencia de viajes
+shop: Reisebüro
 ---

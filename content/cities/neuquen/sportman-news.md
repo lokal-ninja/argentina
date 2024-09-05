@@ -1,5 +1,5 @@
 ---
 title: "Sportman News"
 url: /neuquen/sportman-news/
-shop: ropa
+shop: Kleidung
 ---

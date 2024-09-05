@@ -1,5 +1,5 @@
 ---
 title: "Full"
 url: /tigre/full/
-shop: comodidad
+shop: Lebensmittel
 ---

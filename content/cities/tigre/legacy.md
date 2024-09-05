@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /tigre/legacy/
-shop: ropa
+shop: Kleidung
 ---

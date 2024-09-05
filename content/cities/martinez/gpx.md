@@ -1,5 +1,5 @@
 ---
 title: "GPX"
 url: /martinez/gpx/
-shop: deportes
+shop: Sport
 ---

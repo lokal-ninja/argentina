@@ -1,5 +1,5 @@
 ---
 title: "Cepillo"
 url: /ciudad-autonoma-de-buenos-aires/cepillo/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /neuquen/stihl/
-shop: hardware
+shop: Eisenwaren
 ---

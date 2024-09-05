@@ -1,5 +1,5 @@
 ---
 title: "Esquel"
 url: /viedma/esquel/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alas"
 url: /jardin-america/alas/
-shop: deportes
+shop: Sport
 ---

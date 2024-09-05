@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /cipolletti/cooperativa-obrera-avenida-mengelle/
-shop: supermercado
+shop: Supermarkt
 ---

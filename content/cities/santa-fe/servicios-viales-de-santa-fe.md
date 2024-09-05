@@ -1,5 +1,5 @@
 ---
 title: "Servicios Viales de Santa Fe"
 url: /santa-fe/servicios-viales-de-santa-fe/
-shop: piezas de automóviles
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Montanari"
 url: /junin/montanari/
-shop: coche
+shop: Autohaus
 ---

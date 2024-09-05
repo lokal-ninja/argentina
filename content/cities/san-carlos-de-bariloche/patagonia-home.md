@@ -1,5 +1,5 @@
 ---
 title: "Patagonia Home"
 url: /san-carlos-de-bariloche/patagonia-home/
-shop: supermercado
+shop: Supermarkt
 ---

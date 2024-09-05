@@ -1,5 +1,5 @@
 ---
 title: "Gran Diosas"
 url: /bahia-blanca/gran-diosas/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "kiosco san expedito"
 url: /profesor-salvador-mazza/kiosco-san-expedito/
-shop: quiosco
+shop: Kiosk
 ---

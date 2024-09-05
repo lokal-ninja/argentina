@@ -1,5 +1,5 @@
 ---
 title: "Kyoto"
 url: /corrientes/kyoto/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colorcril"
 url: /neuquen/colorcril/
-shop: artesanía
+shop: Basteln
 ---

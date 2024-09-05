@@ -1,5 +1,5 @@
 ---
 title: "Despencity"
 url: /ciudad-autonoma-de-buenos-aires/despencity/
-shop: comodidad
+shop: Lebensmittel
 ---

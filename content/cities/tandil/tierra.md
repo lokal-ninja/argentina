@@ -1,5 +1,5 @@
 ---
 title: "Tierra"
 url: /tandil/tierra/
-shop: ropa
+shop: Kleidung
 ---

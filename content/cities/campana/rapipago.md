@@ -1,5 +1,5 @@
 ---
 title: "Rapipago"
 url: /campana/rapipago/
-shop: quiosco
+shop: Kiosk
 ---

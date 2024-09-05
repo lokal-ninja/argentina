@@ -1,5 +1,5 @@
 ---
 title: "Zavalla"
 url: /rufino/zavalla/
-shop: panadería
+shop: Bäckerei
 ---

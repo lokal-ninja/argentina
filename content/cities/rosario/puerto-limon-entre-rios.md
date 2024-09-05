@@ -1,5 +1,5 @@
 ---
 title: "Puerto Limón"
 url: /rosario/puerto-limon-entre-rios/
-shop: comodidad
+shop: Lebensmittel
 ---

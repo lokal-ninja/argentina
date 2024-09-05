@@ -1,5 +1,5 @@
 ---
 title: "Ibikus"
 url: /miramar/ibikus/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /neuquen/claro/
-shop: teléfono móvil
+shop: Handy
 ---

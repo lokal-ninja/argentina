@@ -1,5 +1,5 @@
 ---
 title: "Lavandería La Rotonda"
 url: /acassuso/lavanderia-la-rotonda/
-shop: lavandería
+shop: Wäscherei
 ---

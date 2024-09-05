@@ -1,5 +1,5 @@
 ---
 title: "Barú"
 url: /franck/baru/
-shop: supermercado
+shop: Supermarkt
 ---

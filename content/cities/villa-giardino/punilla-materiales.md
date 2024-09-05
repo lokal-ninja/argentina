@@ -1,5 +1,5 @@
 ---
 title: "Punilla Materiales"
 url: /villa-giardino/punilla-materiales/
-shop: comercio
+shop: Baustoffe
 ---

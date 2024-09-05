@@ -1,5 +1,5 @@
 ---
 title: "Sunshine"
 url: /llavallol/sunshine/
-shop: supermercado
+shop: Supermarkt
 ---

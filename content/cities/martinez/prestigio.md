@@ -1,5 +1,5 @@
 ---
 title: "Prestigio"
 url: /martinez/prestigio/
-shop: pintura
+shop: Farben
 ---

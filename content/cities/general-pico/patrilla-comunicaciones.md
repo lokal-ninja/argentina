@@ -1,5 +1,5 @@
 ---
 title: "Patrilla Comunicaciones"
 url: /general-pico/patrilla-comunicaciones/
-shop: ordenador
+shop: Computer
 ---

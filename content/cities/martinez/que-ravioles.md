@@ -1,5 +1,5 @@
 ---
 title: "¡Qué Ravioles!"
 url: /martinez/que-ravioles/
-shop: pasta
+shop: Pasta
 ---

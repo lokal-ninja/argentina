@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /san-carlos-de-bariloche/mitsubishi/
-shop: coche
+shop: Autohaus
 ---

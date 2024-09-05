@@ -1,5 +1,5 @@
 ---
 title: "Yenny"
 url: /martinez/yenny/
-shop: libros
+shop: Bücher
 ---

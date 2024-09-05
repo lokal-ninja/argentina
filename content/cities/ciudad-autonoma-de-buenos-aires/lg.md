@@ -1,5 +1,5 @@
 ---
 title: "LG"
 url: /ciudad-autonoma-de-buenos-aires/lg/
-shop: electrónica
+shop: Elektronik
 ---

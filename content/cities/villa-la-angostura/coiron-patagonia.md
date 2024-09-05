@@ -1,5 +1,5 @@
 ---
 title: "Coirón Patagonia"
 url: /villa-la-angostura/coiron-patagonia/
-shop: ropa
+shop: Kleidung
 ---

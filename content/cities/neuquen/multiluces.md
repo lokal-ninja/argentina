@@ -1,5 +1,5 @@
 ---
 title: "Multiluces"
 url: /neuquen/multiluces/
-shop: pirotecnia
+shop: Pyrotechnik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /marcos-paz/almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

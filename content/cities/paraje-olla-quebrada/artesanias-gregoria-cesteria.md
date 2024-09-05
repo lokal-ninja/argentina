@@ -1,5 +1,5 @@
 ---
 title: "Artesanias Gregoria Cesteria"
 url: /paraje-olla-quebrada/artesanias-gregoria-cesteria/
-shop: artesanía
+shop: Basteln
 ---

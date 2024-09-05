@@ -1,5 +1,5 @@
 ---
 title: "Ceccini"
 url: /rosario/ceccini/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

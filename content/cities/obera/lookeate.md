@@ -1,5 +1,5 @@
 ---
 title: "Lookeate"
 url: /obera/lookeate/
-shop: peluquería
+shop: Friseur
 ---

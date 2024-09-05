@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /trelew/goodyear/
-shop: neumáticos
+shop: Reifen
 ---

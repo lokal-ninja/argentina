@@ -1,5 +1,5 @@
 ---
 title: "Pesca Camping"
 url: /olivos/pesca-camping/
-shop: exterior
+shop: Outdoor
 ---

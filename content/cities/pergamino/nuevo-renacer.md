@@ -1,5 +1,5 @@
 ---
 title: "Nuevo Renacer"
 url: /pergamino/nuevo-renacer/
-shop: supermercado
+shop: Supermarkt
 ---

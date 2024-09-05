@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /trelew/michelin/
-shop: neumáticos
+shop: Reifen
 ---

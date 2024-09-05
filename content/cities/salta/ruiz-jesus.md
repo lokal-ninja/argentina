@@ -1,5 +1,5 @@
 ---
 title: "Ruiz Jesús"
 url: /salta/ruiz-jesus/
-shop: comodidad
+shop: Lebensmittel
 ---

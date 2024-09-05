@@ -1,5 +1,5 @@
 ---
 title: "Quesos Don Cándido"
 url: /santa-rosa/quesos-don-candido/
-shop: queso
+shop: Käse
 ---

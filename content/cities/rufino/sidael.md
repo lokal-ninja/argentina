@@ -1,5 +1,5 @@
 ---
 title: "Sidael"
 url: /rufino/sidael/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /cutral-co/ford/
-shop: coche
+shop: Autohaus
 ---

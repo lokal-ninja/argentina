@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos La Rotonda"
 url: /plaza-huincul/neumaticos-la-rotonda/
-shop: neumáticos
+shop: Reifen
 ---

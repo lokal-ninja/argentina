@@ -1,5 +1,5 @@
 ---
 title: "Indelec"
 url: /beccar/indelec/
-shop: general
+shop: Allgemein
 ---

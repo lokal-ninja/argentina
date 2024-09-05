@@ -1,5 +1,5 @@
 ---
 title: "Taurus"
 url: /obera/taurus/
-shop: cama
+shop: Betten
 ---

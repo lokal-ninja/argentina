@@ -1,5 +1,5 @@
 ---
 title: "Cheeky"
 url: /bahia-blanca/cheeky/
-shop: ropa
+shop: Kleidung
 ---

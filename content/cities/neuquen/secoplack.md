@@ -1,5 +1,5 @@
 ---
 title: "Secoplack"
 url: /neuquen/secoplack/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfredo"
 url: /ciudad-autonoma-de-buenos-aires/alfredo/
-shop: comodidad
+shop: Lebensmittel
 ---

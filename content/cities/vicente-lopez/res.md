@@ -1,5 +1,5 @@
 ---
 title: "RES"
 url: /vicente-lopez/res/
-shop: carnicero
+shop: Metzgerei
 ---

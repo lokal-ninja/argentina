@@ -1,5 +1,5 @@
 ---
 title: "Marea de Las Grutas"
 url: /las-grutas/marea-de-las-grutas/
-shop: general
+shop: Allgemein
 ---

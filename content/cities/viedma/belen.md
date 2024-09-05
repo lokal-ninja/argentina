@@ -1,5 +1,5 @@
 ---
 title: "Belén"
 url: /viedma/belen/
-shop: frutería
+shop: Gemüse & Obst
 ---

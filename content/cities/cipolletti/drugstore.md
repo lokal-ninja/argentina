@@ -1,5 +1,5 @@
 ---
 title: "Drugstore"
 url: /cipolletti/drugstore/
-shop: artesanía
+shop: Basteln
 ---

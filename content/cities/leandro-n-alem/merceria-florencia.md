@@ -1,5 +1,5 @@
 ---
 title: "Mercería Florencia"
 url: /leandro-n-alem/merceria-florencia/
-shop: coser
+shop: Nähzubehör
 ---

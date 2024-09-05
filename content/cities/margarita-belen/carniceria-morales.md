@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Morales"
 url: /margarita-belen/carniceria-morales/
-shop: comodidad
+shop: Lebensmittel
 ---

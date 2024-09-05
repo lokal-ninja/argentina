@@ -1,5 +1,5 @@
 ---
 title: "Draco"
 url: /viedma/draco/
-shop: ropa
+shop: Kleidung
 ---

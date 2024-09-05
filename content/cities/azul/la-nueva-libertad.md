@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Libertad"
 url: /azul/la-nueva-libertad/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reno"
 url: /martinez/reno/
-shop: cocina
+shop: Küchen
 ---

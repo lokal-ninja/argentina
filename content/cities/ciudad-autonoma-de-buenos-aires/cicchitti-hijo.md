@@ -1,5 +1,5 @@
 ---
 title: "Cicchitti Hijo"
 url: /ciudad-autonoma-de-buenos-aires/cicchitti-hijo/
-shop: agente inmobiliario
+shop: Immobilien
 ---

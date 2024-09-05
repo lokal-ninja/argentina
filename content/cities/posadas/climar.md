@@ -1,5 +1,5 @@
 ---
 title: "Climar"
 url: /posadas/climar/
-shop: general
+shop: Allgemein
 ---

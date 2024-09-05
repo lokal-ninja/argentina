@@ -1,5 +1,5 @@
 ---
 title: "La Antigua Época"
 url: /villa-ballester/la-antigua-epoca/
-shop: panadería
+shop: Bäckerei
 ---

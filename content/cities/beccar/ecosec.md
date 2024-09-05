@@ -1,5 +1,5 @@
 ---
 title: "Ecosec"
 url: /beccar/ecosec/
-shop: lavandería
+shop: Wäscherei
 ---

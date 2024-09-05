@@ -1,5 +1,5 @@
 ---
 title: "Frida"
 url: /neuquen/frida/
-shop: peluquería
+shop: Friseur
 ---

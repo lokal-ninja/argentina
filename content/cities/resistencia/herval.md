@@ -1,5 +1,5 @@
 ---
 title: "Herval"
 url: /resistencia/herval/
-shop: ropa
+shop: Kleidung
 ---

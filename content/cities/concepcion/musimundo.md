@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /concepcion/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

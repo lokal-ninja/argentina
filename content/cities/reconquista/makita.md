@@ -1,5 +1,5 @@
 ---
 title: "Makita"
 url: /reconquista/makita/
-shop: eléctrico
+shop: Elektrisch
 ---

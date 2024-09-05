@@ -1,5 +1,5 @@
 ---
 title: "Belleza"
 url: /cipolletti/belleza/
-shop: cosméticos
+shop: Kosmetik
 ---

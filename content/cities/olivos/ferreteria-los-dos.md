@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Los Dos"
 url: /olivos/ferreteria-los-dos/
-shop: hardware
+shop: Eisenwaren
 ---

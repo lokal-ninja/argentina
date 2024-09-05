@@ -1,5 +1,5 @@
 ---
 title: "Nebulizador Service"
 url: /ciudad-autonoma-de-buenos-aires/nebulizador-service/
-shop: suministros médicos
+shop: Sanitätshaus
 ---

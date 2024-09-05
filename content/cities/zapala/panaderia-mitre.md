@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mitre"
 url: /zapala/panaderia-mitre/
-shop: panadería
+shop: Bäckerei
 ---

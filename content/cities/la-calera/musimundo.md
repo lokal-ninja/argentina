@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /la-calera/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

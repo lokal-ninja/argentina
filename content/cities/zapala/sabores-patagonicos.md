@@ -1,5 +1,5 @@
 ---
 title: "Sabores Patagónicos"
 url: /zapala/sabores-patagonicos/
-shop: pastelería
+shop: Konditorei
 ---

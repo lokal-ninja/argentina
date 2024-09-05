@@ -1,5 +1,5 @@
 ---
 title: "Purpurina"
 url: /campana/purpurina/
-shop: ropa
+shop: Kleidung
 ---

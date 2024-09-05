@@ -1,5 +1,5 @@
 ---
 title: "Autógrafo"
 url: /bahia-blanca/autografo/
-shop: ropa
+shop: Kleidung
 ---

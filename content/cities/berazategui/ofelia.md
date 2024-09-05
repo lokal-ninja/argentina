@@ -1,5 +1,5 @@
 ---
 title: "Ofelia"
 url: /berazategui/ofelia/
-shop: general
+shop: Allgemein
 ---

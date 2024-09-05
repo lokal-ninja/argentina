@@ -1,5 +1,5 @@
 ---
 title: "Automotores LH"
 url: /ranchos/automotores-lh/
-shop: coche
+shop: Autohaus
 ---

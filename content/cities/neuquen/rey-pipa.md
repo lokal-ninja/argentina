@@ -1,5 +1,5 @@
 ---
 title: "Rey Pipa"
 url: /neuquen/rey-pipa/
-shop: tabaco
+shop: Tabak
 ---

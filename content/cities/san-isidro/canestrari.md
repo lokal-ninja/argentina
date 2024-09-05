@@ -1,5 +1,5 @@
 ---
 title: "Canestrari"
 url: /san-isidro/canestrari/
-shop: barco
+shop: Boot
 ---

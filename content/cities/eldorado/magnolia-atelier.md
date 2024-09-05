@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Atelier"
 url: /eldorado/magnolia-atelier/
-shop: general
+shop: Allgemein
 ---

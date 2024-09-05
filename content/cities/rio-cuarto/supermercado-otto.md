@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Otto"
 url: /rio-cuarto/supermercado-otto/
-shop: supermercado
+shop: Supermarkt
 ---

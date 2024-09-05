@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /bragado/dia/
-shop: supermercado
+shop: Supermarkt
 ---

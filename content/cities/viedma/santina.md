@@ -1,5 +1,5 @@
 ---
 title: "Santina"
 url: /viedma/santina/
-shop: ropa
+shop: Kleidung
 ---

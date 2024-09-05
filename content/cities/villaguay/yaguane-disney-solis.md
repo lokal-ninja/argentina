@@ -1,5 +1,5 @@
 ---
 title: "Yaguane Disney"
 url: /villaguay/yaguane-disney-solis/
-shop: supermercado
+shop: Supermarkt
 ---

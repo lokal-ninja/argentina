@@ -1,5 +1,5 @@
 ---
 title: "Craken"
 url: /rufino/craken/
-shop: ropa
+shop: Kleidung
 ---

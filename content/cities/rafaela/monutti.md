@@ -1,5 +1,5 @@
 ---
 title: "Monutti"
 url: /rafaela/monutti/
-shop: quiosco
+shop: Zeitungen
 ---

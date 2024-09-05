@@ -1,5 +1,5 @@
 ---
 title: "Testa"
 url: /pergamino/testa/
-shop: neumáticos
+shop: Reifen
 ---

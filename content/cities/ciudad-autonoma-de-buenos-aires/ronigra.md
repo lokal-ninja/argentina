@@ -1,5 +1,5 @@
 ---
 title: "Ronigra"
 url: /ciudad-autonoma-de-buenos-aires/ronigra/
-shop: neumáticos
+shop: Reifen
 ---

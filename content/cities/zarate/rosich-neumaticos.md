@@ -1,5 +1,5 @@
 ---
 title: "Rosich Neumáticos"
 url: /zarate/rosich-neumaticos/
-shop: neumáticos
+shop: Reifen
 ---

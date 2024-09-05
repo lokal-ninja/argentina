@@ -1,5 +1,5 @@
 ---
 title: "Brava"
 url: /ciudad-autonoma-de-buenos-aires/brava/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Termas"
 url: /federacion/termas/
-shop: supermercado
+shop: Supermarkt
 ---

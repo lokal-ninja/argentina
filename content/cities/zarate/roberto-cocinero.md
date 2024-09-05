@@ -1,5 +1,5 @@
 ---
 title: "Roberto Cocinero"
 url: /zarate/roberto-cocinero/
-shop: charcutería
+shop: Feinkost
 ---

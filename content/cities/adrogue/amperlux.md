@@ -1,5 +1,5 @@
 ---
 title: "Amperlux"
 url: /adrogue/amperlux/
-shop: eléctrico
+shop: Elektrisch
 ---

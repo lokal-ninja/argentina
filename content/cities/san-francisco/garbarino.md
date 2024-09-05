@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /san-francisco/garbarino/
-shop: electrónica
+shop: Elektronik
 ---

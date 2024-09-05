@@ -1,5 +1,5 @@
 ---
 title: "Kuchaski"
 url: /aristobulo-del-valle/kuchaski/
-shop: muebles
+shop: Möbel
 ---

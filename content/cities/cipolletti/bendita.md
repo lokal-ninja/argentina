@@ -1,5 +1,5 @@
 ---
 title: "Bendita"
 url: /cipolletti/bendita/
-shop: ropa
+shop: Kleidung
 ---

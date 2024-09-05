@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /tandil/ford/
-shop: coche
+shop: Autohaus
 ---

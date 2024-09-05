@@ -1,5 +1,5 @@
 ---
 title: "Delfin"
 url: /villa-la-bolsa/delfin/
-shop: supermercado
+shop: Supermarkt
 ---

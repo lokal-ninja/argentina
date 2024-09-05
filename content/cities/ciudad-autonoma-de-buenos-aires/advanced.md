@@ -1,5 +1,5 @@
 ---
 title: "Advanced"
 url: /ciudad-autonoma-de-buenos-aires/advanced/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aglobal"
 url: /cipolletti/aglobal/
-shop: ropa
+shop: Kleidung
 ---

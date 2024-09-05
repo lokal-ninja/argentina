@@ -1,5 +1,5 @@
 ---
 title: "ITParaná"
 url: /parana/itparana/
-shop: ordenador
+shop: Computer
 ---

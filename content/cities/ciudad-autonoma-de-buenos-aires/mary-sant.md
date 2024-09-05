@@ -1,5 +1,5 @@
 ---
 title: "Mary Sant"
 url: /ciudad-autonoma-de-buenos-aires/mary-sant/
-shop: perfumería
+shop: Parfümerie
 ---

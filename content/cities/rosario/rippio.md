@@ -1,5 +1,5 @@
 ---
 title: "Rippio"
 url: /rosario/rippio/
-shop: bicicleta
+shop: Fahrrad
 ---

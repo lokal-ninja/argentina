@@ -1,5 +1,5 @@
 ---
 title: "Agencia 406"
 url: /obera/agencia-406/
-shop: lotería
+shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guido TenisPro"
 url: /ciudad-autonoma-de-buenos-aires/guido-tenispro/
-shop: deportes
+shop: Sport
 ---

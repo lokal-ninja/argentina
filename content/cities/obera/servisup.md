@@ -1,5 +1,5 @@
 ---
 title: "Servisup"
 url: /obera/servisup/
-shop: electrónica
+shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fachas"
 url: /neuquen/fachas/
-shop: peluquería
+shop: Friseur
 ---

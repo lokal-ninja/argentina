@@ -1,5 +1,5 @@
 ---
 title: "Planet Honda"
 url: /belen-de-escobar/planet-honda/
-shop: motocicleta
+shop: Motorrad
 ---

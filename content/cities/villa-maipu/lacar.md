@@ -1,5 +1,5 @@
 ---
 title: "Lacar"
 url: /villa-maipu/lacar/
-shop: seguridad
+shop: Sicherheit
 ---

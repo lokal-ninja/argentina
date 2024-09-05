@@ -1,5 +1,5 @@
 ---
 title: "Autoservice Pons"
 url: /pampa-de-los-guanacos/autoservice-pons/
-shop: comodidad
+shop: Lebensmittel
 ---

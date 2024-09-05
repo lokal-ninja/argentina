@@ -1,5 +1,5 @@
 ---
 title: "MEGACartridge"
 url: /azul/megacartridge/
-shop: ordenador
+shop: Computer
 ---

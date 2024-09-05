@@ -1,5 +1,5 @@
 ---
 title: "+Electrónica"
 url: /bahia-blanca/electronica/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grisino"
 url: /neuquen/grisino/
-shop: ropa
+shop: Kleidung
 ---

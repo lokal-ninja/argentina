@@ -1,5 +1,5 @@
 ---
 title: "Maxiconsumo"
 url: /azul/maxiconsumo/
-shop: mayorista
+shop: Großhandel
 ---

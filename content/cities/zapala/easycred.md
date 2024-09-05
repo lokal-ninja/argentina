@@ -1,5 +1,5 @@
 ---
 title: "Easycred"
 url: /zapala/easycred/
-shop: prestamista
+shop: Leiher
 ---

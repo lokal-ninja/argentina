@@ -1,5 +1,5 @@
 ---
 title: "Biló"
 url: /lobos/bilo/
-shop: panadería
+shop: Bäckerei
 ---

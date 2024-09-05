@@ -1,5 +1,5 @@
 ---
 title: "Premiar"
 url: /neuquen/premiar/
-shop: trofeo
+shop: Pokal
 ---

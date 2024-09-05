@@ -1,5 +1,5 @@
 ---
 title: "Mercado Central San Martin"
 url: /general-san-martin/mercado-central-san-martin/
-shop: frutería
+shop: Gemüse & Obst
 ---

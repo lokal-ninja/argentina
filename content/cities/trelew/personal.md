@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /trelew/personal/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autochapa"
 url: /santa-fe/autochapa/
-shop: piezas de automóviles
+shop: Autoteile
 ---

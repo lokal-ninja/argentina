@@ -1,5 +1,5 @@
 ---
 title: "Electrotrevi"
 url: /olivos/electrotrevi/
-shop: eléctrico
+shop: Elektrisch
 ---

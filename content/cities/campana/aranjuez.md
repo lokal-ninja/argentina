@@ -1,5 +1,5 @@
 ---
 title: "Aranjuez"
 url: /campana/aranjuez/
-shop: panadería
+shop: Bäckerei
 ---

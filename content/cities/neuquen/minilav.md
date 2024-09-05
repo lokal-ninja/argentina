@@ -1,5 +1,5 @@
 ---
 title: "Minilav"
 url: /neuquen/minilav/
-shop: lavandería
+shop: Wäscherei
 ---

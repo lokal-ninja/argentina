@@ -1,5 +1,5 @@
 ---
 title: "Marand´s Instrumentos Musicales"
 url: /lobos/marand-s-instrumentos-musicales/
-shop: instrumento musical
+shop: Instrumente
 ---

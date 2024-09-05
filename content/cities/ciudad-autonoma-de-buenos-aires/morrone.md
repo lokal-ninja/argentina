@@ -1,5 +1,5 @@
 ---
 title: "Morrone"
 url: /ciudad-autonoma-de-buenos-aires/morrone/
-shop: general
+shop: Allgemein
 ---

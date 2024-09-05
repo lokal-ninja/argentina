@@ -1,5 +1,5 @@
 ---
 title: "Anastasia"
 url: /humberto-primo/anastasia/
-shop: ropa
+shop: Kleidung
 ---

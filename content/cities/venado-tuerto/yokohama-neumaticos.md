@@ -1,5 +1,5 @@
 ---
 title: "Yokohama Neumáticos"
 url: /venado-tuerto/yokohama-neumaticos/
-shop: neumáticos
+shop: Reifen
 ---

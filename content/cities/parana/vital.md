@@ -1,5 +1,5 @@
 ---
 title: "Vital"
 url: /parana/vital/
-shop: carnicero
+shop: Metzgerei
 ---

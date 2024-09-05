@@ -1,5 +1,5 @@
 ---
 title: "Disco"
 url: /cosquin/disco/
-shop: supermercado
+shop: Supermarkt
 ---

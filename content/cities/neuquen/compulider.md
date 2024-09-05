@@ -1,5 +1,5 @@
 ---
 title: "Compulider"
 url: /neuquen/compulider/
-shop: electrónica
+shop: Elektronik
 ---

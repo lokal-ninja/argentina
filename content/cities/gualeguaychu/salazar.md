@@ -1,5 +1,5 @@
 ---
 title: "Salazar"
 url: /gualeguaychu/salazar/
-shop: general
+shop: Allgemein
 ---

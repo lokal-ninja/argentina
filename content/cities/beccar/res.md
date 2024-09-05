@@ -1,5 +1,5 @@
 ---
 title: "RES"
 url: /beccar/res/
-shop: carnicero
+shop: Metzgerei
 ---

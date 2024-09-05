@@ -1,5 +1,5 @@
 ---
 title: "Modul Glass"
 url: /rosario/modul-glass/
-shop: muebles
+shop: Möbel
 ---

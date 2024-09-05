@@ -1,5 +1,5 @@
 ---
 title: "Morella"
 url: /cordoba/morella/
-shop: zapatos
+shop: Schuhe
 ---

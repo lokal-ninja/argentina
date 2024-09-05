@@ -1,5 +1,5 @@
 ---
 title: "fama music"
 url: /ciudad-autonoma-de-buenos-aires/fama-music/
-shop: instrumento musical
+shop: Instrumente
 ---

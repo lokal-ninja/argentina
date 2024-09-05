@@ -1,5 +1,5 @@
 ---
 title: "Ver"
 url: /rosario/ver/
-shop: ropa
+shop: Kleidung
 ---

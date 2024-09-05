@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio"
 url: /sunchales/autoservicio/
-shop: general
+shop: Allgemein
 ---

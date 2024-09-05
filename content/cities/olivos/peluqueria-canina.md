@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Canina"
 url: /olivos/peluqueria-canina/
-shop: mascotas
+shop: Tiere
 ---

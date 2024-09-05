@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /san-carlos-de-bariloche/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

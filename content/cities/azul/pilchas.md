@@ -1,5 +1,5 @@
 ---
 title: "Pilchas"
 url: /azul/pilchas/
-shop: ropa
+shop: Kleidung
 ---

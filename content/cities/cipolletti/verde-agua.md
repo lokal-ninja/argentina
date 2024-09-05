@@ -1,5 +1,5 @@
 ---
 title: "Verde Agua"
 url: /cipolletti/verde-agua/
-shop: ropa
+shop: Kleidung
 ---

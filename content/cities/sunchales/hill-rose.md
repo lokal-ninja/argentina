@@ -1,5 +1,5 @@
 ---
 title: "Hill Rose"
 url: /sunchales/hill-rose/
-shop: ropa
+shop: Kleidung
 ---

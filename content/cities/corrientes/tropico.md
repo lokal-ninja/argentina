@@ -1,5 +1,5 @@
 ---
 title: "Trópico"
 url: /corrientes/tropico/
-shop: ropa
+shop: Kleidung
 ---

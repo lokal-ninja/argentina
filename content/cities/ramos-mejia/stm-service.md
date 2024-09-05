@@ -1,5 +1,5 @@
 ---
 title: "STM Service"
 url: /ramos-mejia/stm-service/
-shop: general
+shop: Allgemein
 ---

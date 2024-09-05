@@ -1,5 +1,5 @@
 ---
 title: "Electronica Picheto"
 url: /carlos-casares/electronica-picheto/
-shop: electrónica
+shop: Elektronik
 ---

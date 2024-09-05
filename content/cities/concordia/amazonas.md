@@ -1,5 +1,5 @@
 ---
 title: "Amazonas"
 url: /concordia/amazonas/
-shop: herbolario
+shop: Kräuter
 ---

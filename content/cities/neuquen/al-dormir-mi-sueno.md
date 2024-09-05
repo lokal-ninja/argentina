@@ -1,5 +1,5 @@
 ---
 title: "Al Dormir Mi Sueño"
 url: /neuquen/al-dormir-mi-sueno/
-shop: muebles
+shop: Möbel
 ---

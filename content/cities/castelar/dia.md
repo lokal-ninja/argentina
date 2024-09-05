@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /castelar/dia/
-shop: supermercado
+shop: Supermarkt
 ---

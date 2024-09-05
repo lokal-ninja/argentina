@@ -1,5 +1,5 @@
 ---
 title: "Bohemia"
 url: /galvez/bohemia/
-shop: ropa
+shop: Kleidung
 ---

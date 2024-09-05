@@ -1,5 +1,5 @@
 ---
 title: "DistriHogar"
 url: /campana/distrihogar/
-shop: electrónica
+shop: Elektronik
 ---

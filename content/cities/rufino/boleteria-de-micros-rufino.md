@@ -1,5 +1,5 @@
 ---
 title: "Boletería de micros - Rufino"
 url: /rufino/boleteria-de-micros-rufino/
-shop: entradas
+shop: Tickets
 ---

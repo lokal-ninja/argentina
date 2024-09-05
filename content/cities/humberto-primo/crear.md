@@ -1,5 +1,5 @@
 ---
 title: "Crear"
 url: /humberto-primo/crear/
-shop: decoración interior
+shop: Raumausstattung
 ---

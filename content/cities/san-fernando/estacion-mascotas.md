@@ -1,5 +1,5 @@
 ---
 title: "Estación Mascotas"
 url: /san-fernando/estacion-mascotas/
-shop: mascotas
+shop: Tiere
 ---

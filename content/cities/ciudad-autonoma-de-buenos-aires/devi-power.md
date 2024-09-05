@@ -1,5 +1,5 @@
 ---
 title: "Devi Power"
 url: /ciudad-autonoma-de-buenos-aires/devi-power/
-shop: peluquería
+shop: Friseur
 ---

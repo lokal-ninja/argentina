@@ -1,5 +1,5 @@
 ---
 title: "Aguirrezabala"
 url: /rivera/aguirrezabala/
-shop: muebles
+shop: Möbel
 ---

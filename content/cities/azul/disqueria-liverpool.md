@@ -1,5 +1,5 @@
 ---
 title: "Disquería Liverpool"
 url: /azul/disqueria-liverpool/
-shop: música
+shop: Musik
 ---

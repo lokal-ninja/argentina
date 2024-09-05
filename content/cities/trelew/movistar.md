@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /trelew/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

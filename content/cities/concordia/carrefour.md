@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /concordia/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

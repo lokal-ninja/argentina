@@ -1,5 +1,5 @@
 ---
 title: "Renovar"
 url: /general-alvear/renovar/
-shop: muebles
+shop: Möbel
 ---

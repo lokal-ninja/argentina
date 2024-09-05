@@ -1,5 +1,5 @@
 ---
 title: "Morydi"
 url: /alta-gracia/morydi/
-shop: libros
+shop: Bücher
 ---

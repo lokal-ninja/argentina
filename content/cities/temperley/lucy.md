@@ -1,5 +1,5 @@
 ---
 title: "Lucy"
 url: /temperley/lucy/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wanama"
 url: /neuquen/wanama/
-shop: ropa
+shop: Kleidung
 ---

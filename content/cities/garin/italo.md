@@ -1,5 +1,5 @@
 ---
 title: "italo"
 url: /garin/italo/
-shop: libros
+shop: Bücher
 ---

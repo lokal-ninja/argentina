@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /rufino/shell/
-shop: comodidad
+shop: Lebensmittel
 ---

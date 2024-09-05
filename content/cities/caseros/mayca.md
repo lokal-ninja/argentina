@@ -1,5 +1,5 @@
 ---
 title: "Mayca"
 url: /caseros/mayca/
-shop: supermercado
+shop: Supermarkt
 ---

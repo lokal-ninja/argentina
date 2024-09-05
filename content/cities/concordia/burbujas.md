@@ -1,5 +1,5 @@
 ---
 title: "Burbujas"
 url: /concordia/burbujas/
-shop: perfumería
+shop: Parfümerie
 ---

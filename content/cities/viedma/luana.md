@@ -1,5 +1,5 @@
 ---
 title: "Luana"
 url: /viedma/luana/
-shop: ropa
+shop: Kleidung
 ---

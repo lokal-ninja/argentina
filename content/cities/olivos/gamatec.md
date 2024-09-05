@@ -1,5 +1,5 @@
 ---
 title: "Gamatec"
 url: /olivos/gamatec/
-shop: muebles
+shop: Möbel
 ---

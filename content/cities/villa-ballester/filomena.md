@@ -1,5 +1,5 @@
 ---
 title: "Filomena"
 url: /villa-ballester/filomena/
-shop: ropa
+shop: Kleidung
 ---

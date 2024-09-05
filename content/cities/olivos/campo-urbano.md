@@ -1,5 +1,5 @@
 ---
 title: "Campo Urbano"
 url: /olivos/campo-urbano/
-shop: frutería
+shop: Gemüse & Obst
 ---

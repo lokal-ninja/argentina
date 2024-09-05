@@ -1,5 +1,5 @@
 ---
 title: "Supercentro"
 url: /viale/supercentro/
-shop: supermercado
+shop: Supermarkt
 ---

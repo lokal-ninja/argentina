@@ -1,5 +1,5 @@
 ---
 title: "Almafuerte"
 url: /ciudad-autonoma-de-buenos-aires/almafuerte/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega Sports Factory"
 url: /villa-ballester/mega-sports-factory/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piazza"
 url: /viedma/piazza/
-shop: motocicleta
+shop: Motorrad
 ---

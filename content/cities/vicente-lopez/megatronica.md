@@ -1,5 +1,5 @@
 ---
 title: "Megatrónica"
 url: /vicente-lopez/megatronica/
-shop: electrónica
+shop: Elektronik
 ---

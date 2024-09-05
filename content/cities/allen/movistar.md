@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /allen/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

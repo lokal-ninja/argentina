@@ -1,5 +1,5 @@
 ---
 title: "Lavadero Avenida"
 url: /villa-gesell/lavadero-avenida/
-shop: lavandería
+shop: Wäscherei
 ---

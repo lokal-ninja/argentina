@@ -1,5 +1,5 @@
 ---
 title: "MiPC"
 url: /concordia/mipc/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Fazzolari"
 url: /santa-fe/casa-fazzolari/
-shop: bicicleta
+shop: Fahrrad
 ---

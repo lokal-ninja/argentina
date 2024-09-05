@@ -1,5 +1,5 @@
 ---
 title: "Dulcitodo"
 url: /cutral-co/dulcitodo/
-shop: confitería
+shop: Süßwaren
 ---

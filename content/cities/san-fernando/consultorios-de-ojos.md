@@ -1,5 +1,5 @@
 ---
 title: "Consultorios de Ojos"
 url: /san-fernando/consultorios-de-ojos/
-shop: óptico
+shop: Optiker
 ---

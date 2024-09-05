@@ -1,5 +1,5 @@
 ---
 title: "PrestaCash"
 url: /neuquen/prestacash/
-shop: prestamista
+shop: Leiher
 ---

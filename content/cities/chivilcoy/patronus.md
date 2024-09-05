@@ -1,5 +1,5 @@
 ---
 title: "Patronus"
 url: /chivilcoy/patronus/
-shop: colector
+shop: Sammler
 ---

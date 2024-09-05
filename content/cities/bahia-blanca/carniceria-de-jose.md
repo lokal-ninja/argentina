@@ -1,5 +1,5 @@
 ---
 title: "Carnicería de José"
 url: /bahia-blanca/carniceria-de-jose/
-shop: carnicero
+shop: Metzgerei
 ---

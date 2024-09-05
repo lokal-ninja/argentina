@@ -1,5 +1,5 @@
 ---
 title: "Ropa Infantil - Baez"
 url: /cerro-azul/ropa-infantil-baez/
-shop: ropa
+shop: Kleidung
 ---

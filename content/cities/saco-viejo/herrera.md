@@ -1,5 +1,5 @@
 ---
 title: "Herrera"
 url: /saco-viejo/herrera/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /rufino/familia/
-shop: carnicero
+shop: Metzgerei
 ---

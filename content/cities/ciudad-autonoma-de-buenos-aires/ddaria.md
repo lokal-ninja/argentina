@@ -1,5 +1,5 @@
 ---
 title: "D'Daría"
 url: /ciudad-autonoma-de-buenos-aires/ddaria/
-shop: pintura
+shop: Farben
 ---

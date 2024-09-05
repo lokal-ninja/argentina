@@ -1,5 +1,5 @@
 ---
 title: "Axion"
 url: /villa-ballester/axion/
-shop: comodidad
+shop: Lebensmittel
 ---

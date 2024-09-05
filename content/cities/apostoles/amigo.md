@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /apostoles/amigo/
-shop: supermercado
+shop: Supermarkt
 ---

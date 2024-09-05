@@ -1,5 +1,5 @@
 ---
 title: "Jauja"
 url: /el-bolson/jauja/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
 url: /rosario/laundry/
-shop: ropa
+shop: Kleidung
 ---

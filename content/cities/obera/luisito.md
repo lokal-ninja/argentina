@@ -1,5 +1,5 @@
 ---
 title: "Luisito"
 url: /obera/luisito/
-shop: muebles
+shop: Möbel
 ---

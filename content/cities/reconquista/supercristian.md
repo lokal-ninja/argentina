@@ -1,5 +1,5 @@
 ---
 title: "Supercristian"
 url: /reconquista/supercristian/
-shop: supermercado
+shop: Supermarkt
 ---

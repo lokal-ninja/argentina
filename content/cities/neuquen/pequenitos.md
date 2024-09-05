@@ -1,5 +1,5 @@
 ---
 title: "Pequeñitos"
 url: /neuquen/pequenitos/
-shop: ropa
+shop: Kleidung
 ---

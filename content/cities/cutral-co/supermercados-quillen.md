@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Quillén"
 url: /cutral-co/supermercados-quillen/
-shop: supermercado
+shop: Supermarkt
 ---

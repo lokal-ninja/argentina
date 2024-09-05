@@ -1,5 +1,5 @@
 ---
 title: "Deseada"
 url: /neuquen/deseada/
-shop: ropa
+shop: Kleidung
 ---

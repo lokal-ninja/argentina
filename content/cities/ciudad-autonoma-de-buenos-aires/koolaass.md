@@ -1,5 +1,5 @@
 ---
 title: "Koolaass"
 url: /ciudad-autonoma-de-buenos-aires/koolaass/
-shop: ropa
+shop: Kleidung
 ---

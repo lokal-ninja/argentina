@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Mercantiles"
 url: /neuquen/ferreteria-mercantiles/
-shop: hardware
+shop: Eisenwaren
 ---

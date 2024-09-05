@@ -1,5 +1,5 @@
 ---
 title: "Baretta"
 url: /florida/baretta/
-shop: pintura
+shop: Farben
 ---

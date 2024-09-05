@@ -1,5 +1,5 @@
 ---
 title: "Tahina"
 url: /neuquen/tahina/
-shop: ropa
+shop: Kleidung
 ---

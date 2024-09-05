@@ -1,5 +1,5 @@
 ---
 title: "La Fotto"
 url: /bahia-blanca/la-fotto/
-shop: electrónica
+shop: Elektronik
 ---

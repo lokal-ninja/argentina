@@ -1,5 +1,5 @@
 ---
 title: "Limansky"
 url: /cipolletti/limansky/
-shop: cama
+shop: Betten
 ---

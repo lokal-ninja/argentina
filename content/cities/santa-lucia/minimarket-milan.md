@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Milán"
 url: /santa-lucia/minimarket-milan/
-shop: comodidad
+shop: Lebensmittel
 ---

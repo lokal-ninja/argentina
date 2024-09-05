@@ -1,5 +1,5 @@
 ---
 title: "Probattery"
 url: /ciudad-autonoma-de-buenos-aires/probattery/
-shop: eléctrico
+shop: Elektrisch
 ---

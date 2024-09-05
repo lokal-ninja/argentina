@@ -1,5 +1,5 @@
 ---
 title: "Laverap"
 url: /martinez/laverap/
-shop: lavandería
+shop: Wäscherei
 ---

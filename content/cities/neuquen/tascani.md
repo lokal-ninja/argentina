@@ -1,5 +1,5 @@
 ---
 title: "Tascani"
 url: /neuquen/tascani/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FerriMac"
 url: /viedma/ferrimac/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magali"
 url: /ciudad-autonoma-de-buenos-aires/magali/
-shop: frutería
+shop: Gemüse & Obst
 ---

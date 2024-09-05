@@ -1,5 +1,5 @@
 ---
 title: "El Rural"
 url: /santa-lucia/el-rural/
-shop: muebles
+shop: Möbel
 ---

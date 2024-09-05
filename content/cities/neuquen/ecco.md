@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /neuquen/ecco/
-shop: ropa
+shop: Kleidung
 ---

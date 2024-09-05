@@ -1,5 +1,5 @@
 ---
 title: "Mamá Chacha"
 url: /lopez/mama-chacha/
-shop: comodidad
+shop: Lebensmittel
 ---

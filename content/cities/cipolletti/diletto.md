@@ -1,5 +1,5 @@
 ---
 title: "Diletto"
 url: /cipolletti/diletto/
-shop: panadería
+shop: Bäckerei
 ---

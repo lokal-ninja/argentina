@@ -1,5 +1,5 @@
 ---
 title: "Hidromor"
 url: /billinghurst/hidromor/
-shop: comercio
+shop: Baustoffe
 ---

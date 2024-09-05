@@ -1,5 +1,5 @@
 ---
 title: "Gutierrez"
 url: /pehuajo/gutierrez/
-shop: supermercado
+shop: Supermarkt
 ---

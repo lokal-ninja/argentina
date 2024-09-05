@@ -1,5 +1,5 @@
 ---
 title: "Modica (Honda)"
 url: /mendoza/modica-honda/
-shop: motocicleta
+shop: Motorrad
 ---

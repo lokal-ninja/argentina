@@ -1,5 +1,5 @@
 ---
 title: "Electrocity"
 url: /trelew/electrocity/
-shop: eléctrico
+shop: Elektrisch
 ---

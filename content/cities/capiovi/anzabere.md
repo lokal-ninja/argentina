@@ -1,5 +1,5 @@
 ---
 title: "Anzábere"
 url: /capiovi/anzabere/
-shop: artesanía
+shop: Basteln
 ---

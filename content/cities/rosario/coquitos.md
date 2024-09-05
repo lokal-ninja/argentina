@@ -1,5 +1,5 @@
 ---
 title: "Coquitos"
 url: /rosario/coquitos/
-shop: comodidad
+shop: Lebensmittel
 ---

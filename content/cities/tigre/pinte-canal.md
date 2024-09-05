@@ -1,5 +1,5 @@
 ---
 title: "Pinte Canal"
 url: /tigre/pinte-canal/
-shop: pintura
+shop: Farben
 ---

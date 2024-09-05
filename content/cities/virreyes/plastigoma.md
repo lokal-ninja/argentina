@@ -1,5 +1,5 @@
 ---
 title: "Plastigoma"
 url: /virreyes/plastigoma/
-shop: tela
+shop: Textil
 ---

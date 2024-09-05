@@ -1,5 +1,5 @@
 ---
 title: "Tea Connection"
 url: /ciudad-autonoma-de-buenos-aires/tea-connection-echeverria/
-shop: té
+shop: Tee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Poulet"
 url: /villa-giardino/le-poulet/
-shop: general
+shop: Allgemein
 ---

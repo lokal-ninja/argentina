@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Trompis"
 url: /salto-encantado/autoservicio-trompis/
-shop: comodidad
+shop: Lebensmittel
 ---

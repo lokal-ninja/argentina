@@ -1,5 +1,5 @@
 ---
 title: "Politas"
 url: /isidro-casanova/politas/
-shop: general
+shop: Allgemein
 ---

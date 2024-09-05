@@ -1,5 +1,5 @@
 ---
 title: "Jalona"
 url: /obera/jalona/
-shop: ropa
+shop: Kleidung
 ---

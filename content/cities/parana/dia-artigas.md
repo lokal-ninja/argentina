@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /parana/dia-artigas/
-shop: supermercado
+shop: Supermarkt
 ---

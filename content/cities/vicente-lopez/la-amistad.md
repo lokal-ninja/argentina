@@ -1,5 +1,5 @@
 ---
 title: "La Amistad"
 url: /vicente-lopez/la-amistad/
-shop: frutería
+shop: Gemüse & Obst
 ---

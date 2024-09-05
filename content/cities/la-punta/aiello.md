@@ -1,5 +1,5 @@
 ---
 title: "Aiello"
 url: /la-punta/aiello/
-shop: supermercado
+shop: Supermarkt
 ---

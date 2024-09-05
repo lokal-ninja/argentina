@@ -1,5 +1,5 @@
 ---
 title: "Puppis"
 url: /martinez/puppis/
-shop: mascotas
+shop: Tiere
 ---

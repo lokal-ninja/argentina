@@ -1,5 +1,5 @@
 ---
 title: "Bauducco Materiales"
 url: /rufino/bauducco-materiales/
-shop: general
+shop: Allgemein
 ---

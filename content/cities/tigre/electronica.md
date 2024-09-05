@@ -1,5 +1,5 @@
 ---
 title: "Electronica"
 url: /tigre/electronica/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doña Palta"
 url: /chivilcoy/dona-palta/
-shop: frutería
+shop: Gemüse & Obst
 ---

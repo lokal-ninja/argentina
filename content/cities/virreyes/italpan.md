@@ -1,5 +1,5 @@
 ---
 title: "Italpan"
 url: /virreyes/italpan/
-shop: panadería
+shop: Bäckerei
 ---

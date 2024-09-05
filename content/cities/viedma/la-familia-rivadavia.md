@@ -1,5 +1,5 @@
 ---
 title: "La Familia"
 url: /viedma/la-familia-rivadavia/
-shop: mayorista
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belen"
 url: /ciudad-autonoma-de-buenos-aires/belen/
-shop: general
+shop: Allgemein
 ---

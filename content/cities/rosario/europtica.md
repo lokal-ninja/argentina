@@ -1,5 +1,5 @@
 ---
 title: "Europtica"
 url: /rosario/europtica/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springwall"
 url: /martinez/springwall/
-shop: cama
+shop: Betten
 ---

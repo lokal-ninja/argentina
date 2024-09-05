@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /rio-gallegos/lacoste/
-shop: ropa
+shop: Kleidung
 ---

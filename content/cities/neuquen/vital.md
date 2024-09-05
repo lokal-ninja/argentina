@@ -1,5 +1,5 @@
 ---
 title: "Vital"
 url: /neuquen/vital/
-shop: mayorista
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Tonel"
 url: /cipolletti/el-tonel/
-shop: vino
+shop: Wein
 ---

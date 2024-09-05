@@ -1,5 +1,5 @@
 ---
 title: "Boutique Chuciro"
 url: /ciudad-autonoma-de-buenos-aires/boutique-chuciro/
-shop: ropa
+shop: Kleidung
 ---

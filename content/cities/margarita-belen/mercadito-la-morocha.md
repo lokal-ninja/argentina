@@ -1,5 +1,5 @@
 ---
 title: "Mercadito la morocha"
 url: /margarita-belen/mercadito-la-morocha/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terium"
 url: /colon/terium/
-shop: hardware
+shop: Eisenwaren
 ---

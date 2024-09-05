@@ -1,5 +1,5 @@
 ---
 title: "C´ardes Perfumes"
 url: /neuquen/c-ardes-perfumes/
-shop: perfumería
+shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Illuminato Estudio"
 url: /la-lucila/illuminato-estudio/
-shop: tatuaje
+shop: Tattoo
 ---

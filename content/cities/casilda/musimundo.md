@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /casilda/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

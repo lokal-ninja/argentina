@@ -1,5 +1,5 @@
 ---
 title: "Sabry"
 url: /eldorado/sabry/
-shop: ropa
+shop: Kleidung
 ---

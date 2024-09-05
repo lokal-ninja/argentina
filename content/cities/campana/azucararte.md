@@ -1,5 +1,5 @@
 ---
 title: "Azucararte"
 url: /campana/azucararte/
-shop: general
+shop: Allgemein
 ---

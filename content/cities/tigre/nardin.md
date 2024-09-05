@@ -1,5 +1,5 @@
 ---
 title: "Nardin"
 url: /tigre/nardin/
-shop: general
+shop: Allgemein
 ---

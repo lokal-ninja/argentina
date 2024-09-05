@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /general-roca/honda/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jean Cartier Hogar"
 url: /neuquen/jean-cartier-hogar/
-shop: general
+shop: Allgemein
 ---

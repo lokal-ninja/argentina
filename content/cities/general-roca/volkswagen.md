@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /general-roca/volkswagen/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sin Tabú"
 url: /cipolletti/sin-tabu/
-shop: erótico
+shop: Erotik
 ---

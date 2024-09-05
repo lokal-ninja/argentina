@@ -1,5 +1,5 @@
 ---
 title: "Quita Penas"
 url: /villa-ballester/quita-penas/
-shop: ropa
+shop: Kleidung
 ---

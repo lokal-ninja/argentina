@@ -1,5 +1,5 @@
 ---
 title: "Chorizo"
 url: /ciudad-autonoma-de-buenos-aires/chorizo/
-shop: carnicero
+shop: Metzgerei
 ---

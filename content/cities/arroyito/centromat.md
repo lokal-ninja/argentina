@@ -1,5 +1,5 @@
 ---
 title: "Centromat"
 url: /arroyito/centromat/
-shop: comercio
+shop: Baustoffe
 ---

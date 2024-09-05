@@ -1,5 +1,5 @@
 ---
 title: "Shiva"
 url: /viedma/shiva/
-shop: ropa
+shop: Kleidung
 ---

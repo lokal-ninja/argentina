@@ -1,5 +1,5 @@
 ---
 title: "los hermanos"
 url: /corrientes/los-hermanos/
-shop: alimentación sana
+shop: Bioladen
 ---

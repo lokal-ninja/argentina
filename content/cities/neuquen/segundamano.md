@@ -1,5 +1,5 @@
 ---
 title: "SegundaMano"
 url: /neuquen/segundamano/
-shop: caridad
+shop: Gebrauchtwaren
 ---

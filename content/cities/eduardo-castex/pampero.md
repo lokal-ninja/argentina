@@ -1,5 +1,5 @@
 ---
 title: "Pampero"
 url: /eduardo-castex/pampero/
-shop: ropa
+shop: Kleidung
 ---

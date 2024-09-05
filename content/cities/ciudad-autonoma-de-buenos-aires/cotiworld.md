@@ -1,5 +1,5 @@
 ---
 title: "Cotiworld"
 url: /ciudad-autonoma-de-buenos-aires/cotiworld/
-shop: fiesta
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daniel"
 url: /ramos-mejia/daniel/
-shop: carnicero
+shop: Metzgerei
 ---

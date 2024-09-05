@@ -1,5 +1,5 @@
 ---
 title: "Estilo Came"
 url: /posadas/estilo-came/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Imperio"
 url: /ciudad-autonoma-de-buenos-aires/el-imperio/
-shop: general
+shop: Allgemein
 ---

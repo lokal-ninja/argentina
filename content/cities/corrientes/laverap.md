@@ -1,5 +1,5 @@
 ---
 title: "Laverap"
 url: /corrientes/laverap/
-shop: lavandería
+shop: Wäscherei
 ---

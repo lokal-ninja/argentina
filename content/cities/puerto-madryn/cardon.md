@@ -1,5 +1,5 @@
 ---
 title: "Cardón"
 url: /puerto-madryn/cardon/
-shop: ropa
+shop: Kleidung
 ---

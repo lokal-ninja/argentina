@@ -1,5 +1,5 @@
 ---
 title: "Caficho"
 url: /margarita-belen/caficho/
-shop: zapatos
+shop: Schuhe
 ---

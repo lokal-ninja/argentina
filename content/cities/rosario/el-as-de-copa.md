@@ -1,5 +1,5 @@
 ---
 title: "El As de Copa"
 url: /rosario/el-as-de-copa/
-shop: ropa
+shop: Kleidung
 ---

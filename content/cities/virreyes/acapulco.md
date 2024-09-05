@@ -1,5 +1,5 @@
 ---
 title: "Acapulco"
 url: /virreyes/acapulco/
-shop: motocicleta
+shop: Motorrad
 ---

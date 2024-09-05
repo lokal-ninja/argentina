@@ -1,5 +1,5 @@
 ---
 title: "Arlette"
 url: /martinez/arlette/
-shop: decoración interior
+shop: Raumausstattung
 ---

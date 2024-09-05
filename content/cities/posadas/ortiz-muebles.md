@@ -1,5 +1,5 @@
 ---
 title: "Ortíz Muebles"
 url: /posadas/ortiz-muebles/
-shop: muebles
+shop: Möbel
 ---

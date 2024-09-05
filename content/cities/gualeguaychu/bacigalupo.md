@@ -1,5 +1,5 @@
 ---
 title: "Bacigalupo"
 url: /gualeguaychu/bacigalupo/
-shop: frutería
+shop: Gemüse & Obst
 ---

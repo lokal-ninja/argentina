@@ -1,5 +1,5 @@
 ---
 title: "El Mundo del Jogging"
 url: /cipolletti/el-mundo-del-jogging/
-shop: ropa
+shop: Kleidung
 ---

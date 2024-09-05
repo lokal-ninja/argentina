@@ -1,5 +1,5 @@
 ---
 title: "Jelagro"
 url: /villa-maria/jelagro/
-shop: agraria
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /ciudad-autonoma-de-buenos-aires/toyota/
-shop: coche
+shop: Autohaus
 ---

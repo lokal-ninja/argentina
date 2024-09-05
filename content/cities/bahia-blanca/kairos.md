@@ -1,5 +1,5 @@
 ---
 title: "Kairos"
 url: /bahia-blanca/kairos/
-shop: panadería
+shop: Bäckerei
 ---

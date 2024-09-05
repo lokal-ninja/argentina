@@ -1,5 +1,5 @@
 ---
 title: "Maradona"
 url: /tigre/maradona/
-shop: coche
+shop: Autohaus
 ---

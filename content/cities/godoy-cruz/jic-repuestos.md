@@ -1,5 +1,5 @@
 ---
 title: "JIC Repuestos"
 url: /godoy-cruz/jic-repuestos/
-shop: motocicleta
+shop: Motorrad
 ---

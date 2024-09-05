@@ -1,5 +1,5 @@
 ---
 title: "Ansilta"
 url: /neuquen/ansilta-avenida-doctor-luis-ramon/
-shop: exterior
+shop: Outdoor
 ---

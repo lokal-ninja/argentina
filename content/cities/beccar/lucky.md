@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /beccar/lucky/
-shop: mascotas
+shop: Tiere
 ---

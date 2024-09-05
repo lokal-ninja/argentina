@@ -1,5 +1,5 @@
 ---
 title: "Librería San Jose"
 url: /alvear/libreria-san-jose/
-shop: libros
+shop: Bücher
 ---

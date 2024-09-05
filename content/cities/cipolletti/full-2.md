@@ -1,5 +1,5 @@
 ---
 title: "Full"
 url: /cipolletti/full-2/
-shop: comodidad
+shop: Lebensmittel
 ---

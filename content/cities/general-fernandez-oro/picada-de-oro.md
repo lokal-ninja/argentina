@@ -1,5 +1,5 @@
 ---
 title: "Picada de Oro"
 url: /general-fernandez-oro/picada-de-oro/
-shop: charcutería
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raul Monje"
 url: /alvear/raul-monje/
-shop: peluquería
+shop: Friseur
 ---

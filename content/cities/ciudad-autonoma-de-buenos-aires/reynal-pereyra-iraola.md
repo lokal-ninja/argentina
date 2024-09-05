@@ -1,5 +1,5 @@
 ---
 title: "Reynal Pereyra Iraola"
 url: /ciudad-autonoma-de-buenos-aires/reynal-pereyra-iraola/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

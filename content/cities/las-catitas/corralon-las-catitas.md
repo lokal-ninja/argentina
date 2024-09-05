@@ -1,5 +1,5 @@
 ---
 title: "Corralón Las Catitas"
 url: /las-catitas/corralon-las-catitas/
-shop: comercio
+shop: Baustoffe
 ---

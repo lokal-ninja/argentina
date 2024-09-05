@@ -1,5 +1,5 @@
 ---
 title: "Dunlop"
 url: /neuquen/dunlop/
-shop: neumáticos
+shop: Reifen
 ---

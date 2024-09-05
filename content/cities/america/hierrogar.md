@@ -1,5 +1,5 @@
 ---
 title: "Hierrogar"
 url: /america/hierrogar/
-shop: hardware
+shop: Eisenwaren
 ---

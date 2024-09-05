@@ -1,5 +1,5 @@
 ---
 title: "Emmanuelle"
 url: /virreyes/emmanuelle/
-shop: zapatos
+shop: Schuhe
 ---

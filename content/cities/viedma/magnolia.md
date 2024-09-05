@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /viedma/magnolia/
-shop: regalo
+shop: Andenken
 ---

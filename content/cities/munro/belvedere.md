@@ -1,5 +1,5 @@
 ---
 title: "Belvedere"
 url: /munro/belvedere/
-shop: ropa
+shop: Kleidung
 ---

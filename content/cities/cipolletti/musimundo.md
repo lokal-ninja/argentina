@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /cipolletti/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

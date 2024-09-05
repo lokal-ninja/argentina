@@ -1,5 +1,5 @@
 ---
 title: "Pioppo"
 url: /ciudad-autonoma-de-buenos-aires/pioppo/
-shop: muebles
+shop: Möbel
 ---

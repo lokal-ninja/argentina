@@ -1,5 +1,5 @@
 ---
 title: "La Gallega"
 url: /rosario/la-gallega-manuel-dorrego/
-shop: supermercado
+shop: Supermarkt
 ---

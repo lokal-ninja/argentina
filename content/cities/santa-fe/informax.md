@@ -1,5 +1,5 @@
 ---
 title: "Informax"
 url: /santa-fe/informax/
-shop: ordenador
+shop: Computer
 ---

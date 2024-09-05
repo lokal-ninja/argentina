@@ -1,5 +1,5 @@
 ---
 title: "CrediPaz"
 url: /campana/credipaz/
-shop: general
+shop: Allgemein
 ---

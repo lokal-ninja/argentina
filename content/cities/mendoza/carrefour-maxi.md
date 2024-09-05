@@ -1,5 +1,5 @@
 ---
 title: "Carrefour MAXI"
 url: /mendoza/carrefour-maxi/
-shop: supermercado
+shop: Supermarkt
 ---

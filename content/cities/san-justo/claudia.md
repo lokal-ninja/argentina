@@ -1,5 +1,5 @@
 ---
 title: "Claudia"
 url: /san-justo/claudia/
-shop: comodidad
+shop: Lebensmittel
 ---

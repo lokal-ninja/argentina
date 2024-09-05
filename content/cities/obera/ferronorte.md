@@ -1,5 +1,5 @@
 ---
 title: "Ferronorte"
 url: /obera/ferronorte/
-shop: hardware
+shop: Eisenwaren
 ---

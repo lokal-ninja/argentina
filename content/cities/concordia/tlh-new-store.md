@@ -1,5 +1,5 @@
 ---
 title: "TLH New Store"
 url: /concordia/tlh-new-store/
-shop: ropa
+shop: Kleidung
 ---

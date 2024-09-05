@@ -1,5 +1,5 @@
 ---
 title: "Quimtex Express"
 url: /cipolletti/quimtex-express/
-shop: pintura
+shop: Farben
 ---

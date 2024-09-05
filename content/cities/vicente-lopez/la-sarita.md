@@ -1,5 +1,5 @@
 ---
 title: "La Sarita"
 url: /vicente-lopez/la-sarita/
-shop: pasta
+shop: Pasta
 ---

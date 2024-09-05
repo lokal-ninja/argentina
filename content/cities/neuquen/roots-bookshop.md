@@ -1,5 +1,5 @@
 ---
 title: "Roots Bookshop"
 url: /neuquen/roots-bookshop/
-shop: libros
+shop: Bücher
 ---

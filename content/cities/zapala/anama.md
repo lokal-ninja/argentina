@@ -1,5 +1,5 @@
 ---
 title: "Anamá"
 url: /zapala/anama/
-shop: cosméticos
+shop: Kosmetik
 ---

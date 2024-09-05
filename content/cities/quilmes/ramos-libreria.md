@@ -1,5 +1,5 @@
 ---
 title: "Ramos Librería"
 url: /quilmes/ramos-libreria/
-shop: libros
+shop: Bücher
 ---

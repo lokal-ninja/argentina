@@ -1,5 +1,5 @@
 ---
 title: "Spazio Per Voi"
 url: /ciudad-autonoma-de-buenos-aires/spazio-per-voi/
-shop: peluquería
+shop: Friseur
 ---

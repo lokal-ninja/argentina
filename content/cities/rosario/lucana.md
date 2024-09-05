@@ -1,5 +1,5 @@
 ---
 title: "Lucana"
 url: /rosario/lucana/
-shop: panadería
+shop: Bäckerei
 ---

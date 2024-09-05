@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /mendoza/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

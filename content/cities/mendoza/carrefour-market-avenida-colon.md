@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /mendoza/carrefour-market-avenida-colon/
-shop: supermercado
+shop: Supermarkt
 ---

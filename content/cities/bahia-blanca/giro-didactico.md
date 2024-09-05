@@ -1,5 +1,5 @@
 ---
 title: "Giro Didáctico"
 url: /bahia-blanca/giro-didactico/
-shop: juguetes
+shop: Spielzeug
 ---

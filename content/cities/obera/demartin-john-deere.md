@@ -1,5 +1,5 @@
 ---
 title: "Demartin - John Deere"
 url: /obera/demartin-john-deere/
-shop: coche
+shop: Autohaus
 ---

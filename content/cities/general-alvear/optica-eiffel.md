@@ -1,5 +1,5 @@
 ---
 title: "Óptica Eiffel"
 url: /general-alvear/optica-eiffel/
-shop: óptico
+shop: Optiker
 ---

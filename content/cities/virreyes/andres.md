@@ -1,5 +1,5 @@
 ---
 title: "Andres"
 url: /virreyes/andres/
-shop: juguetes
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joker"
 url: /san-isidro/joker/
-shop: copyshop
+shop: Kopieren
 ---

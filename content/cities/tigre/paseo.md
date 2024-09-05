@@ -1,5 +1,5 @@
 ---
 title: "Paseo"
 url: /tigre/paseo/
-shop: general
+shop: Allgemein
 ---

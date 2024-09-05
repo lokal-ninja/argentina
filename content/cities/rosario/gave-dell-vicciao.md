@@ -1,5 +1,5 @@
 ---
 title: "Gave Dell Vicciao"
 url: /rosario/gave-dell-vicciao/
-shop: ropa
+shop: Kleidung
 ---

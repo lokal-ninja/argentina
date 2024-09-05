@@ -1,5 +1,5 @@
 ---
 title: "Maxi Kiosco"
 url: /virreyes/maxi-kiosco/
-shop: comodidad
+shop: Lebensmittel
 ---

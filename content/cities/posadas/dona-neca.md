@@ -1,5 +1,5 @@
 ---
 title: "Doña Ñeca"
 url: /posadas/dona-neca/
-shop: frutería
+shop: Gemüse & Obst
 ---

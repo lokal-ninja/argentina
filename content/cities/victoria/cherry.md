@@ -1,5 +1,5 @@
 ---
 title: "Cherry"
 url: /victoria/cherry/
-shop: frutería
+shop: Gemüse & Obst
 ---

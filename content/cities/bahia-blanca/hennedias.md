@@ -1,5 +1,5 @@
 ---
 title: "Hennedias"
 url: /bahia-blanca/hennedias/
-shop: joyería
+shop: Schmuck
 ---

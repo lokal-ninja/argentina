@@ -1,5 +1,5 @@
 ---
 title: "La pinocha"
 url: /ciudad-autonoma-de-buenos-aires/la-pinocha-avenida-pueyrredon/
-shop: confitería
+shop: Süßwaren
 ---

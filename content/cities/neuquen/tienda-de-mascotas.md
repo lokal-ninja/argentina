@@ -1,5 +1,5 @@
 ---
 title: "Tienda de Mascotas"
 url: /neuquen/tienda-de-mascotas/
-shop: mascotas
+shop: Tiere
 ---

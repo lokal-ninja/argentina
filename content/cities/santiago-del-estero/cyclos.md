@@ -1,5 +1,5 @@
 ---
 title: "Cyclos"
 url: /santiago-del-estero/cyclos/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TeraByte"
 url: /campana/terabyte/
-shop: ordenador
+shop: Computer
 ---

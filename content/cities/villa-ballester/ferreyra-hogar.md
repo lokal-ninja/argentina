@@ -1,5 +1,5 @@
 ---
 title: "Ferreyra Hogar"
 url: /villa-ballester/ferreyra-hogar/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

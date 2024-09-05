@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Pepe"
 url: /san-jose/kiosco-pepe/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enchufados"
 url: /leones/enchufados/
-shop: electrónica
+shop: Elektronik
 ---

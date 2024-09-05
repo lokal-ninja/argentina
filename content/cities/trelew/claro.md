@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /trelew/claro/
-shop: teléfono móvil
+shop: Handy
 ---

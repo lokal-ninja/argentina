@@ -1,5 +1,5 @@
 ---
 title: "Azulejos Tortuguitas"
 url: /tortuguitas/azulejos-tortuguitas/
-shop: baldosas
+shop: Fliesen
 ---

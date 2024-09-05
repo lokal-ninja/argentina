@@ -1,5 +1,5 @@
 ---
 title: "Infante"
 url: /bahia-blanca/infante/
-shop: bicicleta
+shop: Fahrrad
 ---

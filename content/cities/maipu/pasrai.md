@@ -1,5 +1,5 @@
 ---
 title: "Pasrai"
 url: /maipu/pasrai/
-shop: supermercado
+shop: Supermarkt
 ---

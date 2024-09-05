@@ -1,5 +1,5 @@
 ---
 title: "Panamer"
 url: /victoria/panamer/
-shop: coche
+shop: Autohaus
 ---

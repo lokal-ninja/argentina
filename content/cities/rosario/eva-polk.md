@@ -1,5 +1,5 @@
 ---
 title: "Eva Polk"
 url: /rosario/eva-polk/
-shop: ropa
+shop: Kleidung
 ---

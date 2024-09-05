@@ -1,5 +1,5 @@
 ---
 title: "Lucy"
 url: /ciudad-autonoma-de-buenos-aires/lucy/
-shop: comodidad
+shop: Lebensmittel
 ---

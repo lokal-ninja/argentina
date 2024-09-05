@@ -1,5 +1,5 @@
 ---
 title: "Oleana"
 url: /ciudad-autonoma-de-buenos-aires/oleana/
-shop: joyería
+shop: Schmuck
 ---

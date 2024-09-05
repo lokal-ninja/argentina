@@ -1,5 +1,5 @@
 ---
 title: "Berelec"
 url: /ciudad-autonoma-de-buenos-aires/berelec/
-shop: lámparas
+shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alcaluz"
 url: /ciudad-autonoma-de-buenos-aires/alcaluz/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feliza"
 url: /neuquen/feliza/
-shop: ropa
+shop: Kleidung
 ---

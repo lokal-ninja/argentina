@@ -1,5 +1,5 @@
 ---
 title: "D-visionet"
 url: /corrientes/d-visionet/
-shop: cámara
+shop: Kamera
 ---

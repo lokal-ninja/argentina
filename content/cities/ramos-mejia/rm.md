@@ -1,5 +1,5 @@
 ---
 title: "RM"
 url: /ramos-mejia/rm/
-shop: muebles
+shop: Möbel
 ---

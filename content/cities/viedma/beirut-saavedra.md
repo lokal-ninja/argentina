@@ -1,5 +1,5 @@
 ---
 title: "Beirut"
 url: /viedma/beirut-saavedra/
-shop: ropa
+shop: Kleidung
 ---

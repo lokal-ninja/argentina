@@ -1,5 +1,5 @@
 ---
 title: "Dermocosmética"
 url: /rosario/dermocosmetica/
-shop: cosméticos
+shop: Kosmetik
 ---

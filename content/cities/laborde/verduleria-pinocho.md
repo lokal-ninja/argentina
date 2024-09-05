@@ -1,5 +1,5 @@
 ---
 title: "Verduleria pinocho"
 url: /laborde/verduleria-pinocho/
-shop: frutería
+shop: Gemüse & Obst
 ---

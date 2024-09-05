@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /posadas/makro/
-shop: mayorista
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gizeh"
 url: /victoria/gizeh/
-shop: quiosco
+shop: Kiosk
 ---

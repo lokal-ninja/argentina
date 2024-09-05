@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /campana/kiosk/
-shop: comodidad
+shop: Lebensmittel
 ---

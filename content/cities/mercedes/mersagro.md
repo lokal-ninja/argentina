@@ -1,5 +1,5 @@
 ---
 title: "Mersagro"
 url: /mercedes/mersagro/
-shop: agraria
+shop: Landwirtschaftlich
 ---

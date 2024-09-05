@@ -1,5 +1,5 @@
 ---
 title: "iStore"
 url: /cipolletti/istore/
-shop: electrónica
+shop: Elektronik
 ---

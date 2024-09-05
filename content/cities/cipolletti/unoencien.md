@@ -1,5 +1,5 @@
 ---
 title: "UnoEnCien"
 url: /cipolletti/unoencien/
-shop: copyshop
+shop: Kopieren
 ---

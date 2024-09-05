@@ -1,5 +1,5 @@
 ---
 title: "Guapas"
 url: /cipolletti/guapas/
-shop: cosméticos
+shop: Kosmetik
 ---

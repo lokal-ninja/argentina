@@ -1,5 +1,5 @@
 ---
 title: "Almacén Brambilla"
 url: /monte-caseros/almacen-brambilla/
-shop: supermercado
+shop: Supermarkt
 ---

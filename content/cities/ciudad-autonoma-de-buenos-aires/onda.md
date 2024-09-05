@@ -1,5 +1,5 @@
 ---
 title: "Onda"
 url: /ciudad-autonoma-de-buenos-aires/onda/
-shop: zapatos
+shop: Schuhe
 ---

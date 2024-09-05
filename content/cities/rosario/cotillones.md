@@ -1,5 +1,5 @@
 ---
 title: "Cotillones"
 url: /rosario/cotillones/
-shop: fiesta
+shop: Partyzubehör
 ---

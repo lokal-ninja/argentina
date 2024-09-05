@@ -1,5 +1,5 @@
 ---
 title: "Piquillín"
 url: /viedma/piquillin/
-shop: vino
+shop: Wein
 ---

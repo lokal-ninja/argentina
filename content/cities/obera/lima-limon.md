@@ -1,5 +1,5 @@
 ---
 title: "Lima Limón"
 url: /obera/lima-limon/
-shop: ropa
+shop: Kleidung
 ---

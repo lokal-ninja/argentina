@@ -1,5 +1,5 @@
 ---
 title: "Pampero"
 url: /concordia/pampero/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ojitos"
 url: /virreyes/ojitos/
-shop: ropa
+shop: Kleidung
 ---

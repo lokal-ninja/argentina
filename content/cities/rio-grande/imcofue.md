@@ -1,5 +1,5 @@
 ---
 title: "Imcofue"
 url: /rio-grande/imcofue/
-shop: comercio
+shop: Baustoffe
 ---

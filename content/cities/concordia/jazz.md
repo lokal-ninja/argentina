@@ -1,5 +1,5 @@
 ---
 title: "Jazz"
 url: /concordia/jazz/
-shop: peluquería
+shop: Friseur
 ---

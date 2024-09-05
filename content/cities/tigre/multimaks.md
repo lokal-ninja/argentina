@@ -1,5 +1,5 @@
 ---
 title: "Multimaks"
 url: /tigre/multimaks/
-shop: hardware
+shop: Eisenwaren
 ---

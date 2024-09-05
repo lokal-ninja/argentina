@@ -1,5 +1,5 @@
 ---
 title: "Suple Mento"
 url: /ciudad-autonoma-de-buenos-aires/suple-mento/
-shop: general
+shop: Allgemein
 ---

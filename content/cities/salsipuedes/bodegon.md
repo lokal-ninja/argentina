@@ -1,5 +1,5 @@
 ---
 title: "Bodegón"
 url: /salsipuedes/bodegon/
-shop: vino
+shop: Wein
 ---

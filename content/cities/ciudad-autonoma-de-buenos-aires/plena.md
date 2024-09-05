@@ -1,5 +1,5 @@
 ---
 title: ",Plena"
 url: /ciudad-autonoma-de-buenos-aires/plena/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferremundo SRL"
 url: /corrientes/ferremundo-srl/
-shop: hardware
+shop: Eisenwaren
 ---

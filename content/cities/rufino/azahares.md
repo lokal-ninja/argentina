@@ -1,5 +1,5 @@
 ---
 title: "Azahares"
 url: /rufino/azahares/
-shop: zapatos
+shop: Schuhe
 ---

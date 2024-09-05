@@ -1,5 +1,5 @@
 ---
 title: "Disco"
 url: /beccar/disco/
-shop: supermercado
+shop: Supermarkt
 ---

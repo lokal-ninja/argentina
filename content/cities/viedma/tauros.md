@@ -1,5 +1,5 @@
 ---
 title: "Tauros"
 url: /viedma/tauros/
-shop: peluquería
+shop: Friseur
 ---

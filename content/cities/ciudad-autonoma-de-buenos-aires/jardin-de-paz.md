@@ -1,5 +1,5 @@
 ---
 title: "Jardín de Paz"
 url: /ciudad-autonoma-de-buenos-aires/jardin-de-paz/
-shop: directores de funerarias
+shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martín"
 url: /trevelin/martin/
-shop: panadería
+shop: Bäckerei
 ---

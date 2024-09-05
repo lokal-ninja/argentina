@@ -1,5 +1,5 @@
 ---
 title: "Siencoma"
 url: /neuquen/siencoma/
-shop: teléfono móvil
+shop: Handy
 ---

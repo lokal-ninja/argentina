@@ -1,5 +1,5 @@
 ---
 title: "BarberiaDtz"
 url: /aldea-brasilera/barberiadtz/
-shop: peluquería
+shop: Friseur
 ---

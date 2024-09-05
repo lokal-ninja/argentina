@@ -1,5 +1,5 @@
 ---
 title: "Maxiconsumo"
 url: /merlo/maxiconsumo/
-shop: supermercado
+shop: Supermarkt
 ---

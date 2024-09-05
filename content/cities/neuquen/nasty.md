@@ -1,5 +1,5 @@
 ---
 title: "Nasty"
 url: /neuquen/nasty/
-shop: ropa
+shop: Kleidung
 ---

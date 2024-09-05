@@ -1,5 +1,5 @@
 ---
 title: "Deciro"
 url: /ciudad-autonoma-de-buenos-aires/deciro/
-shop: muebles
+shop: Möbel
 ---

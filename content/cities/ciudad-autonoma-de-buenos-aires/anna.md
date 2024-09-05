@@ -1,5 +1,5 @@
 ---
 title: "Anna"
 url: /ciudad-autonoma-de-buenos-aires/anna/
-shop: cosméticos
+shop: Kosmetik
 ---

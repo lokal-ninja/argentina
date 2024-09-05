@@ -1,5 +1,5 @@
 ---
 title: "Boutique del Libro"
 url: /puerto-madryn/boutique-del-libro/
-shop: libros
+shop: Bücher
 ---

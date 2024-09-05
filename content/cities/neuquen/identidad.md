@@ -1,5 +1,5 @@
 ---
 title: "Identidad"
 url: /neuquen/identidad/
-shop: zapatos
+shop: Schuhe
 ---

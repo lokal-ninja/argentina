@@ -1,5 +1,5 @@
 ---
 title: "EG Indumentaria"
 url: /cipolletti/eg-indumentaria/
-shop: ropa
+shop: Kleidung
 ---

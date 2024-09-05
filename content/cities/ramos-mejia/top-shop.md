@@ -1,5 +1,5 @@
 ---
 title: "Top Shop"
 url: /ramos-mejia/top-shop/
-shop: comodidad
+shop: Lebensmittel
 ---

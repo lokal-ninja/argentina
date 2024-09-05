@@ -1,5 +1,5 @@
 ---
 title: "Orso Bianco"
 url: /cipolletti/orso-bianco/
-shop: ropa
+shop: Kleidung
 ---

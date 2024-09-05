@@ -1,5 +1,5 @@
 ---
 title: "Impulso"
 url: /corrientes/impulso/
-shop: supermercado
+shop: Supermarkt
 ---

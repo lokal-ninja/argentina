@@ -1,5 +1,5 @@
 ---
 title: "Regionales San Juan"
 url: /bahia-blanca/regionales-san-juan/
-shop: vino
+shop: Wein
 ---

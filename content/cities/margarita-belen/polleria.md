@@ -1,5 +1,5 @@
 ---
 title: "Pollería"
 url: /margarita-belen/polleria/
-shop: carnicero
+shop: Metzgerei
 ---

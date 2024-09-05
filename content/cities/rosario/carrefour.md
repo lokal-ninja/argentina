@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /rosario/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

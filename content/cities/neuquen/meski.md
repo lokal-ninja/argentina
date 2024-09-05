@@ -1,5 +1,5 @@
 ---
 title: "Meski"
 url: /neuquen/meski/
-shop: ropa
+shop: Kleidung
 ---

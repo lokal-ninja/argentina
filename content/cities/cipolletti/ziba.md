@@ -1,5 +1,5 @@
 ---
 title: "ZIBÁ"
 url: /cipolletti/ziba/
-shop: ropa
+shop: Kleidung
 ---

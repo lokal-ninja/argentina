@@ -1,5 +1,5 @@
 ---
 title: "NanoPerfumeria"
 url: /lima/nanoperfumeria/
-shop: perfumería
+shop: Parfümerie
 ---

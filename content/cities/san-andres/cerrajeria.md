@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
 url: /san-andres/cerrajeria/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoHaus"
 url: /cordoba/autohaus/
-shop: coche
+shop: Autohaus
 ---

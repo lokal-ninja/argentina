@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /bahia-blanca/honda/
-shop: coche
+shop: Autohaus
 ---

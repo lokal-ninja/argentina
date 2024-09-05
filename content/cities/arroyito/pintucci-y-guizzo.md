@@ -1,5 +1,5 @@
 ---
 title: "Pintucci y Guizzo"
 url: /arroyito/pintucci-y-guizzo/
-shop: agraria
+shop: Landwirtschaftlich
 ---

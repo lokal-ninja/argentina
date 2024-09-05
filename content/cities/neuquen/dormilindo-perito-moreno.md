@@ -1,5 +1,5 @@
 ---
 title: "Dormilindo"
 url: /neuquen/dormilindo-perito-moreno/
-shop: cama
+shop: Betten
 ---

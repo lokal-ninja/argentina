@@ -1,5 +1,5 @@
 ---
 title: "Perfumería Salvadores"
 url: /comodoro-rivadavia/perfumeria-salvadores/
-shop: perfumería
+shop: Parfümerie
 ---

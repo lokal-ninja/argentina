@@ -1,5 +1,5 @@
 ---
 title: "Flamenco"
 url: /viedma/flamenco/
-shop: comodidad
+shop: Lebensmittel
 ---

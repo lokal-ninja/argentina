@@ -1,5 +1,5 @@
 ---
 title: "Agatha"
 url: /berazategui/agatha/
-shop: general
+shop: Allgemein
 ---

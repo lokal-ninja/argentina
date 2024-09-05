@@ -1,5 +1,5 @@
 ---
 title: "La Rosca"
 url: /cipolletti/la-rosca/
-shop: hardware
+shop: Eisenwaren
 ---

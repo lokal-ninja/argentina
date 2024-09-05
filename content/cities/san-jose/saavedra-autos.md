@@ -1,5 +1,5 @@
 ---
 title: "Saavedra Autos"
 url: /san-jose/saavedra-autos/
-shop: coche
+shop: Autohaus
 ---

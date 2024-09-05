@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /bahia-blanca/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

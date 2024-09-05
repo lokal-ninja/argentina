@@ -1,5 +1,5 @@
 ---
 title: "Anan"
 url: /billinghurst/anan/
-shop: supermercado
+shop: Supermarkt
 ---

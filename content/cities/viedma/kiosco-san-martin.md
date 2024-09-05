@@ -1,5 +1,5 @@
 ---
 title: "Kiosco San Martín"
 url: /viedma/kiosco-san-martin/
-shop: comodidad
+shop: Lebensmittel
 ---

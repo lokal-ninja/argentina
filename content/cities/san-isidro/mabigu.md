@@ -1,5 +1,5 @@
 ---
 title: "Mabigu"
 url: /san-isidro/mabigu/
-shop: regalo
+shop: Andenken
 ---

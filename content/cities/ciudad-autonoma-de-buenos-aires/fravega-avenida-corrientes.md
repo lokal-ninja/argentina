@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
 url: /ciudad-autonoma-de-buenos-aires/fravega-avenida-corrientes/
-shop: electrónica
+shop: Elektronik
 ---

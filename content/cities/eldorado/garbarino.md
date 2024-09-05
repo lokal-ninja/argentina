@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /eldorado/garbarino/
-shop: electrónica
+shop: Elektronik
 ---

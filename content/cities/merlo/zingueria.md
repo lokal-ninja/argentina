@@ -1,5 +1,5 @@
 ---
 title: "Zingueria"
 url: /merlo/zingueria/
-shop: hardware
+shop: Eisenwaren
 ---

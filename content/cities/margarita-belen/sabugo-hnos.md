@@ -1,5 +1,5 @@
 ---
 title: "Sabugo Hnos"
 url: /margarita-belen/sabugo-hnos/
-shop: bebidas
+shop: Getränke
 ---

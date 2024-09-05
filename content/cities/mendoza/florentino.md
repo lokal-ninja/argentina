@@ -1,5 +1,5 @@
 ---
 title: "Florentino"
 url: /mendoza/florentino/
-shop: ropa
+shop: Kleidung
 ---

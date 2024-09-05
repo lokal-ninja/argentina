@@ -1,5 +1,5 @@
 ---
 title: "Siama"
 url: /villa-ballester/siama/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electro AZul"
 url: /cerro-azul/electro-azul/
-shop: electrónica
+shop: Elektronik
 ---

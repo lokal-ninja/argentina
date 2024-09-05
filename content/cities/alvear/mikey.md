@@ -1,5 +1,5 @@
 ---
 title: "Mikey"
 url: /alvear/mikey/
-shop: carnicero
+shop: Metzgerei
 ---

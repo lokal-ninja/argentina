@@ -1,5 +1,5 @@
 ---
 title: "Mercado del Repostero"
 url: /rosario/mercado-del-repostero/
-shop: panadería
+shop: Bäckerei
 ---

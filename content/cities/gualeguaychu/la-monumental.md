@@ -1,5 +1,5 @@
 ---
 title: "La Monumental"
 url: /gualeguaychu/la-monumental/
-shop: frutería
+shop: Gemüse & Obst
 ---

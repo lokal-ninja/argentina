@@ -1,5 +1,5 @@
 ---
 title: "Cativa"
 url: /neuquen/cativa/
-shop: ropa
+shop: Kleidung
 ---

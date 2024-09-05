@@ -1,5 +1,5 @@
 ---
 title: "Beirut"
 url: /viedma/beirut/
-shop: regalo
+shop: Andenken
 ---

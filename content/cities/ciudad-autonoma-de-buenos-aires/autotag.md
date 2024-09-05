@@ -1,5 +1,5 @@
 ---
 title: "Autotag"
 url: /ciudad-autonoma-de-buenos-aires/autotag/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Axion"
 url: /gobernador-crespo/axion/
-shop: comodidad
+shop: Lebensmittel
 ---

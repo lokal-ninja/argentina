@@ -1,5 +1,5 @@
 ---
 title: "Jarus"
 url: /obera/jarus/
-shop: ropa
+shop: Kleidung
 ---

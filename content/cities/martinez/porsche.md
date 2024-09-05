@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /martinez/porsche/
-shop: coche
+shop: Autohaus
 ---

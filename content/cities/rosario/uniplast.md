@@ -1,5 +1,5 @@
 ---
 title: "Uniplast"
 url: /rosario/uniplast/
-shop: fiesta
+shop: Partyzubehör
 ---

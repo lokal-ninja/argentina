@@ -1,5 +1,5 @@
 ---
 title: "Tualana"
 url: /neuquen/tualana/
-shop: tela
+shop: Textil
 ---

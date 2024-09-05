@@ -1,5 +1,5 @@
 ---
 title: "El Nihuil"
 url: /san-rafael/el-nihuil/
-shop: panadería
+shop: Bäckerei
 ---

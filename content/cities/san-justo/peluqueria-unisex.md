@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Unisex"
 url: /san-justo/peluqueria-unisex/
-shop: peluquería
+shop: Friseur
 ---

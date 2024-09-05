@@ -1,5 +1,5 @@
 ---
 title: "Disfraces"
 url: /martinez/disfraces/
-shop: fiesta
+shop: Partyzubehör
 ---

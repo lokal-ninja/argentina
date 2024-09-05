@@ -1,5 +1,5 @@
 ---
 title: "Golopolis"
 url: /azul/golopolis/
-shop: supermercado
+shop: Supermarkt
 ---

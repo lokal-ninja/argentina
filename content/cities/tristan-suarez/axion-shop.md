@@ -1,5 +1,5 @@
 ---
 title: "Axion Shop"
 url: /tristan-suarez/axion-shop/
-shop: comodidad
+shop: Lebensmittel
 ---

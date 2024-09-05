@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Datis"
 url: /zapala/distribuidora-datis/
-shop: mayorista
+shop: Großhandel
 ---

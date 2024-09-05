@@ -1,5 +1,5 @@
 ---
 title: "San Pedro"
 url: /villa-ballester/san-pedro/
-shop: supermercado
+shop: Supermarkt
 ---

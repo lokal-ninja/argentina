@@ -1,5 +1,5 @@
 ---
 title: "Óptica Sol"
 url: /neuquen/optica-sol/
-shop: óptico
+shop: Optiker
 ---

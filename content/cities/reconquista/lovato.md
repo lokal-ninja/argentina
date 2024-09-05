@@ -1,5 +1,5 @@
 ---
 title: "Lovato"
 url: /reconquista/lovato/
-shop: hardware
+shop: Eisenwaren
 ---

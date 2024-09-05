@@ -1,5 +1,5 @@
 ---
 title: "DW Polarizados Antivandalicos"
 url: /ciudad-autonoma-de-buenos-aires/dw-polarizados-antivandalicos/
-shop: piezas de automóviles
+shop: Autoteile
 ---

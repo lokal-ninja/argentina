@@ -1,5 +1,5 @@
 ---
 title: "Closet"
 url: /ciudad-evita/closet/
-shop: ropa
+shop: Kleidung
 ---

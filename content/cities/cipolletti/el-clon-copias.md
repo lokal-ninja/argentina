@@ -1,5 +1,5 @@
 ---
 title: "El Clon Copias"
 url: /cipolletti/el-clon-copias/
-shop: copyshop
+shop: Kopieren
 ---

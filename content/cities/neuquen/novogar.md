@@ -1,5 +1,5 @@
 ---
 title: "Novogar"
 url: /neuquen/novogar/
-shop: electrónica
+shop: Elektronik
 ---

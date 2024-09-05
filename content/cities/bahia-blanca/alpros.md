@@ -1,5 +1,5 @@
 ---
 title: "Alpros"
 url: /bahia-blanca/alpros/
-shop: farmacia
+shop: Drogerie
 ---

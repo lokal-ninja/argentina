@@ -1,5 +1,5 @@
 ---
 title: "Barbara"
 url: /san-isidro/barbara/
-shop: peluquería
+shop: Friseur
 ---

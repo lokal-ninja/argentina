@@ -1,5 +1,5 @@
 ---
 title: "Compuser"
 url: /viedma/compuser/
-shop: ordenador
+shop: Computer
 ---

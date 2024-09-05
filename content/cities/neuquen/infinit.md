@@ -1,5 +1,5 @@
 ---
 title: "Infinit"
 url: /neuquen/infinit/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electricity"
 url: /neuquen/electricity/
-shop: hardware
+shop: Eisenwaren
 ---

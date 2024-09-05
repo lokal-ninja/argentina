@@ -1,5 +1,5 @@
 ---
 title: "Moro"
 url: /ciudad-autonoma-de-buenos-aires/moro/
-shop: hardware
+shop: Eisenwaren
 ---

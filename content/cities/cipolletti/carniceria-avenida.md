@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Avenida"
 url: /cipolletti/carniceria-avenida/
-shop: carnicero
+shop: Metzgerei
 ---

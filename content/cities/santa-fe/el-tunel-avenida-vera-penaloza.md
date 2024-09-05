@@ -1,5 +1,5 @@
 ---
 title: "El Tunel"
 url: /santa-fe/el-tunel-avenida-vera-penaloza/
-shop: supermercado
+shop: Supermarkt
 ---

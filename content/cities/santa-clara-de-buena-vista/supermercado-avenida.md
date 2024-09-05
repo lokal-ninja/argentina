@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Avenida"
 url: /santa-clara-de-buena-vista/supermercado-avenida/
-shop: supermercado
+shop: Supermarkt
 ---

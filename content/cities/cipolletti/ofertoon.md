@@ -1,5 +1,5 @@
 ---
 title: "Ofertoon"
 url: /cipolletti/ofertoon/
-shop: comodidad
+shop: Lebensmittel
 ---

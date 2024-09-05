@@ -1,5 +1,5 @@
 ---
 title: "La Gloria"
 url: /ciudad-evita/la-gloria/
-shop: carnicero
+shop: Metzgerei
 ---

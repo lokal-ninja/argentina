@@ -1,5 +1,5 @@
 ---
 title: "Deportes Michelangeli"
 url: /olivos/deportes-michelangeli/
-shop: deportes
+shop: Sport
 ---

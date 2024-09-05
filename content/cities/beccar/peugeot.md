@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /beccar/peugeot/
-shop: coche
+shop: Autohaus
 ---

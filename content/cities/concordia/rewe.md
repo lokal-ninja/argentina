@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
 url: /concordia/rewe/
-shop: comodidad
+shop: Lebensmittel
 ---

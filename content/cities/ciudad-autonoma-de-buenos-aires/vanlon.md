@@ -1,5 +1,5 @@
 ---
 title: "Vanlon"
 url: /ciudad-autonoma-de-buenos-aires/vanlon/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quain"
 url: /resistencia/quain/
-shop: electrónica
+shop: Elektronik
 ---

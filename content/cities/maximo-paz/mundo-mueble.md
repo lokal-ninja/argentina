@@ -1,5 +1,5 @@
 ---
 title: "Mundo Mueble"
 url: /maximo-paz/mundo-mueble/
-shop: muebles
+shop: Möbel
 ---

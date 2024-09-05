@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /acassuso/select/
-shop: comodidad
+shop: Lebensmittel
 ---

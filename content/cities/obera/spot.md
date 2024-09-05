@@ -1,5 +1,5 @@
 ---
 title: "Spot!"
 url: /obera/spot/
-shop: comodidad
+shop: Lebensmittel
 ---

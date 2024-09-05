@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /neuquen/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

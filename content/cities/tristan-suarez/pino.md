@@ -1,5 +1,5 @@
 ---
 title: "Pino"
 url: /tristan-suarez/pino/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

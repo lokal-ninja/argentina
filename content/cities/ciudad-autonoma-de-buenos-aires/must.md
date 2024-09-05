@@ -1,5 +1,5 @@
 ---
 title: "Must"
 url: /ciudad-autonoma-de-buenos-aires/must/
-shop: general
+shop: Allgemein
 ---

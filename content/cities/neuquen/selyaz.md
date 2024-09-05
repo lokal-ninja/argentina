@@ -1,5 +1,5 @@
 ---
 title: "Selyaz"
 url: /neuquen/selyaz/
-shop: eléctrico
+shop: Elektrisch
 ---

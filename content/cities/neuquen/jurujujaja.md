@@ -1,5 +1,5 @@
 ---
 title: "Jurujujajá"
 url: /neuquen/jurujujaja/
-shop: juguetes
+shop: Spielzeug
 ---

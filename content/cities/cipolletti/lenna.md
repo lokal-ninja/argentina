@@ -1,5 +1,5 @@
 ---
 title: "Lenna"
 url: /cipolletti/lenna/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compu Paz"
 url: /jose-c-paz/compu-paz/
-shop: ordenador
+shop: Computer
 ---

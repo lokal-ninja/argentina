@@ -1,5 +1,5 @@
 ---
 title: "Imagine"
 url: /cipolletti/imagine/
-shop: copyshop
+shop: Kopieren
 ---

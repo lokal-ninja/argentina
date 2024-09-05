@@ -1,5 +1,5 @@
 ---
 title: "Volver"
 url: /ciudad-autonoma-de-buenos-aires/volver/
-shop: quiosco
+shop: Kiosk
 ---

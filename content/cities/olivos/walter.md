@@ -1,5 +1,5 @@
 ---
 title: "Walter"
 url: /olivos/walter/
-shop: carnicero
+shop: Metzgerei
 ---

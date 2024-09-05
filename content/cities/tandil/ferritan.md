@@ -1,5 +1,5 @@
 ---
 title: "Ferritan"
 url: /tandil/ferritan/
-shop: hardware
+shop: Eisenwaren
 ---

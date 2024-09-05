@@ -1,5 +1,5 @@
 ---
 title: "Nuevas"
 url: /campana/nuevas/
-shop: muebles
+shop: Möbel
 ---

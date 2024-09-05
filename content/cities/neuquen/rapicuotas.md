@@ -1,5 +1,5 @@
 ---
 title: "Rapicuotas"
 url: /neuquen/rapicuotas/
-shop: prestamista
+shop: Leiher
 ---

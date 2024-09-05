@@ -1,5 +1,5 @@
 ---
 title: "Vonk Store"
 url: /rosario/vonk-store/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantida"
 url: /villa-gesell/atlantida/
-shop: panadería
+shop: Bäckerei
 ---

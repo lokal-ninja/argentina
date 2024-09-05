@@ -1,5 +1,5 @@
 ---
 title: "BGH"
 url: /san-isidro/bgh/
-shop: teléfono móvil
+shop: Handy
 ---

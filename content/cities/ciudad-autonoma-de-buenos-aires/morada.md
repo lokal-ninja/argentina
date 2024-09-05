@@ -1,5 +1,5 @@
 ---
 title: "Morada"
 url: /ciudad-autonoma-de-buenos-aires/morada/
-shop: general
+shop: Allgemein
 ---

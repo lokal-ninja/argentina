@@ -1,5 +1,5 @@
 ---
 title: "Automotores Bonelli"
 url: /villa-ballester/automotores-bonelli/
-shop: coche
+shop: Autohaus
 ---

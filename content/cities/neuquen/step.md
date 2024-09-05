@@ -1,5 +1,5 @@
 ---
 title: "Step"
 url: /neuquen/step/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /rosario/claro/
-shop: teléfono móvil
+shop: Handy
 ---

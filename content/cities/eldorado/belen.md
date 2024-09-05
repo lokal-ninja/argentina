@@ -1,5 +1,5 @@
 ---
 title: "Belén"
 url: /eldorado/belen/
-shop: frutería
+shop: Gemüse & Obst
 ---

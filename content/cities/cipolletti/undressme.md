@@ -1,5 +1,5 @@
 ---
 title: "undressMe"
 url: /cipolletti/undressme/
-shop: ropa
+shop: Kleidung
 ---

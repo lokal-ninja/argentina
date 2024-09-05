@@ -1,5 +1,5 @@
 ---
 title: "Treos"
 url: /villa-lynch/treos/
-shop: coche
+shop: Autohaus
 ---

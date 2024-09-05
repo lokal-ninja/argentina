@@ -1,5 +1,5 @@
 ---
 title: "Olivia"
 url: /olivos/olivia/
-shop: ropa
+shop: Kleidung
 ---

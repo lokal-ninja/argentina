@@ -1,5 +1,5 @@
 ---
 title: "Megatone"
 url: /neuquen/megatone/
-shop: electrónica
+shop: Elektronik
 ---

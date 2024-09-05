@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /villa-dolores/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

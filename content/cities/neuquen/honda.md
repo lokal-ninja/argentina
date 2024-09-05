@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /neuquen/honda/
-shop: motocicleta
+shop: Motorrad
 ---

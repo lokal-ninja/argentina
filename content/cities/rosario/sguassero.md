@@ -1,5 +1,5 @@
 ---
 title: "Sguassero"
 url: /rosario/sguassero/
-shop: peluquería
+shop: Friseur
 ---

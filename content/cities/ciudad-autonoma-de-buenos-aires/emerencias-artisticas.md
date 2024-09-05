@@ -1,5 +1,5 @@
 ---
 title: "Emerencias Artisticas"
 url: /ciudad-autonoma-de-buenos-aires/emerencias-artisticas/
-shop: libros
+shop: Bücher
 ---

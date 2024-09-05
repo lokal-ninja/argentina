@@ -1,5 +1,5 @@
 ---
 title: "Monica"
 url: /ciudad-autonoma-de-buenos-aires/monica/
-shop: carnicero
+shop: Metzgerei
 ---

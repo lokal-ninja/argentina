@@ -1,5 +1,5 @@
 ---
 title: "Boutique del Vintage"
 url: /mendoza/boutique-del-vintage/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundo Digital"
 url: /ciudad-autonoma-de-buenos-aires/mundo-digital/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alas"
 url: /tandil/alas/
-shop: lavandería
+shop: Wäscherei
 ---

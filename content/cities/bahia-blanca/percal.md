@@ -1,5 +1,5 @@
 ---
 title: "Percal"
 url: /bahia-blanca/percal/
-shop: tienda
+shop: Modehaus
 ---

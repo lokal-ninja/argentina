@@ -1,5 +1,5 @@
 ---
 title: "Arro Bell - Lanería"
 url: /viedma/arro-bell-laneria/
-shop: general
+shop: Allgemein
 ---

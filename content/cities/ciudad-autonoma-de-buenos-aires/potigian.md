@@ -1,5 +1,5 @@
 ---
 title: "Potigian"
 url: /ciudad-autonoma-de-buenos-aires/potigian/
-shop: mayorista
+shop: Großhandel
 ---

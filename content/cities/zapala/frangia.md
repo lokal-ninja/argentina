@@ -1,5 +1,5 @@
 ---
 title: "FranGia"
 url: /zapala/frangia/
-shop: ropa
+shop: Kleidung
 ---

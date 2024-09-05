@@ -1,5 +1,5 @@
 ---
 title: "Juba"
 url: /viedma/juba/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Riherco"
 url: /rio-tercero/riherco/
-shop: comercio
+shop: Baustoffe
 ---

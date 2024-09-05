@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /pergamino/garbarino/
-shop: electrónica
+shop: Elektronik
 ---

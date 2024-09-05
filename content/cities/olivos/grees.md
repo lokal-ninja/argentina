@@ -1,5 +1,5 @@
 ---
 title: "Grees"
 url: /olivos/grees/
-shop: decoración interior
+shop: Raumausstattung
 ---

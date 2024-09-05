@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Loteria"
 url: /corrientes/agencia-de-loteria/
-shop: lotería
+shop: Lotterie
 ---

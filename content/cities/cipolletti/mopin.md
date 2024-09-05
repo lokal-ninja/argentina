@@ -1,5 +1,5 @@
 ---
 title: "Mopin"
 url: /cipolletti/mopin/
-shop: farmacia
+shop: Drogerie
 ---

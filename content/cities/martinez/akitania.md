@@ -1,5 +1,5 @@
 ---
 title: "Akitania"
 url: /martinez/akitania/
-shop: general
+shop: Allgemein
 ---

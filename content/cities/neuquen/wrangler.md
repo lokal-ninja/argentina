@@ -1,5 +1,5 @@
 ---
 title: "Wrangler"
 url: /neuquen/wrangler/
-shop: ropa
+shop: Kleidung
 ---

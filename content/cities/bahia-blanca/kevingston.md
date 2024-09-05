@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /bahia-blanca/kevingston/
-shop: ropa
+shop: Kleidung
 ---

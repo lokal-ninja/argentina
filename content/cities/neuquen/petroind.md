@@ -1,5 +1,5 @@
 ---
 title: "PetroInd"
 url: /neuquen/petroind/
-shop: hardware
+shop: Eisenwaren
 ---

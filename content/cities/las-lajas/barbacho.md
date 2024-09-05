@@ -1,5 +1,5 @@
 ---
 title: "Barbacho"
 url: /las-lajas/barbacho/
-shop: peluquería
+shop: Friseur
 ---

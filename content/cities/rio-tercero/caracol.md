@@ -1,5 +1,5 @@
 ---
 title: "Caracol"
 url: /rio-tercero/caracol/
-shop: supermercado
+shop: Supermarkt
 ---

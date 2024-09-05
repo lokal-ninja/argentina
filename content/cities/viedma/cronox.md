@@ -1,5 +1,5 @@
 ---
 title: "Cronox"
 url: /viedma/cronox/
-shop: copyshop
+shop: Kopieren
 ---

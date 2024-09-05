@@ -1,5 +1,5 @@
 ---
 title: "Quiero"
 url: /trelew/quiero/
-shop: ropa
+shop: Kleidung
 ---

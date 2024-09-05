@@ -1,5 +1,5 @@
 ---
 title: "Impacto"
 url: /cipolletti/impacto/
-shop: deportes
+shop: Sport
 ---

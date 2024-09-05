@@ -1,5 +1,5 @@
 ---
 title: "Telcocom"
 url: /cipolletti/telcocom/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ayliñ Piuke"
 url: /puerto-madryn/aylin-piuke/
-shop: farmacia
+shop: Drogerie
 ---

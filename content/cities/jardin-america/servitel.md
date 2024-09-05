@@ -1,5 +1,5 @@
 ---
 title: "ServiTel"
 url: /jardin-america/servitel/
-shop: aparato
+shop: Haushaltsgeräte
 ---

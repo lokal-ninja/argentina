@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /beccar/pirelli/
-shop: neumáticos
+shop: Reifen
 ---

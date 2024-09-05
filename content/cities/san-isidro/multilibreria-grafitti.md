@@ -1,5 +1,5 @@
 ---
 title: "Multilibrería Grafitti"
 url: /san-isidro/multilibreria-grafitti/
-shop: libros
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salinas"
 url: /posadas/salinas/
-shop: panadería
+shop: Bäckerei
 ---

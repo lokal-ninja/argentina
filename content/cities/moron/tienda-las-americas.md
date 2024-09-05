@@ -1,5 +1,5 @@
 ---
 title: "Tienda Las Américas"
 url: /moron/tienda-las-americas/
-shop: ropa
+shop: Kleidung
 ---

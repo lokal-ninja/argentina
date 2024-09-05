@@ -1,5 +1,5 @@
 ---
 title: "Vineria Código Vinario"
 url: /mendoza/vineria-codigo-vinario/
-shop: alcohol
+shop: Spirituosen
 ---

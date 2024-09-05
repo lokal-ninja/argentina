@@ -1,5 +1,5 @@
 ---
 title: "Grafito"
 url: /resistencia/grafito/
-shop: copyshop
+shop: Kopieren
 ---

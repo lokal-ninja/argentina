@@ -1,5 +1,5 @@
 ---
 title: "GNUinos"
 url: /josefina/gnuinos/
-shop: ordenador
+shop: Computer
 ---

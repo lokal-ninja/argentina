@@ -1,5 +1,5 @@
 ---
 title: "Japón"
 url: /rosario/japon/
-shop: ropa
+shop: Kleidung
 ---

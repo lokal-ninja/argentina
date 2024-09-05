@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /cipolletti/kevingston/
-shop: ropa
+shop: Kleidung
 ---

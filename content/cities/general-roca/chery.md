@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /general-roca/chery/
-shop: coche
+shop: Autohaus
 ---

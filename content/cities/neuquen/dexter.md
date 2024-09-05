@@ -1,5 +1,5 @@
 ---
 title: "Dexter"
 url: /neuquen/dexter/
-shop: zapatos
+shop: Schuhe
 ---

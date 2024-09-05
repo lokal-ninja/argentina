@@ -1,5 +1,5 @@
 ---
 title: "Ámbar"
 url: /neuquen/ambar/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /adrogue/dia/
-shop: supermercado
+shop: Supermarkt
 ---

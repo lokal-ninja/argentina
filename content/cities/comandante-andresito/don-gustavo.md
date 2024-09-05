@@ -1,5 +1,5 @@
 ---
 title: "Don Gustavo"
 url: /comandante-andresito/don-gustavo/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flouch"
 url: /lujan/flouch/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verdulería"
 url: /azul/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxikiosco"
 url: /ciudad-autonoma-de-buenos-aires/maxikiosco-avenida-olivera-2/
-shop: comodidad
+shop: Lebensmittel
 ---

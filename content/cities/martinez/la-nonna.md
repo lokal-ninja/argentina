@@ -1,5 +1,5 @@
 ---
 title: "La Nonna"
 url: /martinez/la-nonna/
-shop: pastelería
+shop: Konditorei
 ---

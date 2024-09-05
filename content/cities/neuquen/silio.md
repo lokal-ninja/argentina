@@ -1,5 +1,5 @@
 ---
 title: "Silio"
 url: /neuquen/silio/
-shop: joyería
+shop: Schmuck
 ---

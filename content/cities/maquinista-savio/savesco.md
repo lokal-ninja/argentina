@@ -1,5 +1,5 @@
 ---
 title: "Savesco"
 url: /maquinista-savio/savesco/
-shop: supermercado
+shop: Supermarkt
 ---

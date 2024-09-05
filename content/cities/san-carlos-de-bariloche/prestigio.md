@@ -1,5 +1,5 @@
 ---
 title: "Prestigio"
 url: /san-carlos-de-bariloche/prestigio/
-shop: pintura
+shop: Farben
 ---

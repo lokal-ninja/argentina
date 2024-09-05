@@ -1,5 +1,5 @@
 ---
 title: "Calzados 10 Puntos"
 url: /neuquen/calzados-10-puntos/
-shop: zapatos
+shop: Schuhe
 ---

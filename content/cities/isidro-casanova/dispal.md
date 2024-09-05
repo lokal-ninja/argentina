@@ -1,5 +1,5 @@
 ---
 title: "Dispal"
 url: /isidro-casanova/dispal/
-shop: pintura
+shop: Farben
 ---

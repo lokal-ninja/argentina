@@ -1,5 +1,5 @@
 ---
 title: "Maxiconsumo"
 url: /villa-dominico/maxiconsumo/
-shop: supermercado
+shop: Supermarkt
 ---

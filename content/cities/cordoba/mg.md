@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /cordoba/mg/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confiar"
 url: /viedma/confiar/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antojos"
 url: /pergamino/antojos/
-shop: quiosco
+shop: Kiosk
 ---

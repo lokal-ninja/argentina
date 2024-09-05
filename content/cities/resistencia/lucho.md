@@ -1,5 +1,5 @@
 ---
 title: "Luch'o"
 url: /resistencia/lucho/
-shop: floristería
+shop: Blumen
 ---

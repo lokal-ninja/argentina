@@ -1,5 +1,5 @@
 ---
 title: "Belona"
 url: /rufino/belona/
-shop: ropa
+shop: Kleidung
 ---

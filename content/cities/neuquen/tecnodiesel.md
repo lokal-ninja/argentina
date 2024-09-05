@@ -1,5 +1,5 @@
 ---
 title: "Tecnodiesel"
 url: /neuquen/tecnodiesel/
-shop: coche
+shop: Autohaus
 ---

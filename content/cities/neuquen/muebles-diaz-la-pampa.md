@@ -1,5 +1,5 @@
 ---
 title: "Muebles Díaz"
 url: /neuquen/muebles-diaz-la-pampa/
-shop: muebles
+shop: Möbel
 ---

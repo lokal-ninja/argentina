@@ -1,5 +1,5 @@
 ---
 title: "EL Cóndor"
 url: /posadas/el-condor/
-shop: coche
+shop: Autohaus
 ---

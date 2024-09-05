@@ -1,5 +1,5 @@
 ---
 title: "CopyCentro"
 url: /santa-fe/copycentro/
-shop: copyshop
+shop: Kopieren
 ---

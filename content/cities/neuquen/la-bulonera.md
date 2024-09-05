@@ -1,5 +1,5 @@
 ---
 title: "La Bulonera"
 url: /neuquen/la-bulonera/
-shop: hardware
+shop: Eisenwaren
 ---

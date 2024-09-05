@@ -1,5 +1,5 @@
 ---
 title: "Íobella"
 url: /ciudad-autonoma-de-buenos-aires/iobella/
-shop: cosméticos
+shop: Kosmetik
 ---

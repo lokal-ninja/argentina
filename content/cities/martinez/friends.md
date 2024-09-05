@@ -1,5 +1,5 @@
 ---
 title: "Friend's"
 url: /martinez/friends/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

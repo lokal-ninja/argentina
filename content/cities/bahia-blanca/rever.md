@@ -1,5 +1,5 @@
 ---
 title: "Rever"
 url: /bahia-blanca/rever/
-shop: ropa
+shop: Kleidung
 ---

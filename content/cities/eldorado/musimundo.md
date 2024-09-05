@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /eldorado/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

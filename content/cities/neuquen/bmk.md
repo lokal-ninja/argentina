@@ -1,5 +1,5 @@
 ---
 title: "BMK"
 url: /neuquen/bmk/
-shop: eléctrico
+shop: Elektrisch
 ---

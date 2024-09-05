@@ -1,5 +1,5 @@
 ---
 title: "Mariana's"
 url: /campo-viera/marianas/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copybook"
 url: /neuquen/copybook/
-shop: copyshop
+shop: Kopieren
 ---

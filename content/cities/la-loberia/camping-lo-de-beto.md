@@ -1,5 +1,5 @@
 ---
 title: "Camping Lo de Beto"
 url: /la-loberia/camping-lo-de-beto/
-shop: general
+shop: Allgemein
 ---

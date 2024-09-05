@@ -1,5 +1,5 @@
 ---
 title: "Sur"
 url: /bahia-blanca/sur/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

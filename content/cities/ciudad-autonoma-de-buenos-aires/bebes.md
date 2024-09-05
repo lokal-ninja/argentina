@@ -1,5 +1,5 @@
 ---
 title: "Bebes"
 url: /ciudad-autonoma-de-buenos-aires/bebes/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Candra"
 url: /general-san-martin/candra/
-shop: ropa
+shop: Kleidung
 ---

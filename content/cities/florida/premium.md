@@ -1,5 +1,5 @@
 ---
 title: "Premium"
 url: /florida/premium/
-shop: comodidad
+shop: Lebensmittel
 ---

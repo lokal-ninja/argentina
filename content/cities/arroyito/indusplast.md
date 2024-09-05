@@ -1,5 +1,5 @@
 ---
 title: "Indusplast"
 url: /arroyito/indusplast/
-shop: piscina
+shop: Pool
 ---

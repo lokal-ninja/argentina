@@ -1,5 +1,5 @@
 ---
 title: "Muy Padre Tejidos"
 url: /monte-grande/muy-padre-tejidos/
-shop: ropa
+shop: Kleidung
 ---

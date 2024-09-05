@@ -1,5 +1,5 @@
 ---
 title: "Diggit"
 url: /neuquen/diggit/
-shop: electrónica
+shop: Elektronik
 ---

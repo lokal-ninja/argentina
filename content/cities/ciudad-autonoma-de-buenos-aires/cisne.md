@@ -1,5 +1,5 @@
 ---
 title: "Cisne"
 url: /ciudad-autonoma-de-buenos-aires/cisne/
-shop: coser
+shop: Nähzubehör
 ---

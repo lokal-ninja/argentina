@@ -1,5 +1,5 @@
 ---
 title: "Cocomiel"
 url: /garupa/cocomiel/
-shop: fiesta
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disco"
 url: /vicente-lopez/disco/
-shop: supermercado
+shop: Supermarkt
 ---

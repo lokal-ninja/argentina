@@ -1,5 +1,5 @@
 ---
 title: "Leader"
 url: /martinez/leader/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yanina"
 url: /tortuguitas/yanina/
-shop: carnicero
+shop: Metzgerei
 ---

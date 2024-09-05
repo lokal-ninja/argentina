@@ -1,5 +1,5 @@
 ---
 title: "Malas Costumbres"
 url: /santos-lugares/malas-costumbres/
-shop: ropa
+shop: Kleidung
 ---

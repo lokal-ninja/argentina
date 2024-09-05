@@ -1,5 +1,5 @@
 ---
 title: "Changomás"
 url: /temperley/changomas/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Benitez"
 url: /san-miguel/autoservicio-benitez/
-shop: comodidad
+shop: Lebensmittel
 ---

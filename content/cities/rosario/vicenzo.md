@@ -1,5 +1,5 @@
 ---
 title: "Vicenzo"
 url: /rosario/vicenzo/
-shop: ropa
+shop: Kleidung
 ---

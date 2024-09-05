@@ -1,5 +1,5 @@
 ---
 title: "Ferramat"
 url: /jardin-america/ferramat/
-shop: hardware
+shop: Eisenwaren
 ---

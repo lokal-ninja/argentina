@@ -1,5 +1,5 @@
 ---
 title: "Panamer"
 url: /acassuso/panamer/
-shop: coche
+shop: Autohaus
 ---

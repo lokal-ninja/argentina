@@ -1,5 +1,5 @@
 ---
 title: "Leomar"
 url: /ciudad-autonoma-de-buenos-aires/leomar/
-shop: perfumería
+shop: Parfümerie
 ---

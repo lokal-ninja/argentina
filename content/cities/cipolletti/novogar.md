@@ -1,5 +1,5 @@
 ---
 title: "Novogar"
 url: /cipolletti/novogar/
-shop: electrónica
+shop: Elektronik
 ---

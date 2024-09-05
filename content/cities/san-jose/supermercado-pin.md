@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Pin"
 url: /san-jose/supermercado-pin/
-shop: supermercado
+shop: Supermarkt
 ---

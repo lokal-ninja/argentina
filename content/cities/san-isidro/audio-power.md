@@ -1,5 +1,5 @@
 ---
 title: "Audio Power"
 url: /san-isidro/audio-power/
-shop: electrónica
+shop: Elektronik
 ---

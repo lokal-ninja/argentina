@@ -1,5 +1,5 @@
 ---
 title: "Pesado Castro"
 url: /rosario/pesado-castro/
-shop: coche
+shop: Autohaus
 ---

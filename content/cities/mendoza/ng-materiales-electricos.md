@@ -1,5 +1,5 @@
 ---
 title: "NG Materiales Electricos"
 url: /mendoza/ng-materiales-electricos/
-shop: eléctrico
+shop: Elektrisch
 ---

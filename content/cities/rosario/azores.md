@@ -1,5 +1,5 @@
 ---
 title: "Azores"
 url: /rosario/azores/
-shop: supermercado
+shop: Supermarkt
 ---

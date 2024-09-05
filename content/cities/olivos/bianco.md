@@ -1,5 +1,5 @@
 ---
 title: "Bianco"
 url: /olivos/bianco/
-shop: cortina
+shop: Gardinen
 ---

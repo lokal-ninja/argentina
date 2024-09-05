@@ -1,5 +1,5 @@
 ---
 title: "Daro"
 url: /alicia/daro/
-shop: supermercado
+shop: Supermarkt
 ---

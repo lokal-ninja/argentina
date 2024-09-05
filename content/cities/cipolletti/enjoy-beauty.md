@@ -1,5 +1,5 @@
 ---
 title: "Enjoy Beauty"
 url: /cipolletti/enjoy-beauty/
-shop: perfumería
+shop: Parfümerie
 ---

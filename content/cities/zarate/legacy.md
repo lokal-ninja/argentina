@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /zarate/legacy/
-shop: ropa
+shop: Kleidung
 ---

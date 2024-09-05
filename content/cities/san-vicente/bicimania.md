@@ -1,5 +1,5 @@
 ---
 title: "Bicimanía"
 url: /san-vicente/bicimania/
-shop: bicicleta
+shop: Fahrrad
 ---

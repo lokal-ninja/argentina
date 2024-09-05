@@ -1,5 +1,5 @@
 ---
 title: "Family"
 url: /general-san-martin/family/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bataraza"
 url: /villa-elisa/la-bataraza/
-shop: regalo
+shop: Andenken
 ---

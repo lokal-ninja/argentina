@@ -1,5 +1,5 @@
 ---
 title: "Wrangler"
 url: /martinez/wrangler/
-shop: ropa
+shop: Kleidung
 ---

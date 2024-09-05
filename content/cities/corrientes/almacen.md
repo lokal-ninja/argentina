@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /corrientes/almacen/
-shop: frutería
+shop: Gemüse & Obst
 ---

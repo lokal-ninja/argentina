@@ -1,5 +1,5 @@
 ---
 title: "El pollo loco"
 url: /pergamino/el-pollo-loco/
-shop: carnicero
+shop: Metzgerei
 ---

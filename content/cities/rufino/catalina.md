@@ -1,5 +1,5 @@
 ---
 title: "Catalina"
 url: /rufino/catalina/
-shop: ropa
+shop: Kleidung
 ---

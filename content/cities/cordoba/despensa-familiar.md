@@ -1,5 +1,5 @@
 ---
 title: "Despensa Familiar"
 url: /cordoba/despensa-familiar/
-shop: supermercado
+shop: Supermarkt
 ---

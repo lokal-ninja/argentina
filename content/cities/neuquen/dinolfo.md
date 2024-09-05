@@ -1,5 +1,5 @@
 ---
 title: "Dinolfo"
 url: /neuquen/dinolfo/
-shop: cortina
+shop: Gardinen
 ---

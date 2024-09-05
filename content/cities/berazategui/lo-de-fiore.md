@@ -1,5 +1,5 @@
 ---
 title: "Lo de Fiore"
 url: /berazategui/lo-de-fiore/
-shop: pasta
+shop: Pasta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Industral"
 url: /salta/ferreteria-industral/
-shop: hardware
+shop: Eisenwaren
 ---

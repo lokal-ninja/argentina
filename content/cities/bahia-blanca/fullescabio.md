@@ -1,5 +1,5 @@
 ---
 title: "Fullescabio"
 url: /bahia-blanca/fullescabio/
-shop: alcohol
+shop: Spirituosen
 ---

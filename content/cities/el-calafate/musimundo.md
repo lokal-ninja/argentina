@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /el-calafate/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

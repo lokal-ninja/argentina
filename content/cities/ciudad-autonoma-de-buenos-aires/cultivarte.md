@@ -1,5 +1,5 @@
 ---
 title: "Cultivarte"
 url: /ciudad-autonoma-de-buenos-aires/cultivarte/
-shop: comodidad
+shop: Lebensmittel
 ---

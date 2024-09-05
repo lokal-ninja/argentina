@@ -1,5 +1,5 @@
 ---
 title: "Natural Look"
 url: /ciudad-autonoma-de-buenos-aires/natural-look/
-shop: peluquería
+shop: Friseur
 ---

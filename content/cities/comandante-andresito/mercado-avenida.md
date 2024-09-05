@@ -1,5 +1,5 @@
 ---
 title: "Mercado Avenida"
 url: /comandante-andresito/mercado-avenida/
-shop: comodidad
+shop: Lebensmittel
 ---

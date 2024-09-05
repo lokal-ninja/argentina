@@ -1,5 +1,5 @@
 ---
 title: "TodoHierro"
 url: /neuquen/todohierro/
-shop: comercio
+shop: Baustoffe
 ---

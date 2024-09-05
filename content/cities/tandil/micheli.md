@@ -1,5 +1,5 @@
 ---
 title: "Micheli"
 url: /tandil/micheli/
-shop: bicicleta
+shop: Fahrrad
 ---

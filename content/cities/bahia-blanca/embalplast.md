@@ -1,5 +1,5 @@
 ---
 title: "Embalplast"
 url: /bahia-blanca/embalplast/
-shop: material de oficina
+shop: Schreibwaren
 ---

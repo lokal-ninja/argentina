@@ -1,5 +1,5 @@
 ---
 title: "La Onda Verde"
 url: /chivilcoy/la-onda-verde/
-shop: frutería
+shop: Gemüse & Obst
 ---

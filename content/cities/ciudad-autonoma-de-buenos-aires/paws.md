@@ -1,5 +1,5 @@
 ---
 title: "Paws"
 url: /ciudad-autonoma-de-buenos-aires/paws/
-shop: mascotas
+shop: Tiere
 ---

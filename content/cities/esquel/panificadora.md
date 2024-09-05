@@ -1,5 +1,5 @@
 ---
 title: "Panificadora"
 url: /esquel/panificadora/
-shop: panadería
+shop: Bäckerei
 ---

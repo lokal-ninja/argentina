@@ -1,5 +1,5 @@
 ---
 title: "Daina"
 url: /neuquen/daina/
-shop: ropa
+shop: Kleidung
 ---

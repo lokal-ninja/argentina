@@ -1,5 +1,5 @@
 ---
 title: "FonoBus"
 url: /arroyito/fonobus/
-shop: entradas
+shop: Tickets
 ---

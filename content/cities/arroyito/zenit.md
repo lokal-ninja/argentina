@@ -1,5 +1,5 @@
 ---
 title: "Zenit"
 url: /arroyito/zenit/
-shop: entradas
+shop: Tickets
 ---

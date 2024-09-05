@@ -1,5 +1,5 @@
 ---
 title: "Reverie"
 url: /rosario/reverie/
-shop: cuero
+shop: Leder
 ---

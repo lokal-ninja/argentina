@@ -1,5 +1,5 @@
 ---
 title: "Cambiazzo"
 url: /tandil/cambiazzo/
-shop: libros
+shop: Bücher
 ---

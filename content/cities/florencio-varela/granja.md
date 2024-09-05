@@ -1,5 +1,5 @@
 ---
 title: "Granja"
 url: /florencio-varela/granja/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IlMad"
 url: /villa-lynch/ilmad/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pigmento"
 url: /villa-ballester/pigmento/
-shop: farmacia
+shop: Drogerie
 ---

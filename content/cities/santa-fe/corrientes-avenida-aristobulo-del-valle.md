@@ -1,5 +1,5 @@
 ---
 title: "Corrientes"
 url: /santa-fe/corrientes-avenida-aristobulo-del-valle/
-shop: supermercado
+shop: Supermarkt
 ---

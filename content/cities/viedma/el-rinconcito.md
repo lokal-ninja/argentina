@@ -1,5 +1,5 @@
 ---
 title: "El Rinconcito"
 url: /viedma/el-rinconcito/
-shop: frutería
+shop: Gemüse & Obst
 ---

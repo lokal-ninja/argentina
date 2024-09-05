@@ -1,5 +1,5 @@
 ---
 title: "MAS"
 url: /garupa/mas/
-shop: hardware
+shop: Eisenwaren
 ---

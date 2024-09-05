@@ -1,5 +1,5 @@
 ---
 title: "Raíces"
 url: /cipolletti/raices/
-shop: libros
+shop: Bücher
 ---

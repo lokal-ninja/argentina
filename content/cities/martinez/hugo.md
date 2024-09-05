@@ -1,5 +1,5 @@
 ---
 title: "Hugo"
 url: /martinez/hugo/
-shop: peluquería
+shop: Friseur
 ---

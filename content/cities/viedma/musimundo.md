@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /viedma/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

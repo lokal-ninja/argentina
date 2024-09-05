@@ -1,5 +1,5 @@
 ---
 title: "Sedart"
 url: /tandil/sedart/
-shop: coser
+shop: Nähzubehör
 ---

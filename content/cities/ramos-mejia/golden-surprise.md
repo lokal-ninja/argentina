@@ -1,5 +1,5 @@
 ---
 title: "Golden Surprise"
 url: /ramos-mejia/golden-surprise/
-shop: floristería
+shop: Blumen
 ---

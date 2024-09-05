@@ -1,5 +1,5 @@
 ---
 title: "Nobel"
 url: /villa-ballester/nobel/
-shop: joyería
+shop: Schmuck
 ---

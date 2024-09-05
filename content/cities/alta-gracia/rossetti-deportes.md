@@ -1,5 +1,5 @@
 ---
 title: "Rossetti Deportes"
 url: /alta-gracia/rossetti-deportes/
-shop: deportes
+shop: Sport
 ---

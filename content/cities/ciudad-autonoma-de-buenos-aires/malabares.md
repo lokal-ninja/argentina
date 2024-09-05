@@ -1,5 +1,5 @@
 ---
 title: "Malabares"
 url: /ciudad-autonoma-de-buenos-aires/malabares/
-shop: juguetes
+shop: Spielzeug
 ---

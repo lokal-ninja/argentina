@@ -1,5 +1,5 @@
 ---
 title: "VitroZapala"
 url: /zapala/vitrozapala/
-shop: comercio
+shop: Baustoffe
 ---

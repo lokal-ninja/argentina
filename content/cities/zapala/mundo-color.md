@@ -1,5 +1,5 @@
 ---
 title: "Mundo Color"
 url: /zapala/mundo-color/
-shop: pintura
+shop: Farben
 ---

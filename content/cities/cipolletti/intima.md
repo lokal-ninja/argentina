@@ -1,5 +1,5 @@
 ---
 title: "Íntima"
 url: /cipolletti/intima/
-shop: ropa
+shop: Kleidung
 ---

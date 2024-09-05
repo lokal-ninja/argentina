@@ -1,5 +1,5 @@
 ---
 title: "MaderTech"
 url: /cipolletti/madertech/
-shop: puertas
+shop: Türen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dipon"
 url: /cutral-co/dipon/
-shop: juguetes
+shop: Spielzeug
 ---

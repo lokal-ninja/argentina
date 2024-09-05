@@ -1,5 +1,5 @@
 ---
 title: "Oriente"
 url: /obera/oriente/
-shop: supermercado
+shop: Supermarkt
 ---

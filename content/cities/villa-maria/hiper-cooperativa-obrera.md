@@ -1,5 +1,5 @@
 ---
 title: "Hiper Cooperativa Obrera"
 url: /villa-maria/hiper-cooperativa-obrera/
-shop: supermercado
+shop: Supermarkt
 ---

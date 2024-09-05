@@ -1,5 +1,5 @@
 ---
 title: "Óptica del Sol"
 url: /viedma/optica-del-sol/
-shop: óptico
+shop: Optiker
 ---

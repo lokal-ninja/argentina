@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería Néstor"
 url: /cipolletti/cerrajeria-nestor/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

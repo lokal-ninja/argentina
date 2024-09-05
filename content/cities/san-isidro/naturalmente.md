@@ -1,5 +1,5 @@
 ---
 title: "Naturalmente"
 url: /san-isidro/naturalmente/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AnaAnn"
 url: /rosario/anaann/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fullescabio"
 url: /viedma/fullescabio/
-shop: vino
+shop: Wein
 ---

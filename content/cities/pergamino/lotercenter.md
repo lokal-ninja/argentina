@@ -1,5 +1,5 @@
 ---
 title: "Lotercenter"
 url: /pergamino/lotercenter/
-shop: lotería
+shop: Lotterie
 ---

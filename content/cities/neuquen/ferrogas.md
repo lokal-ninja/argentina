@@ -1,5 +1,5 @@
 ---
 title: "Ferrogas"
 url: /neuquen/ferrogas/
-shop: hardware
+shop: Eisenwaren
 ---

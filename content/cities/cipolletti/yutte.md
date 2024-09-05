@@ -1,5 +1,5 @@
 ---
 title: "Yutte"
 url: /cipolletti/yutte/
-shop: zapatos
+shop: Schuhe
 ---

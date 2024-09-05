@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /neuquen/bmw/
-shop: motocicleta
+shop: Motorrad
 ---

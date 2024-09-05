@@ -1,5 +1,5 @@
 ---
 title: "Agrometal"
 url: /rufino/agrometal/
-shop: agraria
+shop: Landwirtschaftlich
 ---

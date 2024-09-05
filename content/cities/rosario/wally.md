@@ -1,5 +1,5 @@
 ---
 title: "Wally"
 url: /rosario/wally/
-shop: comodidad
+shop: Lebensmittel
 ---

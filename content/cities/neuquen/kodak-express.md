@@ -1,5 +1,5 @@
 ---
 title: "Kodak Express"
 url: /neuquen/kodak-express/
-shop: foto
+shop: Foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dCompras"
 url: /loreto/dcompras/
-shop: supermercado
+shop: Supermarkt
 ---

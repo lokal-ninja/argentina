@@ -1,5 +1,5 @@
 ---
 title: "Wannabe"
 url: /zapala/wannabe/
-shop: ropa
+shop: Kleidung
 ---

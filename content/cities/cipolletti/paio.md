@@ -1,5 +1,5 @@
 ---
 title: "Paio"
 url: /cipolletti/paio/
-shop: electrónica
+shop: Elektronik
 ---

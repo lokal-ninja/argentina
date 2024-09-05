@@ -1,5 +1,5 @@
 ---
 title: "Carnicería La California"
 url: /tristan-suarez/carniceria-la-california/
-shop: carnicero
+shop: Metzgerei
 ---

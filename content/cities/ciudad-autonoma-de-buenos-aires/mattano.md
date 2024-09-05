@@ -1,5 +1,5 @@
 ---
 title: "Mattano"
 url: /ciudad-autonoma-de-buenos-aires/mattano/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imagina"
 url: /tandil/imagina/
-shop: artesanía
+shop: Basteln
 ---

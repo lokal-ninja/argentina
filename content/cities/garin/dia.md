@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /garin/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MundoAnimal"
 url: /cipolletti/mundoanimal/
-shop: mascotas
+shop: Tiere
 ---

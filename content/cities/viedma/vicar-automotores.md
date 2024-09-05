@@ -1,5 +1,5 @@
 ---
 title: "Vicar Automotores"
 url: /viedma/vicar-automotores/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toulouse"
 url: /olivos/toulouse/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disarquen"
 url: /neuquen/disarquen/
-shop: copyshop
+shop: Kopieren
 ---

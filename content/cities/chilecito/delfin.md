@@ -1,5 +1,5 @@
 ---
 title: "Delfín"
 url: /chilecito/delfin/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zubol"
 url: /ciudad-autonoma-de-buenos-aires/zubol/
-shop: artesanía
+shop: Basteln
 ---

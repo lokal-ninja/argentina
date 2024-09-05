@@ -1,5 +1,5 @@
 ---
 title: "tubonor"
 url: /salta/tubonor/
-shop: general
+shop: Allgemein
 ---

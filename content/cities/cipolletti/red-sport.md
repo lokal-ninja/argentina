@@ -1,5 +1,5 @@
 ---
 title: "Red Sport"
 url: /cipolletti/red-sport/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tigremanía"
 url: /virreyes/tigremania/
-shop: deportes
+shop: Sport
 ---

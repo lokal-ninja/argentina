@@ -1,5 +1,5 @@
 ---
 title: "San Fransico"
 url: /ciudad-autonoma-de-buenos-aires/san-fransico/
-shop: carnicero
+shop: Metzgerei
 ---

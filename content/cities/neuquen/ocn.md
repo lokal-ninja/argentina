@@ -1,5 +1,5 @@
 ---
 title: "OCN"
 url: /neuquen/ocn/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mueblería Anita"
 url: /campo-ramon/muebleria-anita/
-shop: muebles
+shop: Möbel
 ---

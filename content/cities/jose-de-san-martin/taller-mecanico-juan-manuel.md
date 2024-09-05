@@ -1,5 +1,5 @@
 ---
 title: "Taller mecánico Juan Manuel"
 url: /jose-de-san-martin/taller-mecanico-juan-manuel/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

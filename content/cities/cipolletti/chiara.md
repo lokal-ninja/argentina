@@ -1,5 +1,5 @@
 ---
 title: "Chiara"
 url: /cipolletti/chiara/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florencia"
 url: /moron/florencia/
-shop: frutería
+shop: Gemüse & Obst
 ---

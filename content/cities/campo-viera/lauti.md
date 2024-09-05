@@ -1,5 +1,5 @@
 ---
 title: "Lauti"
 url: /campo-viera/lauti/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Jorge Echeverria"
 url: /el-calafate/casa-jorge-echeverria/
-shop: regalo
+shop: Andenken
 ---

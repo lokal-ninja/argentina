@@ -1,5 +1,5 @@
 ---
 title: "Tejada"
 url: /belen/tejada/
-shop: motocicleta
+shop: Motorrad
 ---

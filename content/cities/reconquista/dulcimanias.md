@@ -1,5 +1,5 @@
 ---
 title: "Dulcimanias"
 url: /reconquista/dulcimanias/
-shop: confitería
+shop: Süßwaren
 ---

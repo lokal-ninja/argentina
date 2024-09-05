@@ -1,5 +1,5 @@
 ---
 title: "Najbel"
 url: /olivos/najbel/
-shop: carnicero
+shop: Metzgerei
 ---

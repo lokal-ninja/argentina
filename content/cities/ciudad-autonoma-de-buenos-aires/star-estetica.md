@@ -1,5 +1,5 @@
 ---
 title: "Star Estetica"
 url: /ciudad-autonoma-de-buenos-aires/star-estetica/
-shop: cosméticos
+shop: Kosmetik
 ---

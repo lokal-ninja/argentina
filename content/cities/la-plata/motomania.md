@@ -1,5 +1,5 @@
 ---
 title: "Motomanía"
 url: /la-plata/motomania/
-shop: motocicleta
+shop: Motorrad
 ---

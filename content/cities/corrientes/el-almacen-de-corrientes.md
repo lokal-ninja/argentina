@@ -1,5 +1,5 @@
 ---
 title: "El Almacén De Corrientes"
 url: /corrientes/el-almacen-de-corrientes/
-shop: supermercado
+shop: Supermarkt
 ---

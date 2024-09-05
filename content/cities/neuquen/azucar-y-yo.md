@@ -1,5 +1,5 @@
 ---
 title: "Azúcar y Yo"
 url: /neuquen/azucar-y-yo/
-shop: panadería
+shop: Bäckerei
 ---

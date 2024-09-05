@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /maquinista-savio/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tentación"
 url: /santos-lugares/tentacion/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
 url: /miramar/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

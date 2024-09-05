@@ -1,5 +1,5 @@
 ---
 title: "Vandalia"
 url: /rosario/vandalia/
-shop: ropa
+shop: Kleidung
 ---

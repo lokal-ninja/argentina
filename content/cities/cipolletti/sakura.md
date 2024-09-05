@@ -1,5 +1,5 @@
 ---
 title: "Sakura"
 url: /cipolletti/sakura/
-shop: cuarto de baño
+shop: Badezimmer
 ---

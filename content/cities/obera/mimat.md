@@ -1,5 +1,5 @@
 ---
 title: "MiMat"
 url: /obera/mimat/
-shop: comercio
+shop: Baustoffe
 ---

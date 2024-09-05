@@ -1,5 +1,5 @@
 ---
 title: "Changomás"
 url: /general-roca/changomas/
-shop: supermercado
+shop: Supermarkt
 ---

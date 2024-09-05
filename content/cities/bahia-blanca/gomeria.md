@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /bahia-blanca/gomeria/
-shop: neumáticos
+shop: Reifen
 ---

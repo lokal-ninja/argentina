@@ -1,5 +1,5 @@
 ---
 title: "Western Union"
 url: /ciudad-autonoma-de-buenos-aires/western-union-adolfo-alsina/
-shop: general
+shop: Allgemein
 ---

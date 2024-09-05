@@ -1,5 +1,5 @@
 ---
 title: "CompuNet"
 url: /concordia/compunet/
-shop: ordenador
+shop: Computer
 ---

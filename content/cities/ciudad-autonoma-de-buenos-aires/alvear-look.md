@@ -1,5 +1,5 @@
 ---
 title: "Alvear Look"
 url: /ciudad-autonoma-de-buenos-aires/alvear-look/
-shop: cosméticos
+shop: Kosmetik
 ---

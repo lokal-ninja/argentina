@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /glew/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

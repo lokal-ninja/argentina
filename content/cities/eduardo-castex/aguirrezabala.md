@@ -1,5 +1,5 @@
 ---
 title: "Aguirrezabala"
 url: /eduardo-castex/aguirrezabala/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

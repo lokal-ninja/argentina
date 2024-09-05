@@ -1,5 +1,5 @@
 ---
 title: "Téxtil Daly"
 url: /bahia-blanca/textil-daly/
-shop: tela
+shop: Textil
 ---

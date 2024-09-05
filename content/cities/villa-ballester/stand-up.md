@@ -1,5 +1,5 @@
 ---
 title: "Stand Up!"
 url: /villa-ballester/stand-up/
-shop: ropa
+shop: Kleidung
 ---

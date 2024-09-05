@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /victoria/dia/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /bahia-blanca/etam/
-shop: ropa
+shop: Kleidung
 ---

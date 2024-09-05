@@ -1,5 +1,5 @@
 ---
 title: "Sunset"
 url: /bahia-blanca/sunset/
-shop: suelos
+shop: Fußböden
 ---

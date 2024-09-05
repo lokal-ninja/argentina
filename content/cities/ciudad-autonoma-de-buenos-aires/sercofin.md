@@ -1,5 +1,5 @@
 ---
 title: "Sercofin"
 url: /ciudad-autonoma-de-buenos-aires/sercofin/
-shop: electrónica
+shop: Elektronik
 ---

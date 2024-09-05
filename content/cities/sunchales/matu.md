@@ -1,5 +1,5 @@
 ---
 title: "Matu"
 url: /sunchales/matu/
-shop: carnicero
+shop: Metzgerei
 ---

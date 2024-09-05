@@ -1,5 +1,5 @@
 ---
 title: "Colonial"
 url: /olivos/colonial/
-shop: helado
+shop: Eisprodukte
 ---

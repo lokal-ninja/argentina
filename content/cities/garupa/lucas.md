@@ -1,5 +1,5 @@
 ---
 title: "Lucas"
 url: /garupa/lucas/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robayna"
 url: /martinez/robayna/
-shop: coche
+shop: Autohaus
 ---

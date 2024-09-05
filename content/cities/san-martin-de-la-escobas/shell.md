@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-martin-de-la-escobas/shell/
-shop: comodidad
+shop: Lebensmittel
 ---

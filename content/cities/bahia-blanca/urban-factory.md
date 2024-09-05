@@ -1,5 +1,5 @@
 ---
 title: "Urban Factory"
 url: /bahia-blanca/urban-factory/
-shop: ropa
+shop: Kleidung
 ---

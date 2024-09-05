@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /las-heras/vea/
-shop: supermercado
+shop: Supermarkt
 ---

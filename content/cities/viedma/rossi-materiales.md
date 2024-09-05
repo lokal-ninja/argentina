@@ -1,5 +1,5 @@
 ---
 title: "Rossi Materiales"
 url: /viedma/rossi-materiales/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

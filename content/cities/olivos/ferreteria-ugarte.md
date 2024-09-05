@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ugarte"
 url: /olivos/ferreteria-ugarte/
-shop: hardware
+shop: Eisenwaren
 ---

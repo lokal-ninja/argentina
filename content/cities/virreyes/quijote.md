@@ -1,5 +1,5 @@
 ---
 title: "Quijote"
 url: /virreyes/quijote/
-shop: general
+shop: Allgemein
 ---

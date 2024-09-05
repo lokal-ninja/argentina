@@ -1,5 +1,5 @@
 ---
 title: "STG"
 url: /ciudad-autonoma-de-buenos-aires/stg/
-shop: eléctrico
+shop: Elektrisch
 ---

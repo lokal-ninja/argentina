@@ -1,5 +1,5 @@
 ---
 title: "Don Patrone"
 url: /villa-de-merlo/don-patrone/
-shop: general
+shop: Allgemein
 ---

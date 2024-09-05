@@ -1,5 +1,5 @@
 ---
 title: "Level Game"
 url: /punta-alta/level-game/
-shop: videojuegos
+shop: Videospiele
 ---

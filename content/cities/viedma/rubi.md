@@ -1,5 +1,5 @@
 ---
 title: "Rubí"
 url: /viedma/rubi/
-shop: cosméticos
+shop: Kosmetik
 ---

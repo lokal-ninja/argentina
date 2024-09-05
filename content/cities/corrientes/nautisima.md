@@ -1,5 +1,5 @@
 ---
 title: "Nautisima"
 url: /corrientes/nautisima/
-shop: barco
+shop: Boot
 ---

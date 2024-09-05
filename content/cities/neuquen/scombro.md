@@ -1,5 +1,5 @@
 ---
 title: "Scombro"
 url: /neuquen/scombro/
-shop: ropa
+shop: Kleidung
 ---

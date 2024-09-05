@@ -1,5 +1,5 @@
 ---
 title: "Gloss"
 url: /berazategui/gloss/
-shop: cosméticos
+shop: Kosmetik
 ---

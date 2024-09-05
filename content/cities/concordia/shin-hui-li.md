@@ -1,5 +1,5 @@
 ---
 title: "Shin Hui Li"
 url: /concordia/shin-hui-li/
-shop: artesanía
+shop: Basteln
 ---

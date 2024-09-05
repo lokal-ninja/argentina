@@ -1,5 +1,5 @@
 ---
 title: "Valmotors"
 url: /santa-fe/valmotors/
-shop: coche
+shop: Autohaus
 ---

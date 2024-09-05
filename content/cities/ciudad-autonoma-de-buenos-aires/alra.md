@@ -1,5 +1,5 @@
 ---
 title: "Alra"
 url: /ciudad-autonoma-de-buenos-aires/alra/
-shop: coche
+shop: Autohaus
 ---

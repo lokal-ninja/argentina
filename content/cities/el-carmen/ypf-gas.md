@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /el-carmen/ypf-gas/
-shop: gas
+shop: Gasflaschen
 ---

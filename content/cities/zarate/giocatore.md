@@ -1,5 +1,5 @@
 ---
 title: "giocatore"
 url: /zarate/giocatore/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teknopar"
 url: /concordia/teknopar/
-shop: puertas
+shop: Türen
 ---

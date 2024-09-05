@@ -1,5 +1,5 @@
 ---
 title: "Áureo"
 url: /viedma/aureo/
-shop: panadería
+shop: Bäckerei
 ---

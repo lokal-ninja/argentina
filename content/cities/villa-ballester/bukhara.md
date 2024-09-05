@@ -1,5 +1,5 @@
 ---
 title: "Bukhara"
 url: /villa-ballester/bukhara/
-shop: ropa
+shop: Kleidung
 ---

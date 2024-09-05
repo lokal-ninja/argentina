@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /gualeguay/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lujofe Autos"
 url: /villa-maipu/lujofe-autos/
-shop: coche
+shop: Autohaus
 ---

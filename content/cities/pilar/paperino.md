@@ -1,5 +1,5 @@
 ---
 title: "Paperino"
 url: /pilar/paperino/
-shop: motocicleta
+shop: Motorrad
 ---

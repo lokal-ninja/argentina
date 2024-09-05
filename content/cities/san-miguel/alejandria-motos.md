@@ -1,5 +1,5 @@
 ---
 title: "Alejandría Motos"
 url: /san-miguel/alejandria-motos/
-shop: motocicleta
+shop: Motorrad
 ---

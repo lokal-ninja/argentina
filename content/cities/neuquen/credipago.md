@@ -1,5 +1,5 @@
 ---
 title: "Credipago"
 url: /neuquen/credipago/
-shop: prestamista
+shop: Leiher
 ---

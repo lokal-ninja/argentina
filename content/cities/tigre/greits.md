@@ -1,5 +1,5 @@
 ---
 title: "Greit's"
 url: /tigre/greits/
-shop: zapatos
+shop: Schuhe
 ---

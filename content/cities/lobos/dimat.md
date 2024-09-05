@@ -1,5 +1,5 @@
 ---
 title: "Dimat"
 url: /lobos/dimat/
-shop: charcutería
+shop: Feinkost
 ---

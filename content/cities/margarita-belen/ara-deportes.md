@@ -1,5 +1,5 @@
 ---
 title: "Ara Deportes"
 url: /margarita-belen/ara-deportes/
-shop: ropa
+shop: Kleidung
 ---

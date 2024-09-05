@@ -1,5 +1,5 @@
 ---
 title: "Luisito"
 url: /viedma/luisito/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /rosario/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

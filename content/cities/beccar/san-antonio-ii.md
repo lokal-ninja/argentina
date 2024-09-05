@@ -1,5 +1,5 @@
 ---
 title: "San Antonio II"
 url: /beccar/san-antonio-ii/
-shop: pastelería
+shop: Konditorei
 ---

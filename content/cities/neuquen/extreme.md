@@ -1,5 +1,5 @@
 ---
 title: "Extreme"
 url: /neuquen/extreme/
-shop: ropa
+shop: Kleidung
 ---

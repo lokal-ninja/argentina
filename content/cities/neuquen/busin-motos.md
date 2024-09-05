@@ -1,5 +1,5 @@
 ---
 title: "Busin Motos"
 url: /neuquen/busin-motos/
-shop: motocicleta
+shop: Motorrad
 ---

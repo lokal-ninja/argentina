@@ -1,5 +1,5 @@
 ---
 title: "Droguería Obera"
 url: /obera/drogueria-obera/
-shop: farmacia
+shop: Drogerie
 ---

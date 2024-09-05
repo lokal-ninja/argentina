@@ -1,5 +1,5 @@
 ---
 title: "Dash"
 url: /virreyes/dash/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gal"
 url: /ciudad-autonoma-de-buenos-aires/gal/
-shop: zapatos
+shop: Schuhe
 ---

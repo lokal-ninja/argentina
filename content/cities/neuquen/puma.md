@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /neuquen/puma/
-shop: ropa
+shop: Kleidung
 ---

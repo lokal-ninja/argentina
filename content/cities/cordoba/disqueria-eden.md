@@ -1,5 +1,5 @@
 ---
 title: "Disquería Edén"
 url: /cordoba/disqueria-eden/
-shop: música
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aberturas San Lorenzo"
 url: /concordia/aberturas-san-lorenzo/
-shop: puertas
+shop: Türen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Pekes"
 url: /beccar/los-pekes/
-shop: fiesta
+shop: Partyzubehör
 ---

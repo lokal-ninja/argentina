@@ -1,5 +1,5 @@
 ---
 title: "Perez"
 url: /rufino/perez/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /sunchales/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

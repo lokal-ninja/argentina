@@ -1,5 +1,5 @@
 ---
 title: "Caro Cuore"
 url: /neuquen/caro-cuore/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Changomás"
 url: /burzaco/changomas/
-shop: supermercado
+shop: Supermarkt
 ---

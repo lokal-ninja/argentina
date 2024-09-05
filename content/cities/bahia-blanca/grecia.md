@@ -1,5 +1,5 @@
 ---
 title: "Grecia"
 url: /bahia-blanca/grecia/
-shop: ropa
+shop: Kleidung
 ---

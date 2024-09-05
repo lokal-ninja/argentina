@@ -1,5 +1,5 @@
 ---
 title: "SADE Estilo Urbano"
 url: /cipolletti/sade-estilo-urbano/
-shop: ropa
+shop: Kleidung
 ---

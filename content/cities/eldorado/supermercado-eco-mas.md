@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Eco Más"
 url: /eldorado/supermercado-eco-mas/
-shop: supermercado
+shop: Supermarkt
 ---

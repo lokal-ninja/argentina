@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
 url: /ciudad-autonoma-de-buenos-aires/bosch/
-shop: hardware
+shop: Eisenwaren
 ---

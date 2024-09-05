@@ -1,5 +1,5 @@
 ---
 title: "Gavo"
 url: /ciudad-autonoma-de-buenos-aires/gavo/
-shop: general
+shop: Allgemein
 ---

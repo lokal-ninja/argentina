@@ -1,5 +1,5 @@
 ---
 title: "El Mercado"
 url: /rosario/el-mercado/
-shop: frutería
+shop: Gemüse & Obst
 ---

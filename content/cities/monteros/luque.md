@@ -1,5 +1,5 @@
 ---
 title: "Luque"
 url: /monteros/luque/
-shop: supermercado
+shop: Supermarkt
 ---

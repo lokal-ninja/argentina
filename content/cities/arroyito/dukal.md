@@ -1,5 +1,5 @@
 ---
 title: "Dukal"
 url: /arroyito/dukal/
-shop: farmacia
+shop: Drogerie
 ---

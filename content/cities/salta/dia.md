@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /salta/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Once"
 url: /ciudad-autonoma-de-buenos-aires/carniceria-once/
-shop: carnicero
+shop: Metzgerei
 ---

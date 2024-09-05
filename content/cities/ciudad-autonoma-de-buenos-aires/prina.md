@@ -1,5 +1,5 @@
 ---
 title: "Prina"
 url: /ciudad-autonoma-de-buenos-aires/prina/
-shop: muebles
+shop: Möbel
 ---

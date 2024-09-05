@@ -1,5 +1,5 @@
 ---
 title: "Tan Natural"
 url: /tigre/tan-natural/
-shop: general
+shop: Allgemein
 ---

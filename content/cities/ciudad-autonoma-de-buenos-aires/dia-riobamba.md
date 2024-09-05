@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /ciudad-autonoma-de-buenos-aires/dia-riobamba/
-shop: supermercado
+shop: Supermarkt
 ---

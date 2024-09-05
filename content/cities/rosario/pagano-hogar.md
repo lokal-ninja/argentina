@@ -1,5 +1,5 @@
 ---
 title: "Pagano Hogar"
 url: /rosario/pagano-hogar/
-shop: comodidad
+shop: Lebensmittel
 ---

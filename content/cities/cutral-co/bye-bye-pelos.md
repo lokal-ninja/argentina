@@ -1,5 +1,5 @@
 ---
 title: "Bye Bye Pelos"
 url: /cutral-co/bye-bye-pelos/
-shop: peluquería
+shop: Friseur
 ---

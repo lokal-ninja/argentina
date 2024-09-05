@@ -1,5 +1,5 @@
 ---
 title: "Su Vecina"
 url: /san-antonio-de-padua/su-vecina/
-shop: supermercado
+shop: Supermarkt
 ---

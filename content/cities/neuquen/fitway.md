@@ -1,5 +1,5 @@
 ---
 title: "Fitway"
 url: /neuquen/fitway/
-shop: ropa
+shop: Kleidung
 ---

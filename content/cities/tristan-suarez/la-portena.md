@@ -1,5 +1,5 @@
 ---
 title: "La Porteña"
 url: /tristan-suarez/la-portena/
-shop: supermercado
+shop: Supermarkt
 ---

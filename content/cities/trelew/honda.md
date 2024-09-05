@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /trelew/honda/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /neuquen/eclipse/
-shop: ropa
+shop: Kleidung
 ---

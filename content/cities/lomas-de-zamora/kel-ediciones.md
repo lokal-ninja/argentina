@@ -1,5 +1,5 @@
 ---
 title: "KEL Ediciones"
 url: /lomas-de-zamora/kel-ediciones/
-shop: libros
+shop: Bücher
 ---

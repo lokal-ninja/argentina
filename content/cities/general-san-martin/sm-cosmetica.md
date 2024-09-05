@@ -1,5 +1,5 @@
 ---
 title: "SM Cosmetica"
 url: /general-san-martin/sm-cosmetica/
-shop: cosméticos
+shop: Kosmetik
 ---

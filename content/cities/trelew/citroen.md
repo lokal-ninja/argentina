@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /trelew/citroen/
-shop: coche
+shop: Autohaus
 ---

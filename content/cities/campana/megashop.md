@@ -1,5 +1,5 @@
 ---
 title: "Megashop"
 url: /campana/megashop/
-shop: general
+shop: Allgemein
 ---

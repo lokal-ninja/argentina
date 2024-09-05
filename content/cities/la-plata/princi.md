@@ -1,5 +1,5 @@
 ---
 title: "Princi"
 url: /la-plata/princi/
-shop: hardware
+shop: Eisenwaren
 ---

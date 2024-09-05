@@ -1,5 +1,5 @@
 ---
 title: "CF"
 url: /ciudad-autonoma-de-buenos-aires/cf/
-shop: muebles
+shop: Möbel
 ---

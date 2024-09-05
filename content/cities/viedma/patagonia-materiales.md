@@ -1,5 +1,5 @@
 ---
 title: "Patagonia Materiales"
 url: /viedma/patagonia-materiales/
-shop: comercio
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /maipu/vea/
-shop: supermercado
+shop: Supermarkt
 ---

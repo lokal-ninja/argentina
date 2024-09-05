@@ -1,5 +1,5 @@
 ---
 title: "Al Toque II"
 url: /ramos-mejia/al-toque-ii/
-shop: lotería
+shop: Lotterie
 ---

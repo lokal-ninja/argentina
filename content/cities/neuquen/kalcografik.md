@@ -1,5 +1,5 @@
 ---
 title: "Kalcografik"
 url: /neuquen/kalcografik/
-shop: copyshop
+shop: Kopieren
 ---

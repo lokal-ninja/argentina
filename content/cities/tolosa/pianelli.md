@@ -1,5 +1,5 @@
 ---
 title: "Pianelli"
 url: /tolosa/pianelli/
-shop: bicicleta
+shop: Fahrrad
 ---

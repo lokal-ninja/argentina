@@ -1,5 +1,5 @@
 ---
 title: "Irupé"
 url: /obera/irupe/
-shop: frutería
+shop: Gemüse & Obst
 ---

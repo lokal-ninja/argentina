@@ -1,5 +1,5 @@
 ---
 title: "Maquimar"
 url: /ezeiza/maquimar/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lemon"
 url: /maquinista-savio/lemon/
-shop: pastelería
+shop: Konditorei
 ---

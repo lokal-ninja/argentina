@@ -1,5 +1,5 @@
 ---
 title: "Distrilac"
 url: /rufino/distrilac/
-shop: queso
+shop: Käse
 ---

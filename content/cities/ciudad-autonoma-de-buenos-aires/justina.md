@@ -1,5 +1,5 @@
 ---
 title: "Justina"
 url: /ciudad-autonoma-de-buenos-aires/justina/
-shop: ropa
+shop: Kleidung
 ---

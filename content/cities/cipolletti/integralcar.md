@@ -1,5 +1,5 @@
 ---
 title: "IntegralCar"
 url: /cipolletti/integralcar/
-shop: piezas de automóviles
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fedra"
 url: /rosario/fedra/
-shop: cosméticos
+shop: Kosmetik
 ---

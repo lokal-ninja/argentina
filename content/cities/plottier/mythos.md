@@ -1,5 +1,5 @@
 ---
 title: "Mythos"
 url: /plottier/mythos/
-shop: ropa
+shop: Kleidung
 ---

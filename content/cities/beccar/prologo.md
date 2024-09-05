@@ -1,5 +1,5 @@
 ---
 title: "Prólogo"
 url: /beccar/prologo/
-shop: libros
+shop: Bücher
 ---

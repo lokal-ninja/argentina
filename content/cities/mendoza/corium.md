@@ -1,5 +1,5 @@
 ---
 title: "Corium"
 url: /mendoza/corium/
-shop: ropa
+shop: Kleidung
 ---

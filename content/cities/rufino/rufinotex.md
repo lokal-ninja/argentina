@@ -1,5 +1,5 @@
 ---
 title: "Rufinotex"
 url: /rufino/rufinotex/
-shop: tela
+shop: Textil
 ---

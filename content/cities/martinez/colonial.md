@@ -1,5 +1,5 @@
 ---
 title: "Colonial"
 url: /martinez/colonial/
-shop: helado
+shop: Eisprodukte
 ---

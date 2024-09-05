@@ -1,5 +1,5 @@
 ---
 title: "Barbería El Polaco"
 url: /bernal/barberia-el-polaco/
-shop: peluquería
+shop: Friseur
 ---

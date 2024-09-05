@@ -1,5 +1,5 @@
 ---
 title: "Domus"
 url: /rosario/domus/
-shop: muebles
+shop: Möbel
 ---

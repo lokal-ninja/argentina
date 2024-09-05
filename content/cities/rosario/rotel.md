@@ -1,5 +1,5 @@
 ---
 title: "Rotel"
 url: /rosario/rotel/
-shop: ropa
+shop: Kleidung
 ---

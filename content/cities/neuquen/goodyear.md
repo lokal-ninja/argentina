@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /neuquen/goodyear/
-shop: neumáticos
+shop: Reifen
 ---

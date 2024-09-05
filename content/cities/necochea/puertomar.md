@@ -1,5 +1,5 @@
 ---
 title: "Puertomar"
 url: /necochea/puertomar/
-shop: supermercado
+shop: Supermarkt
 ---

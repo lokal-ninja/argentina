@@ -1,5 +1,5 @@
 ---
 title: "JGP"
 url: /ciudad-autonoma-de-buenos-aires/jgp/
-shop: agente inmobiliario
+shop: Immobilien
 ---

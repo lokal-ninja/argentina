@@ -1,5 +1,5 @@
 ---
 title: "Caromar"
 url: /neuquen/caromar/
-shop: mayorista
+shop: Großhandel
 ---

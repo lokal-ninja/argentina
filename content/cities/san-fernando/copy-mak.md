@@ -1,5 +1,5 @@
 ---
 title: "Copy-Mak"
 url: /san-fernando/copy-mak/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gasiloche"
 url: /san-carlos-de-barioche/gasiloche/
-shop: hardware
+shop: Eisenwaren
 ---

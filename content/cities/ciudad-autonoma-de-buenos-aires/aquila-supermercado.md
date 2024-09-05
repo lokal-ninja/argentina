@@ -1,5 +1,5 @@
 ---
 title: "Aquila Supermercado"
 url: /ciudad-autonoma-de-buenos-aires/aquila-supermercado/
-shop: supermercado
+shop: Supermarkt
 ---

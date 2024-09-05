@@ -1,5 +1,5 @@
 ---
 title: "Sport Maniac"
 url: /martinez/sport-maniac/
-shop: deportes
+shop: Sport
 ---

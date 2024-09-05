@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /concordia/dia/
-shop: supermercado
+shop: Supermarkt
 ---

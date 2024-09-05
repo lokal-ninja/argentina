@@ -1,5 +1,5 @@
 ---
 title: "Cardon"
 url: /mendoza/cardon/
-shop: ropa
+shop: Kleidung
 ---

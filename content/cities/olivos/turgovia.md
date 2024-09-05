@@ -1,5 +1,5 @@
 ---
 title: "Turgovia"
 url: /olivos/turgovia/
-shop: ropa
+shop: Kleidung
 ---

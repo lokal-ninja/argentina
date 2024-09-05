@@ -1,5 +1,5 @@
 ---
 title: "El Tano"
 url: /lomas-de-zamora/el-tano/
-shop: comodidad
+shop: Lebensmittel
 ---

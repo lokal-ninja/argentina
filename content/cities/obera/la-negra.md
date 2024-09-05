@@ -1,5 +1,5 @@
 ---
 title: "La Negra"
 url: /obera/la-negra/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Fonda"
 url: /bahia-blanca/la-fonda/
-shop: queso
+shop: Käse
 ---

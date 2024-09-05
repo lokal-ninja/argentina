@@ -1,5 +1,5 @@
 ---
 title: "Riveiro"
 url: /obera/riveiro/
-shop: aparato
+shop: Haushaltsgeräte
 ---

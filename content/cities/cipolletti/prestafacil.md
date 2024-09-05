@@ -1,5 +1,5 @@
 ---
 title: "PrestaFácil"
 url: /cipolletti/prestafacil/
-shop: prestamista
+shop: Leiher
 ---

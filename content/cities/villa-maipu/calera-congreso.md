@@ -1,5 +1,5 @@
 ---
 title: "Calera Congreso"
 url: /villa-maipu/calera-congreso/
-shop: comercio
+shop: Baustoffe
 ---

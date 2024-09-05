@@ -1,5 +1,5 @@
 ---
 title: "Barni"
 url: /san-benito/barni/
-shop: supermercado
+shop: Supermarkt
 ---

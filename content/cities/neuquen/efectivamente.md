@@ -1,5 +1,5 @@
 ---
 title: "Efectivamente"
 url: /neuquen/efectivamente/
-shop: prestamista
+shop: Leiher
 ---

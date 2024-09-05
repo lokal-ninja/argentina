@@ -1,5 +1,5 @@
 ---
 title: "Lubet"
 url: /la-tablada/lubet/
-shop: bicicleta
+shop: Fahrrad
 ---

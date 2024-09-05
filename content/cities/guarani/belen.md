@@ -1,5 +1,5 @@
 ---
 title: "Belen"
 url: /guarani/belen/
-shop: zapatos
+shop: Schuhe
 ---

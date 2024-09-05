@@ -1,5 +1,5 @@
 ---
 title: "CP"
 url: /ciudad-autonoma-de-buenos-aires/cp/
-shop: general
+shop: Allgemein
 ---

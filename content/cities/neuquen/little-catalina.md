@@ -1,5 +1,5 @@
 ---
 title: "Little Catalina"
 url: /neuquen/little-catalina/
-shop: ropa
+shop: Kleidung
 ---

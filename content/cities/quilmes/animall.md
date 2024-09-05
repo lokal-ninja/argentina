@@ -1,5 +1,5 @@
 ---
 title: "Animall"
 url: /quilmes/animall/
-shop: mascotas
+shop: Tiere
 ---

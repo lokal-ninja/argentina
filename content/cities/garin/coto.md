@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /garin/coto/
-shop: supermercado
+shop: Supermarkt
 ---

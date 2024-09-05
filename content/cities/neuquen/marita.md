@@ -1,5 +1,5 @@
 ---
 title: "Marita"
 url: /neuquen/marita/
-shop: ropa
+shop: Kleidung
 ---

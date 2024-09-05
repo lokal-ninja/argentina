@@ -1,5 +1,5 @@
 ---
 title: "Robinson"
 url: /rosario/robinson/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fernández"
 url: /pirane/fernandez/
-shop: supermercado
+shop: Supermarkt
 ---

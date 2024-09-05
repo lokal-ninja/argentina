@@ -1,5 +1,5 @@
 ---
 title: "Guinda y Taco"
 url: /viedma/guinda-y-taco/
-shop: ropa
+shop: Kleidung
 ---

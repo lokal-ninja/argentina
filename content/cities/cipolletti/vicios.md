@@ -1,5 +1,5 @@
 ---
 title: "Vicios"
 url: /cipolletti/vicios/
-shop: confitería
+shop: Süßwaren
 ---

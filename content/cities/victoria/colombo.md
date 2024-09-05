@@ -1,5 +1,5 @@
 ---
 title: "Colombo"
 url: /victoria/colombo/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---

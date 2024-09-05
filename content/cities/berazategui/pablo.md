@@ -1,5 +1,5 @@
 ---
 title: "Pablo"
 url: /berazategui/pablo/
-shop: helado
+shop: Eisprodukte
 ---

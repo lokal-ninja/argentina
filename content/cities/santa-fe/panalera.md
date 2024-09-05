@@ -1,5 +1,5 @@
 ---
 title: "Pañalera"
 url: /santa-fe/panalera/
-shop: comodidad
+shop: Lebensmittel
 ---

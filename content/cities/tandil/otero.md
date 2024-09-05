@@ -1,5 +1,5 @@
 ---
 title: "Otero"
 url: /tandil/otero/
-shop: electrónica
+shop: Elektronik
 ---

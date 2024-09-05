@@ -1,5 +1,5 @@
 ---
 title: "Tommy"
 url: /cordoba-saldan/tommy/
-shop: carnicero
+shop: Metzgerei
 ---

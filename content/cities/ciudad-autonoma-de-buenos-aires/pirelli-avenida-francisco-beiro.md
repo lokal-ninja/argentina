@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /ciudad-autonoma-de-buenos-aires/pirelli-avenida-francisco-beiro/
-shop: neumáticos
+shop: Reifen
 ---

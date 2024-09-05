@@ -1,5 +1,5 @@
 ---
 title: "Yenny"
 url: /trelew/yenny/
-shop: libros
+shop: Bücher
 ---

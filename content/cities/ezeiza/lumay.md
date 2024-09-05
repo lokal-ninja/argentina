@@ -1,5 +1,5 @@
 ---
 title: "Lumay"
 url: /ezeiza/lumay/
-shop: general
+shop: Allgemein
 ---

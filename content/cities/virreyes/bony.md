@@ -1,5 +1,5 @@
 ---
 title: "Bony"
 url: /virreyes/bony/
-shop: peluquería
+shop: Friseur
 ---

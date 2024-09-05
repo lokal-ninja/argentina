@@ -1,5 +1,5 @@
 ---
 title: "Yaguar"
 url: /neuquen/yaguar/
-shop: mayorista
+shop: Großhandel
 ---

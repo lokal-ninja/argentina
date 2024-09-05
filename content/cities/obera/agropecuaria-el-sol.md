@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria El Sol"
 url: /obera/agropecuaria-el-sol/
-shop: comercio
+shop: Baustoffe
 ---

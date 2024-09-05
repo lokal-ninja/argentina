@@ -1,5 +1,5 @@
 ---
 title: "XL"
 url: /viedma/xl/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marani"
 url: /rosario/marani/
-shop: óptico
+shop: Optiker
 ---

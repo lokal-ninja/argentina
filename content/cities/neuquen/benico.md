@@ -1,5 +1,5 @@
 ---
 title: "BeniCo"
 url: /neuquen/benico/
-shop: ropa
+shop: Kleidung
 ---

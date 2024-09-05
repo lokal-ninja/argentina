@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /san-isidro/alcampo/
-shop: frutería
+shop: Gemüse & Obst
 ---

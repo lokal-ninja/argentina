@@ -1,5 +1,5 @@
 ---
 title: "Verdulería"
 url: /longchamps/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

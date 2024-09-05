@@ -1,5 +1,5 @@
 ---
 title: "Tecnoóptica"
 url: /zapala/tecnooptica/
-shop: óptico
+shop: Optiker
 ---

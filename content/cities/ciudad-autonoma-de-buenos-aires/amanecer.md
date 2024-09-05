@@ -1,5 +1,5 @@
 ---
 title: "Amanecer"
 url: /ciudad-autonoma-de-buenos-aires/amanecer/
-shop: supermercado
+shop: Supermarkt
 ---

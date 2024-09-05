@@ -1,5 +1,5 @@
 ---
 title: "Oculus"
 url: /olivos/oculus/
-shop: óptico
+shop: Optiker
 ---

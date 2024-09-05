@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /cipolletti/vea/
-shop: supermercado
+shop: Supermarkt
 ---

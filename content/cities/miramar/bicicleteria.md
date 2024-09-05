@@ -1,5 +1,5 @@
 ---
 title: "Bicicleteria"
 url: /miramar/bicicleteria/
-shop: bicicleta
+shop: Fahrrad
 ---

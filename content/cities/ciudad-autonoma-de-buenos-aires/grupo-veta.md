@@ -1,5 +1,5 @@
 ---
 title: "Grupo Veta"
 url: /ciudad-autonoma-de-buenos-aires/grupo-veta/
-shop: muebles
+shop: Möbel
 ---

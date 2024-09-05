@@ -1,5 +1,5 @@
 ---
 title: "ColorStudio"
 url: /rosario/colorstudio/
-shop: pintura
+shop: Farben
 ---

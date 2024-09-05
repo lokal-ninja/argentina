@@ -1,5 +1,5 @@
 ---
 title: "Extinfuego"
 url: /martinez/extinfuego/
-shop: seguridad
+shop: Sicherheit
 ---

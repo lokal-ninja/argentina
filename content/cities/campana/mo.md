@@ -1,5 +1,5 @@
 ---
 title: "Mo"
 url: /campana/mo/
-shop: zapatos
+shop: Schuhe
 ---

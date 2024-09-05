@@ -1,5 +1,5 @@
 ---
 title: "Porteña"
 url: /viedma/portena/
-shop: ropa
+shop: Kleidung
 ---

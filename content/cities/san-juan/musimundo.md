@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /san-juan/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

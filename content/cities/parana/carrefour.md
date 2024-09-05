@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /parana/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

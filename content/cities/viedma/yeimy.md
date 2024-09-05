@@ -1,5 +1,5 @@
 ---
 title: "Yeimy"
 url: /viedma/yeimy/
-shop: frutería
+shop: Gemüse & Obst
 ---

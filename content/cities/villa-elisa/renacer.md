@@ -1,5 +1,5 @@
 ---
 title: "Renacer"
 url: /villa-elisa/renacer/
-shop: supermercado
+shop: Supermarkt
 ---

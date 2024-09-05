@@ -1,5 +1,5 @@
 ---
 title: "Famacon"
 url: /obera/famacon/
-shop: comercio
+shop: Baustoffe
 ---

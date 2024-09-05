@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Ocampo"
 url: /santa-fe/neumaticos-ocampo/
-shop: neumáticos
+shop: Reifen
 ---

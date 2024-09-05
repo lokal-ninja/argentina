@@ -1,5 +1,5 @@
 ---
 title: "Óptica San Martín"
 url: /bahia-blanca/optica-san-martin/
-shop: óptico
+shop: Optiker
 ---

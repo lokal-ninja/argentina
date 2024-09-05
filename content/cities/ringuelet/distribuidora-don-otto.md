@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Don Otto"
 url: /ringuelet/distribuidora-don-otto/
-shop: supermercado
+shop: Supermarkt
 ---

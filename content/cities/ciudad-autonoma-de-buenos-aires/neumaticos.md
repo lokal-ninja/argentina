@@ -1,5 +1,5 @@
 ---
 title: "Neumaticos"
 url: /ciudad-autonoma-de-buenos-aires/neumaticos/
-shop: neumáticos
+shop: Reifen
 ---

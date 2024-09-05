@@ -1,5 +1,5 @@
 ---
 title: "Amp II"
 url: /adrogue/amp-ii/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicletería Martín"
 url: /cipolletti/bicicleteria-martin/
-shop: bicicleta
+shop: Fahrrad
 ---

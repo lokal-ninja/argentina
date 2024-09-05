@@ -1,5 +1,5 @@
 ---
 title: "Vashnus"
 url: /obera/vashnus/
-shop: ropa
+shop: Kleidung
 ---

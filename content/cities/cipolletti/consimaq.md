@@ -1,5 +1,5 @@
 ---
 title: "Consimaq"
 url: /cipolletti/consimaq/
-shop: agraria
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iman"
 url: /ciudad-autonoma-de-buenos-aires/iman/
-shop: ropa
+shop: Kleidung
 ---

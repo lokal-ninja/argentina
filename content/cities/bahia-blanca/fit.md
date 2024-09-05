@@ -1,5 +1,5 @@
 ---
 title: "Fit!"
 url: /bahia-blanca/fit/
-shop: ropa
+shop: Kleidung
 ---

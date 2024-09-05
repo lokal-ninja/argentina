@@ -1,5 +1,5 @@
 ---
 title: "Radio Colonia"
 url: /bahia-blanca/radio-colonia/
-shop: radiotecnia
+shop: Radiotechnik
 ---

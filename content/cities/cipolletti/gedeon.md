@@ -1,5 +1,5 @@
 ---
 title: "Gedeón"
 url: /cipolletti/gedeon/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gasoleros"
 url: /neuquen/gasoleros/
-shop: ropa
+shop: Kleidung
 ---

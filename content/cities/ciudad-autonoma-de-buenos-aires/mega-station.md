@@ -1,5 +1,5 @@
 ---
 title: "Mega Station"
 url: /ciudad-autonoma-de-buenos-aires/mega-station/
-shop: teléfono móvil
+shop: Handy
 ---

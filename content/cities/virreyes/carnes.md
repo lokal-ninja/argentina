@@ -1,5 +1,5 @@
 ---
 title: "Carnes"
 url: /virreyes/carnes/
-shop: carnicero
+shop: Metzgerei
 ---

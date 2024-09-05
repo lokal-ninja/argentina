@@ -1,5 +1,5 @@
 ---
 title: "Pesce"
 url: /ciudad-autonoma-de-buenos-aires/pesce/
-shop: general
+shop: Allgemein
 ---

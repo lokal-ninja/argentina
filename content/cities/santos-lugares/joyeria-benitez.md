@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Benítez"
 url: /santos-lugares/joyeria-benitez/
-shop: joyería
+shop: Schmuck
 ---

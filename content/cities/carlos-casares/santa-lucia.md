@@ -1,5 +1,5 @@
 ---
 title: "Santa Lucía"
 url: /carlos-casares/santa-lucia/
-shop: supermercado
+shop: Supermarkt
 ---

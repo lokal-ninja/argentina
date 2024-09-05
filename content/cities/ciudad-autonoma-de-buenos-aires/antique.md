@@ -1,5 +1,5 @@
 ---
 title: "Antique"
 url: /ciudad-autonoma-de-buenos-aires/antique/
-shop: muebles
+shop: Möbel
 ---

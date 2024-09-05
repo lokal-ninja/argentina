@@ -1,5 +1,5 @@
 ---
 title: "Doña Ana"
 url: /garupa/dona-ana/
-shop: panadería
+shop: Bäckerei
 ---

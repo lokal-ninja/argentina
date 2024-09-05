@@ -1,5 +1,5 @@
 ---
 title: "Pope Pizzas"
 url: /rio-grande/pope-pizzas/
-shop: charcutería
+shop: Feinkost
 ---

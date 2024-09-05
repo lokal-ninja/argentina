@@ -1,5 +1,5 @@
 ---
 title: "El Sol"
 url: /esquina/el-sol/
-shop: supermercado
+shop: Supermarkt
 ---

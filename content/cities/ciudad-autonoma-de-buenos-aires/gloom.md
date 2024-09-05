@@ -1,5 +1,5 @@
 ---
 title: "Gloom"
 url: /ciudad-autonoma-de-buenos-aires/gloom/
-shop: ropa
+shop: Kleidung
 ---

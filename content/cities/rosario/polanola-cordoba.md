@@ -1,5 +1,5 @@
 ---
 title: "Polanola"
 url: /rosario/polanola-cordoba/
-shop: ropa
+shop: Kleidung
 ---

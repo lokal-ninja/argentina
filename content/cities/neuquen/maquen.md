@@ -1,5 +1,5 @@
 ---
 title: "Maquen"
 url: /neuquen/maquen/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

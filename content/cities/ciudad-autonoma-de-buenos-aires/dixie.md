@@ -1,5 +1,5 @@
 ---
 title: "Dixie"
 url: /ciudad-autonoma-de-buenos-aires/dixie/
-shop: peluquería
+shop: Friseur
 ---

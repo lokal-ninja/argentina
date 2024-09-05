@@ -1,5 +1,5 @@
 ---
 title: "JB"
 url: /garupa/jb/
-shop: supermercado
+shop: Supermarkt
 ---

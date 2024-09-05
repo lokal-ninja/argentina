@@ -1,5 +1,5 @@
 ---
 title: "Maitess"
 url: /santa-fe/maitess/
-shop: muebles
+shop: Möbel
 ---

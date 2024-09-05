@@ -1,5 +1,5 @@
 ---
 title: "Fermat"
 url: /neuquen/fermat/
-shop: hardware
+shop: Eisenwaren
 ---

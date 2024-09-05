@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /concordia/vea/
-shop: supermercado
+shop: Supermarkt
 ---

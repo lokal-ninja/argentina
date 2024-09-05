@@ -1,5 +1,5 @@
 ---
 title: "Bosch Norte"
 url: /martinez/bosch-norte/
-shop: general
+shop: Allgemein
 ---

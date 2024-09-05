@@ -1,5 +1,5 @@
 ---
 title: "Peper Point"
 url: /vicente-lopez/peper-point/
-shop: vacante
+shop: Leerstehend
 ---

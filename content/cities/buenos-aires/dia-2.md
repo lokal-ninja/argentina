@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /buenos-aires/dia-2/
-shop: supermercado
+shop: Supermarkt
 ---

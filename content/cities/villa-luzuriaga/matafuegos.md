@@ -1,5 +1,5 @@
 ---
 title: "Matafuegos"
 url: /villa-luzuriaga/matafuegos/
-shop: hardware
+shop: Eisenwaren
 ---

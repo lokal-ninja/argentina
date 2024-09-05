@@ -1,5 +1,5 @@
 ---
 title: "Ofna"
 url: /neuquen/ofna/
-shop: ropa
+shop: Kleidung
 ---

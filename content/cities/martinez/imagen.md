@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /martinez/imagen/
-shop: pintura
+shop: Farben
 ---

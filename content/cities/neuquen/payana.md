@@ -1,5 +1,5 @@
 ---
 title: "Payana"
 url: /neuquen/payana/
-shop: ropa
+shop: Kleidung
 ---

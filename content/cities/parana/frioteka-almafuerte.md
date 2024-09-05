@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /parana/frioteka-almafuerte/
-shop: alimentos congelados
+shop: Tiefkühl
 ---

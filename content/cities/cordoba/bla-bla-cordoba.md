@@ -1,5 +1,5 @@
 ---
 title: "Bla bla Cordoba"
 url: /cordoba/bla-bla-cordoba/
-shop: electrónica
+shop: Elektronik
 ---

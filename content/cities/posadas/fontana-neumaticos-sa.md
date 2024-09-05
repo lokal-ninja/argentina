@@ -1,5 +1,5 @@
 ---
 title: "Fontana Neumáticos SA"
 url: /posadas/fontana-neumaticos-sa/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicentenario"
 url: /lobos/bicentenario/
-shop: frutería
+shop: Gemüse & Obst
 ---

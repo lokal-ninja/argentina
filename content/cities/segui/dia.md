@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /segui/dia/
-shop: supermercado
+shop: Supermarkt
 ---

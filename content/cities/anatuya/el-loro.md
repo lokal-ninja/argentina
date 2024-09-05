@@ -1,5 +1,5 @@
 ---
 title: "El Loro"
 url: /anatuya/el-loro/
-shop: carnicero
+shop: Metzgerei
 ---

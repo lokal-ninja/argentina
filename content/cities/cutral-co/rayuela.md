@@ -1,5 +1,5 @@
 ---
 title: "Rayuela"
 url: /cutral-co/rayuela/
-shop: ropa
+shop: Kleidung
 ---

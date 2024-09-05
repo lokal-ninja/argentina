@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /beccar/imagen/
-shop: pintura
+shop: Farben
 ---

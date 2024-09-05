@@ -1,5 +1,5 @@
 ---
 title: "Depilcare"
 url: /neuquen/depilcare/
-shop: cosméticos
+shop: Kosmetik
 ---

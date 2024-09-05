@@ -1,5 +1,5 @@
 ---
 title: "Flipper"
 url: /neuquen/flipper/
-shop: juguetes
+shop: Spielzeug
 ---

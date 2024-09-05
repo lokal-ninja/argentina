@@ -1,5 +1,5 @@
 ---
 title: "La Moderna"
 url: /neuquen/la-moderna/
-shop: decoración interior
+shop: Raumausstattung
 ---

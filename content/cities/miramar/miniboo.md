@@ -1,5 +1,5 @@
 ---
 title: "Miniboo"
 url: /miramar/miniboo/
-shop: ropa
+shop: Kleidung
 ---

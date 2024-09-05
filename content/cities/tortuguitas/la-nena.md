@@ -1,5 +1,5 @@
 ---
 title: "La Nena"
 url: /tortuguitas/la-nena/
-shop: carnicero
+shop: Metzgerei
 ---

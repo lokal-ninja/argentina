@@ -1,5 +1,5 @@
 ---
 title: "La Barraca"
 url: /villa-la-bolsa/la-barraca/
-shop: frutería
+shop: Gemüse & Obst
 ---

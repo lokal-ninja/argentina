@@ -1,5 +1,5 @@
 ---
 title: "Sendai"
 url: /lanus/sendai-avenida-hipolito-yrigoyen/
-shop: coche
+shop: Autohaus
 ---

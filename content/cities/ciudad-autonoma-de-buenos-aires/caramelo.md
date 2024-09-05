@@ -1,5 +1,5 @@
 ---
 title: "Caramelo"
 url: /ciudad-autonoma-de-buenos-aires/caramelo/
-shop: fiesta
+shop: Partyzubehör
 ---

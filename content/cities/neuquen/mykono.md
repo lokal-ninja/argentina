@@ -1,5 +1,5 @@
 ---
 title: "Mykono"
 url: /neuquen/mykono/
-shop: ropa
+shop: Kleidung
 ---

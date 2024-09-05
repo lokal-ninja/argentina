@@ -1,5 +1,5 @@
 ---
 title: "Casa Fetty"
 url: /ramos-mejia/casa-fetty/
-shop: hardware
+shop: Eisenwaren
 ---

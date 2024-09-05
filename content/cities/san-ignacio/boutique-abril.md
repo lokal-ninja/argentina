@@ -1,5 +1,5 @@
 ---
 title: "Boutique Abril"
 url: /san-ignacio/boutique-abril/
-shop: ropa
+shop: Kleidung
 ---

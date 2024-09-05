@@ -1,5 +1,5 @@
 ---
 title: "Cybilla"
 url: /trelew/cybilla/
-shop: ropa
+shop: Kleidung
 ---

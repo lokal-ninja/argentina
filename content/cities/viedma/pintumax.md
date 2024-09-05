@@ -1,5 +1,5 @@
 ---
 title: "Pintumax"
 url: /viedma/pintumax/
-shop: pintura
+shop: Farben
 ---

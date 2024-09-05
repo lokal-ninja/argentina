@@ -1,5 +1,5 @@
 ---
 title: "Reutemann"
 url: /rosario/reutemann/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /martinez/select-avenida-del-libertador/
-shop: comodidad
+shop: Lebensmittel
 ---

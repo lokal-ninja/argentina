@@ -1,5 +1,5 @@
 ---
 title: "Madame"
 url: /neuquen/madame/
-shop: ropa
+shop: Kleidung
 ---

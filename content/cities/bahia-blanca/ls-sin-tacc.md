@@ -1,5 +1,5 @@
 ---
 title: "LS sin tacc"
 url: /bahia-blanca/ls-sin-tacc/
-shop: panadería
+shop: Bäckerei
 ---

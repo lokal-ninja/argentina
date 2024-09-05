@@ -1,5 +1,5 @@
 ---
 title: "Sarkany"
 url: /santa-rosa/sarkany/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicletería"
 url: /san-miguel-del-monte/bicicleteria/
-shop: bicicleta
+shop: Fahrrad
 ---

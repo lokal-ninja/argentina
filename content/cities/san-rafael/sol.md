@@ -1,5 +1,5 @@
 ---
 title: "Sol"
 url: /san-rafael/sol/
-shop: carnicero
+shop: Metzgerei
 ---

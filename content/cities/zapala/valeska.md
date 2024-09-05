@@ -1,5 +1,5 @@
 ---
 title: "Valeska"
 url: /zapala/valeska/
-shop: chocolate
+shop: Schokolade
 ---

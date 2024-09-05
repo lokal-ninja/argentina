@@ -1,5 +1,5 @@
 ---
 title: "Olgo"
 url: /martinez/olgo/
-shop: bicicleta
+shop: Fahrrad
 ---

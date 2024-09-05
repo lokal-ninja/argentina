@@ -1,5 +1,5 @@
 ---
 title: "Libralatina"
 url: /miramar/libralatina/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /ciudad-autonoma-de-buenos-aires/garbarino/
-shop: electrónica
+shop: Elektronik
 ---

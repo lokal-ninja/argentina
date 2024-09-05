@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /rosario/coto/
-shop: supermercado
+shop: Supermarkt
 ---

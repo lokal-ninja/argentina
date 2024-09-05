@@ -1,5 +1,5 @@
 ---
 title: "Baco"
 url: /san-nicolas-de-los-arroyos/baco/
-shop: vino
+shop: Wein
 ---

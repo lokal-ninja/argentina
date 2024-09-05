@@ -1,5 +1,5 @@
 ---
 title: "Serviclean"
 url: /cutral-co/serviclean/
-shop: farmacia
+shop: Drogerie
 ---

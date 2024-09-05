@@ -1,5 +1,5 @@
 ---
 title: "Albouy"
 url: /puan/albouy/
-shop: óptico
+shop: Optiker
 ---

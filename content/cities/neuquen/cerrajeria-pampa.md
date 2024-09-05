@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería Pampa"
 url: /neuquen/cerrajeria-pampa/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

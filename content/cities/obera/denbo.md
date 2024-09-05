@@ -1,5 +1,5 @@
 ---
 title: "Denbo"
 url: /obera/denbo/
-shop: peluquería
+shop: Friseur
 ---

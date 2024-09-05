@@ -1,5 +1,5 @@
 ---
 title: "Beta S.A."
 url: /rosario/beta-s-a/
-shop: coche
+shop: Autohaus
 ---

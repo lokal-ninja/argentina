@@ -1,5 +1,5 @@
 ---
 title: "Karma"
 url: /cipolletti/karma/
-shop: ropa
+shop: Kleidung
 ---

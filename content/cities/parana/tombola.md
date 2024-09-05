@@ -1,5 +1,5 @@
 ---
 title: "Tómbola"
 url: /parana/tombola/
-shop: general
+shop: Allgemein
 ---

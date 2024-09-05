@@ -1,5 +1,5 @@
 ---
 title: "Mascotamania"
 url: /san-isidro/mascotamania/
-shop: mascotas
+shop: Tiere
 ---

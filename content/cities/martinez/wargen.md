@@ -1,5 +1,5 @@
 ---
 title: "Wargen"
 url: /martinez/wargen/
-shop: hardware
+shop: Eisenwaren
 ---

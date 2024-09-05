@@ -1,5 +1,5 @@
 ---
 title: "BlowMax"
 url: /mendoza/blowmax/
-shop: supermercado
+shop: Supermarkt
 ---

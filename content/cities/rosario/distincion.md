@@ -1,5 +1,5 @@
 ---
 title: "Distinción"
 url: /rosario/distincion/
-shop: panadería
+shop: Bäckerei
 ---

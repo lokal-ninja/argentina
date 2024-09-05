@@ -1,5 +1,5 @@
 ---
 title: "Óptica Wolf"
 url: /neuquen/optica-wolf/
-shop: óptico
+shop: Optiker
 ---

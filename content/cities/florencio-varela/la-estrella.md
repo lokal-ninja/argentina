@@ -1,5 +1,5 @@
 ---
 title: "La Estrella"
 url: /florencio-varela/la-estrella/
-shop: supermercado
+shop: Supermarkt
 ---

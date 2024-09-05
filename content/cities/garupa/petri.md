@@ -1,5 +1,5 @@
 ---
 title: "Petri"
 url: /garupa/petri/
-shop: panadería
+shop: Bäckerei
 ---

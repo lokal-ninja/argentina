@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /munro/dia/
-shop: supermercado
+shop: Supermarkt
 ---

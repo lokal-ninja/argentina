@@ -1,5 +1,5 @@
 ---
 title: "Moto Lucero"
 url: /san-juan/moto-lucero/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoy Carne"
 url: /florida/hoy-carne/
-shop: carnicero
+shop: Metzgerei
 ---

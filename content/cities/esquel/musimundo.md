@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /esquel/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

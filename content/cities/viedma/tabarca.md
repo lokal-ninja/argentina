@@ -1,5 +1,5 @@
 ---
 title: "Tabarca"
 url: /viedma/tabarca/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robal"
 url: /olivos/robal/
-shop: deportes
+shop: Sport
 ---

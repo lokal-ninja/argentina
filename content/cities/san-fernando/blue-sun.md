@@ -1,5 +1,5 @@
 ---
 title: "Blue Sun"
 url: /san-fernando/blue-sun/
-shop: cosméticos
+shop: Kosmetik
 ---

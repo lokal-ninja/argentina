@@ -1,5 +1,5 @@
 ---
 title: "EME"
 url: /cipolletti/eme/
-shop: ropa
+shop: Kleidung
 ---

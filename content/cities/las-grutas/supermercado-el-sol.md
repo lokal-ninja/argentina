@@ -1,5 +1,5 @@
 ---
 title: "Supermercado El Sol"
 url: /las-grutas/supermercado-el-sol/
-shop: comodidad
+shop: Lebensmittel
 ---

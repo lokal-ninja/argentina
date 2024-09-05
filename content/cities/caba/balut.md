@@ -1,5 +1,5 @@
 ---
 title: "Balut"
 url: /caba/balut/
-shop: entradas
+shop: Tickets
 ---

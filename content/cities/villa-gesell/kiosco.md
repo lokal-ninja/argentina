@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /villa-gesell/kiosco/
-shop: quiosco
+shop: Kiosk
 ---

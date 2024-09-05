@@ -1,5 +1,5 @@
 ---
 title: "Tras los Pasos"
 url: /obera/tras-los-pasos/
-shop: libros
+shop: Bücher
 ---

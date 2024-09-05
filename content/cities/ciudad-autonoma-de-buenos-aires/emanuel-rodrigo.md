@@ -1,5 +1,5 @@
 ---
 title: "Emanuel Rodrigo"
 url: /ciudad-autonoma-de-buenos-aires/emanuel-rodrigo/
-shop: frutería
+shop: Gemüse & Obst
 ---

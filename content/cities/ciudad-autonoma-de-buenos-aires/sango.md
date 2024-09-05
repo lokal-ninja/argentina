@@ -1,5 +1,5 @@
 ---
 title: "Sango"
 url: /ciudad-autonoma-de-buenos-aires/sango/
-shop: cosméticos
+shop: Kosmetik
 ---

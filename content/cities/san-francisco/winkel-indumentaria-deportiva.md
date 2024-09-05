@@ -1,5 +1,5 @@
 ---
 title: "Winkel indumentaria deportiva"
 url: /san-francisco/winkel-indumentaria-deportiva/
-shop: ropa
+shop: Kleidung
 ---

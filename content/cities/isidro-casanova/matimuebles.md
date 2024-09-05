@@ -1,5 +1,5 @@
 ---
 title: "Matimuebles"
 url: /isidro-casanova/matimuebles/
-shop: muebles
+shop: Möbel
 ---

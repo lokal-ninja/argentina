@@ -1,5 +1,5 @@
 ---
 title: "La Americana"
 url: /cipolletti/la-americana-santa-cruz/
-shop: panadería
+shop: Bäckerei
 ---

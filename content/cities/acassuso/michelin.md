@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /acassuso/michelin/
-shop: neumáticos
+shop: Reifen
 ---

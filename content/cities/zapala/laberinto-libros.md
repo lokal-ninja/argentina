@@ -1,5 +1,5 @@
 ---
 title: "Laberinto Libros"
 url: /zapala/laberinto-libros/
-shop: libros
+shop: Bücher
 ---

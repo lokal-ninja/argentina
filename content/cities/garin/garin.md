@@ -1,5 +1,5 @@
 ---
 title: "Garin"
 url: /garin/garin/
-shop: muebles
+shop: Möbel
 ---

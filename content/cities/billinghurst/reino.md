@@ -1,5 +1,5 @@
 ---
 title: "Reino"
 url: /billinghurst/reino/
-shop: suelos
+shop: Fußböden
 ---

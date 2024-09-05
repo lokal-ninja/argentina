@@ -1,5 +1,5 @@
 ---
 title: "Othilia"
 url: /rosario/othilia/
-shop: ropa
+shop: Kleidung
 ---

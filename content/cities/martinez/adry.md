@@ -1,5 +1,5 @@
 ---
 title: "Adry"
 url: /martinez/adry/
-shop: vacante
+shop: Leerstehend
 ---

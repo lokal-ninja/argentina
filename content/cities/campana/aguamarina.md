@@ -1,5 +1,5 @@
 ---
 title: "Aguamarina"
 url: /campana/aguamarina/
-shop: general
+shop: Allgemein
 ---

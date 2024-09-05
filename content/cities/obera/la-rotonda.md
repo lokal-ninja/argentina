@@ -1,5 +1,5 @@
 ---
 title: "La Rotonda"
 url: /obera/la-rotonda/
-shop: frutería
+shop: Gemüse & Obst
 ---

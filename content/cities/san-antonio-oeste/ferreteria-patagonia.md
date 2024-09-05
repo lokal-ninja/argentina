@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Patagonia"
 url: /san-antonio-oeste/ferreteria-patagonia/
-shop: hardware
+shop: Eisenwaren
 ---

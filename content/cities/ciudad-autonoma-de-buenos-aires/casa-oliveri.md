@@ -1,5 +1,5 @@
 ---
 title: "Casa Oliveri"
 url: /ciudad-autonoma-de-buenos-aires/casa-oliveri/
-shop: mascotas
+shop: Tiere
 ---

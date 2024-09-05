@@ -1,5 +1,5 @@
 ---
 title: "Koxis"
 url: /ciudad-autonoma-de-buenos-aires/koxis/
-shop: ropa
+shop: Kleidung
 ---

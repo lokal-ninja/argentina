@@ -1,5 +1,5 @@
 ---
 title: "Bon Appetit"
 url: /maria-teresa/bon-appetit/
-shop: pastelería
+shop: Konditorei
 ---

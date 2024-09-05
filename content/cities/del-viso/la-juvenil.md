@@ -1,5 +1,5 @@
 ---
 title: "La Juvenil"
 url: /del-viso/la-juvenil/
-shop: pasta
+shop: Pasta
 ---

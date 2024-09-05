@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /crespo/dia/
-shop: supermercado
+shop: Supermarkt
 ---

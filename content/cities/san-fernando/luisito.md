@@ -1,5 +1,5 @@
 ---
 title: "Luisito"
 url: /san-fernando/luisito/
-shop: carnicero
+shop: Metzgerei
 ---

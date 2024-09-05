@@ -1,5 +1,5 @@
 ---
 title: "Chloe"
 url: /azul/chloe/
-shop: ropa
+shop: Kleidung
 ---

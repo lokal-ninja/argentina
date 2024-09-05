@@ -1,5 +1,5 @@
 ---
 title: "Botero"
 url: /ciudad-autonoma-de-buenos-aires/botero/
-shop: queso
+shop: Käse
 ---

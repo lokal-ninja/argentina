@@ -1,5 +1,5 @@
 ---
 title: "Petra"
 url: /san-fernando/petra/
-shop: supermercado
+shop: Supermarkt
 ---

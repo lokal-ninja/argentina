@@ -1,5 +1,5 @@
 ---
 title: "Dinaflex"
 url: /villa-libertad/dinaflex/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sangoy"
 url: /colonia-caroya/sangoy/
-shop: panadería
+shop: Bäckerei
 ---

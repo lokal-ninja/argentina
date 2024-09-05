@@ -1,5 +1,5 @@
 ---
 title: "DS Store Córdoba"
 url: /cordoba/ds-store-cordoba/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fussetti"
 url: /rosario/fussetti/
-shop: motocicleta
+shop: Motorrad
 ---

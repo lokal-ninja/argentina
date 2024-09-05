@@ -1,5 +1,5 @@
 ---
 title: "Ghiggeri"
 url: /resistencia/ghiggeri/
-shop: motocicleta
+shop: Motorrad
 ---

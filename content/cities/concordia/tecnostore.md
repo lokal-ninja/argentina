@@ -1,5 +1,5 @@
 ---
 title: "TecnoStore"
 url: /concordia/tecnostore/
-shop: videojuegos
+shop: Videospiele
 ---
