@@ -1,5 +1,5 @@
 ---
 title: "Casa Vale"
 url: /concordia/casa-vale/
-shop: Autoteile
+shop: piezas de automóviles
 ---

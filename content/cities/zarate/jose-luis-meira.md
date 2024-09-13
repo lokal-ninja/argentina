@@ -1,5 +1,5 @@
 ---
 title: "José Luis Meira"
 url: /zarate/jose-luis-meira/
-shop: Motorrad
+shop: motocicleta
 ---

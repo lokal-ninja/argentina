@@ -1,5 +1,5 @@
 ---
 title: "Fraternidad"
 url: /haedo/fraternidad/
-shop: Optiker
+shop: óptico
 ---

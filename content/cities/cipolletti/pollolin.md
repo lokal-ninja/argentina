@@ -1,5 +1,5 @@
 ---
 title: "Pollolín"
 url: /cipolletti/pollolin/
-shop: Metzgerei
+shop: carnicero
 ---

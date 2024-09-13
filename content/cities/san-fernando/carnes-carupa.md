@@ -1,5 +1,5 @@
 ---
 title: "Carnes Carupa"
 url: /san-fernando/carnes-carupa/
-shop: Metzgerei
+shop: carnicero
 ---

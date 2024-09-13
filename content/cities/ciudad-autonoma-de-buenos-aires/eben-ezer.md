@@ -1,5 +1,5 @@
 ---
 title: "Eben - Ezer"
 url: /ciudad-autonoma-de-buenos-aires/eben-ezer/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonelli"
 url: /neuquen/bonelli/
-shop: Instrumente
+shop: instrumento musical
 ---

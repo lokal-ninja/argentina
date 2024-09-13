@@ -1,5 +1,5 @@
 ---
 title: "Yagmour"
 url: /general-pico/yagmour/
-shop: Kleidung
+shop: ropa
 ---

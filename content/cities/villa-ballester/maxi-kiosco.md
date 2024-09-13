@@ -1,5 +1,5 @@
 ---
 title: "Maxi Kiosco"
 url: /villa-ballester/maxi-kiosco/
-shop: Lebensmittel
+shop: comodidad
 ---

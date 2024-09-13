@@ -1,5 +1,5 @@
 ---
 title: "Grupo de Bella"
 url: /ciudad-autonoma-de-buenos-aires/grupo-de-bella/
-shop: Immobilien
+shop: agente inmobiliario
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arnes"
 url: /ciudad-autonoma-de-buenos-aires/arnes/
-shop: Allgemein
+shop: general
 ---

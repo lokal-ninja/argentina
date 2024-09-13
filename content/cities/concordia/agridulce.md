@@ -1,5 +1,5 @@
 ---
 title: "Agridulce"
 url: /concordia/agridulce/
-shop: Feinkost
+shop: charcutería
 ---

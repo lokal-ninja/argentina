@@ -1,5 +1,5 @@
 ---
 title: "Limp Hogar"
 url: /rio-grande/limp-hogar/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papelera Lixo"
 url: /san-andres/papelera-lixo/
-shop: Schreibwaren
+shop: material de oficina
 ---

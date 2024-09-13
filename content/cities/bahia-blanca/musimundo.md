@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /bahia-blanca/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

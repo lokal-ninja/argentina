@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /general-roca/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

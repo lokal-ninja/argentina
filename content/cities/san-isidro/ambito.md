@@ -1,5 +1,5 @@
 ---
 title: "Ámbito"
 url: /san-isidro/ambito/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nouk"
 url: /villa-ballester/nouk/
-shop: Kleidung
+shop: ropa
 ---

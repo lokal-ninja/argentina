@@ -1,5 +1,5 @@
 ---
 title: "Zoom Bazar"
 url: /neuquen/zoom-bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

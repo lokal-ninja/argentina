@@ -1,5 +1,5 @@
 ---
 title: "Crank"
 url: /ciudad-autonoma-de-buenos-aires/crank/
-shop: Autoteile
+shop: piezas de automóviles
 ---

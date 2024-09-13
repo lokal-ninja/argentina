@@ -1,5 +1,5 @@
 ---
 title: "Koval"
 url: /zarate/koval/
-shop: Fahrrad
+shop: bicicleta
 ---

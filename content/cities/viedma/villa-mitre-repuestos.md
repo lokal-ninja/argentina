@@ -1,5 +1,5 @@
 ---
 title: "Villa Mitre Repuestos"
 url: /viedma/villa-mitre-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

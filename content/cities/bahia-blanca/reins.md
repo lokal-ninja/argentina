@@ -1,5 +1,5 @@
 ---
 title: "Reins"
 url: /bahia-blanca/reins/
-shop: Schmuck
+shop: joyería
 ---

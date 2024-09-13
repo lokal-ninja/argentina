@@ -1,5 +1,5 @@
 ---
 title: "Di Lello"
 url: /ciudad-autonoma-de-buenos-aires/di-lello/
-shop: Jalousien
+shop: persianas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nevada Climaticion"
 url: /ciudad-autonoma-de-buenos-aires/nevada-climaticion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

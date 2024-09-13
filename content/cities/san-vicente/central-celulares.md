@@ -1,5 +1,5 @@
 ---
 title: "Central Celulares"
 url: /san-vicente/central-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

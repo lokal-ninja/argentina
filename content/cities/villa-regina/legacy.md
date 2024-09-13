@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /villa-regina/legacy/
-shop: Kleidung
+shop: ropa
 ---

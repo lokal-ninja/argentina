@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /martinez/honda/
-shop: Autohaus
+shop: coche
 ---

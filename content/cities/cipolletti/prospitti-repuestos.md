@@ -1,5 +1,5 @@
 ---
 title: "Prospitti Repuestos"
 url: /cipolletti/prospitti-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

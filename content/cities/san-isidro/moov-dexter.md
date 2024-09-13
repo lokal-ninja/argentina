@@ -1,5 +1,5 @@
 ---
 title: "Moov Dexter"
 url: /san-isidro/moov-dexter/
-shop: Kleidung
+shop: ropa
 ---

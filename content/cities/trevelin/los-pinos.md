@@ -1,5 +1,5 @@
 ---
 title: "Los Pinos"
 url: /trevelin/los-pinos/
-shop: Lebensmittel
+shop: comodidad
 ---

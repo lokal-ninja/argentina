@@ -1,5 +1,5 @@
 ---
 title: "Baterias Losano"
 url: /arroyito/baterias-losano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

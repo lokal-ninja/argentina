@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /general-roca/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

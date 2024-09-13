@@ -1,5 +1,5 @@
 ---
 title: "Todomoda"
 url: /ciudad-autonoma-de-buenos-aires/todomoda/
-shop: Modehaus
+shop: tienda
 ---

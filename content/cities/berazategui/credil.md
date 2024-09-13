@@ -1,5 +1,5 @@
 ---
 title: "Credil"
 url: /berazategui/credil/
-shop: Leiher
+shop: prestamista
 ---

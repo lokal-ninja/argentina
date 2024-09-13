@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Virreyes"
 url: /virreyes/lubricentro-virreyes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

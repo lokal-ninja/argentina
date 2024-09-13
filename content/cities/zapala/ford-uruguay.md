@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /zapala/ford-uruguay/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

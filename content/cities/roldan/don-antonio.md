@@ -1,5 +1,5 @@
 ---
 title: "Don Antonio"
 url: /roldan/don-antonio/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /salta/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

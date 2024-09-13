@@ -1,5 +1,5 @@
 ---
 title: "Johnson"
 url: /bahia-blanca/johnson/
-shop: Badezimmer
+shop: cuarto de baño
 ---

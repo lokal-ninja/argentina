@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio La Rueda"
 url: /concordia/autoservicio-la-rueda/
-shop: Lebensmittel
+shop: comodidad
 ---

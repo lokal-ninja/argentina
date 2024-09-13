@@ -1,5 +1,5 @@
 ---
 title: "Nordeste Baterías"
 url: /apostoles/nordeste-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

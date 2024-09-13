@@ -1,5 +1,5 @@
 ---
 title: "Albingraf"
 url: /viedma/albingraf/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ronchamp"
 url: /ciudad-autonoma-de-buenos-aires/ronchamp/
-shop: Raumausstattung
+shop: decoración interior
 ---

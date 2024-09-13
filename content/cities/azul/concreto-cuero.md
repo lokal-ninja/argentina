@@ -1,5 +1,5 @@
 ---
 title: "Concreto Cuero"
 url: /azul/concreto-cuero/
-shop: Leder
+shop: cuero
 ---

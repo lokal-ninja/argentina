@@ -1,5 +1,5 @@
 ---
 title: "El Viejo Grow Shop"
 url: /neuquen/el-viejo-grow-shop/
-shop: Garten-Center
+shop: centro de jardinería
 ---

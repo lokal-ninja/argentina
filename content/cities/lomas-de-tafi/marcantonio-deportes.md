@@ -1,5 +1,5 @@
 ---
 title: "Marcantonio Deportes"
 url: /lomas-de-tafi/marcantonio-deportes/
-shop: Sport
+shop: deportes
 ---

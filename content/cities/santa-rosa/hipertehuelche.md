@@ -1,5 +1,5 @@
 ---
 title: "Hipertehuelche"
 url: /santa-rosa/hipertehuelche/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diagonal"
 url: /city-bell/diagonal/
-shop: Eisenwaren
+shop: hardware
 ---

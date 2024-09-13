@@ -1,5 +1,5 @@
 ---
 title: "Tiú"
 url: /virreyes/tiu/
-shop: Allgemein
+shop: general
 ---

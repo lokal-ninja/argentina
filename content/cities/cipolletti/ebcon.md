@@ -1,5 +1,5 @@
 ---
 title: "EBCON"
 url: /cipolletti/ebcon/
-shop: Türen
+shop: puertas
 ---

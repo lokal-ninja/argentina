@@ -1,5 +1,5 @@
 ---
 title: "Juguetería Marilu"
 url: /mendoza/jugueteria-marilu/
-shop: Spielzeug
+shop: juguetes
 ---

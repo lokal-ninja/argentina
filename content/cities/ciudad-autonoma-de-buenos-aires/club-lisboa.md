@@ -1,5 +1,5 @@
 ---
 title: "Club Lisboa"
 url: /ciudad-autonoma-de-buenos-aires/club-lisboa/
-shop: Friseur
+shop: peluquería
 ---

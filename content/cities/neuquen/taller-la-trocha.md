@@ -1,5 +1,5 @@
 ---
 title: "Taller La Trocha"
 url: /neuquen/taller-la-trocha/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

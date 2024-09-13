@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /berazategui/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

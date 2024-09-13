@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /ldor-general-san-martin/musimundo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mauro Sergio"
 url: /santa-rosa/mauro-sergio/
-shop: Kleidung
+shop: ropa
 ---

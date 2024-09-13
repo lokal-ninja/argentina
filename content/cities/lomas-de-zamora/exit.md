@@ -1,5 +1,5 @@
 ---
 title: "Exit"
 url: /lomas-de-zamora/exit/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corrientes Motos"
 url: /rio-cuarto/corrientes-motos/
-shop: Motorrad
+shop: motocicleta
 ---

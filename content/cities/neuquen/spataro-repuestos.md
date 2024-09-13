@@ -1,5 +1,5 @@
 ---
 title: "Spataro Repuestos"
 url: /neuquen/spataro-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

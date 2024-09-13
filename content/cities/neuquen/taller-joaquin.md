@@ -1,5 +1,5 @@
 ---
 title: "Taller Joaquín"
 url: /neuquen/taller-joaquin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

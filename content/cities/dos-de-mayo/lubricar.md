@@ -1,5 +1,5 @@
 ---
 title: "Lubricar"
 url: /dos-de-mayo/lubricar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

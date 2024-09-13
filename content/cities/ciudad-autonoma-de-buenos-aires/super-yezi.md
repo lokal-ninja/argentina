@@ -1,5 +1,5 @@
 ---
 title: "Super Yezi"
 url: /ciudad-autonoma-de-buenos-aires/super-yezi/
-shop: Supermarkt
+shop: supermercado
 ---

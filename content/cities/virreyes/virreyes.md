@@ -1,5 +1,5 @@
 ---
 title: "Virreyes"
 url: /virreyes/virreyes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disapla"
 url: /cipolletti/disapla/
-shop: Baustoffe
+shop: comercio
 ---

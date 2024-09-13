@@ -1,5 +1,5 @@
 ---
 title: "Amora"
 url: /corrientes/amora/
-shop: Kleidung
+shop: ropa
 ---

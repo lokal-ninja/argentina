@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /allen/cooperativa-obrera-san-martin/
-shop: Supermarkt
+shop: supermercado
 ---

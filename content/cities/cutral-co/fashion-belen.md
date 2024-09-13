@@ -1,5 +1,5 @@
 ---
 title: "Fashion Belén"
 url: /cutral-co/fashion-belen/
-shop: Kleidung
+shop: ropa
 ---

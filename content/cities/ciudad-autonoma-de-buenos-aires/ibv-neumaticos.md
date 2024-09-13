@@ -1,5 +1,5 @@
 ---
 title: "IBV Neumaticos"
 url: /ciudad-autonoma-de-buenos-aires/ibv-neumaticos/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staff"
 url: /neuquen/staff/
-shop: Friseur
+shop: peluquería
 ---

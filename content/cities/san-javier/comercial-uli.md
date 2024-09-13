@@ -1,5 +1,5 @@
 ---
 title: "Comercial Uli"
 url: /san-javier/comercial-uli/
-shop: Supermarkt
+shop: supermercado
 ---

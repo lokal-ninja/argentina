@@ -1,5 +1,5 @@
 ---
 title: "AJ Mecánica"
 url: /villa-maipu/aj-mecanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

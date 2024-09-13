@@ -1,5 +1,5 @@
 ---
 title: "El Redil"
 url: /rosario/el-redil/
-shop: Spirituosen
+shop: alcohol
 ---

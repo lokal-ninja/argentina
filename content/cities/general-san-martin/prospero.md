@@ -1,5 +1,5 @@
 ---
 title: "Prospero"
 url: /general-san-martin/prospero/
-shop: Supermarkt
+shop: supermercado
 ---

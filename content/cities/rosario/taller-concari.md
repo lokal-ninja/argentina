@@ -1,5 +1,5 @@
 ---
 title: "Taller Concari"
 url: /rosario/taller-concari/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

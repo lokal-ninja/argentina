@@ -1,5 +1,5 @@
 ---
 title: "Horacio"
 url: /ciudad-autonoma-de-buenos-aires/horacio-avenida-corrientes/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamikases"
 url: /cipolletti/kamikases/
-shop: Kleidung
+shop: ropa
 ---

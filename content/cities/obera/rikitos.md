@@ -1,5 +1,5 @@
 ---
 title: "Rikito's"
 url: /obera/rikitos/
-shop: Süßwaren
+shop: confitería
 ---

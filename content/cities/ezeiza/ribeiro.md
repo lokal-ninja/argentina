@@ -1,5 +1,5 @@
 ---
 title: "Ribeiro"
 url: /ezeiza/ribeiro/
-shop: Elektronik
+shop: electrónica
 ---

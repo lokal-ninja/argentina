@@ -1,5 +1,5 @@
 ---
 title: "Mundo Moto"
 url: /obera/mundo-moto/
-shop: Motorrad
+shop: motocicleta
 ---

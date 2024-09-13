@@ -1,5 +1,5 @@
 ---
 title: "Despensa Leo"
 url: /villa-angela/despensa-leo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /general-roca/personal/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modal Calzados"
 url: /san-juan/modal-calzados/
-shop: Schuhe
+shop: zapatos
 ---

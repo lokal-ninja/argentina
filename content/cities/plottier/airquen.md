@@ -1,5 +1,5 @@
 ---
 title: "Airquén"
 url: /plottier/airquen/
-shop: Reisebüro
+shop: agencia de viajes
 ---

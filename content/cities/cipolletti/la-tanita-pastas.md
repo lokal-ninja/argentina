@@ -1,5 +1,5 @@
 ---
 title: "La Tanita Pastas"
 url: /cipolletti/la-tanita-pastas/
-shop: Pasta
+shop: pasta
 ---

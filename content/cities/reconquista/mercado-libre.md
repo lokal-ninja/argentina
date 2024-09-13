@@ -1,5 +1,5 @@
 ---
 title: "Mercado Libre"
 url: /reconquista/mercado-libre/
-shop: Kramladen
+shop: tienda de variedades
 ---

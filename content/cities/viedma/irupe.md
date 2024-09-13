@@ -1,5 +1,5 @@
 ---
 title: "Irupé"
 url: /viedma/irupe/
-shop: Kleidung
+shop: ropa
 ---

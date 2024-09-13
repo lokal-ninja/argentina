@@ -1,5 +1,5 @@
 ---
 title: "Nueve Lunas"
 url: /general-alvear/nueve-lunas/
-shop: Babysachen
+shop: artículos para bebés
 ---

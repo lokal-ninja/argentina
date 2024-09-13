@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Lanín"
 url: /adrogue/ferreteria-lanin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

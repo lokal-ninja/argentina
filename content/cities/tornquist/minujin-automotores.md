@@ -1,5 +1,5 @@
 ---
 title: "Minujín Automotores"
 url: /tornquist/minujin-automotores/
-shop: Autohaus
+shop: coche
 ---

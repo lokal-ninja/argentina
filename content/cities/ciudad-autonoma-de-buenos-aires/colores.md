@@ -1,5 +1,5 @@
 ---
 title: "Colores"
 url: /ciudad-autonoma-de-buenos-aires/colores/
-shop: Wäscherei
+shop: lavandería
 ---

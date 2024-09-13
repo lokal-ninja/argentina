@@ -1,5 +1,5 @@
 ---
 title: "Bronx"
 url: /ciudad-autonoma-de-buenos-aires/bronx/
-shop: Kleidung
+shop: ropa
 ---

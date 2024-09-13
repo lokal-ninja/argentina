@@ -1,5 +1,5 @@
 ---
 title: "Codicia"
 url: /cipolletti/codicia/
-shop: Schmuck
+shop: joyería
 ---

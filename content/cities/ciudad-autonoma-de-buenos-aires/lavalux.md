@@ -1,5 +1,5 @@
 ---
 title: "Lavalux"
 url: /ciudad-autonoma-de-buenos-aires/lavalux/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disco"
 url: /adrogue/disco/
-shop: Supermarkt
+shop: supermercado
 ---

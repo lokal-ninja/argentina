@@ -1,5 +1,5 @@
 ---
 title: "Chaperman"
 url: /neuquen/chaperman/
-shop: Autoteile
+shop: piezas de automóviles
 ---

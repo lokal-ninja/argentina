@@ -1,5 +1,5 @@
 ---
 title: "Wanama"
 url: /lomas-de-zamora/wanama/
-shop: Kleidung
+shop: ropa
 ---

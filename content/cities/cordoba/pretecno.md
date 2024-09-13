@@ -1,5 +1,5 @@
 ---
 title: "Pretecno"
 url: /cordoba/pretecno/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compurey"
 url: /neuquen/compurey/
-shop: Elektronik
+shop: electrónica
 ---

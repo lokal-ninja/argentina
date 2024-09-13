@@ -1,5 +1,5 @@
 ---
 title: "Central Tire"
 url: /ciudad-autonoma-de-buenos-aires/central-tire/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

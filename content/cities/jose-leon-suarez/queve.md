@@ -1,5 +1,5 @@
 ---
 title: "Queve"
 url: /jose-leon-suarez/queve/
-shop: Lebensmittel
+shop: comodidad
 ---

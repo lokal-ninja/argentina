@@ -1,5 +1,5 @@
 ---
 title: "Lazaro Costa"
 url: /san-isidro/lazaro-costa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TM S.A."
 url: /eldorado/tm-s-a/
-shop: Autohaus
+shop: coche
 ---

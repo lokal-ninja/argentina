@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /cipolletti/style/
-shop: Friseur
+shop: peluquería
 ---

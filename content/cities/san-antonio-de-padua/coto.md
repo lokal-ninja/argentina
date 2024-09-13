@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /san-antonio-de-padua/coto/
-shop: Supermarkt
+shop: supermercado
 ---

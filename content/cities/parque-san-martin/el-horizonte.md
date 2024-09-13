@@ -1,5 +1,5 @@
 ---
 title: "El Horizonte"
 url: /parque-san-martin/el-horizonte/
-shop: Metzgerei
+shop: carnicero
 ---

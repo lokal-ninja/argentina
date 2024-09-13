@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /posadas/despensa-las-orquideas/
-shop: Lebensmittel
+shop: comodidad
 ---

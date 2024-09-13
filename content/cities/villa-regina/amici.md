@@ -1,5 +1,5 @@
 ---
 title: "Amici"
 url: /villa-regina/amici/
-shop: Kleidung
+shop: ropa
 ---

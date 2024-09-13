@@ -1,5 +1,5 @@
 ---
 title: "Aleser"
 url: /ciudad-autonoma-de-buenos-aires/aleser/
-shop: Eisenwaren
+shop: hardware
 ---

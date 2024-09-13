@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /general-roca/colorshop/
-shop: Farben
+shop: pintura
 ---

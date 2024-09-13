@@ -1,5 +1,5 @@
 ---
 title: "Loudres"
 url: /haedo/loudres/
-shop: Lebensmittel
+shop: comodidad
 ---

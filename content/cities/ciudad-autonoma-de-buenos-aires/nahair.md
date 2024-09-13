@@ -1,5 +1,5 @@
 ---
 title: "Nahair"
 url: /ciudad-autonoma-de-buenos-aires/nahair/
-shop: Friseur
+shop: peluquería
 ---

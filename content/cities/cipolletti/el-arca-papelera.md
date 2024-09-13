@@ -1,5 +1,5 @@
 ---
 title: "El Arca Papelera"
 url: /cipolletti/el-arca-papelera/
-shop: Schreibwaren
+shop: material de oficina
 ---

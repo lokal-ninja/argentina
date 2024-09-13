@@ -1,5 +1,5 @@
 ---
 title: "Repetto"
 url: /victoria/repetto/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

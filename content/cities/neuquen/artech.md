@@ -1,5 +1,5 @@
 ---
 title: "Artech"
 url: /neuquen/artech/
-shop: Computer
+shop: ordenador
 ---

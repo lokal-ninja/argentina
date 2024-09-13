@@ -1,5 +1,5 @@
 ---
 title: "Lo de Joaquín"
 url: /san-antonio-este/lo-de-joaquin/
-shop: Gemüse & Obst
+shop: frutería
 ---

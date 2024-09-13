@@ -1,5 +1,5 @@
 ---
 title: "Librería El Triunfo"
 url: /san-pedro/libreria-el-triunfo/
-shop: Schreibwaren
+shop: material de oficina
 ---

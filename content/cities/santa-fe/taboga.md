@@ -1,5 +1,5 @@
 ---
 title: "Taboga"
 url: /santa-fe/taboga/
-shop: Autoteile
+shop: piezas de automóviles
 ---

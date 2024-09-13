@@ -1,5 +1,5 @@
 ---
 title: "Tapicería Auto Fund"
 url: /jose-leon-suarez/tapiceria-auto-fund/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quesos Fiambres"
 url: /ciudad-autonoma-de-buenos-aires/quesos-fiambres/
-shop: Feinkost
+shop: charcutería
 ---

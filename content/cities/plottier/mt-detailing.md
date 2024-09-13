@@ -1,5 +1,5 @@
 ---
 title: "Mt Detailing"
 url: /plottier/mt-detailing/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

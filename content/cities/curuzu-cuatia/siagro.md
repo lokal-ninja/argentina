@@ -1,5 +1,5 @@
 ---
 title: "Siagro"
 url: /curuzu-cuatia/siagro/
-shop: Supermarkt
+shop: supermercado
 ---

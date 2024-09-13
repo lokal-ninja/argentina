@@ -1,5 +1,5 @@
 ---
 title: "Unelén"
 url: /cipolletti/unelen/
-shop: Kleidung
+shop: ropa
 ---

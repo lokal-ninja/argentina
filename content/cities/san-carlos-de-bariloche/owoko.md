@@ -1,5 +1,5 @@
 ---
 title: "Owoko"
 url: /san-carlos-de-bariloche/owoko/
-shop: Kleidung
+shop: ropa
 ---

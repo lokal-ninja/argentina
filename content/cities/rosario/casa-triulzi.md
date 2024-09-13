@@ -1,5 +1,5 @@
 ---
 title: "Casa Triulzi"
 url: /rosario/casa-triulzi/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

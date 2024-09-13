@@ -1,5 +1,5 @@
 ---
 title: "mi casa"
 url: /rio-grande/mi-casa/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinturerías Parque"
 url: /merlo/pinturerias-parque/
-shop: Farben
+shop: pintura
 ---

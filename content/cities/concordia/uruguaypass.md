@@ -1,5 +1,5 @@
 ---
 title: "UruguayPass"
 url: /concordia/uruguaypass/
-shop: Reisebüro
+shop: agencia de viajes
 ---

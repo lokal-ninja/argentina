@@ -1,5 +1,5 @@
 ---
 title: "Quartz"
 url: /viedma/quartz/
-shop: Schmuck
+shop: joyería
 ---

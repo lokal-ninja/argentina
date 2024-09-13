@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Liderma"
 url: /santa-fe/distribuidora-liderma/
-shop: Großhandel
+shop: mayorista
 ---

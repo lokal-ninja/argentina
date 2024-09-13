@@ -1,5 +1,5 @@
 ---
 title: "Yehuin Duty Free Shop"
 url: /rio-grande/yehuin-duty-free-shop/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

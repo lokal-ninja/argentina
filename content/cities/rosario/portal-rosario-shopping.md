@@ -1,5 +1,5 @@
 ---
 title: "Portal Rosario Shopping"
 url: /rosario/portal-rosario-shopping/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

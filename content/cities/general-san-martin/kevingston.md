@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /general-san-martin/kevingston/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fram Center"
 url: /loma-hermosa/fram-center/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

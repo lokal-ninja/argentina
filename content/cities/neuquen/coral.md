@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /neuquen/coral/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

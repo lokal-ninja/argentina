@@ -1,5 +1,5 @@
 ---
 title: "Shopping Patagonia"
 url: /san-carlos-de-bariloche/shopping-patagonia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

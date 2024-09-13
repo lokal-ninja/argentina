@@ -1,5 +1,5 @@
 ---
 title: "Bambu"
 url: /gualeguaychu/bambu/
-shop: Supermarkt
+shop: supermercado
 ---

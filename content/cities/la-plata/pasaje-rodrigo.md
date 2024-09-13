@@ -1,5 +1,5 @@
 ---
 title: "Pasaje Rodrigo"
 url: /la-plata/pasaje-rodrigo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

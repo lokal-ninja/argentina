@@ -1,5 +1,5 @@
 ---
 title: "Ponele"
 url: /bahia-blanca/ponele/
-shop: Handy
+shop: teléfono móvil
 ---

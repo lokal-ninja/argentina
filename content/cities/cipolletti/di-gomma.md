@@ -1,5 +1,5 @@
 ---
 title: "Di Gomma"
 url: /cipolletti/di-gomma/
-shop: Eisenwaren
+shop: hardware
 ---

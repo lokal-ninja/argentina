@@ -1,5 +1,5 @@
 ---
 title: "Basualdo"
 url: /chilecito/basualdo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

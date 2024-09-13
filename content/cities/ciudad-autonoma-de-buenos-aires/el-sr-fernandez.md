@@ -1,5 +1,5 @@
 ---
 title: "El Sr. Fernandez"
 url: /ciudad-autonoma-de-buenos-aires/el-sr-fernandez/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bagliore"
 url: /martinez/bagliore/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gomeria Kucha"
 url: /anisacate/gomeria-kucha/
-shop: Reifen
+shop: neumáticos
 ---

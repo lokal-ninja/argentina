@@ -1,5 +1,5 @@
 ---
 title: "Yokohama"
 url: /neuquen/yokohama/
-shop: Reifen
+shop: neumáticos
 ---

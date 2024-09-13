@@ -1,5 +1,5 @@
 ---
 title: "Bella Casa"
 url: /ciudad-autonoma-de-buenos-aires/bella-casa/
-shop: Gardinen
+shop: cortina
 ---

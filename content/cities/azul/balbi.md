@@ -1,5 +1,5 @@
 ---
 title: "Balbi"
 url: /azul/balbi/
-shop: Kleidung
+shop: ropa
 ---

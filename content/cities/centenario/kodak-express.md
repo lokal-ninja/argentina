@@ -1,5 +1,5 @@
 ---
 title: "Kodak Express"
 url: /centenario/kodak-express/
-shop: Foto
+shop: foto
 ---

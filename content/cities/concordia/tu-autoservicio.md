@@ -1,5 +1,5 @@
 ---
 title: "Tu Autoservicio"
 url: /concordia/tu-autoservicio/
-shop: Lebensmittel
+shop: comodidad
 ---

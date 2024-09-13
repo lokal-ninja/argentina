@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /olivos/imagen/
-shop: Farben
+shop: pintura
 ---

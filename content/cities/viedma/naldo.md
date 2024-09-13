@@ -1,5 +1,5 @@
 ---
 title: "Naldo"
 url: /viedma/naldo/
-shop: Elektronik
+shop: electrónica
 ---

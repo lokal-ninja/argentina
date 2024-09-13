@@ -1,5 +1,5 @@
 ---
 title: "Raúl Pierantoni Motos"
 url: /san-cristobal/raul-pierantoni-motos/
-shop: Motorrad
+shop: motocicleta
 ---

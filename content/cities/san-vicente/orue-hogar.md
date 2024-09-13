@@ -1,5 +1,5 @@
 ---
 title: "Orue Hogar"
 url: /san-vicente/orue-hogar/
-shop: Möbel
+shop: muebles
 ---

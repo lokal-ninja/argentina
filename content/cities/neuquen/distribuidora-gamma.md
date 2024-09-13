@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Gamma"
 url: /neuquen/distribuidora-gamma/
-shop: Großhandel
+shop: mayorista
 ---

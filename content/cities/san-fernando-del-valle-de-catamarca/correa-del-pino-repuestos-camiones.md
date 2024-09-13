@@ -1,5 +1,5 @@
 ---
 title: "Correa del Pino Repuestos Camiones"
 url: /san-fernando-del-valle-de-catamarca/correa-del-pino-repuestos-camiones/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

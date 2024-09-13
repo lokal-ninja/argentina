@@ -1,5 +1,5 @@
 ---
 title: "Panadería González"
 url: /margarita-belen/panaderia-gonzalez/
-shop: Bäckerei
+shop: panadería
 ---

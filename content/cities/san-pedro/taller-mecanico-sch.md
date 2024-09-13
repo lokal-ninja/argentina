@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecánico SCH"
 url: /san-pedro/taller-mecanico-sch/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

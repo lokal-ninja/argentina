@@ -1,5 +1,5 @@
 ---
 title: "AlMundo.com"
 url: /rosario/almundo-com/
-shop: Reisebüro
+shop: agencia de viajes
 ---

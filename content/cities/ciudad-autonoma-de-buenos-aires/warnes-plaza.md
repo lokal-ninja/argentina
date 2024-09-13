@@ -1,5 +1,5 @@
 ---
 title: "Warnes Plaza"
 url: /ciudad-autonoma-de-buenos-aires/warnes-plaza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

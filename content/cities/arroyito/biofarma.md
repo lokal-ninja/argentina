@@ -1,5 +1,5 @@
 ---
 title: "Biofarma"
 url: /arroyito/biofarma/
-shop: Landwirtschaftlich
+shop: agraria
 ---

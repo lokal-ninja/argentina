@@ -1,5 +1,5 @@
 ---
 title: "Dani"
 url: /viedma/dani-artemides-zatti/
-shop: Metzgerei
+shop: carnicero
 ---

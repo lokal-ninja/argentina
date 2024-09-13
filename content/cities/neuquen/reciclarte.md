@@ -1,5 +1,5 @@
 ---
 title: "ReciclArte"
 url: /neuquen/reciclarte/
-shop: Schneiderei
+shop: sastre
 ---

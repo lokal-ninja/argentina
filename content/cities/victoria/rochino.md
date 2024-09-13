@@ -1,5 +1,5 @@
 ---
 title: "Rochino"
 url: /victoria/rochino/
-shop: Allgemein
+shop: general
 ---

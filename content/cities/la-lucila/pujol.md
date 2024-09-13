@@ -1,5 +1,5 @@
 ---
 title: "Pujol"
 url: /la-lucila/pujol/
-shop: Fisch
+shop: marisco
 ---

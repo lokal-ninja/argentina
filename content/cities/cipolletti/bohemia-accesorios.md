@@ -1,5 +1,5 @@
 ---
 title: "Bohemia Accesorios"
 url: /cipolletti/bohemia-accesorios/
-shop: Raumausstattung
+shop: decoración interior
 ---

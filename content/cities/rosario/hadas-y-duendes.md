@@ -1,5 +1,5 @@
 ---
 title: "Hadas y Duendes"
 url: /rosario/hadas-y-duendes/
-shop: Kleidung
+shop: ropa
 ---

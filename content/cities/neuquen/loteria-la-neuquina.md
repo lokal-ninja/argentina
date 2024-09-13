@@ -1,5 +1,5 @@
 ---
 title: "Lotería La Neuquina"
 url: /neuquen/loteria-la-neuquina/
-shop: Lotterie
+shop: lotería
 ---

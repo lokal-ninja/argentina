@@ -1,5 +1,5 @@
 ---
 title: "Novo Alimentos"
 url: /general-jose-de-san-martin/novo-alimentos/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dash"
 url: /martinez/dash/
-shop: Sport
+shop: deportes
 ---

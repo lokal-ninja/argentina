@@ -1,5 +1,5 @@
 ---
 title: "Chino"
 url: /la-plata/chino/
-shop: Supermarkt
+shop: supermercado
 ---

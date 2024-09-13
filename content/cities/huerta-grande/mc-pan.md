@@ -1,5 +1,5 @@
 ---
 title: "Mc. Pan"
 url: /huerta-grande/mc-pan/
-shop: Bäckerei
+shop: panadería
 ---

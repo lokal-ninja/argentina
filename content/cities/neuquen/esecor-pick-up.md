@@ -1,5 +1,5 @@
 ---
 title: "Esecor Pick Up"
 url: /neuquen/esecor-pick-up/
-shop: Autoteile
+shop: piezas de automóviles
 ---

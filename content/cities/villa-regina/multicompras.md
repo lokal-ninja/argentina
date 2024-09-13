@@ -1,5 +1,5 @@
 ---
 title: "MultiCompras"
 url: /villa-regina/multicompras/
-shop: Kramladen
+shop: tienda de variedades
 ---

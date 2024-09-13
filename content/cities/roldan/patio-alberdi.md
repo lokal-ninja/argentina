@@ -1,5 +1,5 @@
 ---
 title: "Patio Alberdi"
 url: /roldan/patio-alberdi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

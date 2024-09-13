@@ -1,5 +1,5 @@
 ---
 title: "Repuestos TF"
 url: /billinghurst/repuestos-tf/
-shop: Autoteile
+shop: piezas de automóviles
 ---

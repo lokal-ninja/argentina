@@ -1,5 +1,5 @@
 ---
 title: "Flipper"
 url: /cipolletti/flipper/
-shop: Spielzeug
+shop: juguetes
 ---

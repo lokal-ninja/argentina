@@ -1,5 +1,5 @@
 ---
 title: "Librería Laser"
 url: /santa-fe/libreria-laser/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gabypel"
 url: /lobos/gabypel/
-shop: Partyzubehör
+shop: fiesta
 ---

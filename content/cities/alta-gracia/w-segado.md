@@ -1,5 +1,5 @@
 ---
 title: "W. Segado"
 url: /alta-gracia/w-segado/
-shop: Schmuck
+shop: joyería
 ---

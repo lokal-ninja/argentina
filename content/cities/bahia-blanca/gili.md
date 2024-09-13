@@ -1,5 +1,5 @@
 ---
 title: "GILI"
 url: /bahia-blanca/gili/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

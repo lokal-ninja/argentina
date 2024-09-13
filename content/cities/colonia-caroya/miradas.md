@@ -1,5 +1,5 @@
 ---
 title: "Miradas"
 url: /colonia-caroya/miradas/
-shop: Kleidung
+shop: ropa
 ---

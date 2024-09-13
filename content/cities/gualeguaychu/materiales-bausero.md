@@ -1,5 +1,5 @@
 ---
 title: "Materiales Bausero"
 url: /gualeguaychu/materiales-bausero/
-shop: Baustoffe
+shop: comercio
 ---

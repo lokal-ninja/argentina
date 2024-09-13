@@ -1,5 +1,5 @@
 ---
 title: "Todomúsica"
 url: /neuquen/todomusica/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Ilusión"
 url: /ciudad-autonoma-de-buenos-aires/la-ilusion-vilela/
-shop: Gemüse & Obst
+shop: frutería
 ---

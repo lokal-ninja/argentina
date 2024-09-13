@@ -1,5 +1,5 @@
 ---
 title: "Electromisiones"
 url: /rosario/electromisiones/
-shop: Handy
+shop: teléfono móvil
 ---

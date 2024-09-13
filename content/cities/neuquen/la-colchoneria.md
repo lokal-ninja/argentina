@@ -1,5 +1,5 @@
 ---
 title: "La Colchonería"
 url: /neuquen/la-colchoneria/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Papel"
 url: /azul/libreria-papel/
-shop: Schreibwaren
+shop: material de oficina
 ---

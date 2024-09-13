@@ -1,5 +1,5 @@
 ---
 title: "Óptica"
 url: /ciudad-autonoma-de-buenos-aires/optica-avenida-emilio-castro/
-shop: Optiker
+shop: óptico
 ---

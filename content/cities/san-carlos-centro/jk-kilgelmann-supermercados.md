@@ -1,5 +1,5 @@
 ---
 title: "JK Kilgelmann Supermercados"
 url: /san-carlos-centro/jk-kilgelmann-supermercados/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masterchip"
 url: /moron/masterchip/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

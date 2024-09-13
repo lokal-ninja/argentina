@@ -1,5 +1,5 @@
 ---
 title: "Casa Valdés"
 url: /san-carlos-de-bariloche/casa-valdes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

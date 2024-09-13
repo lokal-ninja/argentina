@@ -1,5 +1,5 @@
 ---
 title: "Kiosko Nunyhz"
 url: /pergamino/kiosko-nunyhz/
-shop: Kiosk
+shop: quiosco
 ---

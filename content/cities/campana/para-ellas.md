@@ -1,5 +1,5 @@
 ---
 title: "Para Ellas"
 url: /campana/para-ellas/
-shop: Schuhe
+shop: zapatos
 ---

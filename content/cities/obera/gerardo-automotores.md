@@ -1,5 +1,5 @@
 ---
 title: "Gerardo Automotores"
 url: /obera/gerardo-automotores/
-shop: Autohaus
+shop: coche
 ---

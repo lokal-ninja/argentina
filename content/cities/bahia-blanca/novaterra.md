@@ -1,5 +1,5 @@
 ---
 title: "Novaterra"
 url: /bahia-blanca/novaterra/
-shop: Garten-Center
+shop: centro de jardinería
 ---

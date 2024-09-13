@@ -1,5 +1,5 @@
 ---
 title: "Forum"
 url: /ciudad-autonoma-de-buenos-aires/forum/
-shop: Schreibwaren
+shop: material de oficina
 ---

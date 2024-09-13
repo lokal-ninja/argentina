@@ -1,5 +1,5 @@
 ---
 title: "Aguamarina"
 url: /viedma/aguamarina/
-shop: Kleidung
+shop: ropa
 ---

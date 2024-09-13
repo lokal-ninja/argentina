@@ -1,5 +1,5 @@
 ---
 title: "Óptica Pilar"
 url: /general-fernandez-oro/optica-pilar/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kantuta"
 url: /ciudad-autonoma-de-buenos-aires/kantuta/
-shop: Kosmetik
+shop: cosméticos
 ---

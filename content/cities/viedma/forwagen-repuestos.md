@@ -1,5 +1,5 @@
 ---
 title: "Forwagen - Repuestos"
 url: /viedma/forwagen-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

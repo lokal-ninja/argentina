@@ -1,5 +1,5 @@
 ---
 title: "Mimos Mágicos"
 url: /neuquen/mimos-magicos/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menners"
 url: /san-justo/menners/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Leblan"
 url: /salsipuedes/mecanica-leblan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

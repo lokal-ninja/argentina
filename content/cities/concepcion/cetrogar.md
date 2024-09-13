@@ -1,5 +1,5 @@
 ---
 title: "Cetrogar"
 url: /concepcion/cetrogar/
-shop: Elektronik
+shop: electrónica
 ---

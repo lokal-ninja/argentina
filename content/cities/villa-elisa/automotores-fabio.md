@@ -1,5 +1,5 @@
 ---
 title: "Automotores Fabio"
 url: /villa-elisa/automotores-fabio/
-shop: Autohaus
+shop: coche
 ---

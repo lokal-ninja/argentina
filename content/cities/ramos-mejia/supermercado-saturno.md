@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Saturno"
 url: /ramos-mejia/supermercado-saturno/
-shop: Supermarkt
+shop: supermercado
 ---

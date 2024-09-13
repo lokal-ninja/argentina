@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /quilmes/garbarino/
-shop: Elektronik
+shop: electrónica
 ---

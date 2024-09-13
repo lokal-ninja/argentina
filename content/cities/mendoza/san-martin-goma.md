@@ -1,5 +1,5 @@
 ---
 title: "San Martin Goma"
 url: /mendoza/san-martin-goma/
-shop: Eisenwaren
+shop: hardware
 ---

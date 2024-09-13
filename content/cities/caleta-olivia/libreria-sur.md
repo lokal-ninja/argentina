@@ -1,5 +1,5 @@
 ---
 title: "Librería Sur"
 url: /caleta-olivia/libreria-sur/
-shop: Schreibwaren
+shop: material de oficina
 ---

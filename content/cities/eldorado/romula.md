@@ -1,5 +1,5 @@
 ---
 title: "Romula"
 url: /eldorado/romula/
-shop: Kleidung
+shop: ropa
 ---

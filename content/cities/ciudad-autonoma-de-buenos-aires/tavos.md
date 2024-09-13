@@ -1,5 +1,5 @@
 ---
 title: "Tavo's"
 url: /ciudad-autonoma-de-buenos-aires/tavos/
-shop: Schuhe
+shop: zapatos
 ---

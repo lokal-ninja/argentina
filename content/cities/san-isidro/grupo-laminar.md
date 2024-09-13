@@ -1,5 +1,5 @@
 ---
 title: "Grupo Laminar"
 url: /san-isidro/grupo-laminar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Cristal Parabrisas"
 url: /cipolletti/el-cristal-parabrisas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

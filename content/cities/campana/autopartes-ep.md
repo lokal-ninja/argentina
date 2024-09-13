@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Ep"
 url: /campana/autopartes-ep/
-shop: Autoteile
+shop: piezas de automóviles
 ---

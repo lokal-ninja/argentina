@@ -1,5 +1,5 @@
 ---
 title: "Arbol blanco"
 url: /garin/arbol-blanco/
-shop: Kiosk
+shop: quiosco
 ---

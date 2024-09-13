@@ -1,5 +1,5 @@
 ---
 title: "Chapas Gaspar"
 url: /ciudad-autonoma-de-buenos-aires/chapas-gaspar/
-shop: Baustoffe
+shop: comercio
 ---

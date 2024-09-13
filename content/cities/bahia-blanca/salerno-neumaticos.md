@@ -1,5 +1,5 @@
 ---
 title: "Salerno Neumáticos"
 url: /bahia-blanca/salerno-neumaticos/
-shop: Reifen
+shop: neumáticos
 ---

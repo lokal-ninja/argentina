@@ -1,5 +1,5 @@
 ---
 title: "Uniformes Ocana"
 url: /salta/uniformes-ocana/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercado Juan"
 url: /dos-hermanas/mercado-juan/
-shop: Lebensmittel
+shop: comodidad
 ---

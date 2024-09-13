@@ -1,5 +1,5 @@
 ---
 title: "La Liquidadora"
 url: /rufino/la-liquidadora/
-shop: Schuhe
+shop: zapatos
 ---

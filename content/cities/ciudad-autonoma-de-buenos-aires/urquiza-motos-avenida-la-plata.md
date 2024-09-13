@@ -1,5 +1,5 @@
 ---
 title: "Urquiza Motos"
 url: /ciudad-autonoma-de-buenos-aires/urquiza-motos-avenida-la-plata/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /bahia-blanca/colorshop/
-shop: Farben
+shop: pintura
 ---

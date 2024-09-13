@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Sargento Cabral"
 url: /san-cayetano/carniceria-sargento-cabral/
-shop: Metzgerei
+shop: carnicero
 ---

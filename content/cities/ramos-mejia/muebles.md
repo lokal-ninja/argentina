@@ -1,5 +1,5 @@
 ---
 title: "Muebles"
 url: /ramos-mejia/muebles/
-shop: Möbel
+shop: muebles
 ---

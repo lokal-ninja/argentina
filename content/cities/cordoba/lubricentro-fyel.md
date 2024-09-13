@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro FYEL"
 url: /cordoba/lubricentro-fyel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

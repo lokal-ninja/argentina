@@ -1,5 +1,5 @@
 ---
 title: "Litalu"
 url: /cipolletti/litalu/
-shop: Kleidung
+shop: ropa
 ---

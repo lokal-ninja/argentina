@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Carlitos"
 url: /santa-fe/carniceria-carlitos/
-shop: Metzgerei
+shop: carnicero
 ---

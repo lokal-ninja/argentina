@@ -1,5 +1,5 @@
 ---
 title: "Car Noa"
 url: /san-miguel-de-tucuman/car-noa/
-shop: Autohaus
+shop: coche
 ---

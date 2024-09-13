@@ -1,5 +1,5 @@
 ---
 title: "Cedimat"
 url: /ciudad-autonoma-de-buenos-aires/cedimat/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /neuquen/chery/
-shop: Autohaus
+shop: coche
 ---

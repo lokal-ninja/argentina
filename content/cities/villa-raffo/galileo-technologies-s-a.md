@@ -1,5 +1,5 @@
 ---
 title: "Galileo Technologies S.A."
 url: /villa-raffo/galileo-technologies-s-a/
-shop: Autoteile
+shop: piezas de automóviles
 ---

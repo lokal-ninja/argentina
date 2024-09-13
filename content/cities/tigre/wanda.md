@@ -1,5 +1,5 @@
 ---
 title: "Wanda"
 url: /tigre/wanda/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

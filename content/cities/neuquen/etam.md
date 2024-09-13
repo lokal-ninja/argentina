@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /neuquen/etam/
-shop: Kleidung
+shop: ropa
 ---

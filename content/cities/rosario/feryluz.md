@@ -1,5 +1,5 @@
 ---
 title: "Feryluz"
 url: /rosario/feryluz/
-shop: Lampen
+shop: lámparas
 ---

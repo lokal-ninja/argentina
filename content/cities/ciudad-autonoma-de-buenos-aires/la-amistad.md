@@ -1,5 +1,5 @@
 ---
 title: "La Amistad"
 url: /ciudad-autonoma-de-buenos-aires/la-amistad/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Provenzano Piscinas"
 url: /rosario/provenzano-piscinas/
-shop: Pool
+shop: piscina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papalote"
 url: /neuquen/papalote/
-shop: Spielzeug
+shop: juguetes
 ---

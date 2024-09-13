@@ -1,5 +1,5 @@
 ---
 title: "Renault Minuto"
 url: /merlo/renault-minuto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

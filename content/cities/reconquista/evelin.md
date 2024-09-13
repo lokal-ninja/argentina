@@ -1,5 +1,5 @@
 ---
 title: "Evelin"
 url: /reconquista/evelin/
-shop: Kramladen
+shop: tienda de variedades
 ---

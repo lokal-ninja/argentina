@@ -1,5 +1,5 @@
 ---
 title: "AutOK"
 url: /olivos/autok/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

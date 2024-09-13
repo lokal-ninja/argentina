@@ -1,5 +1,5 @@
 ---
 title: "Orlando"
 url: /bahia-blanca/orlando/
-shop: Pasta
+shop: pasta
 ---

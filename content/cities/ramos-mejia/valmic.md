@@ -1,5 +1,5 @@
 ---
 title: "VALMIC"
 url: /ramos-mejia/valmic/
-shop: Andenken
+shop: regalo
 ---

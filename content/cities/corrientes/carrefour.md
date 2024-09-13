@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /corrientes/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

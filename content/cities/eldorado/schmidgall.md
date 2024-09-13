@@ -1,5 +1,5 @@
 ---
 title: "Schmidgall"
 url: /eldorado/schmidgall/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

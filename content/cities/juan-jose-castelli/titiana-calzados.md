@@ -1,5 +1,5 @@
 ---
 title: "Titiana Calzados"
 url: /juan-jose-castelli/titiana-calzados/
-shop: Schuhe
+shop: zapatos
 ---

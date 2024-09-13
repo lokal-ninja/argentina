@@ -1,5 +1,5 @@
 ---
 title: "Style Garage"
 url: /villa-maipu/style-garage/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solo Empanadas"
 url: /villa-ballester/solo-empanadas/
-shop: Lebensmittel
+shop: comodidad
 ---

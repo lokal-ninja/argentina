@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Abarca SRL"
 url: /guarani/distribuidora-abarca-srl/
-shop: Großhandel
+shop: mayorista
 ---

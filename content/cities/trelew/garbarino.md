@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /trelew/garbarino/
-shop: Elektronik
+shop: electrónica
 ---

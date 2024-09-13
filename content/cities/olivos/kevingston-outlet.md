@@ -1,5 +1,5 @@
 ---
 title: "Kevingston Outlet"
 url: /olivos/kevingston-outlet/
-shop: Kleidung
+shop: ropa
 ---

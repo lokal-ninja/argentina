@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Lider"
 url: /ciudad-autonoma-de-buenos-aires/supermercado-lider/
-shop: Supermarkt
+shop: supermercado
 ---

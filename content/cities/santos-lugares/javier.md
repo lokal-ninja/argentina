@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /santos-lugares/javier/
-shop: Autoteile
+shop: piezas de automóviles
 ---

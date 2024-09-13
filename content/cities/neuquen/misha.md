@@ -1,5 +1,5 @@
 ---
 title: "Misha"
 url: /neuquen/misha/
-shop: Kleidung
+shop: ropa
 ---

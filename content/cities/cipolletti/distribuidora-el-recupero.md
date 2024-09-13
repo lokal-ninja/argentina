@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora El Recupero"
 url: /cipolletti/distribuidora-el-recupero/
-shop: Metzgerei
+shop: carnicero
 ---

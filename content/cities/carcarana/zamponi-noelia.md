@@ -1,5 +1,5 @@
 ---
 title: "Zamponi Noelia"
 url: /carcarana/zamponi-noelia/
-shop: Kleidung
+shop: ropa
 ---

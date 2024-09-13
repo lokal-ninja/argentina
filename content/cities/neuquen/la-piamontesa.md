@@ -1,5 +1,5 @@
 ---
 title: "La Piamontesa"
 url: /neuquen/la-piamontesa/
-shop: Bäckerei
+shop: panadería
 ---

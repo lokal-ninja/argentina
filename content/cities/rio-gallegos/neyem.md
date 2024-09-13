@@ -1,5 +1,5 @@
 ---
 title: "Neyem"
 url: /rio-gallegos/neyem/
-shop: Reisebüro
+shop: agencia de viajes
 ---

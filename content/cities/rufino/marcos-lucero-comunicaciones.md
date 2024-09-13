@@ -1,5 +1,5 @@
 ---
 title: "Marcos Lucero Comunicaciones"
 url: /rufino/marcos-lucero-comunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

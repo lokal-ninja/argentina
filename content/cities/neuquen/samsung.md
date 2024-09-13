@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /neuquen/samsung/
-shop: Elektronik
+shop: electrónica
 ---

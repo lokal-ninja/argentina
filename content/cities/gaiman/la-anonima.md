@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /gaiman/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

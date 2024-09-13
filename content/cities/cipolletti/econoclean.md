@@ -1,5 +1,5 @@
 ---
 title: "Econoclean"
 url: /cipolletti/econoclean/
-shop: Drogerie
+shop: farmacia
 ---

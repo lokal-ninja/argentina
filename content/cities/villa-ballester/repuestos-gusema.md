@@ -1,5 +1,5 @@
 ---
 title: "Repuestos GuSeMa"
 url: /villa-ballester/repuestos-gusema/
-shop: Autoteile
+shop: piezas de automóviles
 ---

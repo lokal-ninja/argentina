@@ -1,5 +1,5 @@
 ---
 title: "Lagus"
 url: /godoy-cruz/lagus/
-shop: Fisch
+shop: marisco
 ---

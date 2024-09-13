@@ -1,5 +1,5 @@
 ---
 title: "América"
 url: /obera/america/
-shop: Schreibwaren
+shop: material de oficina
 ---

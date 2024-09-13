@@ -1,5 +1,5 @@
 ---
 title: "Corven Autopartes"
 url: /ezeiza/corven-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

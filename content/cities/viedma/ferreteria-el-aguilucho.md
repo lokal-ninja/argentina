@@ -1,5 +1,5 @@
 ---
 title: "Ferretería El Aguilucho"
 url: /viedma/ferreteria-el-aguilucho/
-shop: Eisenwaren
+shop: hardware
 ---

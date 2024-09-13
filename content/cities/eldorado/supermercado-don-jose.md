@@ -1,5 +1,5 @@
 ---
-title: "Supermercado Don Jose"
+title: "Supermercado Don José"
 url: /eldorado/supermercado-don-jose/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eleccon"
 url: /concordia/eleccon/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

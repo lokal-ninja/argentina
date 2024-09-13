@@ -1,5 +1,5 @@
 ---
 title: "GM Sport"
 url: /neuquen/gm-sport/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

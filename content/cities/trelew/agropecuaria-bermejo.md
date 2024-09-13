@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria Bermejo"
 url: /trelew/agropecuaria-bermejo/
-shop: Motorrad
+shop: motocicleta
 ---

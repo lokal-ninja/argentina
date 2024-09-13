@@ -1,5 +1,5 @@
 ---
 title: "Herrajes HH"
 url: /eldorado/herrajes-hh/
-shop: Eisenwaren
+shop: hardware
 ---

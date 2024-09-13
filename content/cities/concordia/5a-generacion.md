@@ -1,5 +1,5 @@
 ---
 title: "5ª Generación"
 url: /concordia/5a-generacion/
-shop: Metzgerei
+shop: carnicero
 ---

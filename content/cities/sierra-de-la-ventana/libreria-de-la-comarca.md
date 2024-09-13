@@ -1,5 +1,5 @@
 ---
 title: "Librería de la Comarca"
 url: /sierra-de-la-ventana/libreria-de-la-comarca/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Lito"
 url: /olivos/casa-lito/
-shop: Autoteile
+shop: piezas de automóviles
 ---

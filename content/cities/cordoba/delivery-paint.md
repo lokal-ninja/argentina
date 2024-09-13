@@ -1,5 +1,5 @@
 ---
 title: "Delivery Paint"
 url: /cordoba/delivery-paint/
-shop: Farben
+shop: pintura
 ---

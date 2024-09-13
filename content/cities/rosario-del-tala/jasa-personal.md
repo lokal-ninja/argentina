@@ -1,5 +1,5 @@
 ---
 title: "Jasa Personal"
 url: /rosario-del-tala/jasa-personal/
-shop: Handy
+shop: teléfono móvil
 ---

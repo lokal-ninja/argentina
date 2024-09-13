@@ -1,5 +1,5 @@
 ---
 title: "Incalum"
 url: /ciudad-autonoma-de-buenos-aires/incalum/
-shop: Baustoffe
+shop: comercio
 ---

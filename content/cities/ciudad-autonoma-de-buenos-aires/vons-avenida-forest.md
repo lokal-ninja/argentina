@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /ciudad-autonoma-de-buenos-aires/vons-avenida-forest/
-shop: Raumausstattung
+shop: decoración interior
 ---

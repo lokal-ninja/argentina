@@ -1,5 +1,5 @@
 ---
 title: "Mayorista Curlo"
 url: /cipolletti/mayorista-curlo/
-shop: Großhandel
+shop: mayorista
 ---

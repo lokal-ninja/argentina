@@ -1,5 +1,5 @@
 ---
 title: "Creciendo"
 url: /cipolletti/creciendo/
-shop: Babysachen
+shop: artículos para bebés
 ---

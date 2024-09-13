@@ -1,5 +1,5 @@
 ---
 title: "Blaisten"
 url: /villa-tesei/blaisten/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

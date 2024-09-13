@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /colonia-avellaneda/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

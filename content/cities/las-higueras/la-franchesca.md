@@ -1,5 +1,5 @@
 ---
 title: "La Franchesca"
 url: /las-higueras/la-franchesca/
-shop: Pasta
+shop: pasta
 ---

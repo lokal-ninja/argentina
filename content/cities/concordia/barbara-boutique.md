@@ -1,5 +1,5 @@
 ---
 title: "Bárbara Boutique"
 url: /concordia/barbara-boutique/
-shop: Kleidung
+shop: ropa
 ---

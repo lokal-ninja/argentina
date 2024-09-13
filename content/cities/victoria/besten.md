@@ -1,5 +1,5 @@
 ---
 title: "Besten"
 url: /victoria/besten/
-shop: Autohaus
+shop: coche
 ---

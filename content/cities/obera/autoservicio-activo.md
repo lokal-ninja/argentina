@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Activo"
 url: /obera/autoservicio-activo/
-shop: Supermarkt
+shop: supermercado
 ---

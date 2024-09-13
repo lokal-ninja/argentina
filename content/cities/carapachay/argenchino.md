@@ -1,5 +1,5 @@
 ---
 title: "Argenchino"
 url: /carapachay/argenchino/
-shop: Supermarkt
+shop: supermercado
 ---

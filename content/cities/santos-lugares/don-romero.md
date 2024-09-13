@@ -1,5 +1,5 @@
 ---
 title: "Don Romero"
 url: /santos-lugares/don-romero/
-shop: Metzgerei
+shop: carnicero
 ---

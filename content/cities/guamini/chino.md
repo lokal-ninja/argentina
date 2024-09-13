@@ -1,5 +1,5 @@
 ---
 title: "Chino"
 url: /guamini/chino/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santería"
 url: /tristan-suarez/santeria/
-shop: Allgemein
+shop: general
 ---

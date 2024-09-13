@@ -1,5 +1,5 @@
 ---
 title: "Fullmotos"
 url: /pergamino/fullmotos/
-shop: Motorrad
+shop: motocicleta
 ---

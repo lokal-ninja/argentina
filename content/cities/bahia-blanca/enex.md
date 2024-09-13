@@ -1,5 +1,5 @@
 ---
 title: "Enex"
 url: /bahia-blanca/enex/
-shop: Kleidung
+shop: ropa
 ---

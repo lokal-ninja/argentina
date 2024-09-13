@@ -1,5 +1,5 @@
 ---
 title: "Milyon"
 url: /ciudad-autonoma-de-buenos-aires/milyon/
-shop: Elektronik
+shop: electrónica
 ---

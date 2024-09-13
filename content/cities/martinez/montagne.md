@@ -1,5 +1,5 @@
 ---
 title: "Montagne"
 url: /martinez/montagne/
-shop: Outdoor
+shop: exterior
 ---

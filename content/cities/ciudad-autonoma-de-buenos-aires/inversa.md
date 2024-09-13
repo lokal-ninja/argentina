@@ -1,5 +1,5 @@
 ---
 title: "Inversa"
 url: /ciudad-autonoma-de-buenos-aires/inversa/
-shop: Kleidung
+shop: ropa
 ---

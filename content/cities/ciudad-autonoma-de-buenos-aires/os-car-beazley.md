@@ -1,5 +1,5 @@
 ---
 title: "Os-Car"
 url: /ciudad-autonoma-de-buenos-aires/os-car-beazley/
-shop: Allgemein
+shop: general
 ---

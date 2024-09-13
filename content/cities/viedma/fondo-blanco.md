@@ -1,5 +1,5 @@
 ---
 title: "Fondo Blanco"
 url: /viedma/fondo-blanco/
-shop: Wein
+shop: vino
 ---

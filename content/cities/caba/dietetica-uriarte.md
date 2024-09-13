@@ -1,5 +1,5 @@
 ---
 title: "Dietética Uriarte"
 url: /caba/dietetica-uriarte/
-shop: Supermarkt
+shop: supermercado
 ---

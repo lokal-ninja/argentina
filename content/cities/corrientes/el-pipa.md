@@ -1,5 +1,5 @@
 ---
 title: "El Pipa"
 url: /corrientes/el-pipa/
-shop: Kiosk
+shop: quiosco
 ---

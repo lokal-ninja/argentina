@@ -1,5 +1,5 @@
 ---
 title: "Amaranta"
 url: /zapala/amaranta/
-shop: Kleidung
+shop: ropa
 ---

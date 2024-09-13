@@ -1,5 +1,5 @@
 ---
 title: "Dygie"
 url: /vicente-lopez/dygie/
-shop: Supermarkt
+shop: supermercado
 ---

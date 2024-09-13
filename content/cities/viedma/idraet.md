@@ -1,5 +1,5 @@
 ---
 title: "Idraet"
 url: /viedma/idraet/
-shop: Kramladen
+shop: tienda de variedades
 ---

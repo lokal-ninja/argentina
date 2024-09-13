@@ -1,5 +1,5 @@
 ---
 title: "Pumba la Lumba"
 url: /tigre/pumba-la-lumba/
-shop: Spielzeug
+shop: juguetes
 ---

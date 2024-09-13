@@ -1,5 +1,5 @@
 ---
 title: "Norbikes"
 url: /benavidez/norbikes/
-shop: Fahrrad
+shop: bicicleta
 ---

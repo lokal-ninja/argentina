@@ -1,5 +1,5 @@
 ---
 title: "El Industrial"
 url: /ciudad-autonoma-de-buenos-aires/el-industrial/
-shop: Schreibwaren
+shop: material de oficina
 ---

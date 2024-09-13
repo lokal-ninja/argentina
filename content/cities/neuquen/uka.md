@@ -1,5 +1,5 @@
 ---
 title: "Uka"
 url: /neuquen/uka/
-shop: Kleidung
+shop: ropa
 ---

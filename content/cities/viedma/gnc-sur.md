@@ -1,5 +1,5 @@
 ---
 title: "GNC Sur"
 url: /viedma/gnc-sur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

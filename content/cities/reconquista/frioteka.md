@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /reconquista/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

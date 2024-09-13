@@ -1,5 +1,5 @@
 ---
 title: "Silana"
 url: /ciudad-autonoma-de-buenos-aires/silana/
-shop: Eisenwaren
+shop: hardware
 ---

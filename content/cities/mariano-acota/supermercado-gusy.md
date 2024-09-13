@@ -1,5 +1,5 @@
 ---
 title: "Supermercado gusy"
 url: /mariano-acota/supermercado-gusy/
-shop: Supermarkt
+shop: supermercado
 ---

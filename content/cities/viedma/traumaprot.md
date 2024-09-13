@@ -1,5 +1,5 @@
 ---
 title: "Traumaprot"
 url: /viedma/traumaprot/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

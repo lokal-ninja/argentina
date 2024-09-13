@@ -1,5 +1,5 @@
 ---
 title: "Todográfica"
 url: /neuquen/todografica/
-shop: Kopieren
+shop: copyshop
 ---

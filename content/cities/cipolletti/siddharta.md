@@ -1,5 +1,5 @@
 ---
 title: "Siddharta"
 url: /cipolletti/siddharta/
-shop: Bücher
+shop: libros
 ---

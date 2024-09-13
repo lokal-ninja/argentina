@@ -1,5 +1,5 @@
 ---
 title: "Grupo Tluaner"
 url: /ciudad-autonoma-de-buenos-aires/grupo-tluaner/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

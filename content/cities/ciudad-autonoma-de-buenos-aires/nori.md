@@ -1,5 +1,5 @@
 ---
 title: "Nori"
 url: /ciudad-autonoma-de-buenos-aires/nori/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sachs"
 url: /san-jose/sachs/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Los Olivos"
 url: /olivos/supermercado-los-olivos/
-shop: Supermarkt
+shop: supermercado
 ---

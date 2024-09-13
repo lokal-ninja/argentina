@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Mundito"
 url: /viedma/mecanica-mundito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Bosco"
 url: /haedo/don-bosco/
-shop: Motorrad
+shop: motocicleta
 ---

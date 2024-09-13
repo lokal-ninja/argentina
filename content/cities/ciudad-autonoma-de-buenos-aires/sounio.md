@@ -1,5 +1,5 @@
 ---
 title: "Sounio"
 url: /ciudad-autonoma-de-buenos-aires/sounio/
-shop: Kleidung
+shop: ropa
 ---

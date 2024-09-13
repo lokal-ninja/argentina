@@ -1,5 +1,5 @@
 ---
 title: "ITOA"
 url: /arroyito/itoa/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

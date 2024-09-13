@@ -1,5 +1,5 @@
 ---
 title: "Cellfie"
 url: /cipolletti/cellfie/
-shop: Handy
+shop: teléfono móvil
 ---

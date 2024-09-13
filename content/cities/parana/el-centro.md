@@ -1,5 +1,5 @@
 ---
 title: "El Centro"
 url: /parana/el-centro/
-shop: Supermarkt
+shop: supermercado
 ---

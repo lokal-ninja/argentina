@@ -1,5 +1,5 @@
 ---
 title: "Muresur"
 url: /cipolletti/muresur/
-shop: Kleidung
+shop: ropa
 ---

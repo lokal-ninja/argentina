@@ -1,5 +1,5 @@
 ---
 title: "Rodamientos Rulquén"
 url: /neuquen/rodamientos-rulquen/
-shop: Eisenwaren
+shop: hardware
 ---

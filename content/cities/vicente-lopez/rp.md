@@ -1,5 +1,5 @@
 ---
 title: "RP"
 url: /vicente-lopez/rp/
-shop: Foto
+shop: foto
 ---

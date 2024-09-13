@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /pirane/musimundo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

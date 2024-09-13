@@ -1,5 +1,5 @@
 ---
 title: "CITEM"
 url: /cordoba/citem/
-shop: Radiotechnik
+shop: radiotecnia
 ---

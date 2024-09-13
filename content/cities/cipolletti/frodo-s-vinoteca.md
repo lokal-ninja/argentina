@@ -1,5 +1,5 @@
 ---
 title: "Frodo´s Vinoteca"
 url: /cipolletti/frodo-s-vinoteca/
-shop: Getränke
+shop: bebidas
 ---

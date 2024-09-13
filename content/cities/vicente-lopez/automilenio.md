@@ -1,5 +1,5 @@
 ---
 title: "Automilenio"
 url: /vicente-lopez/automilenio/
-shop: Allgemein
+shop: general
 ---

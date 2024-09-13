@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /9-de-julio/despensa/
-shop: Lebensmittel
+shop: comodidad
 ---

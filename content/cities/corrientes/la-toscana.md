@@ -1,5 +1,5 @@
 ---
 title: "La Toscana"
 url: /corrientes/la-toscana/
-shop: Wein
+shop: vino
 ---

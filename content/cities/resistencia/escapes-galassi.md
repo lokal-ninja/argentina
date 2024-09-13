@@ -1,5 +1,5 @@
 ---
 title: "Escapes Galassi"
 url: /resistencia/escapes-galassi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

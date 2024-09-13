@@ -1,5 +1,5 @@
 ---
 title: "Mafalda"
 url: /concordia/mafalda/
-shop: Süßwaren
+shop: confitería
 ---

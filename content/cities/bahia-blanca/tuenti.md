@@ -1,5 +1,5 @@
 ---
 title: "Tuenti"
 url: /bahia-blanca/tuenti/
-shop: Handy
+shop: teléfono móvil
 ---

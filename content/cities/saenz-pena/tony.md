@@ -1,5 +1,5 @@
 ---
 title: "Tony"
 url: /saenz-pena/tony/
-shop: Autoteile
+shop: piezas de automóviles
 ---

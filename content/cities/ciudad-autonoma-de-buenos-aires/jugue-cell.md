@@ -1,5 +1,5 @@
 ---
 title: "Jugue Cell"
 url: /ciudad-autonoma-de-buenos-aires/jugue-cell/
-shop: Handy
+shop: teléfono móvil
 ---

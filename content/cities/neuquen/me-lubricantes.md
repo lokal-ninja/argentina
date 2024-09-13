@@ -1,5 +1,5 @@
 ---
 title: "ME Lubricantes"
 url: /neuquen/me-lubricantes/
-shop: Allgemein
+shop: general
 ---

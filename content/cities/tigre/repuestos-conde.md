@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Conde"
 url: /tigre/repuestos-conde/
-shop: Allgemein
+shop: general
 ---

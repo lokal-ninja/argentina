@@ -1,5 +1,5 @@
 ---
 title: "Castro SRL"
 url: /concepcion/castro-srl/
-shop: Eisenwaren
+shop: hardware
 ---

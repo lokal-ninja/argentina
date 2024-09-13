@@ -1,5 +1,5 @@
 ---
 title: "ZTB Consultoría"
 url: /viedma/ztb-consultoria/
-shop: Lebensmittel
+shop: comodidad
 ---

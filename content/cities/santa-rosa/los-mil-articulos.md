@@ -1,5 +1,5 @@
 ---
 title: "Los Mil Articulos"
 url: /santa-rosa/los-mil-articulos/
-shop: Kramladen
+shop: tienda de variedades
 ---

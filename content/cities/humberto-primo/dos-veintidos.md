@@ -1,5 +1,5 @@
 ---
 title: "Dos Veintidós"
 url: /humberto-primo/dos-veintidos/
-shop: Lebensmittel
+shop: comodidad
 ---

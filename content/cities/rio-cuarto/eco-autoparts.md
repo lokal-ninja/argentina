@@ -1,5 +1,5 @@
 ---
 title: "ECO Autoparts"
 url: /rio-cuarto/eco-autoparts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

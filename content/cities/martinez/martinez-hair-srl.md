@@ -1,5 +1,5 @@
 ---
 title: "Martinez Hair Srl"
 url: /martinez/martinez-hair-srl/
-shop: Friseur
+shop: peluquería
 ---

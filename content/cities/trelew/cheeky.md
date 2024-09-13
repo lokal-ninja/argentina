@@ -1,5 +1,5 @@
 ---
 title: "Cheeky"
 url: /trelew/cheeky/
-shop: Kleidung
+shop: ropa
 ---

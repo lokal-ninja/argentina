@@ -1,5 +1,5 @@
 ---
 title: "Paseo de Compras Colombraro"
 url: /ciudad-autonoma-de-buenos-aires/paseo-de-compras-colombraro/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

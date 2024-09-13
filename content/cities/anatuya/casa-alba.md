@@ -1,5 +1,5 @@
 ---
 title: "Casa Alba"
 url: /anatuya/casa-alba/
-shop: Kleidung
+shop: ropa
 ---

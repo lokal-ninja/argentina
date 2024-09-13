@@ -1,5 +1,5 @@
 ---
 title: "Nix"
 url: /rio-cuarto/nix/
-shop: Autohaus
+shop: coche
 ---

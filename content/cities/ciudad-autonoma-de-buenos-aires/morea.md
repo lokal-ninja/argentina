@@ -1,5 +1,5 @@
 ---
 title: "Morea"
 url: /ciudad-autonoma-de-buenos-aires/morea/
-shop: Möbel
+shop: muebles
 ---

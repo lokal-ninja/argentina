@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /ciudad-autonoma-de-buenos-aires/iris/
-shop: Lebensmittel
+shop: comodidad
 ---

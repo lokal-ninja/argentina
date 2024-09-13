@@ -1,5 +1,5 @@
 ---
 title: "Nox"
 url: /cipolletti/nox/
-shop: Kleidung
+shop: ropa
 ---

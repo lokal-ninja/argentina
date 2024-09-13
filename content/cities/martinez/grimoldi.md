@@ -1,5 +1,5 @@
 ---
 title: "Grimoldi"
 url: /martinez/grimoldi/
-shop: Schuhe
+shop: zapatos
 ---

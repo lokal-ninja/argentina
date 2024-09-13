@@ -1,5 +1,5 @@
 ---
 title: "Librería Esmeralda"
 url: /eldorado/libreria-esmeralda/
-shop: Schreibwaren
+shop: material de oficina
 ---

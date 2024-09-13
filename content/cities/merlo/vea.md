@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /merlo/vea/
-shop: Supermarkt
+shop: supermercado
 ---

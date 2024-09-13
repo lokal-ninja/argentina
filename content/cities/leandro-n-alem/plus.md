@@ -1,5 +1,5 @@
 ---
 title: "Plus"
 url: /leandro-n-alem/plus/
-shop: Allgemein
+shop: general
 ---

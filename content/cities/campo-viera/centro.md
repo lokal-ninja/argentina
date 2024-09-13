@@ -1,5 +1,5 @@
 ---
 title: "Centro"
 url: /campo-viera/centro/
-shop: Bäckerei
+shop: panadería
 ---

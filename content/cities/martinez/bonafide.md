@@ -1,5 +1,5 @@
 ---
 title: "Bonafide"
 url: /martinez/bonafide/
-shop: Süßwaren
+shop: confitería
 ---

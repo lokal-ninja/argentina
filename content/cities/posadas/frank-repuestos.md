@@ -1,5 +1,5 @@
 ---
 title: "Frank Repuestos"
 url: /posadas/frank-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

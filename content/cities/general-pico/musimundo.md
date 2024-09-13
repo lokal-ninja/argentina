@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /general-pico/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

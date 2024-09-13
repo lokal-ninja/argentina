@@ -1,5 +1,5 @@
 ---
 title: "Pereyra tren delantero"
 url: /corrientes/pereyra-tren-delantero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

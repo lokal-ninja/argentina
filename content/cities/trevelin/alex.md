@@ -1,5 +1,5 @@
 ---
 title: "Alex"
 url: /trevelin/alex/
-shop: Schuhe
+shop: zapatos
 ---

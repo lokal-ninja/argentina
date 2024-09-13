@@ -1,5 +1,5 @@
 ---
 title: "Sepelios Galli"
 url: /martinez/sepelios-galli/
-shop: Bestattungen
+shop: directores de funerarias
 ---

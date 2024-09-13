@@ -1,5 +1,5 @@
 ---
 title: "Posta del Museo"
 url: /tigre/posta-del-museo/
-shop: Lebensmittel
+shop: comodidad
 ---

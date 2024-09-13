@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Norte Express"
 url: /viedma/autoservicio-norte-express/
-shop: Lebensmittel
+shop: comodidad
 ---

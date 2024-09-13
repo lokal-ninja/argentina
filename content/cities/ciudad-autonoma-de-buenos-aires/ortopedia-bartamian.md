@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Bartamian"
 url: /ciudad-autonoma-de-buenos-aires/ortopedia-bartamian/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

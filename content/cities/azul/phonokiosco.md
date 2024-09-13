@@ -1,5 +1,5 @@
 ---
 title: "Phonokiosco"
 url: /azul/phonokiosco/
-shop: Kiosk
+shop: quiosco
 ---

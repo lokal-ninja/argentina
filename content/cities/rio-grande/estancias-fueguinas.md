@@ -1,5 +1,5 @@
 ---
 title: "Estancias Fueguinas"
 url: /rio-grande/estancias-fueguinas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maquinarías Jardín"
 url: /jardin-america/maquinarias-jardin/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mimos"
 url: /neuquen/mimos/
-shop: Erotik
+shop: erótico
 ---

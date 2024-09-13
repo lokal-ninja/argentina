@@ -1,5 +1,5 @@
 ---
 title: "Santería San Jorge"
 url: /neuquen/santeria-san-jorge/
-shop: Religion
+shop: religión
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nuevo Horizonte"
 url: /neuquen/nuevo-horizonte/
-shop: Kopieren
+shop: copyshop
 ---

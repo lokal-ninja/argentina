@@ -1,5 +1,5 @@
 ---
 title: "Forraje Don Sebastián"
 url: /punta-alta/forraje-don-sebastian/
-shop: Tiere
+shop: mascotas
 ---

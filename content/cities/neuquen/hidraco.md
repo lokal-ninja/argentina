@@ -1,5 +1,5 @@
 ---
 title: "Hidraco"
 url: /neuquen/hidraco/
-shop: Allgemein
+shop: general
 ---

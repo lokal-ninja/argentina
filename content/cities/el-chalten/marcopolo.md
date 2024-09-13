@@ -1,5 +1,5 @@
 ---
 title: "Marcopolo"
 url: /el-chalten/marcopolo/
-shop: Bücher
+shop: libros
 ---

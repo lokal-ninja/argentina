@@ -1,5 +1,5 @@
 ---
 title: "Johnson Amoblamientos"
 url: /rio-grande/johnson-amoblamientos/
-shop: Badezimmer
+shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlitos"
 url: /ciudad-autonoma-de-buenos-aires/carlitos/
-shop: Metzgerei
+shop: carnicero
 ---

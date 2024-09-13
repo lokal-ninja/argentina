@@ -1,5 +1,5 @@
 ---
 title: "Blancoamor"
 url: /plottier/blancoamor/
-shop: Betten
+shop: cama
 ---

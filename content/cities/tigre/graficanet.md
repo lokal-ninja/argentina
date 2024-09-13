@@ -1,5 +1,5 @@
 ---
 title: "GráficaNet"
 url: /tigre/graficanet/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mity"
 url: /bahia-blanca/mity/
-shop: Metzgerei
+shop: carnicero
 ---

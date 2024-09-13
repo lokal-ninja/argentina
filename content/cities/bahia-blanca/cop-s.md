@@ -1,5 +1,5 @@
 ---
 title: "Cop´s"
 url: /bahia-blanca/cop-s/
-shop: Käse
+shop: queso
 ---

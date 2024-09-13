@@ -1,5 +1,5 @@
 ---
 title: "Max"
 url: /neuquen/max/
-shop: Kleidung
+shop: ropa
 ---

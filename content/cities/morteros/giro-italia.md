@@ -1,5 +1,5 @@
 ---
 title: "Giro"
 url: /morteros/giro-italia/
-shop: Supermarkt
+shop: supermercado
 ---

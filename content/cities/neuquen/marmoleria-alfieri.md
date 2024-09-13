@@ -1,5 +1,5 @@
 ---
 title: "Marmolería Alfieri"
 url: /neuquen/marmoleria-alfieri/
-shop: Baustoffe
+shop: comercio
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moracad"
 url: /zapala/moracad/
-shop: Kopieren
+shop: copyshop
 ---

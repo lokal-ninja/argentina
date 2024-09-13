@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /perito-moreno/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

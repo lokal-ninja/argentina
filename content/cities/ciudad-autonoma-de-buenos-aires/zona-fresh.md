@@ -1,5 +1,5 @@
 ---
 title: "Zona Fresh"
 url: /ciudad-autonoma-de-buenos-aires/zona-fresh/
-shop: Lebensmittel
+shop: comodidad
 ---

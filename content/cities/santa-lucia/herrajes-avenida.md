@@ -1,5 +1,5 @@
 ---
 title: "Herrajes Avenida"
 url: /santa-lucia/herrajes-avenida/
-shop: Eisenwaren
+shop: hardware
 ---

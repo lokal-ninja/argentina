@@ -1,5 +1,5 @@
 ---
 title: "Yoke - Service Philips"
 url: /san-isidro/yoke-service-philips/
-shop: Elektronik
+shop: electrónica
 ---

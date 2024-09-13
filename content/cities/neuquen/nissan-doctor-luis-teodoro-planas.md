@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /neuquen/nissan-doctor-luis-teodoro-planas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

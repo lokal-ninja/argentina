@@ -1,5 +1,5 @@
 ---
 title: "Batistella"
 url: /san-fernando-del-valle-de-catamarca/batistella/
-shop: Schuhe
+shop: zapatos
 ---

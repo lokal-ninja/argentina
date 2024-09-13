@@ -1,5 +1,5 @@
 ---
 title: "Electropartes Comunicaciones"
 url: /concordia/electropartes-comunicaciones/
-shop: Radiotechnik
+shop: radiotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saramall"
 url: /tandil/saramall/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

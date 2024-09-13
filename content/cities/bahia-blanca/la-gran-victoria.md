@@ -1,5 +1,5 @@
 ---
 title: "La Gran Victoria"
 url: /bahia-blanca/la-gran-victoria/
-shop: Eisenwaren
+shop: hardware
 ---

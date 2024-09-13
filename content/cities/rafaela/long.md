@@ -1,5 +1,5 @@
 ---
 title: "Long"
 url: /rafaela/long/
-shop: Autohaus
+shop: coche
 ---

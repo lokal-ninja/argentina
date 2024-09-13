@@ -1,5 +1,5 @@
 ---
 title: "Ravaioli"
 url: /puan/ravaioli/
-shop: Kleidung
+shop: ropa
 ---

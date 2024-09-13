@@ -1,5 +1,5 @@
 ---
 title: "Estetica y Peluquería Glamour"
 url: /san-vicente/estetica-y-peluqueria-glamour/
-shop: Friseur
+shop: peluquería
 ---

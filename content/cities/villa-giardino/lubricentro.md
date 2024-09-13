@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /villa-giardino/lubricentro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

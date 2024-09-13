@@ -1,5 +1,5 @@
 ---
 title: "Viviendas Roca"
 url: /rosario/viviendas-roca/
-shop: Immobilien
+shop: agente inmobiliario
 ---

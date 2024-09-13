@@ -1,5 +1,5 @@
 ---
 title: "Todo Supermercado"
 url: /general-alvear/todo-supermercado/
-shop: Lebensmittel
+shop: comodidad
 ---

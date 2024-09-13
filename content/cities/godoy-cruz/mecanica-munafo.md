@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Munafo"
 url: /godoy-cruz/mecanica-munafo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

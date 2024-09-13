@@ -1,5 +1,5 @@
 ---
 title: "Naldo"
 url: /zapala/naldo/
-shop: Elektronik
+shop: electrónica
 ---

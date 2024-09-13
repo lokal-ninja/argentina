@@ -1,5 +1,5 @@
 ---
 title: "Emanuel"
 url: /suncho-corral/emanuel/
-shop: Eisenwaren
+shop: hardware
 ---

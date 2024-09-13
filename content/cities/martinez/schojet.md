@@ -1,5 +1,5 @@
 ---
 title: "Schojet"
 url: /martinez/schojet/
-shop: Autohaus
+shop: coche
 ---

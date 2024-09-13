@@ -1,5 +1,5 @@
 ---
 title: "Electrovdp"
 url: /ciudad-autonoma-de-buenos-aires/electrovdp/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarthou"
 url: /san-fernando/sarthou/
-shop: Motorrad
+shop: motocicleta
 ---

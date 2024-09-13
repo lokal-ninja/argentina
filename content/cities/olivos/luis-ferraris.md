@@ -1,5 +1,5 @@
 ---
 title: "Luis Ferraris"
 url: /olivos/luis-ferraris/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SanitariosHIdrodel"
 url: /san-fernando/sanitarioshidrodel/
-shop: Allgemein
+shop: general
 ---

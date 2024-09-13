@@ -1,5 +1,5 @@
 ---
 title: "Malibú"
 url: /neuquen/malibu/
-shop: Kleidung
+shop: ropa
 ---

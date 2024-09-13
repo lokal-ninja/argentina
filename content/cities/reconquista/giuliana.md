@@ -1,5 +1,5 @@
 ---
 title: "Giuliana"
 url: /reconquista/giuliana/
-shop: Schuhe
+shop: zapatos
 ---

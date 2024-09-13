@@ -1,5 +1,5 @@
 ---
 title: "Pres-car"
 url: /ciudad-autonoma-de-buenos-aires/pres-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

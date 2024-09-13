@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /ciudad-autonoma-de-buenos-aires/garbarino-avenida-rivadavia-2/
-shop: Reisebüro
+shop: agencia de viajes
 ---

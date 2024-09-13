@@ -1,5 +1,5 @@
 ---
 title: "Graffitti"
 url: /leandro-n-alem/graffitti/
-shop: Schreibwaren
+shop: material de oficina
 ---

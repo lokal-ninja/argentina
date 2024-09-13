@@ -1,5 +1,5 @@
 ---
 title: "El Titan SRL"
 url: /obera/el-titan-srl/
-shop: Eisenwaren
+shop: hardware
 ---

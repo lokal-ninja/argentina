@@ -1,5 +1,5 @@
 ---
 title: "Pastas Sanguinetti"
 url: /rosario/pastas-sanguinetti/
-shop: Pasta
+shop: pasta
 ---

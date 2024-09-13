@@ -1,5 +1,5 @@
 ---
 title: "Sweet"
 url: /ciudad-autonoma-de-buenos-aires/sweet/
-shop: Kleidung
+shop: ropa
 ---

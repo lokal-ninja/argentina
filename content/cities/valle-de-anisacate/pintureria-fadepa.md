@@ -1,5 +1,5 @@
 ---
 title: "Pintureria Fadepa"
 url: /valle-de-anisacate/pintureria-fadepa/
-shop: Farben
+shop: pintura
 ---

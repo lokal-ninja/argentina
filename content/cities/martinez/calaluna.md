@@ -1,5 +1,5 @@
 ---
 title: "Calaluna"
 url: /martinez/calaluna/
-shop: Raumausstattung
+shop: decoración interior
 ---

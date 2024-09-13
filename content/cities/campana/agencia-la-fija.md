@@ -1,5 +1,5 @@
 ---
 title: "Agencia La Fija"
 url: /campana/agencia-la-fija/
-shop: Lotterie
+shop: lotería
 ---

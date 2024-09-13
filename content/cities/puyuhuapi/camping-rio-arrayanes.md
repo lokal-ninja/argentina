@@ -1,5 +1,5 @@
 ---
 title: "Camping Rio Arrayanes"
 url: /puyuhuapi/camping-rio-arrayanes/
-shop: Allgemein
+shop: general
 ---

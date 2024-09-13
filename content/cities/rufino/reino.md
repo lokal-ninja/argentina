@@ -1,5 +1,5 @@
 ---
 title: "Reino"
 url: /rufino/reino/
-shop: Kosmetik
+shop: cosméticos
 ---

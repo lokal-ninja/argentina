@@ -1,5 +1,5 @@
 ---
 title: "Copacabana"
 url: /ciudad-autonoma-de-buenos-aires/copacabana/
-shop: Kramladen
+shop: tienda de variedades
 ---

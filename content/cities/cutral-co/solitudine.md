@@ -1,5 +1,5 @@
 ---
 title: "Solitudine"
 url: /cutral-co/solitudine/
-shop: Andenken
+shop: regalo
 ---

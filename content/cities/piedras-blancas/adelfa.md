@@ -1,5 +1,5 @@
 ---
 title: "Adelfa"
 url: /piedras-blancas/adelfa/
-shop: Bäckerei
+shop: panadería
 ---

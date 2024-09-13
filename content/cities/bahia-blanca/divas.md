@@ -1,5 +1,5 @@
 ---
 title: "Divas"
 url: /bahia-blanca/divas/
-shop: Kleidung
+shop: ropa
 ---

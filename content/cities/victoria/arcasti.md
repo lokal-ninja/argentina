@@ -1,5 +1,5 @@
 ---
 title: "Arcasti"
 url: /victoria/arcasti/
-shop: Eisenwaren
+shop: hardware
 ---

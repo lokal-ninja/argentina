@@ -1,5 +1,5 @@
 ---
 title: "Hipertehuelche"
 url: /las-heras/hipertehuelche/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

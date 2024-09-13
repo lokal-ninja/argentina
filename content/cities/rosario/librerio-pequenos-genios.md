@@ -1,5 +1,5 @@
 ---
 title: "Librerio Pequenos Genios"
 url: /rosario/librerio-pequenos-genios/
-shop: Bücher
+shop: libros
 ---

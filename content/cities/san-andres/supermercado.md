@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /san-andres/supermercado/
-shop: Supermarkt
+shop: supermercado
 ---

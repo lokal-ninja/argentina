@@ -1,5 +1,5 @@
 ---
 title: "Kike"
 url: /bahia-blanca/kike/
-shop: Eisenwaren
+shop: hardware
 ---

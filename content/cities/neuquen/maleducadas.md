@@ -1,5 +1,5 @@
 ---
 title: "Maleducadas"
 url: /neuquen/maleducadas/
-shop: Schuhe
+shop: zapatos
 ---

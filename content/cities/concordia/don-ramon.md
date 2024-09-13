@@ -1,5 +1,5 @@
 ---
 title: "Don Ramón"
 url: /concordia/don-ramon/
-shop: Lebensmittel
+shop: comodidad
 ---

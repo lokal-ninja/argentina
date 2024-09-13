@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /munro/garbarino/
-shop: Elektronik
+shop: electrónica
 ---

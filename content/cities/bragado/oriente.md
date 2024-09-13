@@ -1,5 +1,5 @@
 ---
 title: "Oriente"
 url: /bragado/oriente/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ledian PostVenta"
 url: /san-fernando-del-valle-de-catamarca/ledian-postventa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

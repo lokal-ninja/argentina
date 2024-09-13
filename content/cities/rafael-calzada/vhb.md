@@ -1,5 +1,5 @@
 ---
 title: "VHB"
 url: /rafael-calzada/vhb/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

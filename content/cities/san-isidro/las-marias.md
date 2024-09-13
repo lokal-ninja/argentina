@@ -1,5 +1,5 @@
 ---
 title: "Las Marías"
 url: /san-isidro/las-marias/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calf Sepelios"
 url: /neuquen/calf-sepelios/
-shop: Bestattungen
+shop: directores de funerarias
 ---

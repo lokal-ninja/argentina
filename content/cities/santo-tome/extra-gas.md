@@ -1,5 +1,5 @@
 ---
 title: "Extra Gas"
 url: /santo-tome/extra-gas/
-shop: Gasflaschen
+shop: gas
 ---

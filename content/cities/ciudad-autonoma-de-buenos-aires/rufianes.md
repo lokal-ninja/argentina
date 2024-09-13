@@ -1,5 +1,5 @@
 ---
 title: "Rufianes"
 url: /ciudad-autonoma-de-buenos-aires/rufianes/
-shop: Friseur
+shop: peluquería
 ---

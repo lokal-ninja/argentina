@@ -1,5 +1,5 @@
 ---
 title: "Baterias Arcle"
 url: /corrientes/baterias-arcle/
-shop: Autoteile
+shop: piezas de automóviles
 ---

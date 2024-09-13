@@ -1,5 +1,5 @@
 ---
 title: "Coke"
 url: /gobernador-ingeniero-valentin-virasoro/coke/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvi Electric"
 url: /ciudad-autonoma-de-buenos-aires/alvi-electric/
-shop: Elektrisch
+shop: eléctrico
 ---

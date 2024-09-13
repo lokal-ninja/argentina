@@ -1,5 +1,5 @@
 ---
 title: "Disegno Milano"
 url: /haedo/disegno-milano/
-shop: Raumausstattung
+shop: decoración interior
 ---

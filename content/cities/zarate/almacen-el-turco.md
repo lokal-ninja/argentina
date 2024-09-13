@@ -1,5 +1,5 @@
 ---
 title: "almacén El Turco"
 url: /zarate/almacen-el-turco/
-shop: Lebensmittel
+shop: comodidad
 ---

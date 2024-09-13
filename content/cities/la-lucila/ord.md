@@ -1,5 +1,5 @@
 ---
 title: "ORD"
 url: /la-lucila/ord/
-shop: Reisebüro
+shop: agencia de viajes
 ---

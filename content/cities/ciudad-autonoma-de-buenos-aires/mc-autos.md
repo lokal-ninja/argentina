@@ -1,5 +1,5 @@
 ---
 title: "MC Autos"
 url: /ciudad-autonoma-de-buenos-aires/mc-autos/
-shop: Autohaus
+shop: coche
 ---

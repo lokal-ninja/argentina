@@ -1,5 +1,5 @@
 ---
 title: "Europie"
 url: /san-juan/europie/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

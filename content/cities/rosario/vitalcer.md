@@ -1,5 +1,5 @@
 ---
 title: "Vitalcer"
 url: /rosario/vitalcer/
-shop: Bioladen
+shop: alimentación sana
 ---

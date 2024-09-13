@@ -1,5 +1,5 @@
 ---
 title: "Martinez Neumáticos"
 url: /salta/martinez-neumaticos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

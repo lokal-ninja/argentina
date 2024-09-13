@@ -1,5 +1,5 @@
 ---
 title: "Master Repuestos"
 url: /neuquen/master-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

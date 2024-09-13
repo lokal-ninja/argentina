@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /san-antonio-oeste/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

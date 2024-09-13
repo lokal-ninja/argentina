@@ -1,5 +1,5 @@
 ---
 title: "YPF"
 url: /calchaqui/ypf/
-shop: Allgemein
+shop: general
 ---

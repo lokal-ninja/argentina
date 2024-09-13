@@ -1,5 +1,5 @@
 ---
 title: "Neutap"
 url: /neuquen/neutap/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

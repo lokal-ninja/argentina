@@ -1,5 +1,5 @@
 ---
 title: "Global Computer"
 url: /villa-elisa/global-computer/
-shop: Computer
+shop: ordenador
 ---

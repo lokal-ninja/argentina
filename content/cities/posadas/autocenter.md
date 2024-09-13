@@ -1,5 +1,5 @@
 ---
 title: "Autocenter"
 url: /posadas/autocenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

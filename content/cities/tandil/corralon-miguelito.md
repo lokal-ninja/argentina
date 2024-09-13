@@ -1,5 +1,5 @@
 ---
 title: "Corralón Miguelito"
 url: /tandil/corralon-miguelito/
-shop: Baustoffe
+shop: comercio
 ---

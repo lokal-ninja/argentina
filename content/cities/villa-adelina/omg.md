@@ -1,5 +1,5 @@
 ---
 title: "OMG"
 url: /villa-adelina/omg/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ronga"
 url: /rosario/ronga/
-shop: Parfümerie
+shop: perfumería
 ---

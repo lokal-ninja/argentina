@@ -1,5 +1,5 @@
 ---
 title: "Resonancias"
 url: /rosario/resonancias/
-shop: Motorrad
+shop: motocicleta
 ---

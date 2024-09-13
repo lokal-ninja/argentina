@@ -1,5 +1,5 @@
 ---
 title: "Adryma"
 url: /concordia/adryma/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

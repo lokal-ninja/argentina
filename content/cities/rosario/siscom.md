@@ -1,5 +1,5 @@
 ---
 title: "Siscom"
 url: /rosario/siscom/
-shop: Handy
+shop: teléfono móvil
 ---

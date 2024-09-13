@@ -1,5 +1,5 @@
 ---
 title: "Computerzone"
 url: /beccar/computerzone/
-shop: Computer
+shop: ordenador
 ---

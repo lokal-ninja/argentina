@@ -1,5 +1,5 @@
 ---
 title: "Clouda"
 url: /bahia-blanca/clouda/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kokomo sport"
 url: /arroyito/kokomo-sport/
-shop: Schuhe
+shop: zapatos
 ---

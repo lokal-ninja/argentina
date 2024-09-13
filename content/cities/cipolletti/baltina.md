@@ -1,5 +1,5 @@
 ---
 title: "Baltina"
 url: /cipolletti/baltina/
-shop: Kleidung
+shop: ropa
 ---

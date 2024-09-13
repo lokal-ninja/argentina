@@ -1,5 +1,5 @@
 ---
 title: "Centro Fiat (Repuestos Fiat y Renault)"
 url: /eldorado/centro-fiat-repuestos-fiat-y-renault/
-shop: Autoteile
+shop: piezas de automóviles
 ---

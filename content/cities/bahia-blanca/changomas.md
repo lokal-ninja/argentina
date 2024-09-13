@@ -1,5 +1,5 @@
 ---
 title: "ChangoMâs"
 url: /bahia-blanca/changomas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

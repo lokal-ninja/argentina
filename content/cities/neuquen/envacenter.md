@@ -1,5 +1,5 @@
 ---
 title: "Envacenter"
 url: /neuquen/envacenter/
-shop: Schreibwaren
+shop: material de oficina
 ---

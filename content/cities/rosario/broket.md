@@ -1,5 +1,5 @@
 ---
 title: "Broket"
 url: /rosario/broket/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quiniela"
 url: /reconquista/quiniela/
-shop: Lotterie
+shop: lotería
 ---

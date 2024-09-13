@@ -1,5 +1,5 @@
 ---
 title: "Gazzolo"
 url: /concordia/gazzolo/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quimisur"
 url: /neuquen/quimisur/
-shop: Allgemein
+shop: general
 ---

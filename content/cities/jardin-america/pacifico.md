@@ -1,5 +1,5 @@
 ---
 title: "Pacífico"
 url: /jardin-america/pacifico/
-shop: Schreibwaren
+shop: material de oficina
 ---

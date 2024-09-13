@@ -1,5 +1,5 @@
 ---
 title: "El Cheto"
 url: /lobos/el-cheto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

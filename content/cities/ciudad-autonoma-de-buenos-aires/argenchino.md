@@ -1,5 +1,5 @@
 ---
 title: "Argenchino"
 url: /ciudad-autonoma-de-buenos-aires/argenchino/
-shop: Supermarkt
+shop: supermercado
 ---

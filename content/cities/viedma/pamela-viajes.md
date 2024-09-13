@@ -1,5 +1,5 @@
 ---
 title: "Pamela Viajes"
 url: /viedma/pamela-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

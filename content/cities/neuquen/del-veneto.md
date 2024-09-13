@@ -1,5 +1,5 @@
 ---
 title: "del Veneto"
 url: /neuquen/del-veneto/
-shop: Andenken
+shop: regalo
 ---

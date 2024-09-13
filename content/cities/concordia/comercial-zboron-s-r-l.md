@@ -1,5 +1,5 @@
 ---
 title: "Comercial Zboron S.R.L."
 url: /concordia/comercial-zboron-s-r-l/
-shop: Autoteile
+shop: piezas de automóviles
 ---

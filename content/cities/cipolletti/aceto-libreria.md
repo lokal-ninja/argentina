@@ -1,5 +1,5 @@
 ---
 title: "Aceto Librería"
 url: /cipolletti/aceto-libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

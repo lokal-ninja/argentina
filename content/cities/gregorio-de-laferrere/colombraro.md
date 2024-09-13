@@ -1,5 +1,5 @@
 ---
 title: "Colombraro"
 url: /gregorio-de-laferrere/colombraro/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

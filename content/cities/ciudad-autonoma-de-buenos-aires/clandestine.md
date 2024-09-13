@@ -1,5 +1,5 @@
 ---
 title: "Clandestine"
 url: /ciudad-autonoma-de-buenos-aires/clandestine/
-shop: Modehaus
+shop: tienda
 ---

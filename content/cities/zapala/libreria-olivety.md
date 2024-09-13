@@ -1,5 +1,5 @@
 ---
 title: "Librería Olivety"
 url: /zapala/libreria-olivety/
-shop: Schreibwaren
+shop: material de oficina
 ---

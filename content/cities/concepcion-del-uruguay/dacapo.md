@@ -1,5 +1,5 @@
 ---
 title: "DaCapo"
 url: /concepcion-del-uruguay/dacapo/
-shop: Instrumente
+shop: instrumento musical
 ---

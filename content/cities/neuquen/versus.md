@@ -1,5 +1,5 @@
 ---
 title: "Versus"
 url: /neuquen/versus/
-shop: Kleidung
+shop: ropa
 ---

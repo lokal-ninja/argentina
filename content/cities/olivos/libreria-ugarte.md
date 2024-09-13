@@ -1,5 +1,5 @@
 ---
 title: "Librería Ugarte"
 url: /olivos/libreria-ugarte/
-shop: Schreibwaren
+shop: material de oficina
 ---

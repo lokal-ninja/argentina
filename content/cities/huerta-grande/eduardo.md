@@ -1,5 +1,5 @@
 ---
 title: "Eduardo"
 url: /huerta-grande/eduardo/
-shop: Lebensmittel
+shop: comodidad
 ---

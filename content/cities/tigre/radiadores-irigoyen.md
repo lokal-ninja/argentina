@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Irigoyen"
 url: /tigre/radiadores-irigoyen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rutas"
 url: /rayo-cortado/rutas/
-shop: Eisenwaren
+shop: hardware
 ---

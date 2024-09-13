@@ -1,5 +1,5 @@
 ---
 title: "Pintu SA"
 url: /ciudad-autonoma-de-buenos-aires/pintu-sa/
-shop: Farben
+shop: pintura
 ---

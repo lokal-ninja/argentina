@@ -1,5 +1,5 @@
 ---
 title: "Damaris"
 url: /neuquen/damaris/
-shop: Kleidung
+shop: ropa
 ---

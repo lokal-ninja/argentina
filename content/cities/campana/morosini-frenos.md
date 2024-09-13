@@ -1,5 +1,5 @@
 ---
 title: "Morosini Frenos"
 url: /campana/morosini-frenos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

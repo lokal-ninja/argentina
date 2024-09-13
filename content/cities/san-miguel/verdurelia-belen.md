@@ -1,5 +1,5 @@
 ---
 title: "Verdurelia Belén"
 url: /san-miguel/verdurelia-belen/
-shop: Gemüse & Obst
+shop: frutería
 ---

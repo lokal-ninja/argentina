@@ -1,5 +1,5 @@
 ---
 title: "Motos William"
 url: /victoria/motos-william/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterlandia"
 url: /beccar/waterlandia/
-shop: Pool
+shop: piscina
 ---

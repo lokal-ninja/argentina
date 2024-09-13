@@ -1,5 +1,5 @@
 ---
 title: "Materiales para la Construción"
 url: /ciudad-autonoma-de-buenos-aires/materiales-para-la-construcion/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

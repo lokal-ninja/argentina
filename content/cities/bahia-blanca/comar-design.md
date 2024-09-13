@@ -1,5 +1,5 @@
 ---
 title: "Comar Design"
 url: /bahia-blanca/comar-design/
-shop: Badezimmer
+shop: cuarto de baño
 ---

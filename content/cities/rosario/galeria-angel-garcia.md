@@ -1,5 +1,5 @@
 ---
 title: "Galeria Angel García"
 url: /rosario/galeria-angel-garcia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

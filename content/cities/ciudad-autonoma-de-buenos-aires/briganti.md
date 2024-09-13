@@ -1,5 +1,5 @@
 ---
 title: "Briganti"
 url: /ciudad-autonoma-de-buenos-aires/briganti/
-shop: Kleidung
+shop: ropa
 ---

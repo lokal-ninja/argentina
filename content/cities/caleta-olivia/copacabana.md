@@ -1,5 +1,5 @@
 ---
 title: "Copacabana"
 url: /caleta-olivia/copacabana/
-shop: Lebensmittel
+shop: comodidad
 ---

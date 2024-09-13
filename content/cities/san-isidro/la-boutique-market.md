@@ -1,5 +1,5 @@
 ---
 title: "La Boutique Market"
 url: /san-isidro/la-boutique-market/
-shop: Allgemein
+shop: general
 ---

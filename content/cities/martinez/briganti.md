@@ -1,5 +1,5 @@
 ---
 title: "Briganti"
 url: /martinez/briganti/
-shop: Schuhe
+shop: zapatos
 ---

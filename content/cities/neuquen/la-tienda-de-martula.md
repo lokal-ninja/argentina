@@ -1,5 +1,5 @@
 ---
 title: "La Tienda de Martula"
 url: /neuquen/la-tienda-de-martula/
-shop: Kleidung
+shop: ropa
 ---

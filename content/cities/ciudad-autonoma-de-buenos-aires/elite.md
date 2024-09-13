@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /ciudad-autonoma-de-buenos-aires/elite/
-shop: Schokolade
+shop: chocolate
 ---

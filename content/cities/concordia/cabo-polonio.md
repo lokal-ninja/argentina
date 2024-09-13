@@ -1,5 +1,5 @@
 ---
 title: "Cabo Polonio"
 url: /concordia/cabo-polonio/
-shop: Outdoor
+shop: exterior
 ---

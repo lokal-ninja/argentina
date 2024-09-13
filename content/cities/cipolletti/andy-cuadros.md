@@ -1,5 +1,5 @@
 ---
 title: "Andy Cuadros"
 url: /cipolletti/andy-cuadros/
-shop: Basteln
+shop: artesanía
 ---

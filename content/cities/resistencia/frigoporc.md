@@ -1,5 +1,5 @@
 ---
 title: "Frigoporc"
 url: /resistencia/frigoporc/
-shop: Metzgerei
+shop: carnicero
 ---

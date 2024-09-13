@@ -1,5 +1,5 @@
 ---
 title: "Serena"
 url: /viedma/serena/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OCN"
 url: /cipolletti/ocn/
-shop: Kleidung
+shop: ropa
 ---

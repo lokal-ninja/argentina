@@ -1,5 +1,5 @@
 ---
 title: "Nova"
 url: /vicente-lopez/nova/
-shop: Bioladen
+shop: alimentación sana
 ---

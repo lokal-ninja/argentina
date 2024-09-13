@@ -1,5 +1,5 @@
 ---
 title: "Barberìa Carrera"
 url: /victoria/barberia-carrera/
-shop: Friseur
+shop: peluquería
 ---

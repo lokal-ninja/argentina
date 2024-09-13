@@ -1,5 +1,5 @@
 ---
 title: "Román"
 url: /labordeboy/roman/
-shop: Eisenwaren
+shop: hardware
 ---

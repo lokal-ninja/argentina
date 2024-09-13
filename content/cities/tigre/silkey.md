@@ -1,5 +1,5 @@
 ---
 title: "Silkey"
 url: /tigre/silkey/
-shop: Friseur
+shop: peluquería
 ---

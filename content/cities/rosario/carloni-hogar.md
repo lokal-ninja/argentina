@@ -1,5 +1,5 @@
 ---
 title: "Carloni Hogar"
 url: /rosario/carloni-hogar/
-shop: Möbel
+shop: muebles
 ---

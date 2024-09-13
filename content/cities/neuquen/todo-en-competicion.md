@@ -1,5 +1,5 @@
 ---
 title: "Todo en Competición"
 url: /neuquen/todo-en-competicion/
-shop: Allgemein
+shop: general
 ---

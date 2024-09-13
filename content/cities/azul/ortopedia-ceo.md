@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia CEO"
 url: /azul/ortopedia-ceo/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

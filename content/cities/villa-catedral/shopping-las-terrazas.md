@@ -1,5 +1,5 @@
 ---
 title: "Shopping Las Terrazas"
 url: /villa-catedral/shopping-las-terrazas/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

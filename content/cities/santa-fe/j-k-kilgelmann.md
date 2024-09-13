@@ -1,5 +1,5 @@
 ---
 title: "J. K. Kilgelmann"
 url: /santa-fe/j-k-kilgelmann/
-shop: Supermarkt
+shop: supermercado
 ---

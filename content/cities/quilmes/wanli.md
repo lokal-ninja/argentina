@@ -1,5 +1,5 @@
 ---
 title: "WanLi"
 url: /quilmes/wanli/
-shop: Lebensmittel
+shop: comodidad
 ---

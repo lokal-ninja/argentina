@@ -1,5 +1,5 @@
 ---
 title: "Volponi"
 url: /viedma/volponi/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundo Correas"
 url: /campana/mundo-correas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

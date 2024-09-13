@@ -1,5 +1,5 @@
 ---
 title: "BOHO"
 url: /cipolletti/boho/
-shop: Kleidung
+shop: ropa
 ---

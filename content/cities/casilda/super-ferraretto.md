@@ -1,5 +1,5 @@
 ---
 title: "Super Ferraretto"
 url: /casilda/super-ferraretto/
-shop: Supermarkt
+shop: supermercado
 ---

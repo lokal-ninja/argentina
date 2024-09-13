@@ -1,5 +1,5 @@
 ---
 title: "Dietetica conesa"
 url: /ciudad-autonoma-de-buenos-aires/dietetica-conesa/
-shop: Bioladen
+shop: alimentación sana
 ---

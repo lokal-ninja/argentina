@@ -1,5 +1,5 @@
 ---
 title: "Los Chinos"
 url: /santa-isabel/los-chinos/
-shop: Supermarkt
+shop: supermercado
 ---

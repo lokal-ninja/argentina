@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /tigre/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

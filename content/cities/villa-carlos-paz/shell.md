@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /villa-carlos-paz/shell/
-shop: Lebensmittel
+shop: comodidad
 ---

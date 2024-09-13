@@ -1,5 +1,5 @@
 ---
 title: "Gelay"
 url: /beccar/gelay/
-shop: Pasta
+shop: pasta
 ---

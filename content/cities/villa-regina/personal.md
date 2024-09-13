@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /villa-regina/personal/
-shop: Handy
+shop: teléfono móvil
 ---

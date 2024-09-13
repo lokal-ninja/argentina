@@ -1,5 +1,5 @@
 ---
 title: "Meguiar's"
 url: /ciudad-autonoma-de-buenos-aires/meguiars/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turismo Los Alpes"
 url: /ciudad-autonoma-de-buenos-aires/turismo-los-alpes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

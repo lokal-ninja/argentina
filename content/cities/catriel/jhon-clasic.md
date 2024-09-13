@@ -1,5 +1,5 @@
 ---
 title: "Jhon Clasic"
 url: /catriel/jhon-clasic/
-shop: Schuhe
+shop: zapatos
 ---

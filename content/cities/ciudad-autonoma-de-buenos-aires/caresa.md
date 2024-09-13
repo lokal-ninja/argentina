@@ -1,5 +1,5 @@
 ---
 title: "Caresa"
 url: /ciudad-autonoma-de-buenos-aires/caresa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raíces Serranas"
 url: /villa-la-bolsa/raices-serranas/
-shop: Garten-Center
+shop: centro de jardinería
 ---

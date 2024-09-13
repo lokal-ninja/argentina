@@ -1,5 +1,5 @@
 ---
 title: "El Enebro"
 url: /san-fernando/el-enebro/
-shop: Bücher
+shop: libros
 ---

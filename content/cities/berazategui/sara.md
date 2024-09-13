@@ -1,5 +1,5 @@
 ---
 title: "Sara"
 url: /berazategui/sara/
-shop: Supermarkt
+shop: supermercado
 ---

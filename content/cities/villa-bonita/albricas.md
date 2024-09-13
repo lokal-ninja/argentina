@@ -1,5 +1,5 @@
 ---
 title: "Albricas"
 url: /villa-bonita/albricas/
-shop: Schreibwaren
+shop: material de oficina
 ---

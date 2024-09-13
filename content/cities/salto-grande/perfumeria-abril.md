@@ -1,5 +1,5 @@
 ---
 title: "Perfumería Abril"
 url: /salto-grande/perfumeria-abril/
-shop: Kosmetik
+shop: cosméticos
 ---

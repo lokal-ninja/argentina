@@ -1,5 +1,5 @@
 ---
 title: "Galver"
 url: /neuquen/galver/
-shop: Warenhaus
+shop: grandes almacenes
 ---

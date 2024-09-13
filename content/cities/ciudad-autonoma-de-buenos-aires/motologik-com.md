@@ -1,5 +1,5 @@
 ---
 title: "Motologik.com"
 url: /ciudad-autonoma-de-buenos-aires/motologik-com/
-shop: Kleidung
+shop: ropa
 ---

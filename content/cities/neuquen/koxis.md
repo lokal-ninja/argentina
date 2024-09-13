@@ -1,5 +1,5 @@
 ---
 title: "Koxis"
 url: /neuquen/koxis/
-shop: Kleidung
+shop: ropa
 ---

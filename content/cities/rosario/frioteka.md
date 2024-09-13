@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /rosario/frioteka/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BJ"
 url: /ciudad-autonoma-de-buenos-aires/bj/
-shop: Schmuck
+shop: joyería
 ---

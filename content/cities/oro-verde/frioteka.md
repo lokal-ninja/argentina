@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /oro-verde/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

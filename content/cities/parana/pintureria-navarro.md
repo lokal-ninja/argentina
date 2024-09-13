@@ -1,5 +1,5 @@
 ---
 title: "Pinturería Navarro"
 url: /parana/pintureria-navarro/
-shop: Farben
+shop: pintura
 ---

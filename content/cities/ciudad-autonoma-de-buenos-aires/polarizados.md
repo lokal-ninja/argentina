@@ -1,5 +1,5 @@
 ---
 title: "Polarizados"
 url: /ciudad-autonoma-de-buenos-aires/polarizados/
-shop: Allgemein
+shop: general
 ---

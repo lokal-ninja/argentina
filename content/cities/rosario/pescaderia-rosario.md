@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Rosario"
 url: /rosario/pescaderia-rosario/
-shop: Fisch
+shop: marisco
 ---

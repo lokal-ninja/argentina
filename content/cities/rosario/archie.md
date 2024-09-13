@@ -1,5 +1,5 @@
 ---
 title: "Archie"
 url: /rosario/archie/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noha"
 url: /obera/noha/
-shop: Schuhe
+shop: zapatos
 ---

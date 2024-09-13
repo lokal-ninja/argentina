@@ -1,5 +1,5 @@
 ---
 title: "Escondiada"
 url: /ciudad-autonoma-de-buenos-aires/escondiada/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendencia"
 url: /leandro-n-alem/tendencia/
-shop: Kleidung
+shop: ropa
 ---

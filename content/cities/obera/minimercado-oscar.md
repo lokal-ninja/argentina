@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Oscar"
 url: /obera/minimercado-oscar/
-shop: Lebensmittel
+shop: comodidad
 ---

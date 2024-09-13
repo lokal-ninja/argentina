@@ -1,5 +1,5 @@
 ---
 title: "FM Amoblamientos"
 url: /ciudad-autonoma-de-buenos-aires/fm-amoblamientos/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PSA"
 url: /neuquen/psa/
-shop: Wasser
+shop: agua
 ---

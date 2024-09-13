@@ -1,5 +1,5 @@
 ---
 title: "Jagall"
 url: /ciudad-autonoma-de-buenos-aires/jagall/
-shop: Kramladen
+shop: tienda de variedades
 ---

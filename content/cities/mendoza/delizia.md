@@ -1,5 +1,5 @@
 ---
 title: "Delizia"
 url: /mendoza/delizia/
-shop: Bäckerei
+shop: panadería
 ---

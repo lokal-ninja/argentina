@@ -1,5 +1,5 @@
 ---
 title: "Egeo"
 url: /cordoba/egeo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

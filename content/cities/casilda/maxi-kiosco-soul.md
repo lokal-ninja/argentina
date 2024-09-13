@@ -1,5 +1,5 @@
 ---
 title: "Maxi Kiosco Soul"
 url: /casilda/maxi-kiosco-soul/
-shop: Kiosk
+shop: quiosco
 ---

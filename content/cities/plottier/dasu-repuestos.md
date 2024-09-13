@@ -1,5 +1,5 @@
 ---
 title: "Dasu Repuestos"
 url: /plottier/dasu-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

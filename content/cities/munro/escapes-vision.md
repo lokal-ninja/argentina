@@ -1,5 +1,5 @@
 ---
 title: "Escapes Visión"
 url: /munro/escapes-vision/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Arte"
 url: /ciudad-autonoma-de-buenos-aires/el-arte/
-shop: Kunst
+shop: arte
 ---

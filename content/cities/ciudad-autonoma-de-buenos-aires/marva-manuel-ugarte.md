@@ -1,5 +1,5 @@
 ---
 title: "Marva"
 url: /ciudad-autonoma-de-buenos-aires/marva-manuel-ugarte/
-shop: Wäscherei
+shop: lavandería
 ---

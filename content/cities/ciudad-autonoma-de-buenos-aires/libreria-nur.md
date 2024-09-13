@@ -1,5 +1,5 @@
 ---
 title: "Librería NUR"
 url: /ciudad-autonoma-de-buenos-aires/libreria-nur/
-shop: Schreibwaren
+shop: material de oficina
 ---

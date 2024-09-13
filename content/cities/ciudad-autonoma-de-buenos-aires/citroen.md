@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /ciudad-autonoma-de-buenos-aires/citroen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

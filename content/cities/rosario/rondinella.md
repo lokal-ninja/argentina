@@ -1,5 +1,5 @@
 ---
 title: "Rondinella"
 url: /rosario/rondinella/
-shop: Fahrrad
+shop: bicicleta
 ---

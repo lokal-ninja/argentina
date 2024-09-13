@@ -1,5 +1,5 @@
 ---
 title: "Capani"
 url: /beccar/capani/
-shop: Immobilien
+shop: agente inmobiliario
 ---

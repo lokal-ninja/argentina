@@ -1,5 +1,5 @@
 ---
 title: "Acuarela"
 url: /la-plata/acuarela/
-shop: Schreibwaren
+shop: material de oficina
 ---

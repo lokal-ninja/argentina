@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /trelew/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

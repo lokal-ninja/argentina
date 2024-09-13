@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Luna"
 url: /campo-viera/minimercado-luna/
-shop: Lebensmittel
+shop: comodidad
 ---

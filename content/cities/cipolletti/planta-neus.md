@@ -1,5 +1,5 @@
 ---
 title: "Planta Neus"
 url: /cipolletti/planta-neus/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

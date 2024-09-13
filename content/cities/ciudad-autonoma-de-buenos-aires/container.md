@@ -1,5 +1,5 @@
 ---
 title: "Container"
 url: /ciudad-autonoma-de-buenos-aires/container/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

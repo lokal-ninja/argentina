@@ -1,5 +1,5 @@
 ---
 title: "Bugatti Taller Central"
 url: /ciudad-autonoma-de-buenos-aires/bugatti-taller-central/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

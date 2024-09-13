@@ -1,5 +1,5 @@
 ---
 title: "La Lujanera"
 url: /neuquen/la-lujanera/
-shop: Pasta
+shop: pasta
 ---

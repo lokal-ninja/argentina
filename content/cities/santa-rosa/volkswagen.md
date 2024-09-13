@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /santa-rosa/volkswagen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

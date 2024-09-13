@@ -1,5 +1,5 @@
 ---
 title: "Momentos"
 url: /ciudad-autonoma-de-buenos-aires/momentos/
-shop: Wein
+shop: vino
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Insumos Oberá"
 url: /obera/insumos-obera/
-shop: Eisenwaren
+shop: hardware
 ---

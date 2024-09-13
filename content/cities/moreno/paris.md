@@ -1,5 +1,5 @@
 ---
 title: "Paris"
 url: /moreno/paris/
-shop: Uhren
+shop: relojes
 ---

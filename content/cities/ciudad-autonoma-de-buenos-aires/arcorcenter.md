@@ -1,5 +1,5 @@
 ---
 title: "ArcorCenter"
 url: /ciudad-autonoma-de-buenos-aires/arcorcenter/
-shop: Süßwaren
+shop: confitería
 ---

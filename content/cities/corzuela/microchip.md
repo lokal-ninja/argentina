@@ -1,5 +1,5 @@
 ---
 title: "Microchip"
 url: /corzuela/microchip/
-shop: Handy
+shop: teléfono móvil
 ---

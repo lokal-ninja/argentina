@@ -1,5 +1,5 @@
 ---
 title: "La Mar"
 url: /arroyito/la-mar/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beccar Telas"
 url: /beccar/beccar-telas/
-shop: Textil
+shop: tela
 ---

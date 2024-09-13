@@ -1,5 +1,5 @@
 ---
 title: "Motivada"
 url: /tandil/motivada/
-shop: Kleidung
+shop: ropa
 ---

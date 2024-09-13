@@ -1,5 +1,5 @@
 ---
 title: "Rosmi"
 url: /villa-lynch/rosmi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

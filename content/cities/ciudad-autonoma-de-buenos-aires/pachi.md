@@ -1,5 +1,5 @@
 ---
 title: "Pachi"
 url: /ciudad-autonoma-de-buenos-aires/pachi/
-shop: Kleidung
+shop: ropa
 ---

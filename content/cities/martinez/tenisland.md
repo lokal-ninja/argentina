@@ -1,5 +1,5 @@
 ---
 title: "TenisLand"
 url: /martinez/tenisland/
-shop: Sport
+shop: deportes
 ---

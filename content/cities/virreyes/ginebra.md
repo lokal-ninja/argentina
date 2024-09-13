@@ -1,5 +1,5 @@
 ---
 title: "Ginebra"
 url: /virreyes/ginebra/
-shop: Allgemein
+shop: general
 ---

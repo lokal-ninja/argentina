@@ -1,5 +1,5 @@
 ---
 title: "Laurenz"
 url: /viedma/laurenz/
-shop: Optiker
+shop: óptico
 ---

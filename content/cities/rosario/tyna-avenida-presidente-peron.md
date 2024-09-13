@@ -1,5 +1,5 @@
 ---
 title: "Tyna"
 url: /rosario/tyna-avenida-presidente-peron/
-shop: Supermarkt
+shop: supermercado
 ---

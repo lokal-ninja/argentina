@@ -1,5 +1,5 @@
 ---
 title: "Danpan"
 url: /obera/danpan/
-shop: Bäckerei
+shop: panadería
 ---

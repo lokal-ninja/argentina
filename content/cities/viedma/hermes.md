@@ -1,5 +1,5 @@
 ---
 title: "Hermes"
 url: /viedma/hermes/
-shop: Schreibwaren
+shop: material de oficina
 ---

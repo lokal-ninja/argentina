@@ -1,5 +1,5 @@
 ---
 title: "Papel Nort"
 url: /martinez/papel-nort/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cool Flower"
 url: /neuquen/cool-flower-diagonal-espana/
-shop: Friseur
+shop: peluquería
 ---

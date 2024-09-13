@@ -1,5 +1,5 @@
 ---
 title: "Indusplast"
 url: /neuquen/indusplast/
-shop: Pool
+shop: piscina
 ---

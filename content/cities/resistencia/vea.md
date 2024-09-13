@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /resistencia/vea/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anzorena Tableros"
 url: /gualeguaychu/anzorena-tableros/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nutricia"
 url: /neuquen/nutricia/
-shop: Bioladen
+shop: alimentación sana
 ---

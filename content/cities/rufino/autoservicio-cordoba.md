@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Córdoba"
 url: /rufino/autoservicio-cordoba/
-shop: Supermarkt
+shop: supermercado
 ---

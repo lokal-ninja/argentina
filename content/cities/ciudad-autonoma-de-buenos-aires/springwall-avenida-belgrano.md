@@ -1,5 +1,5 @@
 ---
 title: "Springwall"
 url: /ciudad-autonoma-de-buenos-aires/springwall-avenida-belgrano/
-shop: Betten
+shop: cama
 ---

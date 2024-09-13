@@ -1,5 +1,5 @@
 ---
 title: "Franchesca"
 url: /posadas/franchesca/
-shop: Schreibwaren
+shop: material de oficina
 ---

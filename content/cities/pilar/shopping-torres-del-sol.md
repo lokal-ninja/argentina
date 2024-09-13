@@ -1,5 +1,5 @@
 ---
 title: "Shopping Torres del Sol"
 url: /pilar/shopping-torres-del-sol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

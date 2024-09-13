@@ -1,5 +1,5 @@
 ---
 title: "Deporvida"
 url: /apostoles/deporvida/
-shop: Sport
+shop: deportes
 ---

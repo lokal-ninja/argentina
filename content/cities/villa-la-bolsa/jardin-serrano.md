@@ -1,5 +1,5 @@
 ---
 title: "Jardín Serrano"
 url: /villa-la-bolsa/jardin-serrano/
-shop: Garten-Center
+shop: centro de jardinería
 ---

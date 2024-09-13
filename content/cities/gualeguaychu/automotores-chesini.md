@@ -1,5 +1,5 @@
 ---
 title: "Automotores Chesini"
 url: /gualeguaychu/automotores-chesini/
-shop: Autohaus
+shop: coche
 ---

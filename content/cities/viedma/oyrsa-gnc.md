@@ -1,5 +1,5 @@
 ---
 title: "Oyrsa GNC"
 url: /viedma/oyrsa-gnc/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

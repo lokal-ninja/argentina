@@ -1,5 +1,5 @@
 ---
 title: "Silmar"
 url: /san-fernando/silmar/
-shop: Wein
+shop: vino
 ---

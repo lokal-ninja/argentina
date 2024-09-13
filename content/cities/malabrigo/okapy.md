@@ -1,5 +1,5 @@
 ---
 title: "Okapy"
 url: /malabrigo/okapy/
-shop: Bioladen
+shop: alimentación sana
 ---

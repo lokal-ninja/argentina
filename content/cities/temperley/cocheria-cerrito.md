@@ -1,5 +1,5 @@
 ---
 title: "Cochería Cerrito"
 url: /temperley/cocheria-cerrito/
-shop: Bestattungen
+shop: directores de funerarias
 ---

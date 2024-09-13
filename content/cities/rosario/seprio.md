@@ -1,5 +1,5 @@
 ---
 title: "Seprio"
 url: /rosario/seprio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

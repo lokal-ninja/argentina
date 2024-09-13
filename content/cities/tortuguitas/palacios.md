@@ -1,5 +1,5 @@
 ---
 title: "palacios"
 url: /tortuguitas/palacios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

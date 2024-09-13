@@ -1,5 +1,5 @@
 ---
 title: "Yokogawa"
 url: /olivos/yokogawa/
-shop: Baustoffe
+shop: comercio
 ---

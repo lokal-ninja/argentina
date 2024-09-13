@@ -1,5 +1,5 @@
 ---
 title: "Aberturas San Antonio"
 url: /azul/aberturas-san-antonio/
-shop: Baustoffe
+shop: comercio
 ---

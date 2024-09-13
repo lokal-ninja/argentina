@@ -1,5 +1,5 @@
 ---
 title: "Honolulu"
 url: /villa-regina/honolulu/
-shop: Kleidung
+shop: ropa
 ---

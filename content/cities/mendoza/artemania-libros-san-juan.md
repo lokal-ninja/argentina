@@ -1,5 +1,5 @@
 ---
 title: "Artemania Libros"
 url: /mendoza/artemania-libros-san-juan/
-shop: Bücher
+shop: libros
 ---

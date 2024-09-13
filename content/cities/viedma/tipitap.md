@@ -1,5 +1,5 @@
 ---
 title: "Tipitap"
 url: /viedma/tipitap/
-shop: Kleidung
+shop: ropa
 ---

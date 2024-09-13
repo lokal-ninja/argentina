@@ -1,5 +1,5 @@
 ---
 title: "Cochería Concepción"
 url: /concepcion-de-la-sierra/cocheria-concepcion/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dielsa"
 url: /comodoro-rivadavia/dielsa/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cochería Avenida"
 url: /villa-lynch/cocheria-avenida/
-shop: Bestattungen
+shop: directores de funerarias
 ---

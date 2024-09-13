@@ -1,5 +1,5 @@
 ---
 title: "Bazar Para Tí"
 url: /neuquen/bazar-para-ti/
-shop: Kramladen
+shop: tienda de variedades
 ---

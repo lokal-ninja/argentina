@@ -1,5 +1,5 @@
 ---
 title: "Ruben Cassin"
 url: /ciudad-autonoma-de-buenos-aires/ruben-cassin/
-shop: Kleidung
+shop: ropa
 ---

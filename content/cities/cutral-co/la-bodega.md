@@ -1,5 +1,5 @@
 ---
 title: "La Bodega"
 url: /cutral-co/la-bodega/
-shop: Getränke
+shop: bebidas
 ---

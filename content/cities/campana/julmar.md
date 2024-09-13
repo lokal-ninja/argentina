@@ -1,5 +1,5 @@
 ---
 title: "JulMar"
 url: /campana/julmar/
-shop: Betten
+shop: cama
 ---

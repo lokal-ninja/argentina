@@ -1,5 +1,5 @@
 ---
 title: "Amici"
 url: /san-martin-de-los-andes/amici/
-shop: Kleidung
+shop: ropa
 ---

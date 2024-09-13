@@ -1,5 +1,5 @@
 ---
 title: "Mazzola Hermanos"
 url: /tandil/mazzola-hermanos/
-shop: Drogerie
+shop: farmacia
 ---

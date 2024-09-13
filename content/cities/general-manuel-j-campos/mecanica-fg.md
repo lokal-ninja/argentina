@@ -1,5 +1,5 @@
 ---
 title: "Mecánica FG"
 url: /general-manuel-j-campos/mecanica-fg/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surfren"
 url: /rafael-calzada/surfren/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BahiTronica"
 url: /bahia-blanca/bahitronica/
-shop: Elektronik
+shop: electrónica
 ---

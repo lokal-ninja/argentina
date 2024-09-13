@@ -1,5 +1,5 @@
 ---
 title: "Las Amapolas"
 url: /ramos-mejia/las-amapolas/
-shop: Kleidung
+shop: ropa
 ---

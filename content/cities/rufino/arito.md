@@ -1,5 +1,5 @@
 ---
 title: "Arito"
 url: /rufino/arito/
-shop: Tickets
+shop: entradas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Yago"
 url: /plaza-huincul/ferreteria-yago/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deco-Cina"
 url: /ciudad-autonoma-de-buenos-aires/deco-cina/
-shop: Raumausstattung
+shop: decoración interior
 ---

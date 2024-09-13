@@ -1,5 +1,5 @@
 ---
 title: "Babylandia"
 url: /neuquen/babylandia/
-shop: Babysachen
+shop: artículos para bebés
 ---

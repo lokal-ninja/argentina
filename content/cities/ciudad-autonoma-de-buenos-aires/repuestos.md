@@ -1,5 +1,5 @@
 ---
 title: "Repuestos"
 url: /ciudad-autonoma-de-buenos-aires/repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

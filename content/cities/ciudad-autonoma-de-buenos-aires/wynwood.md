@@ -1,5 +1,5 @@
 ---
 title: "Wynwood"
 url: /ciudad-autonoma-de-buenos-aires/wynwood/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multicompras"
 url: /rufino/multicompras/
-shop: Kramladen
+shop: tienda de variedades
 ---

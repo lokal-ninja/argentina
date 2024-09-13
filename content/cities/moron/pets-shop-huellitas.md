@@ -1,5 +1,5 @@
 ---
 title: "Pet's Shop Huellitas"
 url: /moron/pets-shop-huellitas/
-shop: Tiere
+shop: mascotas
 ---

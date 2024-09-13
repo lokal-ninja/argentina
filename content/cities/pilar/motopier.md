@@ -1,5 +1,5 @@
 ---
 title: "Motopier"
 url: /pilar/motopier/
-shop: Motorrad
+shop: motocicleta
 ---

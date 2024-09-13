@@ -1,5 +1,5 @@
 ---
 title: "Din Don"
 url: /neuquen/din-don/
-shop: Schreibwaren
+shop: material de oficina
 ---

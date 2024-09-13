@@ -1,5 +1,5 @@
 ---
 title: "Mundo cotillón"
 url: /villa-nueva/mundo-cotillon/
-shop: Allgemein
+shop: general
 ---

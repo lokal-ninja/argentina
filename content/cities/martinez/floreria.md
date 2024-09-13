@@ -1,5 +1,5 @@
 ---
 title: "Florería"
 url: /martinez/floreria/
-shop: Blumen
+shop: floristería
 ---

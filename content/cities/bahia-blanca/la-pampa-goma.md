@@ -1,5 +1,5 @@
 ---
 title: "La Pampa Goma"
 url: /bahia-blanca/la-pampa-goma/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gomeria Centro"
 url: /rufino/gomeria-centro/
-shop: Reifen
+shop: neumáticos
 ---

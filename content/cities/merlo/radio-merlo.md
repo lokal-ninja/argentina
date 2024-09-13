@@ -1,5 +1,5 @@
 ---
 title: "Radio Merlo"
 url: /merlo/radio-merlo/
-shop: Radiotechnik
+shop: radiotecnia
 ---

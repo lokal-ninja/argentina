@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /cipolletti/peugeot/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

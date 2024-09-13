@@ -1,5 +1,5 @@
 ---
 title: "Tescom"
 url: /neuquen/tescom/
-shop: Computer
+shop: ordenador
 ---

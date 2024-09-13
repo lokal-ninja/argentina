@@ -1,5 +1,5 @@
 ---
 title: "Moto chris"
 url: /martinez/moto-chris/
-shop: Reisebüro
+shop: agencia de viajes
 ---

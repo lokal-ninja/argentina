@@ -1,5 +1,5 @@
 ---
 title: "Máxima"
 url: /parana/maxima/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alejandra Fernández"
 url: /villa-ballester/alejandra-fernandez/
-shop: Friseur
+shop: peluquería
 ---

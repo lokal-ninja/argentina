@@ -1,5 +1,5 @@
 ---
 title: "Ferrosud"
 url: /zapala/ferrosud/
-shop: Baustoffe
+shop: comercio
 ---

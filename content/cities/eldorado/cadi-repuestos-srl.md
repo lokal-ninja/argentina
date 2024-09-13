@@ -1,5 +1,5 @@
 ---
 title: "Cadi Repuestos SRL"
 url: /eldorado/cadi-repuestos-srl/
-shop: Autoteile
+shop: piezas de automóviles
 ---

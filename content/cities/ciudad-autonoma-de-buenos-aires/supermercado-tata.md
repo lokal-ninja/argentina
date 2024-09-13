@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Tata"
 url: /ciudad-autonoma-de-buenos-aires/supermercado-tata/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colors"
 url: /cipolletti/colors/
-shop: Kleidung
+shop: ropa
 ---

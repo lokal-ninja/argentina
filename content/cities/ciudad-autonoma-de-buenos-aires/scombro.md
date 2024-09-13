@@ -1,5 +1,5 @@
 ---
 title: "Scombro"
 url: /ciudad-autonoma-de-buenos-aires/scombro/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beer Market"
 url: /acassuso/beer-market/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goi"
 url: /leandro-n-alem/goi/
-shop: Motorrad
+shop: motocicleta
 ---

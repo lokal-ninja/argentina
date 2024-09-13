@@ -1,5 +1,5 @@
 ---
 title: "Buttman"
 url: /neuquen/buttman/
-shop: Erotik
+shop: erótico
 ---

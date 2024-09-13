@@ -1,5 +1,5 @@
 ---
 title: "Nereus Computación"
 url: /general-fernandez-oro/nereus-computacion/
-shop: Computer
+shop: ordenador
 ---

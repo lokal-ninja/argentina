@@ -1,5 +1,5 @@
 ---
 title: "El Rollo"
 url: /ciudad-autonoma-de-buenos-aires/el-rollo/
-shop: Schreibwaren
+shop: material de oficina
 ---

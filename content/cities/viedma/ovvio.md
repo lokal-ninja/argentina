@@ -1,5 +1,5 @@
 ---
 title: "Ovvio"
 url: /viedma/ovvio/
-shop: Kleidung
+shop: ropa
 ---

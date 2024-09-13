@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /vicente-lopez/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

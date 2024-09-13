@@ -1,5 +1,5 @@
 ---
 title: "Don Juan"
 url: /neuquen/don-juan/
-shop: Kleidung
+shop: ropa
 ---

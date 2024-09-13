@@ -1,5 +1,5 @@
 ---
 title: "Servicompras"
 url: /neuquen/servicompras/
-shop: Lebensmittel
+shop: comodidad
 ---

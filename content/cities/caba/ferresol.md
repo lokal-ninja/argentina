@@ -1,5 +1,5 @@
 ---
 title: "Ferresol"
 url: /caba/ferresol/
-shop: Eisenwaren
+shop: hardware
 ---

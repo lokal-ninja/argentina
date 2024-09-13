@@ -1,5 +1,5 @@
 ---
 title: "Robotics Bay"
 url: /bahia-blanca/robotics-bay/
-shop: Computer
+shop: ordenador
 ---

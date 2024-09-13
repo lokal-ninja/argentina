@@ -1,5 +1,5 @@
 ---
 title: "Miel y Limon"
 url: /santa-rosa/miel-y-limon/
-shop: Konditorei
+shop: pastelería
 ---

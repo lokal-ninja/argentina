@@ -1,5 +1,5 @@
 ---
 title: "Ingoal"
 url: /vicente-lopez/ingoal/
-shop: Sport
+shop: deportes
 ---

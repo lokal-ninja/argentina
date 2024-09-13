@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /general-roca/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

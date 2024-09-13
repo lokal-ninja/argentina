@@ -1,5 +1,5 @@
 ---
 title: "Goco"
 url: /corrientes/goco/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

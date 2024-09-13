@@ -1,5 +1,5 @@
 ---
 title: "Maxigoma"
 url: /neuquen/maxigoma/
-shop: Allgemein
+shop: general
 ---

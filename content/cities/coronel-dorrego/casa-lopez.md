@@ -1,5 +1,5 @@
 ---
 title: "Casa López"
 url: /coronel-dorrego/casa-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Education"
 url: /cipolletti/beauty-education/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

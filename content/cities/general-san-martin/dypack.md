@@ -1,5 +1,5 @@
 ---
 title: "Dypack"
 url: /general-san-martin/dypack/
-shop: Schreibwaren
+shop: material de oficina
 ---

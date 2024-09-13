@@ -1,5 +1,5 @@
 ---
 title: "Bikram Yoga"
 url: /ciudad-autonoma-de-buenos-aires/bikram-yoga/
-shop: Massage
+shop: masaje
 ---

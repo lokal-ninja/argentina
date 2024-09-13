@@ -1,5 +1,5 @@
 ---
 title: "Aldana"
 url: /rosario/aldana/
-shop: Bäckerei
+shop: panadería
 ---

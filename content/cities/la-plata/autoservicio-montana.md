@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Montana"
 url: /la-plata/autoservicio-montana/
-shop: Lebensmittel
+shop: comodidad
 ---

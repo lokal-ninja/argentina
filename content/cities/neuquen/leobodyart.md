@@ -1,5 +1,5 @@
 ---
 title: "LeoBodyArt"
 url: /neuquen/leobodyart/
-shop: Tattoo
+shop: tatuaje
 ---

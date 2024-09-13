@@ -1,5 +1,5 @@
 ---
 title: "metro Pilchería"
 url: /pirane/metro-pilcheria/
-shop: Kleidung
+shop: ropa
 ---

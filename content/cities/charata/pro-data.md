@@ -1,5 +1,5 @@
 ---
 title: "Pro-data"
 url: /charata/pro-data/
-shop: Computer
+shop: ordenador
 ---

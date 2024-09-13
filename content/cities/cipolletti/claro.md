@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /cipolletti/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Graficolor"
 url: /leandro-n-alem/graficolor/
-shop: Kopieren
+shop: copyshop
 ---

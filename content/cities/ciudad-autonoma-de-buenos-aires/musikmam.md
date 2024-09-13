@@ -1,5 +1,5 @@
 ---
 title: "Musikmam"
 url: /ciudad-autonoma-de-buenos-aires/musikmam/
-shop: Radiotechnik
+shop: radiotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burbujas"
 url: /bahia-blanca/burbujas/
-shop: Partyzubehör
+shop: fiesta
 ---

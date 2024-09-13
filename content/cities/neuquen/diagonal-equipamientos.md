@@ -1,5 +1,5 @@
 ---
 title: "Diagonal Equipamientos"
 url: /neuquen/diagonal-equipamientos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

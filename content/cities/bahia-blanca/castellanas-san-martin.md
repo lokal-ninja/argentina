@@ -1,5 +1,5 @@
 ---
 title: "Castellanas"
 url: /bahia-blanca/castellanas-san-martin/
-shop: Kleidung
+shop: ropa
 ---

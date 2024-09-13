@@ -1,5 +1,5 @@
 ---
 title: "Movicar"
 url: /neuquen/movicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

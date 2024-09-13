@@ -1,5 +1,5 @@
 ---
 title: "Ashira Sport"
 url: /viedma/ashira-sport/
-shop: Sport
+shop: deportes
 ---

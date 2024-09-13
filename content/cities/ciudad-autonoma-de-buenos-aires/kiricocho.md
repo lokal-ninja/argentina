@@ -1,5 +1,5 @@
 ---
 title: "Kiricocho"
 url: /ciudad-autonoma-de-buenos-aires/kiricocho/
-shop: Sport
+shop: deportes
 ---

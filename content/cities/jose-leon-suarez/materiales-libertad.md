@@ -1,5 +1,5 @@
 ---
 title: "Materiales Libertad"
 url: /jose-leon-suarez/materiales-libertad/
-shop: Baustoffe
+shop: comercio
 ---

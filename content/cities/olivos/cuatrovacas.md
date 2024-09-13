@@ -1,5 +1,5 @@
 ---
 title: "Cuatrovacas"
 url: /olivos/cuatrovacas/
-shop: Metzgerei
+shop: carnicero
 ---

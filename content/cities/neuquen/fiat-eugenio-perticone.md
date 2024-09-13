@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /neuquen/fiat-eugenio-perticone/
-shop: Autohaus
+shop: coche
 ---

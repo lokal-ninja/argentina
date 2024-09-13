@@ -1,5 +1,5 @@
 ---
 title: "Celular Park"
 url: /general-san-martin/celular-park/
-shop: Handy
+shop: teléfono móvil
 ---

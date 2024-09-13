@@ -1,5 +1,5 @@
 ---
 title: "Lux"
 url: /concordia/lux/
-shop: Farben
+shop: pintura
 ---

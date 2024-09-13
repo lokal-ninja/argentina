@@ -1,5 +1,5 @@
 ---
 title: "Ferniplast"
 url: /cordoba/ferniplast-elias-yofre/
-shop: Allgemein
+shop: general
 ---

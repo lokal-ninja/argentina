@@ -1,5 +1,5 @@
 ---
 title: "Punto Dulce"
 url: /don-torcuato/punto-dulce/
-shop: Bäckerei
+shop: panadería
 ---

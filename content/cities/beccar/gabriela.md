@@ -1,5 +1,5 @@
 ---
 title: "Gabriela"
 url: /beccar/gabriela/
-shop: Gemüse & Obst
+shop: frutería
 ---

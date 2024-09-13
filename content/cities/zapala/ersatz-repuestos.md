@@ -1,5 +1,5 @@
 ---
 title: "Ersatz Repuestos"
 url: /zapala/ersatz-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

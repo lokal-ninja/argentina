@@ -1,5 +1,5 @@
 ---
 title: "Patagonia Store"
 url: /cipolletti/patagonia-store/
-shop: Zeitungen
+shop: quiosco
 ---

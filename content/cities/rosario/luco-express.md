@@ -1,5 +1,5 @@
 ---
 title: "Luco Express"
 url: /rosario/luco-express/
-shop: Lebensmittel
+shop: comodidad
 ---

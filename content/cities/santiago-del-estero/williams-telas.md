@@ -1,5 +1,5 @@
 ---
 title: "Williams Telas"
 url: /santiago-del-estero/williams-telas/
-shop: Süßwaren
+shop: confitería
 ---

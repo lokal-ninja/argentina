@@ -1,5 +1,5 @@
 ---
 title: "Roma"
 url: /ramos-mejia/roma/
-shop: Friseur
+shop: peluquería
 ---

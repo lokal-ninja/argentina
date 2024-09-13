@@ -1,5 +1,5 @@
 ---
 title: "Gama"
 url: /ciudad-autonoma-de-buenos-aires/gama/
-shop: Schreibwaren
+shop: material de oficina
 ---

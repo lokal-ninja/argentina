@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /villa-adelina/iris/
-shop: Kleidung
+shop: ropa
 ---

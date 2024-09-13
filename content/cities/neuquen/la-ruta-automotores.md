@@ -1,5 +1,5 @@
 ---
 title: "La Ruta Automotores"
 url: /neuquen/la-ruta-automotores/
-shop: Autohaus
+shop: coche
 ---

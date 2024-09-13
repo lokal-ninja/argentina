@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Belén"
 url: /margarita-belen/autoservicio-belen/
-shop: Lebensmittel
+shop: comodidad
 ---

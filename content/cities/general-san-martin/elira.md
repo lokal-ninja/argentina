@@ -1,5 +1,5 @@
 ---
 title: "Elira"
 url: /general-san-martin/elira/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

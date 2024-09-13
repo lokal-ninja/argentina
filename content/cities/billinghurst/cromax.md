@@ -1,5 +1,5 @@
 ---
 title: "Cromax"
 url: /billinghurst/cromax/
-shop: Drogerie
+shop: farmacia
 ---

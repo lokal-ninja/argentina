@@ -1,5 +1,5 @@
 ---
 title: "Telas Adela"
 url: /adrogue/telas-adela/
-shop: Allgemein
+shop: general
 ---

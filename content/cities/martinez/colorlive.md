@@ -1,5 +1,5 @@
 ---
 title: "Colorlive"
 url: /martinez/colorlive/
-shop: Farben
+shop: pintura
 ---

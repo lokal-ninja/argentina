@@ -1,5 +1,5 @@
 ---
 title: "Multikños"
 url: /sunchales/multiknos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

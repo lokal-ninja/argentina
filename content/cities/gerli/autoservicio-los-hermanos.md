@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Los Hermanos"
 url: /gerli/autoservicio-los-hermanos/
-shop: Supermarkt
+shop: supermercado
 ---

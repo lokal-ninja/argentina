@@ -1,5 +1,5 @@
 ---
 title: "La Maison"
 url: /cipolletti/la-maison/
-shop: Kleidung
+shop: ropa
 ---

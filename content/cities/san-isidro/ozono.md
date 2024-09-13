@@ -1,5 +1,5 @@
 ---
 title: "Ozono"
 url: /san-isidro/ozono/
-shop: Allgemein
+shop: general
 ---

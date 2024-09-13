@@ -1,5 +1,5 @@
 ---
 title: "Spampinato"
 url: /carmen-de-patagones/spampinato/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hierromas"
 url: /villa-libertad/hierromas/
-shop: Türen
+shop: puertas
 ---

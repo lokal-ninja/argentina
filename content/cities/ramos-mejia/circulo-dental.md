@@ -1,5 +1,5 @@
 ---
 title: "Círculo Dental"
 url: /ramos-mejia/circulo-dental/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

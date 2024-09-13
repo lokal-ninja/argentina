@@ -1,5 +1,5 @@
 ---
 title: "Tecnobox"
 url: /viedma/tecnobox/
-shop: Handy
+shop: teléfono móvil
 ---

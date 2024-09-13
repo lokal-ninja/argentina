@@ -1,5 +1,5 @@
 ---
 title: "Urban"
 url: /viedma/urban-buenos-aires/
-shop: Kleidung
+shop: ropa
 ---

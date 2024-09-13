@@ -1,5 +1,5 @@
 ---
 title: "Arenas"
 url: /bahia-blanca/arenas/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Furts"
 url: /dos-hermanas/furts/
-shop: Eisenwaren
+shop: hardware
 ---

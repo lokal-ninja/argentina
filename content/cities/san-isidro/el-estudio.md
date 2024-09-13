@@ -1,5 +1,5 @@
 ---
 title: "El Estudio"
 url: /san-isidro/el-estudio/
-shop: Allgemein
+shop: general
 ---

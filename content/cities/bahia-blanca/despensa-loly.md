@@ -1,5 +1,5 @@
 ---
 title: "Despensa Loly"
 url: /bahia-blanca/despensa-loly/
-shop: Lebensmittel
+shop: comodidad
 ---

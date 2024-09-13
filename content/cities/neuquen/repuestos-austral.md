@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Austral"
 url: /neuquen/repuestos-austral/
-shop: Autoteile
+shop: piezas de automóviles
 ---

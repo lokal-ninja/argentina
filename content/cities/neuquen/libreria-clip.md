@@ -1,5 +1,5 @@
 ---
 title: "Librería Clip"
 url: /neuquen/libreria-clip/
-shop: Schreibwaren
+shop: material de oficina
 ---

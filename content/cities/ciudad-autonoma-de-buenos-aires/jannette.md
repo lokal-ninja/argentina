@@ -1,5 +1,5 @@
 ---
 title: "Jannette"
 url: /ciudad-autonoma-de-buenos-aires/jannette/
-shop: Kosmetik
+shop: cosméticos
 ---

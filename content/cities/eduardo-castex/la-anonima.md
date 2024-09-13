@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /eduardo-castex/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

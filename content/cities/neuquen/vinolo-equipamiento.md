@@ -1,5 +1,5 @@
 ---
 title: "Viñolo Equipamiento"
 url: /neuquen/vinolo-equipamiento/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CM-Rodamientos"
 url: /ciudad-autonoma-de-buenos-aires/cm-rodamientos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /concordia/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

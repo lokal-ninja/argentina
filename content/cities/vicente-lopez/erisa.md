@@ -1,5 +1,5 @@
 ---
 title: "Erisa"
 url: /vicente-lopez/erisa/
-shop: Kleidung
+shop: ropa
 ---

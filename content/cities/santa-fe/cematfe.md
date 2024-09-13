@@ -1,5 +1,5 @@
 ---
 title: "CematFe"
 url: /santa-fe/cematfe/
-shop: Baustoffe
+shop: comercio
 ---

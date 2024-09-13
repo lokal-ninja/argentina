@@ -1,5 +1,5 @@
 ---
 title: "Cuatro Elementos"
 url: /miramar/cuatro-elementos/
-shop: Sport
+shop: deportes
 ---

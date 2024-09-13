@@ -1,5 +1,5 @@
 ---
 title: "Zafira Bath"
 url: /ciudad-autonoma-de-buenos-aires/zafira-bath/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arturo"
 url: /virreyes/arturo/
-shop: Kleidung
+shop: ropa
 ---

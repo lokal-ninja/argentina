@@ -1,5 +1,5 @@
 ---
 title: "Catalinas"
 url: /ciudad-autonoma-de-buenos-aires/catalinas-avenida-cordoba/
-shop: Schreibwaren
+shop: material de oficina
 ---

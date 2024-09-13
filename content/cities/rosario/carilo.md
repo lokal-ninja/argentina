@@ -1,5 +1,5 @@
 ---
 title: "Carilo"
 url: /rosario/carilo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salta Violeta"
 url: /cipolletti/salta-violeta/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grimoldi"
 url: /neuquen/grimoldi/
-shop: Schuhe
+shop: zapatos
 ---

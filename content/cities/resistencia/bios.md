@@ -1,5 +1,5 @@
 ---
 title: "Bios"
 url: /resistencia/bios/
-shop: Computer
+shop: ordenador
 ---

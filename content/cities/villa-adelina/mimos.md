@@ -1,5 +1,5 @@
 ---
 title: "Mimos"
 url: /villa-adelina/mimos/
-shop: Andenken
+shop: regalo
 ---

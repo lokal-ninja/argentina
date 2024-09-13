@@ -1,5 +1,5 @@
 ---
 title: "Vivero LQA"
 url: /charata/vivero-lqa/
-shop: Garten-Center
+shop: centro de jardinería
 ---

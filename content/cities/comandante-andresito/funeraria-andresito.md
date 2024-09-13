@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Andresito"
 url: /comandante-andresito/funeraria-andresito/
-shop: Bestattungen
+shop: directores de funerarias
 ---

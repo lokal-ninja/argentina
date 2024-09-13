@@ -1,5 +1,5 @@
 ---
 title: "Forrajería El Ceibo"
 url: /cipolletti/forrajeria-el-ceibo/
-shop: Tiere
+shop: mascotas
 ---

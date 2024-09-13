@@ -1,5 +1,5 @@
 ---
 title: "Luseli"
 url: /merlo/luseli/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Depimax"
 url: /ciudad-autonoma-de-buenos-aires/depimax/
-shop: Kosmetik
+shop: cosméticos
 ---

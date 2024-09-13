@@ -1,5 +1,5 @@
 ---
 title: "Drugstore Chipo"
 url: /cipolletti/drugstore-chipo/
-shop: Kiosk
+shop: quiosco
 ---

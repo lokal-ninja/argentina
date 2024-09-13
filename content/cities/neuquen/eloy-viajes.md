@@ -1,5 +1,5 @@
 ---
 title: "Eloy Viajes"
 url: /neuquen/eloy-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merida Travel"
 url: /berazategui/merida-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

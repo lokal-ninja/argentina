@@ -1,5 +1,5 @@
 ---
 title: "Carnes Premium"
 url: /ciudad-autonoma-de-buenos-aires/carnes-premium/
-shop: Metzgerei
+shop: carnicero
 ---

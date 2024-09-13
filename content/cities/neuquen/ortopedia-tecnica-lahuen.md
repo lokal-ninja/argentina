@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Técnica Lahuen"
 url: /neuquen/ortopedia-tecnica-lahuen/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

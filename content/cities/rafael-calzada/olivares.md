@@ -1,5 +1,5 @@
 ---
 title: "Olivares"
 url: /rafael-calzada/olivares/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

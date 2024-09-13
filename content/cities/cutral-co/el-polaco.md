@@ -1,5 +1,5 @@
 ---
 title: "El Polaco"
 url: /cutral-co/el-polaco/
-shop: Fahrrad
+shop: bicicleta
 ---

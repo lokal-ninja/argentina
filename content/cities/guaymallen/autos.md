@@ -1,5 +1,5 @@
 ---
 title: "Autos"
 url: /guaymallen/autos/
-shop: Autohaus
+shop: coche
 ---

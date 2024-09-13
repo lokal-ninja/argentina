@@ -1,5 +1,5 @@
 ---
 title: "Pixeles"
 url: /beccar/pixeles/
-shop: Videospiele
+shop: videojuegos
 ---

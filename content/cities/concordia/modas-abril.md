@@ -1,5 +1,5 @@
 ---
 title: "Modas Abril"
 url: /concordia/modas-abril/
-shop: Kleidung
+shop: ropa
 ---

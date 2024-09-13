@@ -1,5 +1,5 @@
 ---
 title: "Interpréstamo"
 url: /viedma/interprestamo/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JOE Elegante Sport"
 url: /neuquen/joe-elegante-sport/
-shop: Kleidung
+shop: ropa
 ---

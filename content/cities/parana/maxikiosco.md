@@ -1,5 +1,5 @@
 ---
 title: "MaxiKiosco"
 url: /parana/maxikiosco/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Boga"
 url: /concordia/la-boga/
-shop: Kleidung
+shop: ropa
 ---

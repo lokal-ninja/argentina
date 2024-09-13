@@ -1,5 +1,5 @@
 ---
 title: "Tecniterra"
 url: /cipolletti/tecniterra/
-shop: Landwirtschaftlich
+shop: agraria
 ---

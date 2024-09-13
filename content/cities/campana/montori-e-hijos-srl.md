@@ -1,5 +1,5 @@
 ---
 title: "Montori e Hijos SRL"
 url: /campana/montori-e-hijos-srl/
-shop: Autoteile
+shop: piezas de automóviles
 ---

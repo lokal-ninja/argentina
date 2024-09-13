@@ -1,5 +1,5 @@
 ---
 title: "Jardín de Paz"
 url: /jardin-america/jardin-de-paz/
-shop: Bestattungen
+shop: directores de funerarias
 ---

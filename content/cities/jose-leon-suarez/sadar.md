@@ -1,5 +1,5 @@
 ---
 title: "Sadar"
 url: /jose-leon-suarez/sadar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

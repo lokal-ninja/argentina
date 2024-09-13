@@ -1,5 +1,5 @@
 ---
 title: "Comercial Nordeste"
 url: /san-pedro/comercial-nordeste/
-shop: Möbel
+shop: muebles
 ---

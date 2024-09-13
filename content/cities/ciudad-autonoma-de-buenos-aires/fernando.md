@@ -1,5 +1,5 @@
 ---
 title: "Fernando"
 url: /ciudad-autonoma-de-buenos-aires/fernando/
-shop: Friseur
+shop: peluquería
 ---

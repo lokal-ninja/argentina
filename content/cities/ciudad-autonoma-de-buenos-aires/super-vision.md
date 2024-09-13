@@ -1,5 +1,5 @@
 ---
 title: "Super Visión"
 url: /ciudad-autonoma-de-buenos-aires/super-vision/
-shop: Optiker
+shop: óptico
 ---

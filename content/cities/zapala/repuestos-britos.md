@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Britos"
 url: /zapala/repuestos-britos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

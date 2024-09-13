@@ -1,5 +1,5 @@
 ---
 title: "AgroFiore"
 url: /viedma/agrofiore/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ValleNET"
 url: /general-roca/vallenet/
-shop: Handy
+shop: teléfono móvil
 ---

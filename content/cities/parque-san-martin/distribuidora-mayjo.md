@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Mayjo"
 url: /parque-san-martin/distribuidora-mayjo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suprema"
 url: /parana/suprema/
-shop: Metzgerei
+shop: carnicero
 ---

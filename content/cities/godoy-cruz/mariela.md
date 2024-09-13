@@ -1,5 +1,5 @@
 ---
 title: "Mariela"
 url: /godoy-cruz/mariela/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercería Charito II"
 url: /neuquen/merceria-charito-ii/
-shop: Textil
+shop: tela
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Osh Kosh"
 url: /ciudad-autonoma-de-buenos-aires/osh-kosh/
-shop: Kleidung
+shop: ropa
 ---

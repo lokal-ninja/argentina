@@ -1,5 +1,5 @@
 ---
 title: "Multi-Plásticos"
 url: /san-juan/multi-plasticos/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

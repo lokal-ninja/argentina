@@ -1,5 +1,5 @@
 ---
 title: "Clía"
 url: /neuquen/clia/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ranch"
 url: /neuquen/ranch/
-shop: Warenhaus
+shop: grandes almacenes
 ---

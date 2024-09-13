@@ -1,5 +1,5 @@
 ---
 title: "Rolo Chips"
 url: /garin/rolo-chips/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

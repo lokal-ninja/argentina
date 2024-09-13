@@ -1,5 +1,5 @@
 ---
 title: "Ayel Muebles"
 url: /las-lajas/ayel-muebles/
-shop: Möbel
+shop: muebles
 ---

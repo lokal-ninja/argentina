@@ -1,5 +1,5 @@
 ---
 title: "Tecmahe"
 url: /villa-maipu/tecmahe/
-shop: Baustoffe
+shop: comercio
 ---

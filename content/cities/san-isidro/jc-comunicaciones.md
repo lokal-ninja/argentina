@@ -1,5 +1,5 @@
 ---
 title: "JC Comunicaciones"
 url: /san-isidro/jc-comunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

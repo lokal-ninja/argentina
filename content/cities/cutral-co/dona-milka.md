@@ -1,5 +1,5 @@
 ---
 title: "Doña Milka"
 url: /cutral-co/dona-milka/
-shop: Partyzubehör
+shop: fiesta
 ---

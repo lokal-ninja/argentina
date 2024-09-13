@@ -1,5 +1,5 @@
 ---
 title: "Casa Celi"
 url: /obera/casa-celi/
-shop: Haushaltsgeräte
+shop: aparato
 ---

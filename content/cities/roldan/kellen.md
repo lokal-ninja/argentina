@@ -1,5 +1,5 @@
 ---
 title: "Kellen"
 url: /roldan/kellen/
-shop: Eisenwaren
+shop: hardware
 ---

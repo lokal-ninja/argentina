@@ -1,5 +1,5 @@
 ---
 title: "Baterías Yaima"
 url: /general-roca/baterias-yaima/
-shop: Autoteile
+shop: piezas de automóviles
 ---

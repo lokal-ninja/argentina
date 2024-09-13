@@ -1,5 +1,5 @@
 ---
 title: "Drako's Store"
 url: /ramos-mejia/drakos-store/
-shop: Lebensmittel
+shop: comodidad
 ---

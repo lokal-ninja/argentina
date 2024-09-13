@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /bahia-blanca/goodyear-avenida-colon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

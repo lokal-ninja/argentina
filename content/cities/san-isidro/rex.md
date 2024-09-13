@@ -1,5 +1,5 @@
 ---
 title: "Rex"
 url: /san-isidro/rex/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxikiosco"
 url: /san-andres/maxikiosco/
-shop: Lebensmittel
+shop: comodidad
 ---

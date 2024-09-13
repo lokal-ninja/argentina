@@ -1,5 +1,5 @@
 ---
 title: "Gomeria La Rueda"
 url: /hipolito-yrigoyen/gomeria-la-rueda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

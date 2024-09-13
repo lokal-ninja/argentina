@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /san-fernando/carrefour-market/
-shop: Supermarkt
+shop: supermercado
 ---

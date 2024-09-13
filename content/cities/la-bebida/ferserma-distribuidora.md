@@ -1,5 +1,5 @@
 ---
 title: "Ferserma Distribuidora"
 url: /la-bebida/ferserma-distribuidora/
-shop: Supermarkt
+shop: supermercado
 ---

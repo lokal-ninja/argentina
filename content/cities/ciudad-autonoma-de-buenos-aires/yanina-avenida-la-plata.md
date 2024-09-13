@@ -1,5 +1,5 @@
 ---
 title: "Yanina"
 url: /ciudad-autonoma-de-buenos-aires/yanina-avenida-la-plata/
-shop: Farben
+shop: pintura
 ---

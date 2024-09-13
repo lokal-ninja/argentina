@@ -1,5 +1,5 @@
 ---
 title: "Optica Plaza"
 url: /ciudad-autonoma-de-buenos-aires/optica-plaza/
-shop: Optiker
+shop: óptico
 ---

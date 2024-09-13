@@ -1,5 +1,5 @@
 ---
 title: "Mosh"
 url: /bahia-blanca/mosh/
-shop: Kleidung
+shop: ropa
 ---

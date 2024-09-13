@@ -1,5 +1,5 @@
 ---
 title: "Mora Marroquinería"
 url: /viedma/mora-marroquineria/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

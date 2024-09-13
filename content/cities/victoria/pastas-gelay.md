@@ -1,5 +1,5 @@
 ---
 title: "Pastas Gelay"
 url: /victoria/pastas-gelay/
-shop: Pasta
+shop: pasta
 ---

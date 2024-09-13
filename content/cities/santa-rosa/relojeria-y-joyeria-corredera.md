@@ -1,5 +1,5 @@
 ---
 title: "Relojería y Joyería Corredera"
 url: /santa-rosa/relojeria-y-joyeria-corredera/
-shop: Uhren
+shop: relojes
 ---

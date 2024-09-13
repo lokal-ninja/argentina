@@ -1,5 +1,5 @@
 ---
 title: "Confort Art"
 url: /ciudad-autonoma-de-buenos-aires/confort-art/
-shop: Raumausstattung
+shop: decoración interior
 ---

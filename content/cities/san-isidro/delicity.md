@@ -1,5 +1,5 @@
 ---
 title: "Delicity"
 url: /san-isidro/delicity/
-shop: Feinkost
+shop: charcutería
 ---

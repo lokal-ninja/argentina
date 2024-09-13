@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Ram Merlo"
 url: /merlo/repuestos-ram-merlo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

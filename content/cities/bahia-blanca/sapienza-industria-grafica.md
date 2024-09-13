@@ -1,5 +1,5 @@
 ---
 title: "Sapienza Industria Gráfica"
 url: /bahia-blanca/sapienza-industria-grafica/
-shop: Kopieren
+shop: copyshop
 ---

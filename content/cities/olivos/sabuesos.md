@@ -1,5 +1,5 @@
 ---
 title: "Sabuesos"
 url: /olivos/sabuesos/
-shop: Tiere
+shop: mascotas
 ---

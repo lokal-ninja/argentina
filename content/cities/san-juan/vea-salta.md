@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /san-juan/vea-salta/
-shop: Supermarkt
+shop: supermercado
 ---

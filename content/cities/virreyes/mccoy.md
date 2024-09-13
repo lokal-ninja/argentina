@@ -1,5 +1,5 @@
 ---
 title: "McCoy"
 url: /virreyes/mccoy/
-shop: Allgemein
+shop: general
 ---

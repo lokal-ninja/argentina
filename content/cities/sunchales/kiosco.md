@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /sunchales/kiosco/
-shop: Lebensmittel
+shop: comodidad
 ---

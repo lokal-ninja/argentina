@@ -1,5 +1,5 @@
 ---
 title: "Topacio"
 url: /cipolletti/topacio/
-shop: Kleidung
+shop: ropa
 ---

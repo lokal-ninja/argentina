@@ -1,5 +1,5 @@
 ---
 title: "Textil Rivadavia"
 url: /chivilcoy/textil-rivadavia/
-shop: Textil
+shop: tela
 ---

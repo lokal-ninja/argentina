@@ -1,5 +1,5 @@
 ---
 title: "Arenera Hercules"
 url: /gobernador-roca/arenera-hercules/
-shop: Baustoffe
+shop: comercio
 ---

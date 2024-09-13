@@ -1,5 +1,5 @@
 ---
 title: "Sendai"
 url: /lanus/sendai/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

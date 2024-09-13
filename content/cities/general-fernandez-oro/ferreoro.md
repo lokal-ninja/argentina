@@ -1,5 +1,5 @@
 ---
 title: "FerreOro"
 url: /general-fernandez-oro/ferreoro/
-shop: Eisenwaren
+shop: hardware
 ---

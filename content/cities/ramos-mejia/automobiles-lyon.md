@@ -1,5 +1,5 @@
 ---
 title: "Automobiles Lyon"
 url: /ramos-mejia/automobiles-lyon/
-shop: Autohaus
+shop: coche
 ---

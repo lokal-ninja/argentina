@@ -1,5 +1,5 @@
 ---
 title: "Dog Chow"
 url: /virreyes/dog-chow/
-shop: Tiere
+shop: mascotas
 ---

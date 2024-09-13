@@ -1,5 +1,5 @@
 ---
 title: "Irigoyen"
 url: /reconquista/irigoyen/
-shop: Eisenwaren
+shop: hardware
 ---

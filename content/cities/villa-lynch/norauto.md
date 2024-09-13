@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /villa-lynch/norauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

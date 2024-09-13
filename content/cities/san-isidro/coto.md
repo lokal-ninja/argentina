@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /san-isidro/coto/
-shop: Supermarkt
+shop: supermercado
 ---

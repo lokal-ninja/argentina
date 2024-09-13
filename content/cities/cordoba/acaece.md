@@ -1,5 +1,5 @@
 ---
 title: "Acaece"
 url: /cordoba/acaece/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

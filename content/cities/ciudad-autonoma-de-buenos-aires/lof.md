@@ -1,5 +1,5 @@
 ---
 title: "Lof"
 url: /ciudad-autonoma-de-buenos-aires/lof/
-shop: Optiker
+shop: óptico
 ---

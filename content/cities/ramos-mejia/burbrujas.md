@@ -1,5 +1,5 @@
 ---
 title: "Burbrujas"
 url: /ramos-mejia/burbrujas/
-shop: Wäscherei
+shop: lavandería
 ---

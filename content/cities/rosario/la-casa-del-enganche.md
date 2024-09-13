@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Enganche"
 url: /rosario/la-casa-del-enganche/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

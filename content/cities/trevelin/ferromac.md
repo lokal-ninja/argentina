@@ -1,5 +1,5 @@
 ---
 title: "Ferromac"
 url: /trevelin/ferromac/
-shop: Eisenwaren
+shop: hardware
 ---

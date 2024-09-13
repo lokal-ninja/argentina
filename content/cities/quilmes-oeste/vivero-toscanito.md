@@ -1,5 +1,5 @@
 ---
 title: "Vivero Toscanito"
 url: /quilmes-oeste/vivero-toscanito/
-shop: Garten-Center
+shop: centro de jardinería
 ---

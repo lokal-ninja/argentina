@@ -1,5 +1,5 @@
 ---
 title: "Peko's"
 url: /ciudad-autonoma-de-buenos-aires/pekos/
-shop: Schuhe
+shop: zapatos
 ---

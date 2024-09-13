@@ -1,5 +1,5 @@
 ---
 title: "Marcelo"
 url: /carmen-de-patagones/marcelo/
-shop: Fahrrad
+shop: bicicleta
 ---

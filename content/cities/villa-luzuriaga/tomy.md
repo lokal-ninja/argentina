@@ -1,5 +1,5 @@
 ---
 title: "Tomy"
 url: /villa-luzuriaga/tomy/
-shop: Spielzeug
+shop: juguetes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shajaida"
 url: /mendoza/shajaida/
-shop: Kleidung
+shop: ropa
 ---

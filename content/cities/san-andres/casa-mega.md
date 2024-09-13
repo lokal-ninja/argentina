@@ -1,5 +1,5 @@
 ---
 title: "Casa Mega"
 url: /san-andres/casa-mega/
-shop: Autoteile
+shop: piezas de automóviles
 ---

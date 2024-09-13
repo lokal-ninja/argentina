@@ -1,5 +1,5 @@
 ---
 title: "Bike Center"
 url: /olivos/bike-center/
-shop: Fahrrad
+shop: bicicleta
 ---

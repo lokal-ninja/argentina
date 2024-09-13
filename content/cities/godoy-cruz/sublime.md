@@ -1,5 +1,5 @@
 ---
 title: "Sublime"
 url: /godoy-cruz/sublime/
-shop: Friseur
+shop: peluquería
 ---

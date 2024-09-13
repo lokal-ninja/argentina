@@ -1,5 +1,5 @@
 ---
 title: "Feria Americana"
 url: /leandro-n-alem/feria-americana/
-shop: Allgemein
+shop: general
 ---

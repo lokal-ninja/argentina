@@ -1,5 +1,5 @@
 ---
 title: "JR Materiales Electricos"
 url: /apostoles/jr-materiales-electricos/
-shop: Elektronik
+shop: electrónica
 ---

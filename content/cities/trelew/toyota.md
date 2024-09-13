@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /trelew/toyota/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

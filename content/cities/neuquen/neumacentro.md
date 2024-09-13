@@ -1,5 +1,5 @@
 ---
 title: "Neumacentro"
 url: /neuquen/neumacentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /buenos-aires/conviasa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

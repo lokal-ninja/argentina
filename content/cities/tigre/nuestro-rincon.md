@@ -1,5 +1,5 @@
 ---
 title: "Nuestro Rincón"
 url: /tigre/nuestro-rincon/
-shop: Kleidung
+shop: ropa
 ---

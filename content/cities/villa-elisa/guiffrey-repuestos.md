@@ -1,5 +1,5 @@
 ---
 title: "Guiffrey repuestos"
 url: /villa-elisa/guiffrey-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

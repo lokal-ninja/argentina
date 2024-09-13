@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /neuquen/mercedes-benz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rodacor"
 url: /arroyito/rodacor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

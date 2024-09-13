@@ -1,5 +1,5 @@
 ---
 title: "Unelén"
 url: /viedma/unelen/
-shop: Kleidung
+shop: ropa
 ---

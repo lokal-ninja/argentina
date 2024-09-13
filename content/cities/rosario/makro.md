@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /rosario/makro/
-shop: Großhandel
+shop: mayorista
 ---

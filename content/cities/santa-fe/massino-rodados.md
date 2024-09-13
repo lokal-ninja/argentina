@@ -1,5 +1,5 @@
 ---
 title: "Massino Rodados"
 url: /santa-fe/massino-rodados/
-shop: Fahrrad
+shop: bicicleta
 ---

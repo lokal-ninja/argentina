@@ -1,5 +1,5 @@
 ---
 title: "Bahía Grow"
 url: /bahia-blanca/bahia-grow/
-shop: Garten-Center
+shop: centro de jardinería
 ---

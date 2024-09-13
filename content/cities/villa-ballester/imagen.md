@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /villa-ballester/imagen/
-shop: Kleidung
+shop: ropa
 ---

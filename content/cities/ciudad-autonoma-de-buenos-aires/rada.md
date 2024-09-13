@@ -1,5 +1,5 @@
 ---
 title: "Rada"
 url: /ciudad-autonoma-de-buenos-aires/rada/
-shop: Allgemein
+shop: general
 ---

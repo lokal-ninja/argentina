@@ -1,5 +1,5 @@
 ---
 title: "Mariolina"
 url: /bahia-blanca/mariolina/
-shop: Babysachen
+shop: artículos para bebés
 ---

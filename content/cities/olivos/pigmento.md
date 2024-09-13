@@ -1,5 +1,5 @@
 ---
 title: "Pigmento"
 url: /olivos/pigmento/
-shop: Parfümerie
+shop: perfumería
 ---

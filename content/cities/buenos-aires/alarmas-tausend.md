@@ -1,5 +1,5 @@
 ---
 title: "Alarmas Tausend"
 url: /buenos-aires/alarmas-tausend/
-shop: Sicherheit
+shop: seguridad
 ---

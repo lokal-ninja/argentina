@@ -1,5 +1,5 @@
 ---
 title: "Modas García"
 url: /viedma/modas-garcia/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crediario"
 url: /cutral-co/crediario/
-shop: Leiher
+shop: prestamista
 ---

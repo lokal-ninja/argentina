@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /acevedo/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

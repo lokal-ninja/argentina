@@ -1,5 +1,5 @@
 ---
 title: "Mora"
 url: /reconquista/mora/
-shop: Kleidung
+shop: ropa
 ---

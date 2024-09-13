@@ -1,5 +1,5 @@
 ---
 title: "Lavandin"
 url: /el-chalten/lavandin/
-shop: Wäscherei
+shop: lavandería
 ---

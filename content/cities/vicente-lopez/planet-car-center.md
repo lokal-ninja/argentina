@@ -1,5 +1,5 @@
 ---
 title: "Planet Car Center"
 url: /vicente-lopez/planet-car-center/
-shop: Autoteile
+shop: piezas de automóviles
 ---

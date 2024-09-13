@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /virreyes/vintage/
-shop: Allgemein
+shop: general
 ---

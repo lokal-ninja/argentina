@@ -1,5 +1,5 @@
 ---
 title: "Onyx"
 url: /ciudad-autonoma-de-buenos-aires/onyx/
-shop: Allgemein
+shop: general
 ---

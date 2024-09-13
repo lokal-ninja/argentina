@@ -1,5 +1,5 @@
 ---
 title: "Relojería Suiza"
 url: /concordia/relojeria-suiza/
-shop: Schmuck
+shop: joyería
 ---

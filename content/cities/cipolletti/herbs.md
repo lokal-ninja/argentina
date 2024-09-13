@@ -1,5 +1,5 @@
 ---
 title: "Herbs"
 url: /cipolletti/herbs/
-shop: Bioladen
+shop: alimentación sana
 ---

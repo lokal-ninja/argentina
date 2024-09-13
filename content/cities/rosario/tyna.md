@@ -1,5 +1,5 @@
 ---
 title: "Tyna"
 url: /rosario/tyna/
-shop: Süßwaren
+shop: confitería
 ---

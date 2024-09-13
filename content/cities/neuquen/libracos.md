@@ -1,5 +1,5 @@
 ---
 title: "Libracos"
 url: /neuquen/libracos/
-shop: Bücher
+shop: libros
 ---

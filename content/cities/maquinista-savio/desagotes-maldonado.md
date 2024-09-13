@@ -1,5 +1,5 @@
 ---
 title: "desagotes maldonado"
 url: /maquinista-savio/desagotes-maldonado/
-shop: Allgemein
+shop: general
 ---

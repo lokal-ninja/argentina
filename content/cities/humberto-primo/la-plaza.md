@@ -1,5 +1,5 @@
 ---
 title: "La Plaza"
 url: /humberto-primo/la-plaza/
-shop: Wäscherei
+shop: lavandería
 ---

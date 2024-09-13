@@ -1,5 +1,5 @@
 ---
 title: "Nelson"
 url: /azul/nelson/
-shop: Kleidung
+shop: ropa
 ---

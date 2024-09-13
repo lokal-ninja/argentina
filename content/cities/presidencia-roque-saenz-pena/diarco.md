@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /presidencia-roque-saenz-pena/diarco/
-shop: Supermarkt
+shop: supermercado
 ---

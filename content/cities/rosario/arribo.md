@@ -1,5 +1,5 @@
 ---
 title: "Arribo"
 url: /rosario/arribo/
-shop: Kramladen
+shop: tienda de variedades
 ---

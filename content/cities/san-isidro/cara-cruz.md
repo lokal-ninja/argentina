@@ -1,5 +1,5 @@
 ---
 title: "Cara Cruz"
 url: /san-isidro/cara-cruz/
-shop: Kleidung
+shop: ropa
 ---

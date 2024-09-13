@@ -1,5 +1,5 @@
 ---
 title: "Alba Electricidad"
 url: /tigre/alba-electricidad/
-shop: Allgemein
+shop: general
 ---

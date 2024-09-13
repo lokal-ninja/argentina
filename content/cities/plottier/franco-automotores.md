@@ -1,5 +1,5 @@
 ---
 title: "Franco Automotores"
 url: /plottier/franco-automotores/
-shop: Autohaus
+shop: coche
 ---

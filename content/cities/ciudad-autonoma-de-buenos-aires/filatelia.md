@@ -1,5 +1,5 @@
 ---
 title: "Filatelia"
 url: /ciudad-autonoma-de-buenos-aires/filatelia/
-shop: Sammler
+shop: colector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferrecon"
 url: /salto-encantado/ferrecon/
-shop: Eisenwaren
+shop: hardware
 ---

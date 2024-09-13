@@ -1,5 +1,5 @@
 ---
 title: "Proceso Tempo"
 url: /azul/proceso-tempo/
-shop: Foto
+shop: foto
 ---

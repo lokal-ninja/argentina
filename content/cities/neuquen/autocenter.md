@@ -1,5 +1,5 @@
 ---
 title: "Autocenter"
 url: /neuquen/autocenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

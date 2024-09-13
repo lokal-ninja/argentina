@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Berbetoros"
 url: /perez/mecanica-berbetoros/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

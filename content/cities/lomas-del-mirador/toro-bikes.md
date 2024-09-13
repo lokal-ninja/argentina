@@ -1,5 +1,5 @@
 ---
 title: "TORO Bikes"
 url: /lomas-del-mirador/toro-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fanello"
 url: /neuquen/fanello/
-shop: Autoteile
+shop: piezas de automóviles
 ---

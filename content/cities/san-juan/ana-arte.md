@@ -1,5 +1,5 @@
 ---
 title: "Ana Arte"
 url: /san-juan/ana-arte/
-shop: Kleidung
+shop: ropa
 ---

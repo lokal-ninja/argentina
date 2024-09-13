@@ -1,5 +1,5 @@
 ---
 title: "Oficer"
 url: /neuquen/oficer/
-shop: Schreibwaren
+shop: material de oficina
 ---

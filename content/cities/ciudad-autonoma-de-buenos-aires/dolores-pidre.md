@@ -1,5 +1,5 @@
 ---
 title: "Dolores Pidré"
 url: /ciudad-autonoma-de-buenos-aires/dolores-pidre/
-shop: Kleidung
+shop: ropa
 ---

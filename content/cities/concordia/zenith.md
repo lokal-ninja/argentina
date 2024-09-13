@@ -1,5 +1,5 @@
 ---
 title: "Zenith"
 url: /concordia/zenith/
-shop: Baustoffe
+shop: comercio
 ---

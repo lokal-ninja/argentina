@@ -1,5 +1,5 @@
 ---
 title: "Cafferata"
 url: /ciudad-autonoma-de-buenos-aires/cafferata/
-shop: Bäckerei
+shop: panadería
 ---

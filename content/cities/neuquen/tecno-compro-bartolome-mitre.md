@@ -1,5 +1,5 @@
 ---
 title: "Tecno Compro"
 url: /neuquen/tecno-compro-bartolome-mitre/
-shop: Elektronik
+shop: electrónica
 ---

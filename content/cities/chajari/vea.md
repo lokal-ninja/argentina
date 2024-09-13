@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /chajari/vea/
-shop: Supermarkt
+shop: supermercado
 ---

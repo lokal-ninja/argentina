@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /martinez/hyundai/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

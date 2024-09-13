@@ -1,5 +1,5 @@
 ---
 title: "Seller Multimarcas"
 url: /azul/seller-multimarcas/
-shop: Autohaus
+shop: coche
 ---

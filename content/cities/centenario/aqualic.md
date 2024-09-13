@@ -1,5 +1,5 @@
 ---
 title: "Aqualic"
 url: /centenario/aqualic/
-shop: Wasser
+shop: agua
 ---

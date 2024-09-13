@@ -1,5 +1,5 @@
 ---
 title: "Teknomania"
 url: /bahia-blanca/teknomania/
-shop: Computer
+shop: ordenador
 ---

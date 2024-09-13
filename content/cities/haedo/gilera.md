@@ -1,5 +1,5 @@
 ---
 title: "Gilera"
 url: /haedo/gilera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

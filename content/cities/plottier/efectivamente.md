@@ -1,5 +1,5 @@
 ---
 title: "Efectivamente"
 url: /plottier/efectivamente/
-shop: Leiher
+shop: prestamista
 ---

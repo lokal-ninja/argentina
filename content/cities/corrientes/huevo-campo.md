@@ -1,5 +1,5 @@
 ---
 title: "Huevo campo"
 url: /corrientes/huevo-campo/
-shop: Allgemein
+shop: general
 ---

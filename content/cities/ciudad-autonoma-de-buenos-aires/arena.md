@@ -1,5 +1,5 @@
 ---
 title: "Arena"
 url: /ciudad-autonoma-de-buenos-aires/arena/
-shop: Parfümerie
+shop: perfumería
 ---

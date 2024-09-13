@@ -1,5 +1,5 @@
 ---
 title: "Freddy"
 url: /acassuso/freddy/
-shop: Allgemein
+shop: general
 ---

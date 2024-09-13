@@ -1,5 +1,5 @@
 ---
 title: "La Marina"
 url: /trelew/la-marina/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lanier"
 url: /neuquen/lanier/
-shop: Kopieren
+shop: copyshop
 ---

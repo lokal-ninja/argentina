@@ -1,5 +1,5 @@
 ---
 title: "Movicell"
 url: /cipolletti/movicell/
-shop: Handy
+shop: teléfono móvil
 ---

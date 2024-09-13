@@ -1,5 +1,5 @@
 ---
 title: "El Besugo"
 url: /general-san-martin/el-besugo/
-shop: Fisch
+shop: marisco
 ---

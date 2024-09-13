@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /cordoba/carrefour-express-avenida-colon/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicar"
 url: /jose-leon-suarez/servicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

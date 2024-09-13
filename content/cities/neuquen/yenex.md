@@ -1,5 +1,5 @@
 ---
 title: "Yenex"
 url: /neuquen/yenex/
-shop: Tabak
+shop: tabaco
 ---

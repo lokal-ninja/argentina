@@ -1,5 +1,5 @@
 ---
 title: "Alkimia"
 url: /villa-elisa/alkimia/
-shop: Raumausstattung
+shop: decoración interior
 ---

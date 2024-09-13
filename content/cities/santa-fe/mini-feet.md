@@ -1,5 +1,5 @@
 ---
 title: "Mini Feet"
 url: /santa-fe/mini-feet/
-shop: Schuhe
+shop: zapatos
 ---

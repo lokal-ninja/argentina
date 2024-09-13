@@ -1,5 +1,5 @@
 ---
 title: "Poligono"
 url: /rosario/poligono/
-shop: Kleidung
+shop: ropa
 ---

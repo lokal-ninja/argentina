@@ -1,5 +1,5 @@
 ---
 title: "Equipel"
 url: /neuquen/equipel/
-shop: Elektrisch
+shop: eléctrico
 ---

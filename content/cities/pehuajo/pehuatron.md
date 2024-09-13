@@ -1,5 +1,5 @@
 ---
 title: "Pehuatron"
 url: /pehuajo/pehuatron/
-shop: Haushaltsgeräte
+shop: aparato
 ---

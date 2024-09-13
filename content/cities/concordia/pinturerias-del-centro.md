@@ -1,5 +1,5 @@
 ---
 title: "Pinturerías del Centro"
 url: /concordia/pinturerias-del-centro/
-shop: Farben
+shop: pintura
 ---

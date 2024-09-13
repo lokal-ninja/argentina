@@ -1,5 +1,5 @@
 ---
 title: "Donatta"
 url: /virreyes/donatta/
-shop: Allgemein
+shop: general
 ---

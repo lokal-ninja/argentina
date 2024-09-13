@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /san-carlos-de-bariloche/kevingston/
-shop: Kleidung
+shop: ropa
 ---

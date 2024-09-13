@@ -1,5 +1,5 @@
 ---
 title: "Punto Y Coma"
 url: /lobos/punto-y-coma/
-shop: Schreibwaren
+shop: material de oficina
 ---

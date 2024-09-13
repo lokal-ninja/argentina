@@ -1,5 +1,5 @@
 ---
 title: "Constructodo"
 url: /san-isidro/constructodo/
-shop: Baustoffe
+shop: comercio
 ---

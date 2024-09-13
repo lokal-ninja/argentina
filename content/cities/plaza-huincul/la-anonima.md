@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /plaza-huincul/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

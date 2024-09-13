@@ -1,5 +1,5 @@
 ---
 title: "Osvaldo Escap"
 url: /ciudad-autonoma-de-buenos-aires/osvaldo-escap/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

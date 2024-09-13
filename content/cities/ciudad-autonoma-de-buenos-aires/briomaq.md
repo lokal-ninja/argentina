@@ -1,5 +1,5 @@
 ---
 title: "Briomaq"
 url: /ciudad-autonoma-de-buenos-aires/briomaq/
-shop: Eisenwaren
+shop: hardware
 ---

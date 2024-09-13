@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /zapala/fiat-libano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

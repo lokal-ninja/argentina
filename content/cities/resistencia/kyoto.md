@@ -1,5 +1,5 @@
 ---
 title: "Kyoto"
 url: /resistencia/kyoto/
-shop: Autohaus
+shop: coche
 ---

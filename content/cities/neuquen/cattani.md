@@ -1,5 +1,5 @@
 ---
 title: "Cattani"
 url: /neuquen/cattani/
-shop: Kleidung
+shop: ropa
 ---

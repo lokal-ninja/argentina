@@ -1,5 +1,5 @@
 ---
 title: "RSV"
 url: /cipolletti/rsv/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /ciudad-autonoma-de-buenos-aires/coto-avenida-corrientes/
-shop: Supermarkt
+shop: supermercado
 ---

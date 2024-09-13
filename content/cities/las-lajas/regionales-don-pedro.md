@@ -1,5 +1,5 @@
 ---
 title: "Regionales Don Pedro"
 url: /las-lajas/regionales-don-pedro/
-shop: Andenken
+shop: regalo
 ---

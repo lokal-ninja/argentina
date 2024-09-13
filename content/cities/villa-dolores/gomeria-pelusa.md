@@ -1,5 +1,5 @@
 ---
 title: "Gomeria Pelusa"
 url: /villa-dolores/gomeria-pelusa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

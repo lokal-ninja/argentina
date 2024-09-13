@@ -1,5 +1,5 @@
 ---
 title: "Gomería Casilda"
 url: /casilda/gomeria-casilda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

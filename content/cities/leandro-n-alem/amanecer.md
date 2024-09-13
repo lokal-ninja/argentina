@@ -1,5 +1,5 @@
 ---
 title: "Amanecer"
 url: /leandro-n-alem/amanecer/
-shop: Supermarkt
+shop: supermercado
 ---

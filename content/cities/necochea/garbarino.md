@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /necochea/garbarino/
-shop: Elektronik
+shop: electrónica
 ---

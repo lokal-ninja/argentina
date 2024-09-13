@@ -1,5 +1,5 @@
 ---
 title: "Doña Pancha"
 url: /ciudad-autonoma-de-buenos-aires/dona-pancha/
-shop: Bäckerei
+shop: panadería
 ---

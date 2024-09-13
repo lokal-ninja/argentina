@@ -1,5 +1,5 @@
 ---
 title: "Patagonia Repuestos"
 url: /cipolletti/patagonia-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

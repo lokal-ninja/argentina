@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /trelew/ford/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

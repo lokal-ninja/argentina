@@ -1,5 +1,5 @@
 ---
 title: "Monet"
 url: /ciudad-autonoma-de-buenos-aires/monet/
-shop: Küchen
+shop: cocina
 ---

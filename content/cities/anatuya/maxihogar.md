@@ -1,5 +1,5 @@
 ---
 title: "Maxihogar"
 url: /anatuya/maxihogar/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JFG"
 url: /ciudad-autonoma-de-buenos-aires/jfg/
-shop: Computer
+shop: ordenador
 ---

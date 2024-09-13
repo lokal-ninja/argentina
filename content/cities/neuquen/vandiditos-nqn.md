@@ -1,5 +1,5 @@
 ---
 title: "Vandiditos NQN"
 url: /neuquen/vandiditos-nqn/
-shop: Kleidung
+shop: ropa
 ---

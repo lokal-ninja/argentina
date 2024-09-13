@@ -1,5 +1,5 @@
 ---
 title: "Afiche Multiventas"
 url: /las-lajas/afiche-multiventas/
-shop: Schreibwaren
+shop: material de oficina
 ---

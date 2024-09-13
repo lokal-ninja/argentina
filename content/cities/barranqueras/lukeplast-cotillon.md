@@ -1,5 +1,5 @@
 ---
 title: "LukePlast Cotillón"
 url: /barranqueras/lukeplast-cotillon/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Monroe"
 url: /ciudad-autonoma-de-buenos-aires/libreria-monroe/
-shop: Schreibwaren
+shop: material de oficina
 ---

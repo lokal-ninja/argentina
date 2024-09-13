@@ -1,5 +1,5 @@
 ---
 title: "Saldaña Trucks"
 url: /neuquen/saldana-trucks/
-shop: Autoteile
+shop: piezas de automóviles
 ---

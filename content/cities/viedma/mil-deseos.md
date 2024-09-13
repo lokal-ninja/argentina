@@ -1,5 +1,5 @@
 ---
 title: "Mil Deseos"
 url: /viedma/mil-deseos/
-shop: Partyzubehör
+shop: fiesta
 ---

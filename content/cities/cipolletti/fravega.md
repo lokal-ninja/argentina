@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
 url: /cipolletti/fravega/
-shop: Elektronik
+shop: electrónica
 ---

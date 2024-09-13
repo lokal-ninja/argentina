@@ -1,5 +1,5 @@
 ---
 title: "Yagmour"
 url: /santa-rosa/yagmour/
-shop: Kleidung
+shop: ropa
 ---

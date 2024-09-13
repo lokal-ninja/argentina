@@ -1,5 +1,5 @@
 ---
 title: "Ropa Colegio Palacios"
 url: /ramos-mejia/ropa-colegio-palacios/
-shop: Kleidung
+shop: ropa
 ---

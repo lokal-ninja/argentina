@@ -1,5 +1,5 @@
 ---
 title: "La Fiambreria"
 url: /villa-de-soto/la-fiambreria/
-shop: Supermarkt
+shop: supermercado
 ---

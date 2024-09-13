@@ -1,5 +1,5 @@
 ---
 title: "Centro de Visas"
 url: /san-miguel-de-tucuman/centro-de-visas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

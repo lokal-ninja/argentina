@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Hernández"
 url: /bahia-blanca/tintoreria-hernandez/
-shop: Wäscherei
+shop: lavandería
 ---

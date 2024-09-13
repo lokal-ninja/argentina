@@ -1,5 +1,5 @@
 ---
 title: "Galería San Marcos"
 url: /mendoza/galeria-san-marcos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

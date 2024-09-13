@@ -1,5 +1,5 @@
 ---
 title: "Carnes FMB"
 url: /don-bosco/carnes-fmb/
-shop: Metzgerei
+shop: carnicero
 ---

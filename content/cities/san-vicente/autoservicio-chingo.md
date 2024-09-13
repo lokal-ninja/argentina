@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Chingo"
 url: /san-vicente/autoservicio-chingo/
-shop: Lebensmittel
+shop: comodidad
 ---

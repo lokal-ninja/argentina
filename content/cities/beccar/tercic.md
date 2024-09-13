@@ -1,5 +1,5 @@
 ---
 title: "Tercic"
 url: /beccar/tercic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

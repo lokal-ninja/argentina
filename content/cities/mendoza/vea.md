@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /mendoza/vea/
-shop: Supermarkt
+shop: supermercado
 ---

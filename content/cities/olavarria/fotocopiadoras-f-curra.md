@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadoras F Curra"
 url: /olavarria/fotocopiadoras-f-curra/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Defe"
 url: /adrogue/defe/
-shop: Allgemein
+shop: general
 ---

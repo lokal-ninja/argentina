@@ -1,5 +1,5 @@
 ---
 title: "Bugatti"
 url: /ituzaingo/bugatti/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

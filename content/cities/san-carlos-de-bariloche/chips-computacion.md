@@ -1,5 +1,5 @@
 ---
 title: "Chips Computación"
 url: /san-carlos-de-bariloche/chips-computacion/
-shop: Computer
+shop: ordenador
 ---

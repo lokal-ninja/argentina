@@ -1,5 +1,5 @@
 ---
 title: "Lopez Cabezas Repuestos Motos"
 url: /godoy-cruz/lopez-cabezas-repuestos-motos/
-shop: Motorrad
+shop: motocicleta
 ---

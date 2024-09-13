@@ -1,5 +1,5 @@
 ---
 title: "Grupo Autopartes"
 url: /san-miguel-de-tucuman/grupo-autopartes/
-shop: Supermarkt
+shop: supermercado
 ---

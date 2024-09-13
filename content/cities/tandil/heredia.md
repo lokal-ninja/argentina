@@ -1,5 +1,5 @@
 ---
 title: "Heredia"
 url: /tandil/heredia/
-shop: Möbel
+shop: muebles
 ---

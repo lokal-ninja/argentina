@@ -1,5 +1,5 @@
 ---
 title: "Áureo"
 url: /carmen-de-patagones/aureo/
-shop: Bäckerei
+shop: panadería
 ---

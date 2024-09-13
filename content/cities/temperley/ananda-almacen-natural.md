@@ -1,5 +1,5 @@
 ---
 title: "Ananda Almacén Natural"
 url: /temperley/ananda-almacen-natural/
-shop: Hofladen
+shop: granja
 ---

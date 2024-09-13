@@ -1,5 +1,5 @@
 ---
 title: "Maderas J. Julián"
 url: /neuquen/maderas-j-julian/
-shop: Baustoffe
+shop: comercio
 ---

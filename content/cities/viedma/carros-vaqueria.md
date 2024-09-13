@@ -1,5 +1,5 @@
 ---
 title: "Carros Vaquería"
 url: /viedma/carros-vaqueria/
-shop: Kleidung
+shop: ropa
 ---

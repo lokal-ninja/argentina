@@ -1,5 +1,5 @@
 ---
 title: "Betty Yú"
 url: /viedma/betty-yu/
-shop: Kleidung
+shop: ropa
 ---

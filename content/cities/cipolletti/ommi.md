@@ -1,5 +1,5 @@
 ---
 title: "Ommi"
 url: /cipolletti/ommi/
-shop: Lebensmittel
+shop: comodidad
 ---

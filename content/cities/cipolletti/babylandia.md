@@ -1,5 +1,5 @@
 ---
 title: "Babylandia"
 url: /cipolletti/babylandia/
-shop: Babysachen
+shop: artículos para bebés
 ---

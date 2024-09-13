@@ -1,5 +1,5 @@
 ---
 title: "Sulfato"
 url: /neuquen/sulfato/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /acassuso/coto/
-shop: Supermarkt
+shop: supermercado
 ---

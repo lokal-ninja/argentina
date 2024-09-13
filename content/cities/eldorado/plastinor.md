@@ -1,5 +1,5 @@
 ---
 title: "Plastinor"
 url: /eldorado/plastinor/
-shop: Dorfladen
+shop: tienda rural
 ---

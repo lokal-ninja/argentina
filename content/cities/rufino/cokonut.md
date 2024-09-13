@@ -1,5 +1,5 @@
 ---
 title: "Cokonut"
 url: /rufino/cokonut/
-shop: Kleidung
+shop: ropa
 ---

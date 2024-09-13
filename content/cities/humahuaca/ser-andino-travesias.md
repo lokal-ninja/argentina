@@ -1,5 +1,5 @@
 ---
 title: "Ser Andino Travesias"
 url: /humahuaca/ser-andino-travesias/
-shop: Reisebüro
+shop: agencia de viajes
 ---

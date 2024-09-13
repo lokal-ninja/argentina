@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /trinidad/vea/
-shop: Supermarkt
+shop: supermercado
 ---

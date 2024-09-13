@@ -1,5 +1,5 @@
 ---
 title: "Jabuticaba"
 url: /obera/jabuticaba/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lacar"
 url: /tandil/lacar/
-shop: Kleidung
+shop: ropa
 ---

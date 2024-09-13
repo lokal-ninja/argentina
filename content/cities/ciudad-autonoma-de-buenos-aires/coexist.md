@@ -1,5 +1,5 @@
 ---
 title: "Coexist"
 url: /ciudad-autonoma-de-buenos-aires/coexist/
-shop: Kleidung
+shop: ropa
 ---

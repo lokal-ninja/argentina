@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /san-miguel/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

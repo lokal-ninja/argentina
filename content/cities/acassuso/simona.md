@@ -1,5 +1,5 @@
 ---
 title: "Simona"
 url: /acassuso/simona/
-shop: Feinkost
+shop: charcutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Omar"
 url: /aristobulo-del-valle/omar/
-shop: Eisenwaren
+shop: hardware
 ---

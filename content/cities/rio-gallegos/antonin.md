@@ -1,5 +1,5 @@
 ---
 title: "Antonin"
 url: /rio-gallegos/antonin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

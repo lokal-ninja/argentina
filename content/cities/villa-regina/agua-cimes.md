@@ -1,5 +1,5 @@
 ---
 title: "Agua Cimes"
 url: /villa-regina/agua-cimes/
-shop: Wasser
+shop: agua
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Silueta"
 url: /ciudad-autonoma-de-buenos-aires/la-silueta/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /campana/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

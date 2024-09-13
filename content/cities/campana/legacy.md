@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /campana/legacy/
-shop: Kleidung
+shop: ropa
 ---

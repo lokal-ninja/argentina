@@ -1,5 +1,5 @@
 ---
 title: "Allipen"
 url: /bahia-blanca/allipen/
-shop: Schreibwaren
+shop: material de oficina
 ---

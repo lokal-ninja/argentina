@@ -1,5 +1,5 @@
 ---
 title: "Camiones Persico"
 url: /ciudad-autonoma-de-buenos-aires/camiones-persico/
-shop: Autohaus
+shop: coche
 ---

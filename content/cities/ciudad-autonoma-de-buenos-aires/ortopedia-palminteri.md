@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Palminteri"
 url: /ciudad-autonoma-de-buenos-aires/ortopedia-palminteri/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

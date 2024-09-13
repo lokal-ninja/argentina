@@ -1,5 +1,5 @@
 ---
 title: "Winner"
 url: /ciudad-autonoma-de-buenos-aires/winner/
-shop: Bäckerei
+shop: panadería
 ---

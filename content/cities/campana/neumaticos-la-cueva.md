@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos La Cueva"
 url: /campana/neumaticos-la-cueva/
-shop: Reifen
+shop: neumáticos
 ---

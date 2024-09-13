@@ -1,5 +1,5 @@
 ---
 title: "Un Capricho Más"
 url: /bahia-blanca/un-capricho-mas/
-shop: Kleidung
+shop: ropa
 ---

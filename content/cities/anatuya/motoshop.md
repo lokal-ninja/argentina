@@ -1,5 +1,5 @@
 ---
 title: "Motoshop"
 url: /anatuya/motoshop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

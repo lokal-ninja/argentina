@@ -1,5 +1,5 @@
 ---
 title: "Gomería Centro"
 url: /rosario/gomeria-centro/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frías"
 url: /ezeiza/frias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

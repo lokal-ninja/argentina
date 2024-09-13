@@ -1,5 +1,5 @@
 ---
 title: "Araucarias Turismo"
 url: /viedma/araucarias-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

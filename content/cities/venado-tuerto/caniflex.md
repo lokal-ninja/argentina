@@ -1,5 +1,5 @@
 ---
 title: "Cañiflex"
 url: /venado-tuerto/caniflex/
-shop: Eisenwaren
+shop: hardware
 ---

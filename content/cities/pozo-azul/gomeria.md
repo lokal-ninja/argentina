@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /pozo-azul/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Centro"
 url: /bahia-blanca/bazar-centro/
-shop: Kramladen
+shop: tienda de variedades
 ---

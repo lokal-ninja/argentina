@@ -1,5 +1,5 @@
 ---
 title: "Mundo Importado"
 url: /cipolletti/mundo-importado-brentana/
-shop: Kramladen
+shop: tienda de variedades
 ---

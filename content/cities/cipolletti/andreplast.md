@@ -1,5 +1,5 @@
 ---
 title: "Andreplast"
 url: /cipolletti/andreplast/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pollería Todo Pollo"
 url: /viedma/polleria-todo-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

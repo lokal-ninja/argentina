@@ -1,5 +1,5 @@
 ---
 title: "Chiply Baterías"
 url: /eldorado/chiply-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

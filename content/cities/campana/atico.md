@@ -1,5 +1,5 @@
 ---
 title: "Atico"
 url: /campana/atico/
-shop: Kleidung
+shop: ropa
 ---

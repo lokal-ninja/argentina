@@ -1,5 +1,5 @@
 ---
 title: "Meraki"
 url: /neuquen/meraki/
-shop: Feinkost
+shop: charcutería
 ---

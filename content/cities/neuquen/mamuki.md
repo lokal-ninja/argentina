@@ -1,5 +1,5 @@
 ---
 title: "Mamuki"
 url: /neuquen/mamuki/
-shop: Bäckerei
+shop: panadería
 ---

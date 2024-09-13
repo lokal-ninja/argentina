@@ -1,5 +1,5 @@
 ---
 title: "Las Calandrias"
 url: /posadas/las-calandrias/
-shop: Schreibwaren
+shop: material de oficina
 ---

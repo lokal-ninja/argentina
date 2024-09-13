@@ -1,5 +1,5 @@
 ---
 title: "VM Perimetrales"
 url: /villa-maria/vm-perimetrales/
-shop: Landwirtschaftlich
+shop: agraria
 ---

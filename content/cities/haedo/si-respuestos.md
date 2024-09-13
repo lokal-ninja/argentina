@@ -1,5 +1,5 @@
 ---
 title: "Si Respuestos"
 url: /haedo/si-respuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

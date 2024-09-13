@@ -1,5 +1,5 @@
 ---
 title: "Mauro Sergio Sweaters"
 url: /villa-ballester/mauro-sergio-sweaters/
-shop: Kleidung
+shop: ropa
 ---

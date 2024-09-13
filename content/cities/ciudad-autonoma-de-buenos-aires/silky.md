@@ -1,5 +1,5 @@
 ---
 title: "Silky"
 url: /ciudad-autonoma-de-buenos-aires/silky/
-shop: Friseur
+shop: peluquería
 ---

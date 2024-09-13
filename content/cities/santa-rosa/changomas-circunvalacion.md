@@ -1,5 +1,5 @@
 ---
 title: "Changomás (Circunvalación)"
 url: /santa-rosa/changomas-circunvalacion/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yanabey"
 url: /bahia-blanca/yanabey/
-shop: Textil
+shop: tela
 ---

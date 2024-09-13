@@ -1,5 +1,5 @@
 ---
 title: "Nómade"
 url: /bahia-blanca/nomade/
-shop: Kleidung
+shop: ropa
 ---

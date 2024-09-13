@@ -1,5 +1,5 @@
 ---
 title: "Por Amor a Vos"
 url: /bahia-blanca/por-amor-a-vos/
-shop: Kleidung
+shop: artículos para bebés
 ---

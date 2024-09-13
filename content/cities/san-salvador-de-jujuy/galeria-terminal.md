@@ -1,5 +1,5 @@
 ---
 title: "Galeria Terminal"
 url: /san-salvador-de-jujuy/galeria-terminal/
-shop: Kramladen
+shop: tienda de variedades
 ---

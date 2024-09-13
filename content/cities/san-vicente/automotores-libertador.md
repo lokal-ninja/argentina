@@ -1,5 +1,5 @@
 ---
 title: "Automotores Libertador"
 url: /san-vicente/automotores-libertador/
-shop: Autohaus
+shop: coche
 ---

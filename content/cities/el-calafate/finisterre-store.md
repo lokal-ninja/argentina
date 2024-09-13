@@ -1,5 +1,5 @@
 ---
 title: "Finisterre Store"
 url: /el-calafate/finisterre-store/
-shop: Kleidung
+shop: ropa
 ---

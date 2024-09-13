@@ -1,5 +1,5 @@
 ---
 title: "L y L"
 url: /general-san-martin/l-y-l/
-shop: Bücher
+shop: libros
 ---

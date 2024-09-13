@@ -1,5 +1,5 @@
 ---
 title: "CELO Sepelios"
 url: /obera/celo-sepelios/
-shop: Bestattungen
+shop: directores de funerarias
 ---

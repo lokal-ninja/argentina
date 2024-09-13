@@ -1,5 +1,5 @@
 ---
 title: "Pañalera"
 url: /ciudad-autonoma-de-buenos-aires/panalera-mariano-acosta/
-shop: Lebensmittel
+shop: comodidad
 ---

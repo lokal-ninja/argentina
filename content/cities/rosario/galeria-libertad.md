@@ -1,5 +1,5 @@
 ---
 title: "Galería Libertad"
 url: /rosario/galeria-libertad/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

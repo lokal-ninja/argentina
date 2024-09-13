@@ -1,5 +1,5 @@
 ---
 title: "CompuService"
 url: /concordia/compuservice/
-shop: Computer
+shop: ordenador
 ---

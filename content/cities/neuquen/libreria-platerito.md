@@ -1,5 +1,5 @@
 ---
 title: "Librería Platerito"
 url: /neuquen/libreria-platerito/
-shop: Schreibwaren
+shop: material de oficina
 ---

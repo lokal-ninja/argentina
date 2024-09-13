@@ -1,5 +1,5 @@
 ---
 title: "Rainforest"
 url: /boulogne-sur-mer/rainforest/
-shop: Friseur
+shop: peluquería
 ---

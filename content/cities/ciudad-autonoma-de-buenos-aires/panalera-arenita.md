@@ -1,5 +1,5 @@
 ---
 title: "Pañalera Arenita"
 url: /ciudad-autonoma-de-buenos-aires/panalera-arenita/
-shop: Babysachen
+shop: artículos para bebés
 ---

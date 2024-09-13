@@ -1,5 +1,5 @@
 ---
 title: "Futuro"
 url: /azul/futuro/
-shop: Schreibwaren
+shop: material de oficina
 ---

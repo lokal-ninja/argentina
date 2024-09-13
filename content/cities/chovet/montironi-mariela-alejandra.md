@@ -1,5 +1,5 @@
 ---
 title: "Montironi Mariela Alejandra"
 url: /chovet/montironi-mariela-alejandra/
-shop: Kleidung
+shop: ropa
 ---

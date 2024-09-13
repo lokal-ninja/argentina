@@ -1,5 +1,5 @@
 ---
 title: "Benito"
 url: /ciudad-autonoma-de-buenos-aires/benito/
-shop: Metzgerei
+shop: carnicero
 ---

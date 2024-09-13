@@ -1,5 +1,5 @@
 ---
 title: "Lara"
 url: /azul/lara/
-shop: Schuhe
+shop: zapatos
 ---

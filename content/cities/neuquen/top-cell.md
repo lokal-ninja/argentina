@@ -1,5 +1,5 @@
 ---
 title: "Top Cell"
 url: /neuquen/top-cell/
-shop: Handy
+shop: teléfono móvil
 ---

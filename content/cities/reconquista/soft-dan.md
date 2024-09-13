@@ -1,5 +1,5 @@
 ---
 title: "soft Dan"
 url: /reconquista/soft-dan/
-shop: Handy
+shop: teléfono móvil
 ---

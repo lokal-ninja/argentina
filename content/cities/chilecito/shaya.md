@@ -1,5 +1,5 @@
 ---
 title: "Shaya"
 url: /chilecito/shaya/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Puma"
 url: /ramos-mejia/el-puma/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

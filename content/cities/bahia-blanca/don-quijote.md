@@ -1,5 +1,5 @@
 ---
 title: "Don Quijote"
 url: /bahia-blanca/don-quijote/
-shop: Schreibwaren
+shop: material de oficina
 ---

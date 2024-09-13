@@ -1,5 +1,5 @@
 ---
 title: "Doty's"
 url: /ciudad-autonoma-de-buenos-aires/dotys/
-shop: Kaffee
+shop: café
 ---

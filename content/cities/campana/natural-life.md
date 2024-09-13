@@ -1,5 +1,5 @@
 ---
 title: "Natural Life"
 url: /campana/natural-life/
-shop: Tiere
+shop: mascotas
 ---

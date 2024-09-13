@@ -1,5 +1,5 @@
 ---
 title: "Frenos"
 url: /virreyes/frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

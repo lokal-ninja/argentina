@@ -1,5 +1,5 @@
 ---
 title: "Taller Ortega"
 url: /san-isidro/taller-ortega/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piéka"
 url: /obera/pieka/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

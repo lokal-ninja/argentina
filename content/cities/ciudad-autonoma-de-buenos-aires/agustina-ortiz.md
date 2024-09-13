@@ -1,5 +1,5 @@
 ---
 title: "Agustina Ortiz"
 url: /ciudad-autonoma-de-buenos-aires/agustina-ortiz/
-shop: Kosmetik
+shop: cosméticos
 ---

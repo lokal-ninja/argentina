@@ -1,5 +1,5 @@
 ---
 title: "ASM Soluciones"
 url: /cipolletti/asm-soluciones/
-shop: Computer
+shop: ordenador
 ---

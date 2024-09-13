@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /ciudad-autonoma-de-buenos-aires/legacy-avenida-cordoba/
-shop: Kleidung
+shop: ropa
 ---

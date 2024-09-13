@@ -1,5 +1,5 @@
 ---
 title: "Pañalera S Ecitos"
 url: /ciudad-autonoma-de-buenos-aires/panalera-s-ecitos/
-shop: Babysachen
+shop: artículos para bebés
 ---

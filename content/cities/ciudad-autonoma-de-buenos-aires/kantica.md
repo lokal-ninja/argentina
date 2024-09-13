@@ -1,5 +1,5 @@
 ---
 title: "Kántica"
 url: /ciudad-autonoma-de-buenos-aires/kantica/
-shop: Kleidung
+shop: ropa
 ---

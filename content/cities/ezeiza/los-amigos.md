@@ -1,5 +1,5 @@
 ---
 title: "Los Amigos"
 url: /ezeiza/los-amigos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

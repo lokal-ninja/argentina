@@ -1,5 +1,5 @@
 ---
 title: "Kiosko Chuky"
 url: /pergamino/kiosko-chuky/
-shop: Kiosk
+shop: quiosco
 ---

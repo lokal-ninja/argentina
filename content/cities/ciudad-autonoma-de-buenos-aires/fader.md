@@ -1,5 +1,5 @@
 ---
 title: "Fader"
 url: /ciudad-autonoma-de-buenos-aires/fader/
-shop: Allgemein
+shop: artesanía
 ---

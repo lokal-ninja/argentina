@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Renault"
 url: /victoria/repuestos-renault/
-shop: Autoteile
+shop: piezas de automóviles
 ---

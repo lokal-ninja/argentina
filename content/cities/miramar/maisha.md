@@ -1,5 +1,5 @@
 ---
 title: "Maisha"
 url: /miramar/maisha/
-shop: Schuhe
+shop: zapatos
 ---

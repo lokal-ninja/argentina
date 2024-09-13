@@ -1,5 +1,5 @@
 ---
 title: "Bj Electrica Argentina"
 url: /pergamino/bj-electrica-argentina/
-shop: Elektrisch
+shop: eléctrico
 ---

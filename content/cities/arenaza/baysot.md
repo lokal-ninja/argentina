@@ -1,5 +1,5 @@
 ---
 title: "BaySot"
 url: /arenaza/baysot/
-shop: Supermarkt
+shop: supermercado
 ---

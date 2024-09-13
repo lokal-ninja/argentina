@@ -1,5 +1,5 @@
 ---
 title: "Springwall"
 url: /ciudad-autonoma-de-buenos-aires/springwall/
-shop: Betten
+shop: cama
 ---

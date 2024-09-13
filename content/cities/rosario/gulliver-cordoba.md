@@ -1,5 +1,5 @@
 ---
 title: "Gulliver"
 url: /rosario/gulliver-cordoba/
-shop: Spielzeug
+shop: juguetes
 ---

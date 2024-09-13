@@ -1,5 +1,5 @@
 ---
 title: "Honda Gargatagli"
 url: /santa-fe/honda-gargatagli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

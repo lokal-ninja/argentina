@@ -1,5 +1,5 @@
 ---
 title: "Musicmans"
 url: /la-plata/musicmans/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simet"
 url: /ciudad-autonoma-de-buenos-aires/simet/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /neuquen/toyota-eugenio-perticone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

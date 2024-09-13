@@ -1,5 +1,5 @@
 ---
 title: "Gráfica Palermo"
 url: /bahia-blanca/grafica-palermo/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "X-Trem Equipamiento"
 url: /neuquen/x-trem-equipamiento/
-shop: Autoteile
+shop: piezas de automóviles
 ---

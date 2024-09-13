@@ -1,5 +1,5 @@
 ---
 title: "Domingo Viajes"
 url: /corrientes/domingo-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

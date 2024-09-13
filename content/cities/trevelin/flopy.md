@@ -1,5 +1,5 @@
 ---
 title: "Flopy"
 url: /trevelin/flopy/
-shop: Kleidung
+shop: ropa
 ---

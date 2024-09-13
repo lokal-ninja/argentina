@@ -1,5 +1,5 @@
 ---
 title: "La Católica"
 url: /aldo-bonzi/la-catolica/
-shop: Allgemein
+shop: general
 ---

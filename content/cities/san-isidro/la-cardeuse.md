@@ -1,5 +1,5 @@
 ---
 title: "La Cardeuse"
 url: /san-isidro/la-cardeuse/
-shop: Betten
+shop: cama
 ---

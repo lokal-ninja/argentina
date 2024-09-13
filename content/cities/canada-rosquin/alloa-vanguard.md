@@ -1,5 +1,5 @@
 ---
 title: "Alloa Vanguard"
 url: /canada-rosquin/alloa-vanguard/
-shop: Lebensmittel
+shop: comodidad
 ---

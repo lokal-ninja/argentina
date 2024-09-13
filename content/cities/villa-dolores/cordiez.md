@@ -1,5 +1,5 @@
 ---
 title: "Cordiez"
 url: /villa-dolores/cordiez/
-shop: Supermarkt
+shop: supermercado
 ---

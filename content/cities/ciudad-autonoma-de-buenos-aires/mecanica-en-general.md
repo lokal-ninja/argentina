@@ -1,5 +1,5 @@
 ---
 title: "Mecánica en General"
 url: /ciudad-autonoma-de-buenos-aires/mecanica-en-general/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

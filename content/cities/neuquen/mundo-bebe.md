@@ -1,5 +1,5 @@
 ---
 title: "Mundo Bebé"
 url: /neuquen/mundo-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

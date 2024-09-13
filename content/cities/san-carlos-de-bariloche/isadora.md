@@ -1,5 +1,5 @@
 ---
 title: "Isadora"
 url: /san-carlos-de-bariloche/isadora/
-shop: Modehaus
+shop: tienda
 ---

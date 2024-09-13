@@ -1,5 +1,5 @@
 ---
 title: "Distryser"
 url: /neuquen/distryser/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouquet Garni - Sueltos alimenticios"
 url: /cordoba/bouquet-garni-sueltos-alimenticios/
-shop: Bioladen
+shop: alimentación sana
 ---

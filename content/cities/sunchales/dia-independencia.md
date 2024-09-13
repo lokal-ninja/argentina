@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /sunchales/dia-independencia/
-shop: Supermarkt
+shop: supermercado
 ---

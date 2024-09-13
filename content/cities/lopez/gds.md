@@ -1,5 +1,5 @@
 ---
 title: "GDS"
 url: /lopez/gds/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

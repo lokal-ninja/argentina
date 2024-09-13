@@ -1,5 +1,5 @@
 ---
 title: "Casa de Campo"
 url: /cipolletti/casa-de-campo/
-shop: Lebensmittel
+shop: comodidad
 ---

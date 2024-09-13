@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Olivos"
 url: /neuquen/distribuidora-olivos/
-shop: Schreibwaren
+shop: material de oficina
 ---

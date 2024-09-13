@@ -1,5 +1,5 @@
 ---
 title: "El Oriente"
 url: /campana/el-oriente/
-shop: Supermarkt
+shop: supermercado
 ---

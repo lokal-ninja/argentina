@@ -1,5 +1,5 @@
 ---
 title: "MetalSur Baterías"
 url: /neuquen/metalsur-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

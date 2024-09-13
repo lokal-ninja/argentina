@@ -1,5 +1,5 @@
 ---
 title: "Motomundo"
 url: /alvear/motomundo/
-shop: Allgemein
+shop: general
 ---

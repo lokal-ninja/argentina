@@ -1,5 +1,5 @@
 ---
 title: "Megamaq"
 url: /ciudad-autonoma-de-buenos-aires/megamaq/
-shop: Eisenwaren
+shop: hardware
 ---

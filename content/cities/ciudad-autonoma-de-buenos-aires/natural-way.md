@@ -1,5 +1,5 @@
 ---
 title: "Natural Way"
 url: /ciudad-autonoma-de-buenos-aires/natural-way/
-shop: Bioladen
+shop: alimentación sana
 ---

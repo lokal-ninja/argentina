@@ -1,5 +1,5 @@
 ---
 title: "TopoPcWeb"
 url: /ciudad-autonoma-de-buenos-aires/topopcweb/
-shop: Elektronik
+shop: electrónica
 ---

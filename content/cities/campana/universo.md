@@ -1,5 +1,5 @@
 ---
 title: "Universo"
 url: /campana/universo/
-shop: Milch
+shop: lácteos
 ---

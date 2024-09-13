@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /bahia-blanca/ypf-gas/
-shop: Gasflaschen
+shop: gas
 ---

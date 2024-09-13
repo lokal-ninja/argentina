@@ -1,5 +1,5 @@
 ---
 title: "Gold Cars"
 url: /obera/gold-cars/
-shop: Autohaus
+shop: coche
 ---

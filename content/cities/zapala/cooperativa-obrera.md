@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /zapala/cooperativa-obrera/
-shop: Supermarkt
+shop: supermercado
 ---

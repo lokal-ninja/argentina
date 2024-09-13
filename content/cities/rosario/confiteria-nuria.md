@@ -1,5 +1,5 @@
 ---
 title: "Confitería Nuria"
 url: /rosario/confiteria-nuria/
-shop: Bäckerei
+shop: panadería
 ---

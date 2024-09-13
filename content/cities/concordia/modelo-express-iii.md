@@ -1,5 +1,5 @@
 ---
 title: "Modelo Express III"
 url: /concordia/modelo-express-iii/
-shop: Supermarkt
+shop: supermercado
 ---

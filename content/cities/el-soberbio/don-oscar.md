@@ -1,5 +1,5 @@
 ---
 title: "Don Oscar"
 url: /el-soberbio/don-oscar/
-shop: Eisenwaren
+shop: hardware
 ---

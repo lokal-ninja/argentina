@@ -1,5 +1,5 @@
 ---
 title: "Remises Avenida"
 url: /moron/remises-avenida/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vivero Piracanta"
 url: /chos-malal/vivero-piracanta/
-shop: Garten-Center
+shop: centro de jardinería
 ---

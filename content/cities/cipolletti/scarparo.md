@@ -1,5 +1,5 @@
 ---
 title: "Scarparo"
 url: /cipolletti/scarparo/
-shop: Leder
+shop: cuero
 ---

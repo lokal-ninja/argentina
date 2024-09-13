@@ -1,5 +1,5 @@
 ---
 title: "Deco Chic"
 url: /bahia-blanca/deco-chic/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alma AutoServicio"
 url: /campana/alma-autoservicio/
-shop: Supermarkt
+shop: supermercado
 ---

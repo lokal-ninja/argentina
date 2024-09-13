@@ -1,5 +1,5 @@
 ---
 title: "Paolucci Marilin"
 url: /alcorta/paolucci-marilin/
-shop: Kleidung
+shop: ropa
 ---

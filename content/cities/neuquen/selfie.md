@@ -1,5 +1,5 @@
 ---
 title: "Selfie"
 url: /neuquen/selfie/
-shop: Handy
+shop: teléfono móvil
 ---

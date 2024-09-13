@@ -1,5 +1,5 @@
 ---
 title: "July"
 url: /trevelin/july/
-shop: Fahrrad
+shop: bicicleta
 ---

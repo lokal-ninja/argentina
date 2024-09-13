@@ -1,5 +1,5 @@
 ---
 title: "Aguilar"
 url: /altos-de-san-lorenzo/aguilar/
-shop: Eisenwaren
+shop: hardware
 ---

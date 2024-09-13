@@ -1,5 +1,5 @@
 ---
 title: "JRepuestos"
 url: /san-pedro/jrepuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

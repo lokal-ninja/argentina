@@ -1,5 +1,5 @@
 ---
 title: "SupleStore"
 url: /neuquen/suplestore/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

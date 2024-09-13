@@ -1,5 +1,5 @@
 ---
 title: "Empresa Wilcoms"
 url: /leandro-n-alem/empresa-wilcoms/
-shop: Bestattungen
+shop: directores de funerarias
 ---

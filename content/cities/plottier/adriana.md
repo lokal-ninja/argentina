@@ -1,5 +1,5 @@
 ---
 title: "Adriana"
 url: /plottier/adriana/
-shop: Schuhe
+shop: zapatos
 ---

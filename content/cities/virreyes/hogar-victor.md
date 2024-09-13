@@ -1,5 +1,5 @@
 ---
 title: "Hogar Victor"
 url: /virreyes/hogar-victor/
-shop: Allgemein
+shop: general
 ---

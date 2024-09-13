@@ -1,5 +1,5 @@
 ---
 title: "Yami Celulares"
 url: /colonia-alicia/yami-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

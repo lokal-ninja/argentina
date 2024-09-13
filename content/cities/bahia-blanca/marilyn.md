@@ -1,5 +1,5 @@
 ---
 title: "Marilyn"
 url: /bahia-blanca/marilyn/
-shop: Modehaus
+shop: tienda
 ---

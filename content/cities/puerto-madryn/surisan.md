@@ -1,5 +1,5 @@
 ---
 title: "Surisan"
 url: /puerto-madryn/surisan/
-shop: Autohaus
+shop: coche
 ---

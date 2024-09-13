@@ -1,5 +1,5 @@
 ---
 title: "Family"
 url: /azul/family-hipolito-yrigoyen/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "#MyPhone"
 url: /neuquen/myphone/
-shop: Handy
+shop: teléfono móvil
 ---

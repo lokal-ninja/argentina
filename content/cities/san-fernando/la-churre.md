@@ -1,5 +1,5 @@
 ---
 title: "La Churre"
 url: /san-fernando/la-churre/
-shop: Konditorei
+shop: pastelería
 ---

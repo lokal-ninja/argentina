@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /viedma/colorshop/
-shop: Farben
+shop: pintura
 ---

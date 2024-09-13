@@ -1,5 +1,5 @@
 ---
 title: "El Sol"
 url: /villa-salto-encantado/el-sol/
-shop: Lebensmittel
+shop: comodidad
 ---

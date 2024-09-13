@@ -1,5 +1,5 @@
 ---
 title: "Click Computacion"
 url: /campana/click-computacion/
-shop: Computer
+shop: ordenador
 ---

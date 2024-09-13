@@ -1,5 +1,5 @@
 ---
 title: "Flambo"
 url: /merlo/flambo/
-shop: Konditorei
+shop: pastelería
 ---

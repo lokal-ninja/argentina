@@ -1,5 +1,5 @@
 ---
 title: "BBR"
 url: /bahia-blanca/bbr/
-shop: Handy
+shop: teléfono móvil
 ---

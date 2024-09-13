@@ -1,5 +1,5 @@
 ---
 title: "UNO DRUGSTORE"
 url: /laborde/uno-drugstore/
-shop: Bücher
+shop: libros
 ---

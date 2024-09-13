@@ -1,5 +1,5 @@
 ---
 title: "Ciudad del Mueble"
 url: /santa-fe/ciudad-del-mueble/
-shop: Möbel
+shop: muebles
 ---

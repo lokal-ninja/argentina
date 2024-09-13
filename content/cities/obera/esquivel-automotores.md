@@ -1,5 +1,5 @@
 ---
 title: "Esquivel Automotores"
 url: /obera/esquivel-automotores/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imcofue"
 url: /rio-grande/imcofue-islas-malvinas/
-shop: Baustoffe
+shop: comercio
 ---

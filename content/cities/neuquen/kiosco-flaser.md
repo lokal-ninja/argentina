@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Flaser"
 url: /neuquen/kiosco-flaser/
-shop: Zeitungen
+shop: quiosco
 ---

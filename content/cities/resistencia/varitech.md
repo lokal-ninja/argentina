@@ -1,5 +1,5 @@
 ---
 title: "Varitech"
 url: /resistencia/varitech/
-shop: Computer
+shop: ordenador
 ---

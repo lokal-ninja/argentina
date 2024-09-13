@@ -1,5 +1,5 @@
 ---
 title: "Automotores Prestigie"
 url: /san-justo/automotores-prestigie/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

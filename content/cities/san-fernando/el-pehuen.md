@@ -1,5 +1,5 @@
 ---
 title: "El Pehuen"
 url: /san-fernando/el-pehuen/
-shop: Baustoffe
+shop: comercio
 ---

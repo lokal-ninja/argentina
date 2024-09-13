@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /parana/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

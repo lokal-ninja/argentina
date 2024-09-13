@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Norte"
 url: /gualeguaychu/autoservicio-norte/
-shop: Lebensmittel
+shop: comodidad
 ---

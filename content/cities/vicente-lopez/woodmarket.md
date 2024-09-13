@@ -1,5 +1,5 @@
 ---
 title: "Woodmarket"
 url: /vicente-lopez/woodmarket/
-shop: Möbel
+shop: muebles
 ---

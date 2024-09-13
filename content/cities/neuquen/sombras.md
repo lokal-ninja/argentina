@@ -1,5 +1,5 @@
 ---
 title: "Sombras"
 url: /neuquen/sombras/
-shop: Kleidung
+shop: ropa
 ---

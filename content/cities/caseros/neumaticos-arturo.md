@@ -1,5 +1,5 @@
 ---
 title: "Neumaticos Arturo"
 url: /caseros/neumaticos-arturo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

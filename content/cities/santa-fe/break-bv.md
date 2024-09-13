@@ -1,5 +1,5 @@
 ---
 title: "Break Bv."
 url: /santa-fe/break-bv/
-shop: Lebensmittel
+shop: comodidad
 ---

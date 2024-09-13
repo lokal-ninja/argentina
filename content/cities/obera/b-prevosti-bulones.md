@@ -1,5 +1,5 @@
 ---
 title: "B Prevosti Bulones"
 url: /obera/b-prevosti-bulones/
-shop: Eisenwaren
+shop: hardware
 ---

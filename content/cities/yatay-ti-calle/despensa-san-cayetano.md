@@ -1,5 +1,5 @@
 ---
 title: "Despensa San Cayetano"
 url: /yatay-ti-calle/despensa-san-cayetano/
-shop: Lebensmittel
+shop: comodidad
 ---

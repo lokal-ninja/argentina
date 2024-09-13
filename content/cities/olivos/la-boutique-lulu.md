@@ -1,5 +1,5 @@
 ---
 title: "La Boutique Lulu"
 url: /olivos/la-boutique-lulu/
-shop: Kleidung
+shop: ropa
 ---

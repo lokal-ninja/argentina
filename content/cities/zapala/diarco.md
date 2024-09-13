@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /zapala/diarco/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acquam"
 url: /viedma/acquam/
-shop: Pool
+shop: piscina
 ---

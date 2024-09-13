@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /san-fernando/colorshop/
-shop: Farben
+shop: pintura
 ---

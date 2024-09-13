@@ -1,5 +1,5 @@
 ---
 title: "Heberle"
 url: /capiovi/heberle/
-shop: Haushaltsgeräte
+shop: aparato
 ---

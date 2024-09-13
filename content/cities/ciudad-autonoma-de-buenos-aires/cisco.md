@@ -1,5 +1,5 @@
 ---
 title: "Cisco"
 url: /ciudad-autonoma-de-buenos-aires/cisco/
-shop: Allgemein
+shop: general
 ---

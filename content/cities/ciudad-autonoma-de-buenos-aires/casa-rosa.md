@@ -1,5 +1,5 @@
 ---
 title: "Casa Rosa"
 url: /ciudad-autonoma-de-buenos-aires/casa-rosa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

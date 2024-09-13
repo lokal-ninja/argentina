@@ -1,5 +1,5 @@
 ---
 title: "Boketto"
 url: /neuquen/boketto/
-shop: Lebensmittel
+shop: comodidad
 ---

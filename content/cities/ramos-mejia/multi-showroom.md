@@ -1,5 +1,5 @@
 ---
 title: "Multi Showroom"
 url: /ramos-mejia/multi-showroom/
-shop: Möbel
+shop: muebles
 ---

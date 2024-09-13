@@ -1,5 +1,5 @@
 ---
 title: "A Brillar!"
 url: /neuquen/a-brillar/
-shop: Modehaus
+shop: tienda
 ---

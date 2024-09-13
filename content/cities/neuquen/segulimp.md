@@ -1,5 +1,5 @@
 ---
 title: "Segulimp"
 url: /neuquen/segulimp/
-shop: Drogerie
+shop: farmacia
 ---

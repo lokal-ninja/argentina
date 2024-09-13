@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /tandil/ypf-gas/
-shop: Gasflaschen
+shop: gas
 ---

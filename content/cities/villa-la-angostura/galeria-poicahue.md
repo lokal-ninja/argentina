@@ -1,5 +1,5 @@
 ---
 title: "Galería Poicahue"
 url: /villa-la-angostura/galeria-poicahue/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

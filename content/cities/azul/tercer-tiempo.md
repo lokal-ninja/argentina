@@ -1,5 +1,5 @@
 ---
 title: "Tercer Tiempo"
 url: /azul/tercer-tiempo/
-shop: Sport
+shop: deportes
 ---

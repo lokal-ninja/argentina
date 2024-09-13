@@ -1,5 +1,5 @@
 ---
 title: "Altamar"
 url: /bernal/altamar/
-shop: Fisch
+shop: marisco
 ---

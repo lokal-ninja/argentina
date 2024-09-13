@@ -1,5 +1,5 @@
 ---
 title: "Panambí Muebles"
 url: /san-vicente/panambi-muebles/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /trelew/diarco/
-shop: Supermarkt
+shop: supermercado
 ---

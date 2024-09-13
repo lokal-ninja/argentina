@@ -1,5 +1,5 @@
 ---
 title: "Om"
 url: /san-carlos-de-bariloche/om/
-shop: Garten-Center
+shop: centro de jardinería
 ---

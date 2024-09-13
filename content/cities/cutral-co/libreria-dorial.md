@@ -1,5 +1,5 @@
 ---
 title: "Librería Dorial"
 url: /cutral-co/libreria-dorial/
-shop: Schreibwaren
+shop: material de oficina
 ---

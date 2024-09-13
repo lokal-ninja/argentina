@@ -1,5 +1,5 @@
 ---
 title: "Mecánica MG"
 url: /martinez/mecanica-mg/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

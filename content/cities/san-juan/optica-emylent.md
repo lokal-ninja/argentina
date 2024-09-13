@@ -1,5 +1,5 @@
 ---
 title: "Óptica Emylent"
 url: /san-juan/optica-emylent/
-shop: Optiker
+shop: óptico
 ---

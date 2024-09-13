@@ -1,5 +1,5 @@
 ---
 title: "Onda"
 url: /arroyito/onda/
-shop: Kleidung
+shop: ropa
 ---

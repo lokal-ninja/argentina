@@ -1,5 +1,5 @@
 ---
 title: "Moreno Moto"
 url: /charata/moreno-moto/
-shop: Motorrad
+shop: motocicleta
 ---

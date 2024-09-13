@@ -1,5 +1,5 @@
 ---
 title: "DecorHouse"
 url: /cipolletti/decorhouse/
-shop: Raumausstattung
+shop: decoración interior
 ---

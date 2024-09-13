@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Esperanza"
 url: /villa-lynch/supermercado-esperanza/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos La Esmeralda"
 url: /concordia/neumaticos-la-esmeralda/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arlequín"
 url: /humberto-primo/arlequin/
-shop: Babysachen
+shop: artículos para bebés
 ---

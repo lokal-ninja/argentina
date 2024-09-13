@@ -1,5 +1,5 @@
 ---
 title: "Drugstore Macarena"
 url: /neuquen/drugstore-macarena/
-shop: Kiosk
+shop: quiosco
 ---

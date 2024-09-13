@@ -1,5 +1,5 @@
 ---
 title: "Kruz"
 url: /bahia-blanca/kruz/
-shop: Kleidung
+shop: ropa
 ---

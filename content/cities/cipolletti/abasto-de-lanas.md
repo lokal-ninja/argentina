@@ -1,5 +1,5 @@
 ---
 title: "Abasto de Lanas"
 url: /cipolletti/abasto-de-lanas/
-shop: Textil
+shop: tela
 ---

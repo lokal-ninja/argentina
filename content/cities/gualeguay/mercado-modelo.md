@@ -1,5 +1,5 @@
 ---
 title: "Mercado Modelo"
 url: /gualeguay/mercado-modelo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

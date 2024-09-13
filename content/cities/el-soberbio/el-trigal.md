@@ -1,5 +1,5 @@
 ---
 title: "El Trigal"
 url: /el-soberbio/el-trigal/
-shop: Bäckerei
+shop: panadería
 ---

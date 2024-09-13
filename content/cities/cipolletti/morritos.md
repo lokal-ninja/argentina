@@ -1,5 +1,5 @@
 ---
 title: "Morritos"
 url: /cipolletti/morritos/
-shop: Tiere
+shop: mascotas
 ---

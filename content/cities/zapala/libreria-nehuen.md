@@ -1,5 +1,5 @@
 ---
 title: "Librería Nehuen"
 url: /zapala/libreria-nehuen/
-shop: Schreibwaren
+shop: material de oficina
 ---

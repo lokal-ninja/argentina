@@ -1,5 +1,5 @@
 ---
 title: "Agencia Mattana"
 url: /adelia-maria/agencia-mattana/
-shop: Lotterie
+shop: lotería
 ---

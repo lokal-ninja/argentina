@@ -1,5 +1,5 @@
 ---
 title: "Kilometro Uno Viajes"
 url: /caba/kilometro-uno-viajes/
-shop: Tickets
+shop: entradas
 ---

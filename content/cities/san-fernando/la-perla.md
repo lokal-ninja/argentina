@@ -1,5 +1,5 @@
 ---
 title: "La Perla"
 url: /san-fernando/la-perla/
-shop: Lebensmittel
+shop: comodidad
 ---

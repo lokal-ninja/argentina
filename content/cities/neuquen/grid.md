@@ -1,5 +1,5 @@
 ---
 title: "GRID"
 url: /neuquen/grid/
-shop: Kleidung
+shop: ropa
 ---

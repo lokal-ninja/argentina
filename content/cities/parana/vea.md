@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /parana/vea/
-shop: Supermarkt
+shop: supermercado
 ---

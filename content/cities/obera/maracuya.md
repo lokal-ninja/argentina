@@ -1,5 +1,5 @@
 ---
 title: "Maracuyá"
 url: /obera/maracuya/
-shop: Allgemein
+shop: general
 ---

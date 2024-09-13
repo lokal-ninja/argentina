@@ -1,5 +1,5 @@
 ---
 title: "Gomería Jorge"
 url: /cipolletti/gomeria-jorge/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

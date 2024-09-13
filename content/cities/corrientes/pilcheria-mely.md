@@ -1,5 +1,5 @@
 ---
 title: "Pilchería Mely"
 url: /corrientes/pilcheria-mely/
-shop: Kleidung
+shop: ropa
 ---

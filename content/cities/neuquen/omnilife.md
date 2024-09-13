@@ -1,5 +1,5 @@
 ---
 title: "Omnilife"
 url: /neuquen/omnilife/
-shop: Kosmetik
+shop: cosméticos
 ---

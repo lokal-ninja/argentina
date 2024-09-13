@@ -1,5 +1,5 @@
 ---
 title: "Truck Center"
 url: /san-vicente/truck-center/
-shop: Reifen
+shop: neumáticos
 ---

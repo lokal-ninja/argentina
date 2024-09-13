@@ -1,5 +1,5 @@
 ---
 title: "Galileo"
 url: /plottier/galileo/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trapitos"
 url: /cutral-co/trapitos/
-shop: Kramladen
+shop: tienda de variedades
 ---

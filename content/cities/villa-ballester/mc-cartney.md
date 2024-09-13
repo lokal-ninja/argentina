@@ -1,5 +1,5 @@
 ---
 title: "Mc Cartney"
 url: /villa-ballester/mc-cartney/
-shop: Kleidung
+shop: ropa
 ---

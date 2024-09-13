@@ -1,5 +1,5 @@
 ---
 title: "Distryser"
 url: /cipolletti/distryser/
-shop: Autoteile
+shop: piezas de automóviles
 ---

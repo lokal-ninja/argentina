@@ -1,5 +1,5 @@
 ---
 title: "La Jabonería"
 url: /san-antonio-de-padua/la-jaboneria/
-shop: Allgemein
+shop: general
 ---

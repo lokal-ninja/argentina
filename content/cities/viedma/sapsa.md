@@ -1,5 +1,5 @@
 ---
 title: "SAPSA"
 url: /viedma/sapsa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

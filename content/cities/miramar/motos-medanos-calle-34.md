@@ -1,5 +1,5 @@
 ---
 title: "Motos Medanos"
 url: /miramar/motos-medanos-calle-34/
-shop: Motorrad
+shop: motocicleta
 ---

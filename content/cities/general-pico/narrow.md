@@ -1,5 +1,5 @@
 ---
 title: "Narrow"
 url: /general-pico/narrow/
-shop: Kleidung
+shop: ropa
 ---

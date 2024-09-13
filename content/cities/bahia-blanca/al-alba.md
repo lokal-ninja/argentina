@@ -1,5 +1,5 @@
 ---
 title: "Al Alba"
 url: /bahia-blanca/al-alba/
-shop: Kleidung
+shop: ropa
 ---

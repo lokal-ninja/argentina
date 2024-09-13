@@ -1,5 +1,5 @@
 ---
 title: "Rex"
 url: /neuquen/rex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

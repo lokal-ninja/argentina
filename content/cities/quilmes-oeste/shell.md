@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /quilmes-oeste/shell/
-shop: Autoteile
+shop: piezas de automóviles
 ---

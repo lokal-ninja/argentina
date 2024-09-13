@@ -1,5 +1,5 @@
 ---
 title: "Librería Craf"
 url: /viedma/libreria-craf/
-shop: Schreibwaren
+shop: material de oficina
 ---

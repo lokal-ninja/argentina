@@ -1,5 +1,5 @@
 ---
 title: "Mer Truck"
 url: /ciudad-autonoma-de-buenos-aires/mer-truck/
-shop: Autoteile
+shop: piezas de automóviles
 ---

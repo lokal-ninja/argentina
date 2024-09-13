@@ -1,5 +1,5 @@
 ---
 title: "Cochería Itatí"
 url: /etruria/cocheria-itati/
-shop: Bestattungen
+shop: directores de funerarias
 ---

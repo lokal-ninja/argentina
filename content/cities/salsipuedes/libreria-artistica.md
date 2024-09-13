@@ -1,5 +1,5 @@
 ---
 title: "Librería Artística"
 url: /salsipuedes/libreria-artistica/
-shop: Schreibwaren
+shop: material de oficina
 ---

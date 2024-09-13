@@ -1,5 +1,5 @@
 ---
 title: "Gif"
 url: /rufino/gif/
-shop: Handy
+shop: teléfono móvil
 ---

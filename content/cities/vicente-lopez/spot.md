@@ -1,5 +1,5 @@
 ---
 title: "Spot"
 url: /vicente-lopez/spot/
-shop: Lebensmittel
+shop: comodidad
 ---

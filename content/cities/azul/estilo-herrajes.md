@@ -1,5 +1,5 @@
 ---
 title: "Estilo Herrajes"
 url: /azul/estilo-herrajes/
-shop: Baustoffe
+shop: comercio
 ---

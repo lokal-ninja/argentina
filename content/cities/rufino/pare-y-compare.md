@@ -1,5 +1,5 @@
 ---
 title: "Pare y Compare"
 url: /rufino/pare-y-compare/
-shop: Spielzeug
+shop: juguetes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MIl Flores"
 url: /merlo/mil-flores/
-shop: Blumen
+shop: floristería
 ---

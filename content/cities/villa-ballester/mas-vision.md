@@ -1,5 +1,5 @@
 ---
 title: "Más Visión"
 url: /villa-ballester/mas-vision/
-shop: Optiker
+shop: óptico
 ---

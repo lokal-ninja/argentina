@@ -1,5 +1,5 @@
 ---
 title: "Aramayo"
 url: /frias/aramayo/
-shop: Eisenwaren
+shop: hardware
 ---

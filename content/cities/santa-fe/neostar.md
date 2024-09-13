@@ -1,5 +1,5 @@
 ---
 title: "Neostar"
 url: /santa-fe/neostar/
-shop: Autohaus
+shop: coche
 ---

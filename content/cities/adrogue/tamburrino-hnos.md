@@ -1,5 +1,5 @@
 ---
 title: "Tamburrino Hnos."
 url: /adrogue/tamburrino-hnos/
-shop: Motorrad
+shop: motocicleta
 ---

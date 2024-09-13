@@ -1,5 +1,5 @@
 ---
 title: "Voltage"
 url: /ciudad-autonoma-de-buenos-aires/voltage/
-shop: Kleidung
+shop: general
 ---

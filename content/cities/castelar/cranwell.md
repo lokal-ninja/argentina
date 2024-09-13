@@ -1,5 +1,5 @@
 ---
 title: "Cranwell"
 url: /castelar/cranwell/
-shop: Schreibwaren
+shop: material de oficina
 ---

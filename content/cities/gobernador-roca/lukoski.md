@@ -1,5 +1,5 @@
 ---
 title: "Lukoski"
 url: /gobernador-roca/lukoski/
-shop: Supermarkt
+shop: supermercado
 ---

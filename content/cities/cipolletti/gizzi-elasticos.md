@@ -1,5 +1,5 @@
 ---
 title: "Gizzi Elásticos"
 url: /cipolletti/gizzi-elasticos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

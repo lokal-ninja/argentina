@@ -1,5 +1,5 @@
 ---
 title: "Redes"
 url: /rio-tercero/redes/
-shop: Eisenwaren
+shop: hardware
 ---

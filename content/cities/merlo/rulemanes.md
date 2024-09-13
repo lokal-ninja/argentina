@@ -1,5 +1,5 @@
 ---
 title: "Rulemanes"
 url: /merlo/rulemanes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

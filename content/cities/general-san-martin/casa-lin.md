@@ -1,5 +1,5 @@
 ---
 title: "Casa Lin"
 url: /general-san-martin/casa-lin/
-shop: Kramladen
+shop: tienda de variedades
 ---

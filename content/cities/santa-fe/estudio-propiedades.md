@@ -1,5 +1,5 @@
 ---
 title: "Estudio Propiedades"
 url: /santa-fe/estudio-propiedades/
-shop: Reisebüro
+shop: agencia de viajes
 ---

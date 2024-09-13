@@ -1,5 +1,5 @@
 ---
 title: "Rumelange"
 url: /ciudad-autonoma-de-buenos-aires/rumelange/
-shop: Allgemein
+shop: general
 ---

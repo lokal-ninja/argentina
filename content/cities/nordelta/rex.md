@@ -1,5 +1,5 @@
 ---
 title: "Rex"
 url: /nordelta/rex/
-shop: Farben
+shop: pintura
 ---

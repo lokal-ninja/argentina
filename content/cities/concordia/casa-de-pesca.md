@@ -1,5 +1,5 @@
 ---
 title: "Casa de Pesca"
 url: /concordia/casa-de-pesca/
-shop: Angeln
+shop: pesca
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Naranjos"
 url: /mendoza/libreria-naranjos/
-shop: Schreibwaren
+shop: material de oficina
 ---

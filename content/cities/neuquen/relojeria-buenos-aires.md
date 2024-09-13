@@ -1,5 +1,5 @@
 ---
 title: "Relojería Buenos Aires"
 url: /neuquen/relojeria-buenos-aires/
-shop: Schmuck
+shop: joyería
 ---

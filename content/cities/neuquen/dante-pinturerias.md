@@ -1,5 +1,5 @@
 ---
 title: "Dante Pinturerías"
 url: /neuquen/dante-pinturerias/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meier"
 url: /llavallol/meier/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

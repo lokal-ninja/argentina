@@ -1,5 +1,5 @@
 ---
 title: "Tiendacel"
 url: /neuquen/tiendacel/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacoba"
 url: /neuquen/jacoba/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escapes Fernández"
 url: /cordoba/escapes-fernandez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

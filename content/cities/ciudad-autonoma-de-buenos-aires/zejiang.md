@@ -1,5 +1,5 @@
 ---
 title: "Zejiang"
 url: /ciudad-autonoma-de-buenos-aires/zejiang/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /san-andres/husky/
-shop: Tiere
+shop: mascotas
 ---

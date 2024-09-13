@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Federal"
 url: /apostoles/distribuidora-federal/
-shop: Supermarkt
+shop: supermercado
 ---

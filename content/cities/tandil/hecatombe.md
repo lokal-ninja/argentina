@@ -1,5 +1,5 @@
 ---
 title: "Hecatombe"
 url: /tandil/hecatombe/
-shop: Kiosk
+shop: quiosco
 ---

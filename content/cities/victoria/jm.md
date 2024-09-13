@@ -1,5 +1,5 @@
 ---
 title: "JM"
 url: /victoria/jm/
-shop: Schreibwaren
+shop: material de oficina
 ---

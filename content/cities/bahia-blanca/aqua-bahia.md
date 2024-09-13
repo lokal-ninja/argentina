@@ -1,5 +1,5 @@
 ---
 title: "Aqua Bahia"
 url: /bahia-blanca/aqua-bahia/
-shop: Tiere
+shop: mascotas
 ---

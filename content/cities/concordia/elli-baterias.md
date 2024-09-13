@@ -1,5 +1,5 @@
 ---
 title: "ELLI Baterías"
 url: /concordia/elli-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

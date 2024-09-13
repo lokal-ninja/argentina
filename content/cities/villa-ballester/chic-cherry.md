@@ -1,5 +1,5 @@
 ---
 title: "Chic Cherry"
 url: /villa-ballester/chic-cherry/
-shop: Kleidung
+shop: ropa
 ---

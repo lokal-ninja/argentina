@@ -1,5 +1,5 @@
 ---
 title: "Abel"
 url: /viedma/abel/
-shop: Schreibwaren
+shop: material de oficina
 ---

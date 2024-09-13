@@ -1,5 +1,5 @@
 ---
 title: "Bazar Segen"
 url: /viedma/bazar-segen/
-shop: Allgemein
+shop: general
 ---

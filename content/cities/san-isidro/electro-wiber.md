@@ -1,5 +1,5 @@
 ---
 title: "Electro Wiber"
 url: /san-isidro/electro-wiber/
-shop: Elektrisch
+shop: eléctrico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kompucel"
 url: /cipolletti/kompucel/
-shop: Computer
+shop: ordenador
 ---

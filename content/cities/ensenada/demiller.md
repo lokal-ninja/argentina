@@ -1,5 +1,5 @@
 ---
 title: "Demiller"
 url: /ensenada/demiller/
-shop: Fahrrad
+shop: bicicleta
 ---

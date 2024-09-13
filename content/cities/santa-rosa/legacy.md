@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /santa-rosa/legacy/
-shop: Kleidung
+shop: ropa
 ---

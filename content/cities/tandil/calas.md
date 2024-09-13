@@ -1,5 +1,5 @@
 ---
 title: "Calas"
 url: /tandil/calas/
-shop: Kleidung
+shop: ropa
 ---

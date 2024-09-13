@@ -1,5 +1,5 @@
 ---
 title: "ADELECTRIC"
 url: /victoria/adelectric/
-shop: Elektrisch
+shop: eléctrico
 ---

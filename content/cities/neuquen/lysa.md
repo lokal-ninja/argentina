@@ -1,5 +1,5 @@
 ---
 title: "Lysa"
 url: /neuquen/lysa/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orgánico y Natural"
 url: /santa-fe/organico-y-natural/
-shop: Hofladen
+shop: granja
 ---

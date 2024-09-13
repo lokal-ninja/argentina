@@ -1,5 +1,5 @@
 ---
 title: "Campo grande"
 url: /rosario/campo-grande/
-shop: Metzgerei
+shop: carnicero
 ---

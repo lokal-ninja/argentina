@@ -1,5 +1,5 @@
 ---
 title: "Regalarte"
 url: /villa-elisa/regalarte/
-shop: Kramladen
+shop: tienda de variedades
 ---

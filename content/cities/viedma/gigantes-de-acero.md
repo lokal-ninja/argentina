@@ -1,5 +1,5 @@
 ---
 title: "Gigantes de Acero"
 url: /viedma/gigantes-de-acero/
-shop: Videothek
+shop: vídeo
 ---

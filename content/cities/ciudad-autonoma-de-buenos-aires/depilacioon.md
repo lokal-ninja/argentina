@@ -1,5 +1,5 @@
 ---
 title: "Depilacioón"
 url: /ciudad-autonoma-de-buenos-aires/depilacioon/
-shop: Kosmetik
+shop: cosméticos
 ---

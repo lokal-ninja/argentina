@@ -1,5 +1,5 @@
 ---
 title: "Papelera"
 url: /ciudad-autonoma-de-buenos-aires/papelera-tabare/
-shop: Schreibwaren
+shop: material de oficina
 ---

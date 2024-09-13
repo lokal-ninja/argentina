@@ -1,5 +1,5 @@
 ---
 title: "Paseo Toschi"
 url: /cipolletti/paseo-toschi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

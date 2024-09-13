@@ -1,5 +1,5 @@
 ---
 title: "Zinguería ZB"
 url: /ciudad-autonoma-de-buenos-aires/zingueria-zb/
-shop: Baustoffe
+shop: comercio
 ---

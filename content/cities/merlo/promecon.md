@@ -1,5 +1,5 @@
 ---
 title: "Promecon"
 url: /merlo/promecon/
-shop: Eisenwaren
+shop: hardware
 ---

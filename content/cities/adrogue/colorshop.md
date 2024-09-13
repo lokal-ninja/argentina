@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /adrogue/colorshop/
-shop: Allgemein
+shop: general
 ---

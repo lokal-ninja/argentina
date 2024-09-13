@@ -1,5 +1,5 @@
 ---
 title: "Seven"
 url: /villa-martelli/seven/
-shop: Supermarkt
+shop: supermercado
 ---

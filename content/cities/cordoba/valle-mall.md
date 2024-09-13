@@ -1,5 +1,5 @@
 ---
 title: "Valle Mall"
 url: /cordoba/valle-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

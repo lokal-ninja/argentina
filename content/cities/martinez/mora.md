@@ -1,5 +1,5 @@
 ---
 title: "Mora"
 url: /martinez/mora/
-shop: Kosmetik
+shop: cosméticos
 ---

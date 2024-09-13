@@ -1,5 +1,5 @@
 ---
 title: "Santa Lucia"
 url: /san-vicente/santa-lucia/
-shop: Eisenwaren
+shop: hardware
 ---

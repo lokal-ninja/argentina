@@ -1,5 +1,5 @@
 ---
 title: "Ariel Lubricentro"
 url: /corrientes/ariel-lubricentro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

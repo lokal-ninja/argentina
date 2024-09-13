@@ -1,5 +1,5 @@
 ---
 title: "Ferniplast"
 url: /cordoba/ferniplast-avenida-fuerza-aerea/
-shop: Allgemein
+shop: general
 ---

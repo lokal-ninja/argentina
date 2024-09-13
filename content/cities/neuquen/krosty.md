@@ -1,5 +1,5 @@
 ---
 title: "Krosty"
 url: /neuquen/krosty/
-shop: Schuhe
+shop: zapatos
 ---

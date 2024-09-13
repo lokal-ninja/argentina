@@ -1,5 +1,5 @@
 ---
 title: "Esquina Canela"
 url: /victoria/esquina-canela/
-shop: Tee
+shop: té
 ---

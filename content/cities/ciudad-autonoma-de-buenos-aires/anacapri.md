@@ -1,5 +1,5 @@
 ---
 title: "Anacapri"
 url: /ciudad-autonoma-de-buenos-aires/anacapri/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

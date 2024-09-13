@@ -1,5 +1,5 @@
 ---
 title: "Librería Viu Viu"
 url: /salsipuedes/libreria-viu-viu/
-shop: Schreibwaren
+shop: material de oficina
 ---

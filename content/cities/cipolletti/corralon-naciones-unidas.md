@@ -1,5 +1,5 @@
 ---
 title: "Corralón Naciones Unidas"
 url: /cipolletti/corralon-naciones-unidas/
-shop: Baustoffe
+shop: comercio
 ---

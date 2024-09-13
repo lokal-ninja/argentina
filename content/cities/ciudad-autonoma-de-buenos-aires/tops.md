@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /ciudad-autonoma-de-buenos-aires/tops/
-shop: Schuhe
+shop: zapatos
 ---

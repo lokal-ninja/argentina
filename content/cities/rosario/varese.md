@@ -1,5 +1,5 @@
 ---
 title: "Varese"
 url: /rosario/varese/
-shop: Schuhe
+shop: zapatos
 ---

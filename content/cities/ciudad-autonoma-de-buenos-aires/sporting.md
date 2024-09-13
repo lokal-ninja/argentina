@@ -1,5 +1,5 @@
 ---
 title: "Sporting"
 url: /ciudad-autonoma-de-buenos-aires/sporting/
-shop: Sport
+shop: deportes
 ---

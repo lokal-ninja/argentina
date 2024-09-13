@@ -1,5 +1,5 @@
 ---
 title: "Villa"
 url: /margarita-belen/villa/
-shop: Kiosk
+shop: quiosco
 ---

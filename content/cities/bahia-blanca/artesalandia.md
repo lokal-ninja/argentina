@@ -1,5 +1,5 @@
 ---
 title: "Artesalandia"
 url: /bahia-blanca/artesalandia/
-shop: Basteln
+shop: artesanía
 ---

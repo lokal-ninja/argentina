@@ -1,5 +1,5 @@
 ---
 title: "Celulares Sarratea"
 url: /jose-leon-suarez/celulares-sarratea/
-shop: Handy
+shop: teléfono móvil
 ---

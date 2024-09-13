@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /neuquen/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Juancito"
 url: /rosario/ferreteria-juancito/
-shop: Eisenwaren
+shop: hardware
 ---

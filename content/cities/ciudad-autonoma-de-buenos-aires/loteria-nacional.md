@@ -1,5 +1,5 @@
 ---
 title: "Loteria Nacional"
 url: /ciudad-autonoma-de-buenos-aires/loteria-nacional/
-shop: Lotterie
+shop: lotería
 ---

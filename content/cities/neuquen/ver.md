@@ -1,5 +1,5 @@
 ---
 title: "VER"
 url: /neuquen/ver/
-shop: Kleidung
+shop: ropa
 ---

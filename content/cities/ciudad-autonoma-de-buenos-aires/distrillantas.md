@@ -1,5 +1,5 @@
 ---
 title: "Distrillantas"
 url: /ciudad-autonoma-de-buenos-aires/distrillantas/
-shop: Reifen
+shop: neumáticos
 ---

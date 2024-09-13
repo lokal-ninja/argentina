@@ -1,5 +1,5 @@
 ---
 title: "Vitalcer"
 url: /general-san-martin/vitalcer/
-shop: Bioladen
+shop: alimentación sana
 ---

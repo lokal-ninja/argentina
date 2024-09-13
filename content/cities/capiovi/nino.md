@@ -1,5 +1,5 @@
 ---
 title: "Nino"
 url: /capiovi/nino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

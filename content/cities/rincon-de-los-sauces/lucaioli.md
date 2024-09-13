@@ -1,5 +1,5 @@
 ---
 title: "Lucaioli"
 url: /rincon-de-los-sauces/lucaioli/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

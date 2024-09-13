@@ -1,5 +1,5 @@
 ---
 title: "Forrajería Mikuy"
 url: /santiago-del-estero/forrajeria-mikuy/
-shop: Tiere
+shop: mascotas
 ---

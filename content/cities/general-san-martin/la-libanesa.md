@@ -1,5 +1,5 @@
 ---
 title: "La Libanesa"
 url: /general-san-martin/la-libanesa/
-shop: Kleidung
+shop: ropa
 ---

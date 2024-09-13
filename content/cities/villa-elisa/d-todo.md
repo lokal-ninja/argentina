@@ -1,5 +1,5 @@
 ---
 title: "D Todo"
 url: /villa-elisa/d-todo/
-shop: Kramladen
+shop: tienda de variedades
 ---

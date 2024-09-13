@@ -1,5 +1,5 @@
 ---
 title: "Megatone"
 url: /rosario/megatone/
-shop: Elektronik
+shop: electrónica
 ---

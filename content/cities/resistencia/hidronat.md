@@ -1,5 +1,5 @@
 ---
 title: "Hidronat"
 url: /resistencia/hidronat/
-shop: Pool
+shop: piscina
 ---

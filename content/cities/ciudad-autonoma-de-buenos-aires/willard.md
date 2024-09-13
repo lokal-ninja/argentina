@@ -1,5 +1,5 @@
 ---
 title: "Willard"
 url: /ciudad-autonoma-de-buenos-aires/willard/
-shop: Autoteile
+shop: piezas de automóviles
 ---

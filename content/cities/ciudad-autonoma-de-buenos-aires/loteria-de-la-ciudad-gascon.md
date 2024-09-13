@@ -1,5 +1,5 @@
 ---
 title: "Lotería de la Ciudad"
 url: /ciudad-autonoma-de-buenos-aires/loteria-de-la-ciudad-gascon/
-shop: Lotterie
+shop: lotería
 ---

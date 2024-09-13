@@ -1,5 +1,5 @@
 ---
 title: "La Tradicional Carnicería"
 url: /santa-lucia/la-tradicional-carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

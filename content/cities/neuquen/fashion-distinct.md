@@ -1,5 +1,5 @@
 ---
 title: "Fashion Distinct"
 url: /neuquen/fashion-distinct/
-shop: Kleidung
+shop: ropa
 ---

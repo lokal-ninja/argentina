@@ -1,5 +1,5 @@
 ---
 title: "Matafuegos Firesur"
 url: /cipolletti/matafuegos-firesur/
-shop: Allgemein
+shop: general
 ---

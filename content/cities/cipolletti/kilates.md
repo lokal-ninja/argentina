@@ -1,5 +1,5 @@
 ---
 title: "Kilates"
 url: /cipolletti/kilates/
-shop: Schmuck
+shop: joyería
 ---

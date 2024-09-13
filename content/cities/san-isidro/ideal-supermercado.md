@@ -1,5 +1,5 @@
 ---
 title: "Ideal Supermercado"
 url: /san-isidro/ideal-supermercado/
-shop: Supermarkt
+shop: supermercado
 ---

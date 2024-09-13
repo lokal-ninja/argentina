@@ -1,5 +1,5 @@
 ---
 title: "Flynet SRL"
 url: /el-soberbio/flynet-srl/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colón"
 url: /neuquen/colon/
-shop: Supermarkt
+shop: supermercado
 ---

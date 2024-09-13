@@ -1,5 +1,5 @@
 ---
 title: "Coppel"
 url: /temperley/coppel/
-shop: Elektronik
+shop: electrónica
 ---

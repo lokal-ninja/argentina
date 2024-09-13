@@ -1,5 +1,5 @@
 ---
 title: "Lueva"
 url: /ciudad-autonoma-de-buenos-aires/lueva/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ChangoMas"
 url: /san-fernando-del-valle-de-catamarca/changomas/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cubica"
 url: /ciudad-autonoma-de-buenos-aires/cubica/
-shop: Möbel
+shop: muebles
 ---

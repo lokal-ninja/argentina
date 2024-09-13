@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /rufino/personal/
-shop: Handy
+shop: teléfono móvil
 ---

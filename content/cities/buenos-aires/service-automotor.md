@@ -1,5 +1,5 @@
 ---
 title: "Service Automotor"
 url: /buenos-aires/service-automotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

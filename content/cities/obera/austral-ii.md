@@ -1,5 +1,5 @@
 ---
 title: "Austral II"
 url: /obera/austral-ii/
-shop: Supermarkt
+shop: supermercado
 ---

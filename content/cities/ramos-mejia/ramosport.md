@@ -1,5 +1,5 @@
 ---
 title: "Ramosport"
 url: /ramos-mejia/ramosport/
-shop: Lebensmittel
+shop: comodidad
 ---

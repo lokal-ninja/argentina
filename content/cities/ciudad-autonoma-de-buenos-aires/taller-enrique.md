@@ -1,5 +1,5 @@
 ---
 title: "Taller Enrique"
 url: /ciudad-autonoma-de-buenos-aires/taller-enrique/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

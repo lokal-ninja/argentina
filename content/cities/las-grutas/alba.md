@@ -1,5 +1,5 @@
 ---
 title: "Alba"
 url: /las-grutas/alba/
-shop: Farben
+shop: pintura
 ---

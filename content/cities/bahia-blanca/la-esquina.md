@@ -1,5 +1,5 @@
 ---
 title: "La Esquina"
 url: /bahia-blanca/la-esquina/
-shop: Eisenwaren
+shop: hardware
 ---

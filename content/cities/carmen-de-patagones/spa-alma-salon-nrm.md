@@ -1,5 +1,5 @@
 ---
 title: "Spa Alma / Salón Nrm"
 url: /carmen-de-patagones/spa-alma-salon-nrm/
-shop: Kosmetik
+shop: cosméticos
 ---

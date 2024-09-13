@@ -1,5 +1,5 @@
 ---
 title: "Office Print"
 url: /rosario/office-print/
-shop: Kopieren
+shop: copyshop
 ---

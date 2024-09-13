@@ -1,5 +1,5 @@
 ---
 title: "Abanico Telas"
 url: /cipolletti/abanico-telas/
-shop: Textil
+shop: tela
 ---

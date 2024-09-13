@@ -1,5 +1,5 @@
 ---
 title: "Amici"
 url: /san-carlos-de-bariloche/amici/
-shop: Kleidung
+shop: ropa
 ---

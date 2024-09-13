@@ -1,5 +1,5 @@
 ---
 title: "Colombraro"
 url: /bahia-blanca/colombraro/
-shop: Kramladen
+shop: tienda de variedades
 ---

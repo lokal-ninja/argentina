@@ -1,5 +1,5 @@
 ---
 title: "Papelera Neuquén"
 url: /neuquen/papelera-neuquen/
-shop: Schreibwaren
+shop: material de oficina
 ---

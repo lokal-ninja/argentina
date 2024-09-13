@@ -1,5 +1,5 @@
 ---
 title: "Emma"
 url: /ciudad-autonoma-de-buenos-aires/emma-avenida-rivadavia/
-shop: Gemüse & Obst
+shop: frutería
 ---

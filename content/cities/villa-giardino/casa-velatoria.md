@@ -1,5 +1,5 @@
 ---
 title: "Casa Velatoria"
 url: /villa-giardino/casa-velatoria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

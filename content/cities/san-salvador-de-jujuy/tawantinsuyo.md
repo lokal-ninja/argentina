@@ -1,5 +1,5 @@
 ---
 title: "Tawantinsuyo"
 url: /san-salvador-de-jujuy/tawantinsuyo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

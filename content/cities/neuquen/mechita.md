@@ -1,5 +1,5 @@
 ---
 title: "Mechita"
 url: /neuquen/mechita/
-shop: Kiosk
+shop: quiosco
 ---

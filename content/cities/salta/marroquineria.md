@@ -1,5 +1,5 @@
 ---
 title: "Marroquineria"
 url: /salta/marroquineria/
-shop: Kleidung
+shop: ropa
 ---

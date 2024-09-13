@@ -1,5 +1,5 @@
 ---
 title: "Latanzio"
 url: /trujui/latanzio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Del Norte"
 url: /ciudad-autonoma-de-buenos-aires/del-norte/
-shop: Bestattungen
+shop: directores de funerarias
 ---

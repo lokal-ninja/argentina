@@ -1,5 +1,5 @@
 ---
 title: "Rosen"
 url: /neuquen/rosen/
-shop: Kleidung
+shop: ropa
 ---

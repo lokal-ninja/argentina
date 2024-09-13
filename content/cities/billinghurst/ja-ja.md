@@ -1,5 +1,5 @@
 ---
 title: "Ja-Ja"
 url: /billinghurst/ja-ja/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundo Aluminio"
 url: /campana/mundo-aluminio/
-shop: Allgemein
+shop: general
 ---

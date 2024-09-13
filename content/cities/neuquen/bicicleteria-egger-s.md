@@ -1,5 +1,5 @@
 ---
 title: "Bicicletería Egger´s"
 url: /neuquen/bicicleteria-egger-s/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cerrajeria Electricidad"
 url: /ciudad-autonoma-de-buenos-aires/cerrajeria-electricidad/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swat"
 url: /ciudad-autonoma-de-buenos-aires/swat/
-shop: Allgemein
+shop: general
 ---

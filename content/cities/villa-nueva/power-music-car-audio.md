@@ -1,5 +1,5 @@
 ---
 title: "Power Music Car Audio"
 url: /villa-nueva/power-music-car-audio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

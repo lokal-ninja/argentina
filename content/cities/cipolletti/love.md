@@ -1,5 +1,5 @@
 ---
 title: "+Love"
 url: /cipolletti/love/
-shop: Kleidung
+shop: ropa
 ---

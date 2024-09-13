@@ -1,5 +1,5 @@
 ---
 title: "Omar Sport"
 url: /perez/omar-sport/
-shop: Sport
+shop: deportes
 ---

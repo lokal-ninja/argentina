@@ -1,5 +1,5 @@
 ---
 title: "Trastevere"
 url: /longchamps/trastevere/
-shop: Bücher
+shop: libros
 ---

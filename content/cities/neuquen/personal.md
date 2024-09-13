@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /neuquen/personal/
-shop: Handy
+shop: teléfono móvil
 ---

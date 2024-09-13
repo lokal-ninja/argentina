@@ -1,5 +1,5 @@
 ---
 title: "Cifu"
 url: /ciudad-autonoma-de-buenos-aires/cifu/
-shop: Lebensmittel
+shop: comodidad
 ---

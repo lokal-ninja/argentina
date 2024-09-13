@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
 url: /miramar/verduleria-calle-21/
-shop: Gemüse & Obst
+shop: frutería
 ---

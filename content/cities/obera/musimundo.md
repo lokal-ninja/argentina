@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /obera/musimundo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

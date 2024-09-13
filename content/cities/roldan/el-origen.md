@@ -1,5 +1,5 @@
 ---
 title: "El Origen"
 url: /roldan/el-origen/
-shop: Kramladen
+shop: tienda de variedades
 ---

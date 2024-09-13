@@ -1,5 +1,5 @@
 ---
 title: "Lanel"
 url: /ciudad-autonoma-de-buenos-aires/lanel/
-shop: Lebensmittel
+shop: comodidad
 ---

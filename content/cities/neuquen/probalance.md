@@ -1,5 +1,5 @@
 ---
 title: "ProBalance"
 url: /neuquen/probalance/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

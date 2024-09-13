@@ -1,5 +1,5 @@
 ---
 title: "LyS Pañalera"
 url: /ciudad-autonoma-de-buenos-aires/lys-panalera/
-shop: Babysachen
+shop: artículos para bebés
 ---

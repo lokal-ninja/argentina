@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Costa"
 url: /viedma/kiosco-costa/
-shop: Lebensmittel
+shop: comodidad
 ---

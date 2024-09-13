@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio El Vasco"
 url: /bahia-blanca/autoservicio-el-vasco/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almendritas"
 url: /posadas/almendritas/
-shop: Schreibwaren
+shop: material de oficina
 ---

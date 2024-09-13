@@ -1,5 +1,5 @@
 ---
 title: "Millennium"
 url: /villa-ballester/millennium/
-shop: Schuhe
+shop: zapatos
 ---

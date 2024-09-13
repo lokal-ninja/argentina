@@ -1,5 +1,5 @@
 ---
 title: "Don Alvan"
 url: /cerro-azul/don-alvan/
-shop: Supermarkt
+shop: supermercado
 ---

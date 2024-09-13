@@ -1,5 +1,5 @@
 ---
 title: "Mi Color"
 url: /cipolletti/mi-color/
-shop: Farben
+shop: pintura
 ---

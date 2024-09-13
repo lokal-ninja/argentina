@@ -1,5 +1,5 @@
 ---
 title: "Taverniti"
 url: /cipolletti/taverniti/
-shop: Kleidung
+shop: ropa
 ---

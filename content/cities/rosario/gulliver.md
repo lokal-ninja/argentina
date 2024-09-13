@@ -1,5 +1,5 @@
 ---
 title: "Gulliver"
 url: /rosario/gulliver/
-shop: Spielzeug
+shop: juguetes
 ---

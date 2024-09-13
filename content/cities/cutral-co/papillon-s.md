@@ -1,5 +1,5 @@
 ---
 title: "Papillon´s"
 url: /cutral-co/papillon-s/
-shop: Kleidung
+shop: ropa
 ---

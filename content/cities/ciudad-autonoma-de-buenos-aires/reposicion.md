@@ -1,5 +1,5 @@
 ---
 title: "Reposición"
 url: /ciudad-autonoma-de-buenos-aires/reposicion/
-shop: Allgemein
+shop: general
 ---

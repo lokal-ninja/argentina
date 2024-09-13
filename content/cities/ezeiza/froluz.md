@@ -1,5 +1,5 @@
 ---
 title: "Froluz"
 url: /ezeiza/froluz/
-shop: Elektronik
+shop: electrónica
 ---

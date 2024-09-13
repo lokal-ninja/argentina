@@ -1,5 +1,5 @@
 ---
 title: "Personal Flow"
 url: /neuquen/personal-flow/
-shop: Handy
+shop: teléfono móvil
 ---

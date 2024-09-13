@@ -1,5 +1,5 @@
 ---
 title: "Neuquén Cuadros"
 url: /neuquen/neuquen-cuadros-cordoba/
-shop: Basteln
+shop: artesanía
 ---

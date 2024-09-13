@@ -1,5 +1,5 @@
 ---
 title: "Nuevas Hogar"
 url: /viedma/nuevas-hogar/
-shop: Kramladen
+shop: tienda de variedades
 ---

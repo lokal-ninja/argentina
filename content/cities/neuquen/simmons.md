@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /neuquen/simmons/
-shop: Betten
+shop: cama
 ---

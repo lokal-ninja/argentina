@@ -1,5 +1,5 @@
 ---
 title: "Baterías Agrobat"
 url: /ramos-mejia/baterias-agrobat/
-shop: Autoteile
+shop: piezas de automóviles
 ---

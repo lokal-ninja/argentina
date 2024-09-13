@@ -1,5 +1,5 @@
 ---
 title: "Diferente Uniformes"
 url: /general-san-martin/diferente-uniformes/
-shop: Kleidung
+shop: ropa
 ---

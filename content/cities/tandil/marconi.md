@@ -1,5 +1,5 @@
 ---
 title: "Marconi"
 url: /tandil/marconi/
-shop: Bäckerei
+shop: panadería
 ---

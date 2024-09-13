@@ -1,5 +1,5 @@
 ---
 title: "La Rufa"
 url: /alvear/la-rufa/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiamma"
 url: /ciudad-autonoma-de-buenos-aires/fiamma/
-shop: Eisenwaren
+shop: hardware
 ---

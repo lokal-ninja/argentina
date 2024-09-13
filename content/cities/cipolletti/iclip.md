@@ -1,5 +1,5 @@
 ---
 title: "iClip"
 url: /cipolletti/iclip/
-shop: Handy
+shop: teléfono móvil
 ---

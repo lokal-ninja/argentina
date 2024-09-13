@@ -1,5 +1,5 @@
 ---
 title: "Allende Repuestos"
 url: /cipolletti/allende-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

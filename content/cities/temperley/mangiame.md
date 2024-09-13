@@ -1,5 +1,5 @@
 ---
 title: "Mangiame"
 url: /temperley/mangiame/
-shop: Pasta
+shop: pasta
 ---

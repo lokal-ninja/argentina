@@ -1,5 +1,5 @@
 ---
 title: "Confort Alem"
 url: /billinghurst/confort-alem/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

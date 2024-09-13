@@ -1,5 +1,5 @@
 ---
 title: "Suelto y Natural"
 url: /bahia-blanca/suelto-y-natural/
-shop: Bioladen
+shop: alimentación sana
 ---

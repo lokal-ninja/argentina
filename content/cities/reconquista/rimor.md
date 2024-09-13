@@ -1,5 +1,5 @@
 ---
 title: "Rimor"
 url: /reconquista/rimor/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teknomotor"
 url: /plaza-huincul/teknomotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

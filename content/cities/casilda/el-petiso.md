@@ -1,5 +1,5 @@
 ---
 title: "El Petiso"
 url: /casilda/el-petiso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

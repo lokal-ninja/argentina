@@ -1,5 +1,5 @@
 ---
 title: "Galver"
 url: /san-juan/galver/
-shop: Kleidung
+shop: ropa
 ---

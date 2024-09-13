@@ -1,5 +1,5 @@
 ---
 title: "Manjares"
 url: /general-alvear/manjares/
-shop: Bäckerei
+shop: panadería
 ---

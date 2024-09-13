@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /concordia/musimundo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

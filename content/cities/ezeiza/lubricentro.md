@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /ezeiza/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Bonita"
 url: /villa-regina/plaza-bonita/
-shop: Kramladen
+shop: tienda de variedades
 ---

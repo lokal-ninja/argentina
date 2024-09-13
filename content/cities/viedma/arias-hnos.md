@@ -1,5 +1,5 @@
 ---
 title: "Arias Hnos."
 url: /viedma/arias-hnos/
-shop: Autohaus
+shop: coche
 ---

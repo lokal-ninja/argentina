@@ -1,5 +1,5 @@
 ---
 title: "Salomon Insert"
 url: /plottier/salomon-insert/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maluca Passión"
 url: /aristobulo-del-valle/maluca-passion/
-shop: Andenken
+shop: regalo
 ---

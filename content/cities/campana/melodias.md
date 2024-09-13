@@ -1,5 +1,5 @@
 ---
 title: "Melodías"
 url: /campana/melodias/
-shop: Instrumente
+shop: instrumento musical
 ---

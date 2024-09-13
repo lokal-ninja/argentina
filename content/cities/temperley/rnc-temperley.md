@@ -1,5 +1,5 @@
 ---
 title: "RNC Temperley"
 url: /temperley/rnc-temperley/
-shop: Autoteile
+shop: piezas de automóviles
 ---

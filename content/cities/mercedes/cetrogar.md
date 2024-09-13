@@ -1,5 +1,5 @@
 ---
 title: "Cetrogar"
 url: /mercedes/cetrogar/
-shop: Haushaltsgeräte
+shop: aparato
 ---

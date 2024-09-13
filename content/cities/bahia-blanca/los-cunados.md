@@ -1,5 +1,5 @@
 ---
 title: "Los Cuñados"
 url: /bahia-blanca/los-cunados/
-shop: Metzgerei
+shop: carnicero
 ---

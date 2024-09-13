@@ -1,5 +1,5 @@
 ---
 title: "Bendita Eres"
 url: /rio-cuarto/bendita-eres/
-shop: Kleidung
+shop: ropa
 ---

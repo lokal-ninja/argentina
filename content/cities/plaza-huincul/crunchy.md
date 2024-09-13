@@ -1,5 +1,5 @@
 ---
 title: "Crunchy"
 url: /plaza-huincul/crunchy/
-shop: Bioladen
+shop: alimentación sana
 ---

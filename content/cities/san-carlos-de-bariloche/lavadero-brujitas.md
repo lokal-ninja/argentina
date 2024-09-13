@@ -1,5 +1,5 @@
 ---
 title: "Lavadero Brujitas"
 url: /san-carlos-de-bariloche/lavadero-brujitas/
-shop: Wäscherei
+shop: lavandería
 ---

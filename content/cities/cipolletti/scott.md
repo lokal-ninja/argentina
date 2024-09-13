@@ -1,5 +1,5 @@
 ---
 title: "Scott"
 url: /cipolletti/scott/
-shop: Fahrrad
+shop: bicicleta
 ---

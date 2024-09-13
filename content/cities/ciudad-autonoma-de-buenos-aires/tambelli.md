@@ -1,5 +1,5 @@
 ---
 title: "Tambelli"
 url: /ciudad-autonoma-de-buenos-aires/tambelli/
-shop: Autoteile
+shop: piezas de automóviles
 ---

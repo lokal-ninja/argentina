@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /rufino/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

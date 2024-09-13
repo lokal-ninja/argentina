@@ -1,5 +1,5 @@
 ---
 title: "Alicia"
 url: /tandil/alicia/
-shop: Bäckerei
+shop: panadería
 ---

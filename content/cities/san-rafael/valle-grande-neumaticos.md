@@ -1,5 +1,5 @@
 ---
 title: "Valle Grande Neumáticos"
 url: /san-rafael/valle-grande-neumaticos/
-shop: Reifen
+shop: neumáticos
 ---

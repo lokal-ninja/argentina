@@ -1,5 +1,5 @@
 ---
 title: "Imagen Fotocopias"
 url: /cipolletti/imagen-fotocopias/
-shop: Kopieren
+shop: copyshop
 ---

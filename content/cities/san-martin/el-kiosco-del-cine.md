@@ -1,5 +1,5 @@
 ---
 title: "El Kiosco Del Cine"
 url: /san-martin/el-kiosco-del-cine/
-shop: Lebensmittel
+shop: comodidad
 ---

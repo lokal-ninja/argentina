@@ -1,5 +1,5 @@
 ---
 title: "Gaona"
 url: /zarate/gaona/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roquefort"
 url: /concordia/roquefort/
-shop: Lebensmittel
+shop: comodidad
 ---

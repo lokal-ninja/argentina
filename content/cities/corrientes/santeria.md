@@ -1,5 +1,5 @@
 ---
 title: "Santeria"
 url: /corrientes/santeria/
-shop: Kerzen
+shop: velas
 ---

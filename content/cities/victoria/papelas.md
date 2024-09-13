@@ -1,5 +1,5 @@
 ---
 title: "Papelas"
 url: /victoria/papelas/
-shop: Kiosk
+shop: quiosco
 ---

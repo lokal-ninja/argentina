@@ -1,5 +1,5 @@
 ---
 title: "Fiat Repuestos"
 url: /san-salvador-de-jujuy/fiat-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

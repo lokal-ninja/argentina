@@ -1,5 +1,5 @@
 ---
 title: "Maxikiosco Mascarita"
 url: /general-san-martin/maxikiosco-mascarita/
-shop: Lebensmittel
+shop: comodidad
 ---

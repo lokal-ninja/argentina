@@ -1,5 +1,5 @@
 ---
 title: "Grafica Alternativa"
 url: /ciudad-autonoma-de-buenos-aires/grafica-alternativa/
-shop: Kopieren
+shop: copyshop
 ---

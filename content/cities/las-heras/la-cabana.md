@@ -1,5 +1,5 @@
 ---
 title: "La Cabaña"
 url: /las-heras/la-cabana/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LubriSport"
 url: /villa-adelina/lubrisport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

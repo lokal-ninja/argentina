@@ -1,5 +1,5 @@
 ---
 title: "Punto Zero"
 url: /obera/punto-zero/
-shop: Kiosk
+shop: quiosco
 ---

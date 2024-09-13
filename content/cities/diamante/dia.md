@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /diamante/dia/
-shop: Supermarkt
+shop: supermercado
 ---

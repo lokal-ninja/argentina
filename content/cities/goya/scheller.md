@@ -1,5 +1,5 @@
 ---
 title: "Scheller"
 url: /goya/scheller/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PadTravel"
 url: /rosario/padtravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

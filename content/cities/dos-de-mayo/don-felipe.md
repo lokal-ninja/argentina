@@ -1,5 +1,5 @@
 ---
 title: "Don Felipe"
 url: /dos-de-mayo/don-felipe/
-shop: Bäckerei
+shop: panadería
 ---

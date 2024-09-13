@@ -1,5 +1,5 @@
 ---
 title: "Descartable Capioví"
 url: /capiovi/descartable-capiovi/
-shop: Kramladen
+shop: tienda de variedades
 ---

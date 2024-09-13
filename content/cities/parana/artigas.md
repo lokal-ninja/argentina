@@ -1,5 +1,5 @@
 ---
 title: "Artigas"
 url: /parana/artigas/
-shop: Optiker
+shop: óptico
 ---

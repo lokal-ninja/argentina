@@ -1,5 +1,5 @@
 ---
 title: "Azzurra Fiat"
 url: /rio-tercero/azzurra-fiat/
-shop: Autohaus
+shop: coche
 ---

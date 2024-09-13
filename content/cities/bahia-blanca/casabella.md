@@ -1,5 +1,5 @@
 ---
 title: "Casabella"
 url: /bahia-blanca/casabella/
-shop: Betten
+shop: cama
 ---

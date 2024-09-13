@@ -1,5 +1,5 @@
 ---
 title: "Chumi"
 url: /victoria/chumi/
-shop: Schreibwaren
+shop: material de oficina
 ---

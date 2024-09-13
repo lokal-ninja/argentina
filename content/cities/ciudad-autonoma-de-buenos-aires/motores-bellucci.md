@@ -1,5 +1,5 @@
 ---
 title: "Motores Bellucci"
 url: /ciudad-autonoma-de-buenos-aires/motores-bellucci/
-shop: Elektrisch
+shop: eléctrico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacen Lo De Carli"
 url: /moreno/almacen-lo-de-carli/
-shop: Lebensmittel
+shop: comodidad
 ---

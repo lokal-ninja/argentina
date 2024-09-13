@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
 url: /campana/fravega/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería San Andrés"
 url: /san-juan/panaderia-san-andres/
-shop: Bäckerei
+shop: panadería
 ---

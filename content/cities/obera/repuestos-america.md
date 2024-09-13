@@ -1,5 +1,5 @@
 ---
 title: "Repuestos América"
 url: /obera/repuestos-america/
-shop: Autoteile
+shop: piezas de automóviles
 ---

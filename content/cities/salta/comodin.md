@@ -1,5 +1,5 @@
 ---
 title: "Comodin"
 url: /salta/comodin/
-shop: Supermarkt
+shop: supermercado
 ---

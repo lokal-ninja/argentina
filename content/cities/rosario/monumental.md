@@ -1,5 +1,5 @@
 ---
 title: "Monumental"
 url: /rosario/monumental/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Chaqueñito"
 url: /obera/el-chaquenito/
-shop: Metzgerei
+shop: carnicero
 ---

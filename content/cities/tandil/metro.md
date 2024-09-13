@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /tandil/metro/
-shop: Schreibwaren
+shop: material de oficina
 ---

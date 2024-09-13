@@ -1,5 +1,5 @@
 ---
 title: "Adoré"
 url: /viedma/adore/
-shop: Kleidung
+shop: ropa
 ---

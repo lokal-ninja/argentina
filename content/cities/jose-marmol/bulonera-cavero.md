@@ -1,5 +1,5 @@
 ---
 title: "Bulonera Cavero"
 url: /jose-marmol/bulonera-cavero/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

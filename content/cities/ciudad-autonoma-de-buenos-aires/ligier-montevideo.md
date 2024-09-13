@@ -1,5 +1,5 @@
 ---
 title: "Ligier"
 url: /ciudad-autonoma-de-buenos-aires/ligier-montevideo/
-shop: Spirituosen
+shop: alcohol
 ---

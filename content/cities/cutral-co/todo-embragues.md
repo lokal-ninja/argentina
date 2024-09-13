@@ -1,5 +1,5 @@
 ---
 title: "Todo Embragues"
 url: /cutral-co/todo-embragues/
-shop: Autoteile
+shop: piezas de automóviles
 ---

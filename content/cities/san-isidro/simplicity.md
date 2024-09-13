@@ -1,5 +1,5 @@
 ---
 title: "Simplicity"
 url: /san-isidro/simplicity/
-shop: Drogerie
+shop: perfumería
 ---

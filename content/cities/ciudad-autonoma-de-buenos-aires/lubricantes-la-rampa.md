@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes La Rampa"
 url: /ciudad-autonoma-de-buenos-aires/lubricantes-la-rampa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

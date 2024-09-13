@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes y Baterias"
 url: /ciudad-autonoma-de-buenos-aires/lubricantes-y-baterias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

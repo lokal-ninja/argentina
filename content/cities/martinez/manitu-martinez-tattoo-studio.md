@@ -1,5 +1,5 @@
 ---
 title: "Manitu Martínez Tattoo Studio"
 url: /martinez/manitu-martinez-tattoo-studio/
-shop: Tattoo
+shop: tatuaje
 ---

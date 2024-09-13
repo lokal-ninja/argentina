@@ -1,5 +1,5 @@
 ---
 title: "Alimentos Saludables"
 url: /rosario/alimentos-saludables/
-shop: Bioladen
+shop: alimentación sana
 ---

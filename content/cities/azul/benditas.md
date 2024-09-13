@@ -1,5 +1,5 @@
 ---
 title: "Benditas"
 url: /azul/benditas/
-shop: Kleidung
+shop: ropa
 ---

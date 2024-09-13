@@ -1,5 +1,5 @@
 ---
 title: "Automotores Villon"
 url: /villa-elisa/automotores-villon/
-shop: Autohaus
+shop: coche
 ---

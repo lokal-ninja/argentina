@@ -1,5 +1,5 @@
 ---
 title: "La Capital"
 url: /viedma/la-capital/
-shop: Schreibwaren
+shop: material de oficina
 ---

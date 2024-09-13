@@ -1,5 +1,5 @@
 ---
 title: "SMS Comunicaciones"
 url: /bella-vista/sms-comunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

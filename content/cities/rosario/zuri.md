@@ -1,5 +1,5 @@
 ---
 title: "Zuri"
 url: /rosario/zuri/
-shop: Kleidung
+shop: ropa
 ---

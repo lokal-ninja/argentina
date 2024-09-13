@@ -1,5 +1,5 @@
 ---
 title: "Maska"
 url: /ciudad-autonoma-de-buenos-aires/maska/
-shop: Kleidung
+shop: ropa
 ---

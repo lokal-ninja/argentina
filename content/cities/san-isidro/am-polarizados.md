@@ -1,5 +1,5 @@
 ---
 title: "AM Polarizados"
 url: /san-isidro/am-polarizados/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Toschi"
 url: /cipolletti/autoservicio-toschi/
-shop: Schreibwaren
+shop: material de oficina
 ---

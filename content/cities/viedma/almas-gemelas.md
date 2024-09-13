@@ -1,5 +1,5 @@
 ---
 title: "Almas Gemelas"
 url: /viedma/almas-gemelas/
-shop: Kleidung
+shop: ropa
 ---

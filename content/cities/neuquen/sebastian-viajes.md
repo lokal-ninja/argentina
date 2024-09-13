@@ -1,5 +1,5 @@
 ---
 title: "Sebastián Viajes"
 url: /neuquen/sebastian-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

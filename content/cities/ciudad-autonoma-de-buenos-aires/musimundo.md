@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /ciudad-autonoma-de-buenos-aires/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

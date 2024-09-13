@@ -1,5 +1,5 @@
 ---
 title: "Chino"
 url: /tortuguitas/chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

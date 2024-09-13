@@ -1,5 +1,5 @@
 ---
 title: "Vivero Victor"
 url: /beccar/vivero-victor/
-shop: Garten-Center
+shop: centro de jardinería
 ---

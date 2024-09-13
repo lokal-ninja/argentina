@@ -1,5 +1,5 @@
 ---
 title: "Hipertehuelche"
 url: /bahia-blanca/hipertehuelche/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

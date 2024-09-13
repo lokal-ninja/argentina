@@ -1,5 +1,5 @@
 ---
 title: "ZonaCel"
 url: /villa-la-angostura/zonacel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería La Fuente"
 url: /eldorado/libreria-la-fuente/
-shop: Schreibwaren
+shop: material de oficina
 ---

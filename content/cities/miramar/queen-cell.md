@@ -1,5 +1,5 @@
 ---
 title: "Queen Cell"
 url: /miramar/queen-cell/
-shop: Handy
+shop: teléfono móvil
 ---

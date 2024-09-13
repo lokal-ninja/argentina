@@ -1,5 +1,5 @@
 ---
 title: "Costamagna"
 url: /sunchales/costamagna/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

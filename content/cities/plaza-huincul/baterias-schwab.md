@@ -1,5 +1,5 @@
 ---
 title: "Baterías Schwab"
 url: /plaza-huincul/baterias-schwab/
-shop: Autoteile
+shop: piezas de automóviles
 ---

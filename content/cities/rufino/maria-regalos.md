@@ -1,5 +1,5 @@
 ---
 title: "Maria Regalos"
 url: /rufino/maria-regalos/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

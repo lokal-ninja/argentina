@@ -1,5 +1,5 @@
 ---
 title: "Encendido Limay"
 url: /neuquen/encendido-limay/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lourdes Melany"
 url: /isidro-casanova/lourdes-melany/
-shop: Möbel
+shop: muebles
 ---

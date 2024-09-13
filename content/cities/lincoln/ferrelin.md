@@ -1,5 +1,5 @@
 ---
 title: "Ferrelin"
 url: /lincoln/ferrelin/
-shop: Eisenwaren
+shop: hardware
 ---

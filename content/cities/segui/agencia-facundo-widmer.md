@@ -1,5 +1,5 @@
 ---
 title: "Agencia Facundo Widmer"
 url: /segui/agencia-facundo-widmer/
-shop: Lotterie
+shop: lotería
 ---

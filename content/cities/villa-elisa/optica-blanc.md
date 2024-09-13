@@ -1,5 +1,5 @@
 ---
 title: "Óptica Blanc"
 url: /villa-elisa/optica-blanc/
-shop: Optiker
+shop: óptico
 ---

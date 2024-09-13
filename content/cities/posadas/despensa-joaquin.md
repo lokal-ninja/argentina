@@ -1,5 +1,5 @@
 ---
 title: "Despensa Joaquin"
 url: /posadas/despensa-joaquin/
-shop: Lebensmittel
+shop: comodidad
 ---

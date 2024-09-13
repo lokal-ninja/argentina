@@ -1,5 +1,5 @@
 ---
 title: "Alienbox"
 url: /neuquen/alienbox/
-shop: Computer
+shop: ordenador
 ---

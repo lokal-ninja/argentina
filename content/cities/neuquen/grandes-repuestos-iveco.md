@@ -1,5 +1,5 @@
 ---
 title: "Grandes Repuestos Iveco"
 url: /neuquen/grandes-repuestos-iveco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

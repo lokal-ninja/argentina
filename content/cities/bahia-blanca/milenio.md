@@ -1,5 +1,5 @@
 ---
 title: "Milenio"
 url: /bahia-blanca/milenio/
-shop: Schuhe
+shop: zapatos
 ---

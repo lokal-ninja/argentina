@@ -1,5 +1,5 @@
 ---
 title: "PA NOSTRE"
 url: /leones/pa-nostre/
-shop: Bäckerei
+shop: panadería
 ---

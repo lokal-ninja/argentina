@@ -1,5 +1,5 @@
 ---
 title: "El Ñato"
 url: /santa-fe/el-nato/
-shop: Metzgerei
+shop: carnicero
 ---

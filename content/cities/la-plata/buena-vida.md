@@ -1,5 +1,5 @@
 ---
 title: "Buena Vida"
 url: /la-plata/buena-vida/
-shop: Supermarkt
+shop: supermercado
 ---

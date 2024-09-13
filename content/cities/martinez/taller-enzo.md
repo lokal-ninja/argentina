@@ -1,5 +1,5 @@
 ---
 title: "Taller Enzo"
 url: /martinez/taller-enzo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

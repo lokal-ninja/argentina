@@ -1,5 +1,5 @@
 ---
 title: "Librería Acuarela"
 url: /eldorado/libreria-acuarela/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jumbo Express"
 url: /san-carlos-de-bariloche/jumbo-express/
-shop: Spielzeug
+shop: juguetes
 ---

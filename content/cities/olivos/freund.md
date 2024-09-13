@@ -1,5 +1,5 @@
 ---
 title: "Freund"
 url: /olivos/freund/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

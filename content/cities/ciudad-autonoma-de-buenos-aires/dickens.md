@@ -1,5 +1,5 @@
 ---
 title: "Dickens"
 url: /ciudad-autonoma-de-buenos-aires/dickens/
-shop: Bücher
+shop: libros
 ---

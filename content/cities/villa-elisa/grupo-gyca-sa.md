@@ -1,5 +1,5 @@
 ---
 title: "Grupo Gyca SA"
 url: /villa-elisa/grupo-gyca-sa/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Caló"
 url: /neuquen/libreria-calo/
-shop: Schreibwaren
+shop: material de oficina
 ---

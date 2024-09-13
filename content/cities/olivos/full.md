@@ -1,5 +1,5 @@
 ---
 title: "Full"
 url: /olivos/full/
-shop: Lebensmittel
+shop: comodidad
 ---

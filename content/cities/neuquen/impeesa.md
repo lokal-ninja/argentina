@@ -1,5 +1,5 @@
 ---
 title: "Impeesa"
 url: /neuquen/impeesa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

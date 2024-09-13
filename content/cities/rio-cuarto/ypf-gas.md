@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /rio-cuarto/ypf-gas/
-shop: Gasflaschen
+shop: gas
 ---

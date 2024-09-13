@@ -1,5 +1,5 @@
 ---
 title: "Alparamis"
 url: /olivos/alparamis/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JL"
 url: /bahia-blanca/jl-cuyo/
-shop: Garten-Center
+shop: centro de jardinería
 ---

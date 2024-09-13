@@ -1,5 +1,5 @@
 ---
 title: "BLUO Aberturas"
 url: /cipolletti/bluo-aberturas/
-shop: Türen
+shop: puertas
 ---

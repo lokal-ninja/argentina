@@ -1,5 +1,5 @@
 ---
 title: "Pampa Diseño"
 url: /realico/pampa-diseno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

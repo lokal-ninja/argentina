@@ -1,5 +1,5 @@
 ---
 title: "Babilujuegos"
 url: /isidro-casanova/babilujuegos/
-shop: Kosmetik
+shop: cosméticos
 ---

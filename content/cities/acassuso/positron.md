@@ -1,5 +1,5 @@
 ---
 title: "Positron"
 url: /acassuso/positron/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaiser"
 url: /viedma/kaiser/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

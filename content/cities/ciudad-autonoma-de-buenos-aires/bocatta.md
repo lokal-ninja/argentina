@@ -1,5 +1,5 @@
 ---
 title: "Bocatta"
 url: /ciudad-autonoma-de-buenos-aires/bocatta/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Archicopias"
 url: /neuquen/archicopias/
-shop: Kopieren
+shop: copyshop
 ---

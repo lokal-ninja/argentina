@@ -1,5 +1,5 @@
 ---
 title: "San Pío"
 url: /concordia/san-pio/
-shop: Metzgerei
+shop: carnicero
 ---

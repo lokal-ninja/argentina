@@ -1,5 +1,5 @@
 ---
 title: "Dilect Martinez"
 url: /martinez/dilect-martinez/
-shop: Kleidung
+shop: ropa
 ---

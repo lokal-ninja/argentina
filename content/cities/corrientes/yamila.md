@@ -1,5 +1,5 @@
 ---
 title: "Yamila"
 url: /corrientes/yamila/
-shop: Drogerie
+shop: farmacia
 ---

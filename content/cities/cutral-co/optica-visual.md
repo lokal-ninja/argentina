@@ -1,5 +1,5 @@
 ---
 title: "Óptica Visual"
 url: /cutral-co/optica-visual/
-shop: Optiker
+shop: óptico
 ---

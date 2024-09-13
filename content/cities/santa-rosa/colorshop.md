@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /santa-rosa/colorshop/
-shop: Farben
+shop: pintura
 ---

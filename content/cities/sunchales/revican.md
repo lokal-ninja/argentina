@@ -1,5 +1,5 @@
 ---
 title: "Revican"
 url: /sunchales/revican/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

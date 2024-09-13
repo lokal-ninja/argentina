@@ -1,5 +1,5 @@
 ---
 title: "Repac"
 url: /cipolletti/repac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

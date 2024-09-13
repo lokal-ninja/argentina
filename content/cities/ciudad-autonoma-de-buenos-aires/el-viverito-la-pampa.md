@@ -1,5 +1,5 @@
 ---
 title: "El Viverito"
 url: /ciudad-autonoma-de-buenos-aires/el-viverito-la-pampa/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klas Libros"
 url: /bahia-blanca/klas-libros/
-shop: Bücher
+shop: libros
 ---

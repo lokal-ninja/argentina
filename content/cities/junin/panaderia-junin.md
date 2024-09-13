@@ -1,5 +1,5 @@
 ---
 title: "Panadería Junín"
 url: /junin/panaderia-junin/
-shop: Bäckerei
+shop: panadería
 ---

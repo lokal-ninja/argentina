@@ -1,5 +1,5 @@
 ---
 title: "Regatta"
 url: /concordia/regatta/
-shop: Fahrrad
+shop: bicicleta
 ---

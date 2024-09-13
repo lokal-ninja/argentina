@@ -1,5 +1,5 @@
 ---
 title: "El Garage"
 url: /jose-marmol/el-garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /ciudad-autonoma-de-buenos-aires/peugeot-avenida-chorroarin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

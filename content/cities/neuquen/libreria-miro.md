@@ -1,5 +1,5 @@
 ---
 title: "Librería Miró"
 url: /neuquen/libreria-miro/
-shop: Schreibwaren
+shop: material de oficina
 ---

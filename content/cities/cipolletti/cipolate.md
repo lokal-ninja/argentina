@@ -1,5 +1,5 @@
 ---
 title: "Cipolate"
 url: /cipolletti/cipolate/
-shop: Bioladen
+shop: alimentación sana
 ---

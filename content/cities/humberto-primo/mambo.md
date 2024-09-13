@@ -1,5 +1,5 @@
 ---
 title: "Mambo"
 url: /humberto-primo/mambo/
-shop: Allgemein
+shop: general
 ---

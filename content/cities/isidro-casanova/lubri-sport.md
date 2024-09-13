@@ -1,5 +1,5 @@
 ---
 title: "Lubri Sport"
 url: /isidro-casanova/lubri-sport/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

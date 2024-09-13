@@ -1,5 +1,5 @@
 ---
 title: "Cukalaka"
 url: /san-martin/cukalaka/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /viedma/despensa/
-shop: Lebensmittel
+shop: comodidad
 ---

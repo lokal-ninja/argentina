@@ -1,5 +1,5 @@
 ---
 title: "Sauma Motos"
 url: /acassuso/sauma-motos/
-shop: Motorrad
+shop: motocicleta
 ---

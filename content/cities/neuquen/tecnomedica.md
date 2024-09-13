@@ -1,5 +1,5 @@
 ---
 title: "Tecnomédica"
 url: /neuquen/tecnomedica/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

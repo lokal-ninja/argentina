@@ -1,5 +1,5 @@
 ---
 title: "Rosa de América"
 url: /victoria/rosa-de-america/
-shop: Bäckerei
+shop: panadería
 ---

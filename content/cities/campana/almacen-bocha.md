@@ -1,5 +1,5 @@
 ---
 title: "Almacén Bocha"
 url: /campana/almacen-bocha/
-shop: Supermarkt
+shop: supermercado
 ---

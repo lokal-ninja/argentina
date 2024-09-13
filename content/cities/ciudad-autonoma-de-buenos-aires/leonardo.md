@@ -1,5 +1,5 @@
 ---
 title: "Leonardo"
 url: /ciudad-autonoma-de-buenos-aires/leonardo/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

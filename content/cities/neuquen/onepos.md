@@ -1,5 +1,5 @@
 ---
 title: "OnePos"
 url: /neuquen/onepos/
-shop: Allgemein
+shop: general
 ---

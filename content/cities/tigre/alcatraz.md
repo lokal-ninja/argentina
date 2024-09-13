@@ -1,5 +1,5 @@
 ---
 title: "Alcatraz"
 url: /tigre/alcatraz/
-shop: Kleidung
+shop: ropa
 ---

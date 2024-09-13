@@ -1,5 +1,5 @@
 ---
 title: "Agro Azul"
 url: /cerro-azul/agro-azul/
-shop: Hofladen
+shop: granja
 ---

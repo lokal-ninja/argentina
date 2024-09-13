@@ -1,5 +1,5 @@
 ---
 title: "Reina Valera"
 url: /cipolletti/reina-valera/
-shop: Kleidung
+shop: ropa
 ---

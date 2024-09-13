@@ -1,5 +1,5 @@
 ---
 title: "Sommier Center"
 url: /villa-ballester/sommier-center/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Pronto"
 url: /cipolletti/kiosco-pronto/
-shop: Kiosk
+shop: quiosco
 ---

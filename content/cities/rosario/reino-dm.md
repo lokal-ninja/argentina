@@ -1,5 +1,5 @@
 ---
 title: "Reino DM"
 url: /rosario/reino-dm/
-shop: Tiere
+shop: mascotas
 ---

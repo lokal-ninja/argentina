@@ -1,5 +1,5 @@
 ---
 title: "Rural Santa Fe"
 url: /santa-fe/rural-santa-fe/
-shop: Autoteile
+shop: piezas de automóviles
 ---

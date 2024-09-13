@@ -1,5 +1,5 @@
 ---
 title: "Palacios"
 url: /tandil/palacios/
-shop: Metzgerei
+shop: carnicero
 ---

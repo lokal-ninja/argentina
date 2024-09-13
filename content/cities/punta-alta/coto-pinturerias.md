@@ -1,5 +1,5 @@
 ---
 title: "Coto Pinturerías"
 url: /punta-alta/coto-pinturerias/
-shop: Farben
+shop: pintura
 ---

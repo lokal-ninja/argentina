@@ -1,5 +1,5 @@
 ---
 title: "DKarlitos"
 url: /zarate/dkarlitos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

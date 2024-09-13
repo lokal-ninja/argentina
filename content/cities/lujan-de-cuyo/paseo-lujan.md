@@ -1,5 +1,5 @@
 ---
 title: "Paseo Luján"
 url: /lujan-de-cuyo/paseo-lujan/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

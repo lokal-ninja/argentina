@@ -1,5 +1,5 @@
 ---
 title: "Librería La Porteña"
 url: /bahia-blanca/libreria-la-portena/
-shop: Schreibwaren
+shop: material de oficina
 ---

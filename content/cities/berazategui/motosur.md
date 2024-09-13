@@ -1,5 +1,5 @@
 ---
 title: "Motosur"
 url: /berazategui/motosur/
-shop: Motorrad
+shop: motocicleta
 ---

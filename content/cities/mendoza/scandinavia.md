@@ -1,5 +1,5 @@
 ---
 title: "Scandinavia"
 url: /mendoza/scandinavia/
-shop: Outdoor
+shop: exterior
 ---

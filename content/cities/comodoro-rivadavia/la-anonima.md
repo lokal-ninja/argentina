@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /comodoro-rivadavia/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

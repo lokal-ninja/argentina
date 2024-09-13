@@ -1,5 +1,5 @@
 ---
 title: "MD Descartables"
 url: /concordia/md-descartables/
-shop: Schreibwaren
+shop: material de oficina
 ---

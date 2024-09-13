@@ -1,5 +1,5 @@
 ---
 title: "Manía"
 url: /villa-los-aromos/mania/
-shop: Bioladen
+shop: alimentación sana
 ---

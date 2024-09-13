@@ -1,5 +1,5 @@
 ---
 title: "Brugge"
 url: /neuquen/brugge/
-shop: Kleidung
+shop: ropa
 ---

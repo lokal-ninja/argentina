@@ -1,5 +1,5 @@
 ---
 title: "Nueva Generación"
 url: /san-fernando/nueva-generacion/
-shop: Möbel
+shop: muebles
 ---

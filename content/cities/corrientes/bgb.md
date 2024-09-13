@@ -1,5 +1,5 @@
 ---
 title: "BGB"
 url: /corrientes/bgb/
-shop: Schreibwaren
+shop: material de oficina
 ---

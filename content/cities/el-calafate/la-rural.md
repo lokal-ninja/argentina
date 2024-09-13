@@ -1,5 +1,5 @@
 ---
 title: "La Rural"
 url: /el-calafate/la-rural/
-shop: Kleidung
+shop: ropa
 ---

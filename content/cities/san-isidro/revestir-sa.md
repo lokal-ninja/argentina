@@ -1,5 +1,5 @@
 ---
 title: "Revestir SA"
 url: /san-isidro/revestir-sa/
-shop: Raumausstattung
+shop: decoración interior
 ---

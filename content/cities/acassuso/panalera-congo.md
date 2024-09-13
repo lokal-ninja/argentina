@@ -1,5 +1,5 @@
 ---
 title: "Pañalera Congo"
 url: /acassuso/panalera-congo/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pisos Alemanes"
 url: /ciudad-autonoma-de-buenos-aires/pisos-alemanes/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

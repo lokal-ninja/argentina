@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /neuquen/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

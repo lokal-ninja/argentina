@@ -1,5 +1,5 @@
 ---
 title: "AlmaZen"
 url: /victoria/almazen/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leaniko"
 url: /ciudad-autonoma-de-buenos-aires/leaniko/
-shop: Allgemein
+shop: general
 ---

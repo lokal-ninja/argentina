@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Net"
 url: /ciudad-autonoma-de-buenos-aires/peugeot-net/
-shop: Autoteile
+shop: piezas de automóviles
 ---

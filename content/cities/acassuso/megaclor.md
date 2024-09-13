@@ -1,5 +1,5 @@
 ---
 title: "Megaclor"
 url: /acassuso/megaclor/
-shop: Pool
+shop: piscina
 ---

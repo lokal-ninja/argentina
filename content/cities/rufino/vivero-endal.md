@@ -1,5 +1,5 @@
 ---
 title: "Vivero Endal"
 url: /rufino/vivero-endal/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /bragado/luna/
-shop: Supermarkt
+shop: supermercado
 ---

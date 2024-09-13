@@ -1,5 +1,5 @@
 ---
 title: "ArrozconLeche"
 url: /eldorado/arrozconleche/
-shop: Kleidung
+shop: ropa
 ---

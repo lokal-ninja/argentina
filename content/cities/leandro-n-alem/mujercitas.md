@@ -1,5 +1,5 @@
 ---
 title: "Mujercitas"
 url: /leandro-n-alem/mujercitas/
-shop: Instrumente
+shop: instrumento musical
 ---

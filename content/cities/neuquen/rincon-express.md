@@ -1,5 +1,5 @@
 ---
 title: "Rincón Express"
 url: /neuquen/rincon-express/
-shop: Lebensmittel
+shop: comodidad
 ---

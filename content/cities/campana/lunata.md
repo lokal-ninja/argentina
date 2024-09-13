@@ -1,5 +1,5 @@
 ---
 title: "Lunata"
 url: /campana/lunata/
-shop: Kleidung
+shop: ropa
 ---

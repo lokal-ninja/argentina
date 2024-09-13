@@ -1,5 +1,5 @@
 ---
 title: "Ferrandi"
 url: /bahia-blanca/ferrandi/
-shop: Bestattungen
+shop: directores de funerarias
 ---

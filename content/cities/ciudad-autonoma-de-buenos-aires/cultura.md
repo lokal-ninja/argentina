@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /ciudad-autonoma-de-buenos-aires/cultura/
-shop: Kleidung
+shop: ropa
 ---

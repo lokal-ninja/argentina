@@ -1,5 +1,5 @@
 ---
 title: "Deyro Autorpartes"
 url: /santa-fe/deyro-autorpartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

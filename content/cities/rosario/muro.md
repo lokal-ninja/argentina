@@ -1,5 +1,5 @@
 ---
 title: "Muro"
 url: /rosario/muro/
-shop: Möbel
+shop: muebles
 ---

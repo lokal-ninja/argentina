@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /ezeiza/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

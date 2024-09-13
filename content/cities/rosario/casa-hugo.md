@@ -1,5 +1,5 @@
 ---
 title: "Casa Hugo"
 url: /rosario/casa-hugo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

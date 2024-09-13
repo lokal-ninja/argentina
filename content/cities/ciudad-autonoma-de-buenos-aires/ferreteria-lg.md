@@ -1,5 +1,5 @@
 ---
 title: "Ferretería LG"
 url: /ciudad-autonoma-de-buenos-aires/ferreteria-lg/
-shop: Eisenwaren
+shop: hardware
 ---

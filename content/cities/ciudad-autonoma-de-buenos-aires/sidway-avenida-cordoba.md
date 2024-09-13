@@ -1,5 +1,5 @@
 ---
 title: "Sidway"
 url: /ciudad-autonoma-de-buenos-aires/sidway-avenida-cordoba/
-shop: Autohaus
+shop: coche
 ---

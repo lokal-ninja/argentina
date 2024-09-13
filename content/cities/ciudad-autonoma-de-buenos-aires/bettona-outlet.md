@@ -1,5 +1,5 @@
 ---
 title: "Bettona Outlet"
 url: /ciudad-autonoma-de-buenos-aires/bettona-outlet/
-shop: Schuhe
+shop: zapatos
 ---

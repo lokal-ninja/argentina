@@ -1,5 +1,5 @@
 ---
 title: "Cepero"
 url: /rosario/cepero-cordoba-2/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

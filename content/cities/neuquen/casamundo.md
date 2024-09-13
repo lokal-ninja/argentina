@@ -1,5 +1,5 @@
 ---
 title: "Casamundo"
 url: /neuquen/casamundo/
-shop: Kramladen
+shop: tienda de variedades
 ---

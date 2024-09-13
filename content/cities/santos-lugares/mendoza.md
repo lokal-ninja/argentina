@@ -1,5 +1,5 @@
 ---
 title: "Mendoza"
 url: /santos-lugares/mendoza/
-shop: Bestattungen
+shop: directores de funerarias
 ---

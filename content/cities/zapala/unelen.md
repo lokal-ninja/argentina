@@ -1,5 +1,5 @@
 ---
 title: "Unelén"
 url: /zapala/unelen/
-shop: Kleidung
+shop: ropa
 ---

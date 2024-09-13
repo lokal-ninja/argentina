@@ -1,5 +1,5 @@
 ---
 title: "Central Norte Maderas"
 url: /santa-fe/central-norte-maderas/
-shop: Baustoffe
+shop: comercio
 ---

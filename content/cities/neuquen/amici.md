@@ -1,5 +1,5 @@
 ---
 title: "AMICI"
 url: /neuquen/amici/
-shop: Kleidung
+shop: ropa
 ---

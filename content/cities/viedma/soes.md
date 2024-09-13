@@ -1,5 +1,5 @@
 ---
 title: "Soes"
 url: /viedma/soes/
-shop: Kleidung
+shop: ropa
 ---

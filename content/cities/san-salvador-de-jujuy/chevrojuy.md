@@ -1,5 +1,5 @@
 ---
 title: "Chevrojuy"
 url: /san-salvador-de-jujuy/chevrojuy/
-shop: Autoteile
+shop: piezas de automóviles
 ---

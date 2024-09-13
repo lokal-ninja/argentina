@@ -1,5 +1,5 @@
 ---
 title: "Val"
 url: /tandil/val/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

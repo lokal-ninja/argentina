@@ -1,5 +1,5 @@
 ---
 title: "Pañalera Pqños"
 url: /rosario/panalera-pqnos/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conobra"
 url: /neuquen/conobra/
-shop: Baustoffe
+shop: comercio
 ---

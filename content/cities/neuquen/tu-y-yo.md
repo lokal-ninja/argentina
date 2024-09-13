@@ -1,5 +1,5 @@
 ---
 title: "Tú y Yo"
 url: /neuquen/tu-y-yo/
-shop: Modehaus
+shop: tienda
 ---

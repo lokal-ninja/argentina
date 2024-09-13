@@ -1,5 +1,5 @@
 ---
 title: "Hipertehuelche"
 url: /rio-gallegos/hipertehuelche/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

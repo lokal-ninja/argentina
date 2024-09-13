@@ -1,5 +1,5 @@
 ---
 title: "Bink"
 url: /cordoba-saldan/bink/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gearvel"
 url: /neuquen/gearvel/
-shop: Maschinen
+shop: maquinaria
 ---

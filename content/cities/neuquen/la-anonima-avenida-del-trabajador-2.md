@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /neuquen/la-anonima-avenida-del-trabajador-2/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristian Rey"
 url: /ciudad-auronoma-de-buenos-aires/cristian-rey/
-shop: Kosmetik
+shop: cosméticos
 ---

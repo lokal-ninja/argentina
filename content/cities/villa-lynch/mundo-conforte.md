@@ -1,5 +1,5 @@
 ---
 title: "Mundo Conforte"
 url: /villa-lynch/mundo-conforte/
-shop: Möbel
+shop: muebles
 ---

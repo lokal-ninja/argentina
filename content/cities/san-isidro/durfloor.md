@@ -1,5 +1,5 @@
 ---
 title: "Durfloor"
 url: /san-isidro/durfloor/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tatoo"
 url: /corrientes/tatoo/
-shop: Tattoo
+shop: tatuaje
 ---

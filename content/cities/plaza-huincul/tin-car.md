@@ -1,5 +1,5 @@
 ---
 title: "Tin Car"
 url: /plaza-huincul/tin-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

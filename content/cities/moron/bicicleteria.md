@@ -1,5 +1,5 @@
 ---
 title: "Bicicleteria"
 url: /moron/bicicleteria/
-shop: Fahrrad
+shop: bicicleta
 ---

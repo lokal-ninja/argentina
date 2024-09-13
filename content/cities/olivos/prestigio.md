@@ -1,5 +1,5 @@
 ---
 title: "Prestigio"
 url: /olivos/prestigio/
-shop: Farben
+shop: pintura
 ---

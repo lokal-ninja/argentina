@@ -1,5 +1,5 @@
 ---
 title: "Gomería Ruta 2"
 url: /el-soberbio/gomeria-ruta-2/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

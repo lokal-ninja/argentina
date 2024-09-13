@@ -1,5 +1,5 @@
 ---
 title: "Garden"
 url: /anatuya/garden/
-shop: Bäckerei
+shop: panadería
 ---

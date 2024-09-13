@@ -1,5 +1,5 @@
 ---
 title: "Taller Ermocida"
 url: /beccar/taller-ermocida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

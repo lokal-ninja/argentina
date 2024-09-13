@@ -1,5 +1,5 @@
 ---
 title: "Brote Vivero"
 url: /vicente-lopez/brote-vivero/
-shop: Garten-Center
+shop: centro de jardinería
 ---

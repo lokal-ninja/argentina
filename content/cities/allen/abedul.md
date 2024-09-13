@@ -1,5 +1,5 @@
 ---
 title: "Abedul"
 url: /allen/abedul/
-shop: Kleidung
+shop: ropa
 ---

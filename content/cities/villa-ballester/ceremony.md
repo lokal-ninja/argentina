@@ -1,5 +1,5 @@
 ---
 title: "Ceremony"
 url: /villa-ballester/ceremony/
-shop: Kleidung
+shop: ropa
 ---

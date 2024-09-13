@@ -1,5 +1,5 @@
 ---
 title: "Mamma Nicoletta"
 url: /campana/mamma-nicoletta/
-shop: Pasta
+shop: pasta
 ---

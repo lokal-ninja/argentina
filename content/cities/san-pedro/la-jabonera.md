@@ -1,5 +1,5 @@
 ---
 title: "La Jabonera"
 url: /san-pedro/la-jabonera/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Imagen"
 url: /tigre/imagen/
-shop: Farben
+shop: pintura
 ---

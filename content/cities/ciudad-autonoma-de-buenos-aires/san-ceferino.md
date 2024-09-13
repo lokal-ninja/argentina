@@ -1,5 +1,5 @@
 ---
 title: "San Ceferino"
 url: /ciudad-autonoma-de-buenos-aires/san-ceferino/
-shop: Bäckerei
+shop: panadería
 ---

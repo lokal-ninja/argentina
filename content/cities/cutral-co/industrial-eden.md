@@ -1,5 +1,5 @@
 ---
 title: "Industrial EDEN"
 url: /cutral-co/industrial-eden/
-shop: Eisenwaren
+shop: hardware
 ---

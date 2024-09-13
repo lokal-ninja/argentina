@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /neuquen/columbia/
-shop: Kleidung
+shop: ropa
 ---

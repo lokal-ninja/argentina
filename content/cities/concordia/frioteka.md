@@ -1,5 +1,5 @@
 ---
 title: "Frioteka*"
 url: /concordia/frioteka/
-shop: Supermarkt
+shop: supermercado
 ---

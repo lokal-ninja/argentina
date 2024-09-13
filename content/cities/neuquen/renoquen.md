@@ -1,5 +1,5 @@
 ---
 title: "Renoquén"
 url: /neuquen/renoquen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

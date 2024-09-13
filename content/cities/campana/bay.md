@@ -1,5 +1,5 @@
 ---
 title: "Bay"
 url: /campana/bay/
-shop: Kleidung
+shop: ropa
 ---

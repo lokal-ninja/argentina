@@ -1,5 +1,5 @@
 ---
 title: "Amor"
 url: /ciudad-autonoma-de-buenos-aires/amor-crisologo-larralde/
-shop: Supermarkt
+shop: supermercado
 ---

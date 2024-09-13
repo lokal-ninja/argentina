@@ -1,5 +1,5 @@
 ---
 title: "Giovanna"
 url: /viedma/giovanna/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euromotor"
 url: /neuquen/euromotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

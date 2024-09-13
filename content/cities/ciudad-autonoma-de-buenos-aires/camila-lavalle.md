@@ -1,5 +1,5 @@
 ---
 title: "Camila"
 url: /ciudad-autonoma-de-buenos-aires/camila-lavalle/
-shop: Leder
+shop: cuero
 ---

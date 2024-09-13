@@ -1,5 +1,5 @@
 ---
 title: "Colombraro"
 url: /neuquen/colombraro/
-shop: Kramladen
+shop: tienda de variedades
 ---

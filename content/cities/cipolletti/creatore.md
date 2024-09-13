@@ -1,5 +1,5 @@
 ---
 title: "Creatore"
 url: /cipolletti/creatore/
-shop: Möbel
+shop: muebles
 ---

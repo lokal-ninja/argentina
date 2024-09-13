@@ -1,5 +1,5 @@
 ---
 title: "Crediguía"
 url: /plottier/crediguia/
-shop: Leiher
+shop: prestamista
 ---

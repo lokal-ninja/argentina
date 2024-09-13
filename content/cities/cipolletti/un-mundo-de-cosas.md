@@ -1,5 +1,5 @@
 ---
 title: "Un Mundo de Cosas"
 url: /cipolletti/un-mundo-de-cosas/
-shop: Schreibwaren
+shop: material de oficina
 ---

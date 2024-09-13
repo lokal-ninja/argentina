@@ -1,5 +1,5 @@
 ---
 title: "Maná"
 url: /neuquen/mana/
-shop: Bäckerei
+shop: panadería
 ---

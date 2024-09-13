@@ -1,5 +1,5 @@
 ---
 title: "Petra"
 url: /mendoza/petra/
-shop: Bücher
+shop: libros
 ---

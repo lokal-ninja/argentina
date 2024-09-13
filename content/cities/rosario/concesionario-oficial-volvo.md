@@ -1,5 +1,5 @@
 ---
 title: "Concesionario oficial Volvo"
 url: /rosario/concesionario-oficial-volvo/
-shop: Autohaus
+shop: coche
 ---

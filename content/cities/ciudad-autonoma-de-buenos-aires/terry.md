@@ -1,5 +1,5 @@
 ---
 title: "Terry"
 url: /ciudad-autonoma-de-buenos-aires/terry/
-shop: Tiere
+shop: mascotas
 ---

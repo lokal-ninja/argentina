@@ -1,5 +1,5 @@
 ---
 title: "Reconquista Automotores"
 url: /reconquista/reconquista-automotores/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francisco"
 url: /jose-leon-suarez/francisco/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palace Garden"
 url: /rosario/palace-garden/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San Juan Bike"
 url: /san-juan/san-juan-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

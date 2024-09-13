@@ -1,5 +1,5 @@
 ---
 title: "Phaway viajes"
 url: /rufino/phaway-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

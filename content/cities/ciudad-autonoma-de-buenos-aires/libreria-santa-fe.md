@@ -1,5 +1,5 @@
 ---
 title: "Librería Santa Fe"
 url: /ciudad-autonoma-de-buenos-aires/libreria-santa-fe/
-shop: Schreibwaren
+shop: material de oficina
 ---

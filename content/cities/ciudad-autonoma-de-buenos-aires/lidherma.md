@@ -1,5 +1,5 @@
 ---
 title: "Lidherma"
 url: /ciudad-autonoma-de-buenos-aires/lidherma/
-shop: Kosmetik
+shop: cosméticos
 ---

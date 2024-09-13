@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /san-fernando/norauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

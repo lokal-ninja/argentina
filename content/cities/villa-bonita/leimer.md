@@ -1,5 +1,5 @@
 ---
 title: "Leimer"
 url: /villa-bonita/leimer/
-shop: Autoteile
+shop: piezas de automóviles
 ---

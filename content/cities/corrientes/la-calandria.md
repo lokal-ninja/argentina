@@ -1,5 +1,5 @@
 ---
 title: "La Calandria"
 url: /corrientes/la-calandria/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peisa"
 url: /olivos/peisa/
-shop: Badezimmer
+shop: cuarto de baño
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Alemax"
 url: /neuquen/lubricentro-alemax/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

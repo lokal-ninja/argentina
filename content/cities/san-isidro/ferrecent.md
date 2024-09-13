@@ -1,5 +1,5 @@
 ---
 title: "Ferrecent"
 url: /san-isidro/ferrecent/
-shop: Eisenwaren
+shop: hardware
 ---

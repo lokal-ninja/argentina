@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /santiago-del-estero/easy/
-shop: Supermarkt
+shop: supermercado
 ---

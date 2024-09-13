@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /zapala/fiat/
-shop: Autohaus
+shop: coche
 ---

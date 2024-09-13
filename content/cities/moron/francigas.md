@@ -1,5 +1,5 @@
 ---
 title: "Francigás"
 url: /moron/francigas/
-shop: Eisenwaren
+shop: hardware
 ---

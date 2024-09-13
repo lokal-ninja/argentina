@@ -1,5 +1,5 @@
 ---
 title: "Battisti"
 url: /hasenkamp/battisti/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gragus"
 url: /ciudad-autonoma-de-buenos-aires/gragus/
-shop: Allgemein
+shop: general
 ---

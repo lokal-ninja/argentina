@@ -1,5 +1,5 @@
 ---
 title: "Victor Alonso"
 url: /margarita-belen/victor-alonso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

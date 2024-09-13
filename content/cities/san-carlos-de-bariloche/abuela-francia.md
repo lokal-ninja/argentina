@@ -1,5 +1,5 @@
 ---
 title: "Abuela Francia"
 url: /san-carlos-de-bariloche/abuela-francia/
-shop: Lebensmittel
+shop: comodidad
 ---

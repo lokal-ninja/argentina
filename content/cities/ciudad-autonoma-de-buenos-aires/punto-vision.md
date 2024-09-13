@@ -1,5 +1,5 @@
 ---
 title: "Punto visión"
 url: /ciudad-autonoma-de-buenos-aires/punto-vision/
-shop: Optiker
+shop: óptico
 ---

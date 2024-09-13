@@ -1,5 +1,5 @@
 ---
 title: "Miami"
 url: /ciudad-autonoma-de-buenos-aires/miami/
-shop: Lebensmittel
+shop: comodidad
 ---

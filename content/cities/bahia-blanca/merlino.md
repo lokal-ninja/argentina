@@ -1,5 +1,5 @@
 ---
 title: "Merlino"
 url: /bahia-blanca/merlino/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

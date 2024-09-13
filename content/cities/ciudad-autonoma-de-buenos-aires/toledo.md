@@ -1,5 +1,5 @@
 ---
 title: "Toledo"
 url: /ciudad-autonoma-de-buenos-aires/toledo/
-shop: Bäckerei
+shop: panadería
 ---

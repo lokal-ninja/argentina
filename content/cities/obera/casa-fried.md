@@ -1,5 +1,5 @@
 ---
 title: "Casa Fried"
 url: /obera/casa-fried/
-shop: Haushaltsgeräte
+shop: aparato
 ---

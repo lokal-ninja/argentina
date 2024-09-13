@@ -1,5 +1,5 @@
 ---
 title: "DAPA Sanitarios"
 url: /casilda/dapa-sanitarios/
-shop: Badezimmer
+shop: cuarto de baño
 ---

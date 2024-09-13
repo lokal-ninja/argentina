@@ -1,5 +1,5 @@
 ---
 title: "Papelera Devoto"
 url: /ciudad-autonoma-de-buenos-aires/papelera-devoto/
-shop: Schreibwaren
+shop: material de oficina
 ---

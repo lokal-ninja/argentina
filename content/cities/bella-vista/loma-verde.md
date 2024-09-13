@@ -1,5 +1,5 @@
 ---
 title: "LOMA VERDE"
 url: /bella-vista/loma-verde/
-shop: Garten-Center
+shop: centro de jardinería
 ---

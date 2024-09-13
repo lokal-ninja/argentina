@@ -1,5 +1,5 @@
 ---
 title: "Vivero Naturalia"
 url: /rosario/vivero-naturalia/
-shop: Blumen
+shop: floristería
 ---

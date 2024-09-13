@@ -1,5 +1,5 @@
 ---
 title: "Maxiquisco"
 url: /ciudad-autonoma-de-buenos-aires/maxiquisco/
-shop: Lebensmittel
+shop: comodidad
 ---

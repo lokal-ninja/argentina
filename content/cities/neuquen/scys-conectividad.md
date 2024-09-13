@@ -1,5 +1,5 @@
 ---
 title: "SCYS Conectividad"
 url: /neuquen/scys-conectividad/
-shop: Handy
+shop: teléfono móvil
 ---

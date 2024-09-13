@@ -1,5 +1,5 @@
 ---
 title: "Laverap"
 url: /ciudad-autonoma-de-buenos-aires/laverap-padilla/
-shop: Wäscherei
+shop: lavandería
 ---

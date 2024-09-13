@@ -1,5 +1,5 @@
 ---
 title: "Winery"
 url: /mendoza/winery/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Villa Sol"
 url: /salsipuedes/distribuidora-villa-sol/
-shop: Dorfladen
+shop: tienda rural
 ---

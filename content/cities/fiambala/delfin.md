@@ -1,5 +1,5 @@
 ---
 title: "Delfin"
 url: /fiambala/delfin/
-shop: Supermarkt
+shop: supermercado
 ---

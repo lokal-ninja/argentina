@@ -1,5 +1,5 @@
 ---
 title: "Sophy"
 url: /martinez/sophy/
-shop: Kleidung
+shop: ropa
 ---

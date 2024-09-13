@@ -1,5 +1,5 @@
 ---
 title: "Roma"
 url: /bahia-blanca/roma/
-shop: Kleidung
+shop: ropa
 ---

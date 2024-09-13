@@ -1,5 +1,5 @@
 ---
 title: "Chery"
 url: /rio-grande/chery/
-shop: Autohaus
+shop: coche
 ---

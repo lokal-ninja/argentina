@@ -1,5 +1,5 @@
 ---
 title: "Aguamarina"
 url: /ciudad-autonoma-de-buenos-aires/aguamarina/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Esquina"
 url: /corrientes/la-esquina/
-shop: Kleidung
+shop: ropa
 ---

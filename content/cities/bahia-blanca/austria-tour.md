@@ -1,5 +1,5 @@
 ---
 title: "Austria Tour"
 url: /bahia-blanca/austria-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

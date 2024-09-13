@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /neuquen/volkswagen/
-shop: Autohaus
+shop: coche
 ---

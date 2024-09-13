@@ -1,5 +1,5 @@
 ---
 title: "Motores Balderramo"
 url: /san-juan/motores-balderramo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

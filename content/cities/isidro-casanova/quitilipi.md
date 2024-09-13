@@ -1,5 +1,5 @@
 ---
 title: "Quitilipi"
 url: /isidro-casanova/quitilipi/
-shop: Supermarkt
+shop: supermercado
 ---

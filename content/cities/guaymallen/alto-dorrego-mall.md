@@ -1,5 +1,5 @@
 ---
 title: "Alto Dorrego Mall"
 url: /guaymallen/alto-dorrego-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

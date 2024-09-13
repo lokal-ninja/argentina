@@ -1,5 +1,5 @@
 ---
 title: "Peluccio"
 url: /rufino/peluccio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

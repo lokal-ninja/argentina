@@ -1,5 +1,5 @@
 ---
 title: "Encantada"
 url: /la-tablada/encantada/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megatone"
 url: /mar-del-plata/megatone/
-shop: Elektronik
+shop: electrónica
 ---

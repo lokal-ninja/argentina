@@ -1,5 +1,5 @@
 ---
 title: "La Faustina"
 url: /martinez/la-faustina/
-shop: Raumausstattung
+shop: decoración interior
 ---

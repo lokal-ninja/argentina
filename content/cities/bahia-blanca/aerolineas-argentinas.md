@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Argentinas"
 url: /bahia-blanca/aerolineas-argentinas/
-shop: Reisebüro
+shop: agencia de viajes
 ---

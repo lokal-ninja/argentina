@@ -1,5 +1,5 @@
 ---
 title: "Mailu"
 url: /villa-maipu/mailu/
-shop: Drogerie
+shop: farmacia
 ---

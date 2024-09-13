@@ -1,5 +1,5 @@
 ---
 title: "Xin"
 url: /ciudad-autonoma-de-buenos-aires/xin/
-shop: Supermarkt
+shop: supermercado
 ---

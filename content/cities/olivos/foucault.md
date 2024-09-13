@@ -1,5 +1,5 @@
 ---
 title: "Foucault"
 url: /olivos/foucault/
-shop: Optiker
+shop: óptico
 ---

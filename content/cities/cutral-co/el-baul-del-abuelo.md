@@ -1,5 +1,5 @@
 ---
 title: "El Baúl del Abuelo"
 url: /cutral-co/el-baul-del-abuelo/
-shop: Raumausstattung
+shop: decoración interior
 ---

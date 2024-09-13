@@ -1,5 +1,5 @@
 ---
 title: "Averigualo"
 url: /albardon/averigualo/
-shop: Lebensmittel
+shop: comodidad
 ---

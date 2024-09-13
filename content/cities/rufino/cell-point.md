@@ -1,5 +1,5 @@
 ---
 title: "Cell Point"
 url: /rufino/cell-point/
-shop: Handy
+shop: teléfono móvil
 ---

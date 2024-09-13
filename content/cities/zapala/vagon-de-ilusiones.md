@@ -1,5 +1,5 @@
 ---
 title: "Vagón de Ilusiones"
 url: /zapala/vagon-de-ilusiones/
-shop: Spielzeug
+shop: juguetes
 ---

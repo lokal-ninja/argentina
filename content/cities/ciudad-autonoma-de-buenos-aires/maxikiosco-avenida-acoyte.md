@@ -1,5 +1,5 @@
 ---
 title: "Maxikiosco"
 url: /ciudad-autonoma-de-buenos-aires/maxikiosco-avenida-acoyte/
-shop: Lebensmittel
+shop: comodidad
 ---

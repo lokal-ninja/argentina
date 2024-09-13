@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /santa-rosa/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

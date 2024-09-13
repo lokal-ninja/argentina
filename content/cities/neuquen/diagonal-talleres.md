@@ -1,5 +1,5 @@
 ---
 title: "Diagonal Talleres"
 url: /neuquen/diagonal-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BRM Yamaha"
 url: /vicente-lopez/brm-yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

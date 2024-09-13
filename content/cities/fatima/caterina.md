@@ -1,5 +1,5 @@
 ---
 title: "Caterina"
 url: /fatima/caterina/
-shop: Kiosk
+shop: quiosco
 ---

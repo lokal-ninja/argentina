@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Mi Barrio"
 url: /cipolletti/minimercado-mi-barrio/
-shop: Lebensmittel
+shop: comodidad
 ---

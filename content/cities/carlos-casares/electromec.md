@@ -1,5 +1,5 @@
 ---
 title: "ElectroMec"
 url: /carlos-casares/electromec/
-shop: Radiotechnik
+shop: radiotecnia
 ---

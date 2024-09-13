@@ -1,5 +1,5 @@
 ---
 title: "Luiseto"
 url: /ciudad-autonoma-de-buenos-aires/luiseto/
-shop: Schmuck
+shop: joyería
 ---

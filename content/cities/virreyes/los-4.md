@@ -1,5 +1,5 @@
 ---
 title: "Los 4"
 url: /virreyes/los-4/
-shop: Feinkost
+shop: charcutería
 ---

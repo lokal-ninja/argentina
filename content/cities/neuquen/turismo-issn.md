@@ -1,5 +1,5 @@
 ---
 title: "Turismo ISSN"
 url: /neuquen/turismo-issn/
-shop: Reisebüro
+shop: agencia de viajes
 ---

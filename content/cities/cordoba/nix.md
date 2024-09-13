@@ -1,5 +1,5 @@
 ---
 title: "Nix"
 url: /cordoba/nix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

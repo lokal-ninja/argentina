@@ -1,5 +1,5 @@
 ---
 title: "Tiro Loco"
 url: /gaiman/tiro-loco/
-shop: Waffen
+shop: armas
 ---

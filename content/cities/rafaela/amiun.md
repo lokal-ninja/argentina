@@ -1,5 +1,5 @@
 ---
 title: "Amiun"
 url: /rafaela/amiun/
-shop: Autohaus
+shop: coche
 ---

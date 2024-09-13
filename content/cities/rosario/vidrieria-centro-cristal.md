@@ -1,5 +1,5 @@
 ---
 title: "Vidriería Centro Cristal"
 url: /rosario/vidrieria-centro-cristal/
-shop: Glaserei
+shop: vidriería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplitone Martínez"
 url: /martinez/amplitone-martinez/
-shop: Hörgeräte
+shop: audífonos
 ---

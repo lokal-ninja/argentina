@@ -1,5 +1,5 @@
 ---
 title: "Fadat"
 url: /neuquen/fadat/
-shop: Autoteile
+shop: piezas de automóviles
 ---

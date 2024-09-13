@@ -1,5 +1,5 @@
 ---
 title: "Gandhi"
 url: /ciudad-autonoma-de-buenos-aires/gandhi/
-shop: Bücher
+shop: libros
 ---

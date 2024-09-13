@@ -1,5 +1,5 @@
 ---
 title: "Deli Moon"
 url: /martinez/deli-moon/
-shop: Feinkost
+shop: charcutería
 ---

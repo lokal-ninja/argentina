@@ -1,5 +1,5 @@
 ---
 title: "Touratech Argentina"
 url: /olivos/touratech-argentina/
-shop: Motorrad
+shop: motocicleta
 ---

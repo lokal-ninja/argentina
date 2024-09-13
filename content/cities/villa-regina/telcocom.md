@@ -1,5 +1,5 @@
 ---
 title: "Telcocom"
 url: /villa-regina/telcocom/
-shop: Handy
+shop: teléfono móvil
 ---

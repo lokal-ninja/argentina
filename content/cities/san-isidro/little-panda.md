@@ -1,5 +1,5 @@
 ---
 title: "Little Panda"
 url: /san-isidro/little-panda/
-shop: Babysachen
+shop: artículos para bebés
 ---

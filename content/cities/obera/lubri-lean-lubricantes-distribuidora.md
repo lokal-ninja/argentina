@@ -1,5 +1,5 @@
 ---
 title: "Lubri-Lean Lubricantes - Distribuidora"
 url: /obera/lubri-lean-lubricantes-distribuidora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

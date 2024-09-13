@@ -1,5 +1,5 @@
 ---
 title: "TodoVolkswagen"
 url: /neuquen/todovolkswagen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pax Travel"
 url: /ciudad-autonoma-de-buenos-aires/pax-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

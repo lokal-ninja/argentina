@@ -1,5 +1,5 @@
 ---
 title: "Don Borges"
 url: /posadas/don-borges/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

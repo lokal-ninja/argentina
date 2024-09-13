@@ -1,5 +1,5 @@
 ---
 title: "Risso"
 url: /santa-fe/risso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

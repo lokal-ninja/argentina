@@ -1,5 +1,5 @@
 ---
 title: "Ebauche"
 url: /allen/ebauche/
-shop: Schmuck
+shop: joyería
 ---

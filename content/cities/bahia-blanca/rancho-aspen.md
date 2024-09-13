@@ -1,5 +1,5 @@
 ---
 title: "Rancho Aspen"
 url: /bahia-blanca/rancho-aspen/
-shop: Kleidung
+shop: ropa
 ---

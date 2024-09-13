@@ -1,5 +1,5 @@
 ---
 title: "Cheeky"
 url: /viedma/cheeky/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timark"
 url: /neuquen/timark/
-shop: Kleidung
+shop: ropa
 ---

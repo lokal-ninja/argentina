@@ -1,5 +1,5 @@
 ---
 title: "LubriFox Mobil"
 url: /billinghurst/lubrifox-mobil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

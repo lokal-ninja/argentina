@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /neuquen/chevrolet-general-winter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

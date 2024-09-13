@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /viedma/cooperativa-obrera-periodistas-argentinos/
-shop: Supermarkt
+shop: supermercado
 ---

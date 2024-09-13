@@ -1,5 +1,5 @@
 ---
 title: "Pastas Yoyi's"
 url: /carlos-casares/pastas-yoyis/
-shop: Pasta
+shop: pasta
 ---

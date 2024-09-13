@@ -1,5 +1,5 @@
 ---
 title: "Nexit"
 url: /presidencia-roque-saenz-pena/nexit/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YPF - Comercial Diego"
 url: /rufino/ypf-comercial-diego/
-shop: Allgemein
+shop: general
 ---

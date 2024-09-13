@@ -1,5 +1,5 @@
 ---
 title: "Pinturerías Alba"
 url: /ciudad-autonoma-de-buenos-aires/pinturerias-alba/
-shop: Farben
+shop: pintura
 ---

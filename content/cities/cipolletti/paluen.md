@@ -1,5 +1,5 @@
 ---
 title: "Paluen"
 url: /cipolletti/paluen/
-shop: Metzgerei
+shop: carnicero
 ---

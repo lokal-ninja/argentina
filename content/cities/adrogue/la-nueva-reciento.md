@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Reciento"
 url: /adrogue/la-nueva-reciento/
-shop: Bäckerei
+shop: panadería
 ---

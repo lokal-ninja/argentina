@@ -1,5 +1,5 @@
 ---
 title: "Taller Chapista."
 url: /campana/taller-chapista/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

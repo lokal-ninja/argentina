@@ -1,5 +1,5 @@
 ---
 title: "IELEC Electricidad"
 url: /azul/ielec-electricidad/
-shop: Elektrisch
+shop: eléctrico
 ---

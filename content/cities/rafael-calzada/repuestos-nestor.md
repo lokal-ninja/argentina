@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Néstor"
 url: /rafael-calzada/repuestos-nestor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

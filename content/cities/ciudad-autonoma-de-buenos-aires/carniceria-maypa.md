@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Maypa"
 url: /ciudad-autonoma-de-buenos-aires/carniceria-maypa/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FITSTORE"
 url: /resistencia/fitstore/
-shop: Allgemein
+shop: general
 ---

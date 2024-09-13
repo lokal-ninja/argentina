@@ -1,5 +1,5 @@
 ---
 title: "Grupo Fierro"
 url: /ciudad-autonoma-de-buenos-aires/grupo-fierro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

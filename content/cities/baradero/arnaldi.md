@@ -1,5 +1,5 @@
 ---
 title: "Arnaldi"
 url: /baradero/arnaldi/
-shop: Motorrad
+shop: motocicleta
 ---

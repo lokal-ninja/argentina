@@ -1,5 +1,5 @@
 ---
 title: "Yamato Diesel"
 url: /lomas-de-zamora/yamato-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

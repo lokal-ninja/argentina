@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /obera/despensa/
-shop: Lebensmittel
+shop: comodidad
 ---

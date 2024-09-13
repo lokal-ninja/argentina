@@ -1,5 +1,5 @@
 ---
 title: "Estrella"
 url: /obera/estrella/
-shop: Supermarkt
+shop: supermercado
 ---

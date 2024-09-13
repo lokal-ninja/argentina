@@ -1,5 +1,5 @@
 ---
 title: "Posta Norte"
 url: /federacion/posta-norte/
-shop: Lebensmittel
+shop: comodidad
 ---

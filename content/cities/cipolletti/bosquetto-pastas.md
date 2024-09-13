@@ -1,5 +1,5 @@
 ---
 title: "Bosquetto Pastas"
 url: /cipolletti/bosquetto-pastas/
-shop: Pasta
+shop: pasta
 ---

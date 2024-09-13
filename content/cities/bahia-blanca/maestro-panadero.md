@@ -1,5 +1,5 @@
 ---
 title: "Maestro Panadero"
 url: /bahia-blanca/maestro-panadero/
-shop: Bäckerei
+shop: panadería
 ---

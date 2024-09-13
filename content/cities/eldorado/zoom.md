@@ -1,5 +1,5 @@
 ---
 title: "Zoom"
 url: /eldorado/zoom/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería P"
 url: /resistencia/peluqueria-p/
-shop: Friseur
+shop: peluquería
 ---

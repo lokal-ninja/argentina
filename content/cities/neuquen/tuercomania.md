@@ -1,5 +1,5 @@
 ---
 title: "Tuercomanía"
 url: /neuquen/tuercomania/
-shop: Autoteile
+shop: piezas de automóviles
 ---

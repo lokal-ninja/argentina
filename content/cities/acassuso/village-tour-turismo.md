@@ -1,5 +1,5 @@
 ---
 title: "Village Tour - Turismo"
 url: /acassuso/village-tour-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

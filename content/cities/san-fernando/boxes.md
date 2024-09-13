@@ -1,5 +1,5 @@
 ---
 title: "Boxes"
 url: /san-fernando/boxes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

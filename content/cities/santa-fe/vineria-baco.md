@@ -1,5 +1,5 @@
 ---
 title: "Vinería Baco"
 url: /santa-fe/vineria-baco/
-shop: Wein
+shop: vino
 ---

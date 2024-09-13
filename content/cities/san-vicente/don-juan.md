@@ -1,5 +1,5 @@
 ---
 title: "Don Juan"
 url: /san-vicente/don-juan/
-shop: Eisenwaren
+shop: hardware
 ---

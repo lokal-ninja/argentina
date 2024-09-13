@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Vetrano"
 url: /san-isidro/ortopedia-vetrano/
-shop: Schuhe
+shop: zapatos
 ---

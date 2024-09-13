@@ -1,5 +1,5 @@
 ---
 title: "Portal de Madryn"
 url: /puerto-madryn/portal-de-madryn/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

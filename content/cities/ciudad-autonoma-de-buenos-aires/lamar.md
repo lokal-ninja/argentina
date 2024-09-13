@@ -1,5 +1,5 @@
 ---
 title: "Lamar"
 url: /ciudad-autonoma-de-buenos-aires/lamar/
-shop: Allgemein
+shop: general
 ---

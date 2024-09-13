@@ -1,5 +1,5 @@
 ---
 title: "Strategos"
 url: /cipolletti/strategos/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sagreña"
 url: /cipolletti/sagrena/
-shop: Pasta
+shop: pasta
 ---

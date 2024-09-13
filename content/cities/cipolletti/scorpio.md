@@ -1,5 +1,5 @@
 ---
 title: "Scorpio"
 url: /cipolletti/scorpio/
-shop: Schmuck
+shop: joyería
 ---

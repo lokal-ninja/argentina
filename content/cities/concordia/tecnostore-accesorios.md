@@ -1,5 +1,5 @@
 ---
 title: "TecnoStore Accesorios"
 url: /concordia/tecnostore-accesorios/
-shop: Handy
+shop: teléfono móvil
 ---

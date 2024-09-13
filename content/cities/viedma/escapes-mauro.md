@@ -1,5 +1,5 @@
 ---
 title: "Escapes Mauro"
 url: /viedma/escapes-mauro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

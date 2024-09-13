@@ -1,5 +1,5 @@
 ---
 title: "Tiziano"
 url: /neuquen/tiziano/
-shop: Friseur
+shop: peluquería
 ---

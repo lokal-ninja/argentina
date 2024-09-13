@@ -1,5 +1,5 @@
 ---
 title: "A+"
 url: /rosario/a-cordoba/
-shop: Kleidung
+shop: ropa
 ---

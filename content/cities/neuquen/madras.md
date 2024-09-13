@@ -1,5 +1,5 @@
 ---
 title: "Madras"
 url: /neuquen/madras/
-shop: Schuhe
+shop: zapatos
 ---

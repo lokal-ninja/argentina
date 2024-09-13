@@ -1,5 +1,5 @@
 ---
 title: "Interplot"
 url: /santa-fe/interplot/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pollería"
 url: /capiovi/polleria/
-shop: Metzgerei
+shop: carnicero
 ---

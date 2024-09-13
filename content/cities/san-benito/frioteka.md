@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /san-benito/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

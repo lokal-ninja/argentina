@@ -1,5 +1,5 @@
 ---
 title: "Oxigeno Deportes"
 url: /cafayate/oxigeno-deportes/
-shop: Sport
+shop: deportes
 ---

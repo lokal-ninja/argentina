@@ -1,5 +1,5 @@
 ---
 title: "Piu Papelería"
 url: /caba/piu-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

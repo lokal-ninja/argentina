@@ -1,5 +1,5 @@
 ---
 title: "Conceptos"
 url: /neuquen/conceptos/
-shop: Kleidung
+shop: ropa
 ---

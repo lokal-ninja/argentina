@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
 url: /campana/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

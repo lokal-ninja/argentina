@@ -1,5 +1,5 @@
 ---
 title: "Ferreteca"
 url: /azul/ferreteca/
-shop: Eisenwaren
+shop: hardware
 ---

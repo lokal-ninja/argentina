@@ -1,5 +1,5 @@
 ---
 title: "OdontoSur"
 url: /neuquen/odontosur/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

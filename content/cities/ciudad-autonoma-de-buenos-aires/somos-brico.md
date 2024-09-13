@@ -1,5 +1,5 @@
 ---
 title: "Somos Brico"
 url: /ciudad-autonoma-de-buenos-aires/somos-brico/
-shop: Eisenwaren
+shop: hardware
 ---

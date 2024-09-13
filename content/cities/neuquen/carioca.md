@@ -1,5 +1,5 @@
 ---
 title: "Carioca"
 url: /neuquen/carioca/
-shop: Partyzubehör
+shop: fiesta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /vicente-lopez/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

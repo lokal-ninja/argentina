@@ -1,5 +1,5 @@
 ---
 title: "Cocheria Santa Rita"
 url: /las-brenas/cocheria-santa-rita/
-shop: Bestattungen
+shop: directores de funerarias
 ---

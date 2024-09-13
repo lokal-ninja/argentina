@@ -1,5 +1,5 @@
 ---
 title: "Angustia"
 url: /margarita-belen/angustia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

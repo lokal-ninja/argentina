@@ -1,5 +1,5 @@
 ---
 title: "HTG"
 url: /ciudad-autonoma-de-buenos-aires/htg/
-shop: Handy
+shop: teléfono móvil
 ---

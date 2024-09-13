@@ -1,5 +1,5 @@
 ---
 title: "Annia"
 url: /miramar/annia/
-shop: Kleidung
+shop: ropa
 ---

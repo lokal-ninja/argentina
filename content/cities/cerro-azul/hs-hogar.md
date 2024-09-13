@@ -1,5 +1,5 @@
 ---
 title: "HS Hogar"
 url: /cerro-azul/hs-hogar/
-shop: Haushaltsgeräte
+shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multirrubros GYM"
 url: /pozo-azul/multirrubros-gym/
-shop: Eisenwaren
+shop: hardware
 ---

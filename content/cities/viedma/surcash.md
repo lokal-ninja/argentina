@@ -1,5 +1,5 @@
 ---
 title: "Surcash"
 url: /viedma/surcash/
-shop: Leiher
+shop: prestamista
 ---

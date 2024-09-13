@@ -1,5 +1,5 @@
 ---
 title: "Este"
 url: /ciudad-autonoma-de-buenos-aires/este/
-shop: Supermarkt
+shop: supermercado
 ---

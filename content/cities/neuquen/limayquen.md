@@ -1,5 +1,5 @@
 ---
 title: "Limayquén"
 url: /neuquen/limayquen/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

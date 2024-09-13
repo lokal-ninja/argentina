@@ -1,5 +1,5 @@
 ---
 title: "Ferniplast"
 url: /cordoba/ferniplast-ituzaingo/
-shop: Allgemein
+shop: general
 ---

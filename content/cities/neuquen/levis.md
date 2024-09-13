@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /neuquen/levis/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Del Centro"
 url: /ciudad-autonoma-de-buenos-aires/del-centro-pringles/
-shop: Farben
+shop: pintura
 ---

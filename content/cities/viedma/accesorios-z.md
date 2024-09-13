@@ -1,5 +1,5 @@
 ---
 title: "Accesorios Z"
 url: /viedma/accesorios-z/
-shop: Autoteile
+shop: piezas de automóviles
 ---

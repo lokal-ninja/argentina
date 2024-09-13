@@ -1,5 +1,5 @@
 ---
 title: "Naldo"
 url: /neuquen/naldo/
-shop: Elektronik
+shop: electrónica
 ---

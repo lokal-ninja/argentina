@@ -1,5 +1,5 @@
 ---
 title: "Neumen"
 url: /ramos-mejia/neumen/
-shop: Reifen
+shop: neumáticos
 ---

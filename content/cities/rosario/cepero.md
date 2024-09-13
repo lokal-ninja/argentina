@@ -1,5 +1,5 @@
 ---
 title: "Cepero"
 url: /rosario/cepero/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IXNOVA"
 url: /castelar/ixnova/
-shop: Eisenwaren
+shop: hardware
 ---

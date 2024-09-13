@@ -1,5 +1,5 @@
 ---
 title: "Proviamo"
 url: /ciudad-autonoma-de-buenos-aires/proviamo/
-shop: Feinkost
+shop: charcutería
 ---

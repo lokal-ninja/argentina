@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Paris"
 url: /san-juan/boulevard-paris/
-shop: Autohaus
+shop: coche
 ---

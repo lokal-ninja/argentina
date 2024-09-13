@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Jorge"
 url: /ciudad-autonoma-de-buenos-aires/repuestos-jorge/
-shop: Autoteile
+shop: piezas de automóviles
 ---

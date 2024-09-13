@@ -1,5 +1,5 @@
 ---
 title: "Autoradio"
 url: /ciudad-autonoma-de-buenos-aires/autoradio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

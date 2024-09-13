@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /el-soberbio/nautica/
-shop: Kleidung
+shop: ropa
 ---

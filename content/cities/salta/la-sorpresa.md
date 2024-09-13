@@ -1,5 +1,5 @@
 ---
 title: "La sorpresa."
 url: /salta/la-sorpresa/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Soldimet"
 url: /neuquen/soldimet/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hernán Automotores"
 url: /obera/hernan-automotores/
-shop: Autohaus
+shop: coche
 ---

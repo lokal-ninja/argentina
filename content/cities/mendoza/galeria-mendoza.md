@@ -1,5 +1,5 @@
 ---
 title: "Galería Mendoza"
 url: /mendoza/galeria-mendoza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

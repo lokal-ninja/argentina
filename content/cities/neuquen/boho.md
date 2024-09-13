@@ -1,5 +1,5 @@
 ---
 title: "BOHO"
 url: /neuquen/boho/
-shop: Kleidung
+shop: ropa
 ---

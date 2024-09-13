@@ -1,5 +1,5 @@
 ---
 title: "Chevrosur"
 url: /cipolletti/chevrosur/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Davitel"
 url: /general-fernandez-oro/davitel/
-shop: Handy
+shop: teléfono móvil
 ---

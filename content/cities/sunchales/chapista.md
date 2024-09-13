@@ -1,5 +1,5 @@
 ---
 title: "Chapista"
 url: /sunchales/chapista/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

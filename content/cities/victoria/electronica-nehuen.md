@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Nehuen"
 url: /victoria/electronica-nehuen/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rustico"
 url: /azul/rustico/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Técnica"
 url: /villa-maria/la-tecnica/
-shop: Bäckerei
+shop: panadería
 ---

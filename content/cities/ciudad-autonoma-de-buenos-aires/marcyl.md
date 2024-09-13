@@ -1,5 +1,5 @@
 ---
 title: "Marcyl"
 url: /ciudad-autonoma-de-buenos-aires/marcyl/
-shop: Tabak
+shop: tabaco
 ---

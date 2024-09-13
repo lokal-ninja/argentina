@@ -1,5 +1,5 @@
 ---
 title: "Pro Motors"
 url: /martinez/pro-motors/
-shop: Motorrad
+shop: motocicleta
 ---

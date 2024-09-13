@@ -1,5 +1,5 @@
 ---
 title: "María del Carmen"
 url: /tigre/maria-del-carmen/
-shop: Friseur
+shop: peluquería
 ---

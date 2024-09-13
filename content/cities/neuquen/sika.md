@@ -1,5 +1,5 @@
 ---
 title: "Sika"
 url: /neuquen/sika/
-shop: Baustoffe
+shop: comercio
 ---

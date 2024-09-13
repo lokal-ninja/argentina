@@ -1,5 +1,5 @@
 ---
 title: "Venta de Autos"
 url: /campana/venta-de-autos/
-shop: Autohaus
+shop: coche
 ---

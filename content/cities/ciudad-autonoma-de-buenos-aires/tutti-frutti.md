@@ -1,5 +1,5 @@
 ---
 title: "Tutti Frutti"
 url: /ciudad-autonoma-de-buenos-aires/tutti-frutti/
-shop: Gemüse & Obst
+shop: frutería
 ---

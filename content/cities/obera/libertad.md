@@ -1,5 +1,5 @@
 ---
 title: "Libertad"
 url: /obera/libertad/
-shop: Supermarkt
+shop: supermercado
 ---

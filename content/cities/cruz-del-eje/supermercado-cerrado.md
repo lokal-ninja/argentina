@@ -1,5 +1,5 @@
 ---
 title: "Supermercado (Cerrado)"
 url: /cruz-del-eje/supermercado-cerrado/
-shop: Supermarkt
+shop: supermercado
 ---

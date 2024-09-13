@@ -1,5 +1,5 @@
 ---
 title: "Ferrosur"
 url: /rincon-de-los-sauces/ferrosur/
-shop: Eisenwaren
+shop: hardware
 ---

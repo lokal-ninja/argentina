@@ -1,5 +1,5 @@
 ---
 title: "Bulonera Jorge"
 url: /eldorado/bulonera-jorge/
-shop: Eisenwaren
+shop: hardware
 ---

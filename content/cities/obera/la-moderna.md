@@ -1,5 +1,5 @@
 ---
 title: "La Moderna"
 url: /obera/la-moderna/
-shop: Kramladen
+shop: tienda de variedades
 ---

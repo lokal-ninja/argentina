@@ -1,5 +1,5 @@
 ---
 title: "Nelson Genoud"
 url: /pergamino/nelson-genoud/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

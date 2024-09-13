@@ -1,5 +1,5 @@
 ---
 title: "Tino"
 url: /ciudad-autonoma-de-buenos-aires/tino/
-shop: Eisprodukte
+shop: helado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller JF"
 url: /cipolletti/taller-jf/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

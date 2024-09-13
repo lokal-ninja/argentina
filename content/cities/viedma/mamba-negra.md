@@ -1,5 +1,5 @@
 ---
 title: "Mamba Negra"
 url: /viedma/mamba-negra/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patricio"
 url: /san-justo/patricio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

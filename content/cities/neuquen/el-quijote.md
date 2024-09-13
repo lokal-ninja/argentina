@@ -1,5 +1,5 @@
 ---
 title: "El Quijote"
 url: /neuquen/el-quijote/
-shop: Schreibwaren
+shop: material de oficina
 ---

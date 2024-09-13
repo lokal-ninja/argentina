@@ -1,5 +1,5 @@
 ---
 title: "Gamar SRL"
 url: /comodoro-rivadavia/gamar-srl/
-shop: Metzgerei
+shop: carnicero
 ---

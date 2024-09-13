@@ -1,5 +1,5 @@
 ---
 title: "Tropea"
 url: /neuquen/tropea/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Chacra Carnicería"
 url: /resistencia/la-chacra-carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

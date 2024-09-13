@@ -1,5 +1,5 @@
 ---
 title: "Brisa"
 url: /franck/brisa/
-shop: Bäckerei
+shop: panadería
 ---

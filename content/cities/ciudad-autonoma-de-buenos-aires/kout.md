@@ -1,5 +1,5 @@
 ---
 title: "Kout"
 url: /ciudad-autonoma-de-buenos-aires/kout/
-shop: Kleidung
+shop: ropa
 ---

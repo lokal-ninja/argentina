@@ -1,5 +1,5 @@
 ---
 title: "Embrague Concordia"
 url: /concordia/embrague-concordia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

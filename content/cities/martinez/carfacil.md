@@ -1,5 +1,5 @@
 ---
 title: "Carfácil"
 url: /martinez/carfacil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

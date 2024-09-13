@@ -1,5 +1,5 @@
 ---
 title: "Catamos"
 url: /victoria/catamos/
-shop: Wein
+shop: vino
 ---

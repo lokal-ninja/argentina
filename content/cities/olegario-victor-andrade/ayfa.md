@@ -1,5 +1,5 @@
 ---
 title: "Ayfa"
 url: /olegario-victor-andrade/ayfa/
-shop: Eisenwaren
+shop: hardware
 ---

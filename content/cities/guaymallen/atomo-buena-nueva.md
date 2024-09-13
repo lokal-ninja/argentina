@@ -1,5 +1,5 @@
 ---
 title: "Átomo (Buena Nueva)"
 url: /guaymallen/atomo-buena-nueva/
-shop: Supermarkt
+shop: supermercado
 ---

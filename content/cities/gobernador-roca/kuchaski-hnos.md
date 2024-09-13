@@ -1,5 +1,5 @@
 ---
 title: "Kuchaski Hnos."
 url: /gobernador-roca/kuchaski-hnos/
-shop: Supermarkt
+shop: supermercado
 ---

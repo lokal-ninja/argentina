@@ -1,5 +1,5 @@
 ---
 title: "IndusFren"
 url: /cipolletti/indusfren/
-shop: Autoteile
+shop: piezas de automóviles
 ---

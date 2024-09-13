@@ -1,5 +1,5 @@
 ---
 title: "Santa Erica"
 url: /general-san-martin/santa-erica/
-shop: Bäckerei
+shop: panadería
 ---

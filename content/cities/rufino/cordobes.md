@@ -1,5 +1,5 @@
 ---
 title: "Cordobes"
 url: /rufino/cordobes/
-shop: Gemüse & Obst
+shop: frutería
 ---

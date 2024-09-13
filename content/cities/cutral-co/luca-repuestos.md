@@ -1,5 +1,5 @@
 ---
 title: "Luca Repuestos"
 url: /cutral-co/luca-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Becca Shoes"
 url: /azul/becca-shoes/
-shop: Schuhe
+shop: zapatos
 ---

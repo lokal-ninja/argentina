@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /pergamino/vea/
-shop: Supermarkt
+shop: supermercado
 ---

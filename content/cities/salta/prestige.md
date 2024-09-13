@@ -1,5 +1,5 @@
 ---
 title: "PRESTIGE"
 url: /salta/prestige/
-shop: Friseur
+shop: peluquería
 ---

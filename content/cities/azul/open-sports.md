@@ -1,5 +1,5 @@
 ---
 title: "Open Sports"
 url: /azul/open-sports/
-shop: Sport
+shop: deportes
 ---

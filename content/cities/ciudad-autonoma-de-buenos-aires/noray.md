@@ -1,5 +1,5 @@
 ---
 title: "Noray"
 url: /ciudad-autonoma-de-buenos-aires/noray/
-shop: Möbel
+shop: decoración interior
 ---

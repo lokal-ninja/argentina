@@ -1,5 +1,5 @@
 ---
 title: "Liza"
 url: /ciudad-autonoma-de-buenos-aires/liza/
-shop: Allgemein
+shop: general
 ---

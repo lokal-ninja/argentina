@@ -1,5 +1,5 @@
 ---
 title: "Full"
 url: /ciudad-autonoma-de-buenos-aires/full-avenida-dorrego/
-shop: Lebensmittel
+shop: comodidad
 ---

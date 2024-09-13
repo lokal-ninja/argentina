@@ -1,5 +1,5 @@
 ---
 title: "Rex"
 url: /san-andres/rex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

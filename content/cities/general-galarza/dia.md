@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /general-galarza/dia/
-shop: Supermarkt
+shop: supermercado
 ---

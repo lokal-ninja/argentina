@@ -1,5 +1,5 @@
 ---
 title: "Yiyi"
 url: /virreyes/yiyi/
-shop: Schuhe
+shop: zapatos
 ---

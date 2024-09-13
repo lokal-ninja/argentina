@@ -1,5 +1,5 @@
 ---
 title: "Ituran"
 url: /olivos/ituran/
-shop: Autoteile
+shop: piezas de automóviles
 ---

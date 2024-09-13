@@ -1,5 +1,5 @@
 ---
 title: "Nomeolvides"
 url: /rosario-del-tala/nomeolvides/
-shop: Kramladen
+shop: tienda de variedades
 ---

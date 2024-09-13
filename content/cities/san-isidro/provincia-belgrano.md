@@ -1,5 +1,5 @@
 ---
 title: "Provincia"
 url: /san-isidro/provincia-belgrano/
-shop: Lotterie
+shop: lotería
 ---

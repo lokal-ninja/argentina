@@ -1,5 +1,5 @@
 ---
 title: "Azul"
 url: /garupa/azul/
-shop: Schreibwaren
+shop: material de oficina
 ---

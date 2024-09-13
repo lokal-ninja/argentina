@@ -1,5 +1,5 @@
 ---
 title: "Chocolezza"
 url: /mendoza/chocolezza/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gempo"
 url: /obera/gempo/
-shop: Elektronik
+shop: electrónica
 ---

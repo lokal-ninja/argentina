@@ -1,5 +1,5 @@
 ---
 title: "Positivo"
 url: /rufino/positivo/
-shop: Kleidung
+shop: ropa
 ---

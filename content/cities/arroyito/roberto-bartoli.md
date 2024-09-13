@@ -1,5 +1,5 @@
 ---
 title: "Roberto Bartoli"
 url: /arroyito/roberto-bartoli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

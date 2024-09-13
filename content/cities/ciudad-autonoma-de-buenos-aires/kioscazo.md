@@ -1,5 +1,5 @@
 ---
 title: "Kioscazo"
 url: /ciudad-autonoma-de-buenos-aires/kioscazo/
-shop: Supermarkt
+shop: supermercado
 ---

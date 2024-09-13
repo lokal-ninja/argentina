@@ -1,5 +1,5 @@
 ---
 title: "Carontis"
 url: /cipolletti/carontis/
-shop: Landwirtschaftlich
+shop: agraria
 ---

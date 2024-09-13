@@ -1,5 +1,5 @@
 ---
 title: "CelPlaza"
 url: /rosario/celplaza/
-shop: Handy
+shop: teléfono móvil
 ---

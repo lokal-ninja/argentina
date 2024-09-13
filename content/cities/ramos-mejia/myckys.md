@@ -1,5 +1,5 @@
 ---
 title: "Mycky's"
 url: /ramos-mejia/myckys/
-shop: Kleidung
+shop: ropa
 ---

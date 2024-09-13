@@ -1,5 +1,5 @@
 ---
 title: "La Facultad II"
 url: /santa-fe/la-facultad-ii/
-shop: Kiosk
+shop: quiosco
 ---

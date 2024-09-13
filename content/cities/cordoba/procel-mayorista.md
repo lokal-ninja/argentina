@@ -1,5 +1,5 @@
 ---
 title: "Procel Mayorista"
 url: /cordoba/procel-mayorista/
-shop: Handy
+shop: teléfono móvil
 ---

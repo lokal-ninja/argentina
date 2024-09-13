@@ -1,5 +1,5 @@
 ---
 title: "Edipo"
 url: /miramar/edipo/
-shop: Bücher
+shop: libros
 ---

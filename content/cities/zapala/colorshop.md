@@ -1,5 +1,5 @@
 ---
 title: "Colorshop"
 url: /zapala/colorshop/
-shop: Farben
+shop: pintura
 ---

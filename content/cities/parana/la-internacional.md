@@ -1,5 +1,5 @@
 ---
 title: "La Internacional"
 url: /parana/la-internacional/
-shop: Bäckerei
+shop: panadería
 ---

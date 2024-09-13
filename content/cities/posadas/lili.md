@@ -1,5 +1,5 @@
 ---
 title: "Lili"
 url: /posadas/lili/
-shop: Friseur
+shop: peluquería
 ---

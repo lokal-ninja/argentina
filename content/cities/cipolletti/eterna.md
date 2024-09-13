@@ -1,5 +1,5 @@
 ---
 title: "Eterna"
 url: /cipolletti/eterna/
-shop: Kleidung
+shop: ropa
 ---

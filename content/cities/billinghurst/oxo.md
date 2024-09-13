@@ -1,5 +1,5 @@
 ---
 title: "Oxo"
 url: /billinghurst/oxo/
-shop: Türen
+shop: puertas
 ---

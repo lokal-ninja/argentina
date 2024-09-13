@@ -1,5 +1,5 @@
 ---
 title: "Radikal Store"
 url: /cipolletti/radikal-store/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /villa-lynch/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

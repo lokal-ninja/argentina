@@ -1,5 +1,5 @@
 ---
 title: "Espasa"
 url: /ciudad-autonoma-de-buenos-aires/espasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

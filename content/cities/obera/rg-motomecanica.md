@@ -1,5 +1,5 @@
 ---
 title: "RG Motomecánica"
 url: /obera/rg-motomecanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

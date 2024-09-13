@@ -1,5 +1,5 @@
 ---
 title: "Pollo Point"
 url: /santa-fe/pollo-point/
-shop: Metzgerei
+shop: carnicero
 ---

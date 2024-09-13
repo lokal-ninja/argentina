@@ -1,5 +1,5 @@
 ---
 title: "La Pilar"
 url: /ciudad-autonoma-de-buenos-aires/la-pilar/
-shop: Pasta
+shop: pasta
 ---

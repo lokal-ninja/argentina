@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Carlitos"
 url: /rosario/repuestos-carlitos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

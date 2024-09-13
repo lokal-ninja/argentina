@@ -1,5 +1,5 @@
 ---
 title: "Tirreme"
 url: /ciudad-autonoma-de-buenos-aires/tirreme/
-shop: Antiquitäten
+shop: antigüedades
 ---

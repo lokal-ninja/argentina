@@ -1,5 +1,5 @@
 ---
 title: "Navarro Ache"
 url: /martinez/navarro-ache/
-shop: Badezimmer
+shop: cuarto de baño
 ---

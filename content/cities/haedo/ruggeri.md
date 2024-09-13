@@ -1,5 +1,5 @@
 ---
 title: "Ruggeri"
 url: /haedo/ruggeri/
-shop: Motorrad
+shop: motocicleta
 ---

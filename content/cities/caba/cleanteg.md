@@ -1,5 +1,5 @@
 ---
 title: "Cleanteg"
 url: /caba/cleanteg/
-shop: Drogerie
+shop: farmacia
 ---

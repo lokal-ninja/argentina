@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /castelar/coto/
-shop: Supermarkt
+shop: supermercado
 ---

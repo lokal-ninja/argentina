@@ -1,5 +1,5 @@
 ---
 title: "La Orquidea"
 url: /ciudad-autonoma-de-buenos-aires/la-orquidea/
-shop: Bäckerei
+shop: panadería
 ---

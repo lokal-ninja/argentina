@@ -1,5 +1,5 @@
 ---
 title: "Portal Lomas Shopping"
 url: /llavallol/portal-lomas-shopping/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

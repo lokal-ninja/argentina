@@ -1,5 +1,5 @@
 ---
 title: "Boulevard"
 url: /cipolletti/boulevard/
-shop: Kleidung
+shop: ropa
 ---

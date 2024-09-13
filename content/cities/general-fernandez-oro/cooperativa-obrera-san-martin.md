@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /general-fernandez-oro/cooperativa-obrera-san-martin/
-shop: Supermarkt
+shop: supermercado
 ---

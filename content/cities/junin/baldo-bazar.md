@@ -1,5 +1,5 @@
 ---
 title: "Baldo Bazar"
 url: /junin/baldo-bazar/
-shop: Kramladen
+shop: tienda de variedades
 ---

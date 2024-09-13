@@ -1,5 +1,5 @@
 ---
 title: "Le Utthe"
 url: /puerto-madryn/le-utthe/
-shop: Kleidung
+shop: ropa
 ---

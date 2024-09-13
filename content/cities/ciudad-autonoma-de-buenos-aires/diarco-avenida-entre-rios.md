@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /ciudad-autonoma-de-buenos-aires/diarco-avenida-entre-rios/
-shop: Großhandel
+shop: mayorista
 ---

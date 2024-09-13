@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /eldorado/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

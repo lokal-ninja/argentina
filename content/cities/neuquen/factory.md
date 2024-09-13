@@ -1,5 +1,5 @@
 ---
 title: "Factory"
 url: /neuquen/factory/
-shop: Kleidung
+shop: ropa
 ---

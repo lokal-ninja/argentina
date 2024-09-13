@@ -1,5 +1,5 @@
 ---
 title: "Monochrome"
 url: /ciudad-autonoma-de-buenos-aires/monochrome/
-shop: Fahrrad
+shop: bicicleta
 ---

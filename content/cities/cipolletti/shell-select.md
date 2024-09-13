@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /cipolletti/shell-select/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldana"
 url: /guarani/aldana/
-shop: Spielzeug
+shop: juguetes
 ---

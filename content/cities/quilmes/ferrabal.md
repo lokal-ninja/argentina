@@ -1,5 +1,5 @@
 ---
 title: "Ferrabal"
 url: /quilmes/ferrabal/
-shop: Eisenwaren
+shop: hardware
 ---

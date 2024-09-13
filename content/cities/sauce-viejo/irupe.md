@@ -1,5 +1,5 @@
 ---
 title: "Irupe"
 url: /sauce-viejo/irupe/
-shop: Eisenwaren
+shop: hardware
 ---

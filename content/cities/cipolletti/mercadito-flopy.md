@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Flopy"
 url: /cipolletti/mercadito-flopy/
-shop: Lebensmittel
+shop: comodidad
 ---

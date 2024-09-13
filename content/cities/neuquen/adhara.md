@@ -1,5 +1,5 @@
 ---
 title: "Adhara"
 url: /neuquen/adhara/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial Posadas"
 url: /eldorado/comercial-posadas/
-shop: Autohaus
+shop: coche
 ---

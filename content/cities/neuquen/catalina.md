@@ -1,5 +1,5 @@
 ---
 title: "Catalina"
 url: /neuquen/catalina/
-shop: Kleidung
+shop: ropa
 ---

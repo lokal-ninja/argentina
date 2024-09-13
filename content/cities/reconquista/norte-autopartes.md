@@ -1,5 +1,5 @@
 ---
 title: "Norte Autopartes"
 url: /reconquista/norte-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

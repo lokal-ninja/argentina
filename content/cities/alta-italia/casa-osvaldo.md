@@ -1,5 +1,5 @@
 ---
 title: "Casa Osvaldo"
 url: /alta-italia/casa-osvaldo/
-shop: Allgemein
+shop: general
 ---

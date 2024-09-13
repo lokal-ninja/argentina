@@ -1,5 +1,5 @@
 ---
 title: "Tienda Barbados"
 url: /ciudad-autonoma-de-buenos-aires/tienda-barbados/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

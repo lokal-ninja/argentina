@@ -1,5 +1,5 @@
 ---
 title: "Giorelo"
 url: /ramos-mejia/giorelo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

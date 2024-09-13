@@ -1,5 +1,5 @@
 ---
 title: "HPastuszak Motos"
 url: /jardin-america/hpastuszak-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

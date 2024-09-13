@@ -1,5 +1,5 @@
 ---
 title: "Mundo Importado Mayorista"
 url: /neuquen/mundo-importado-mayorista/
-shop: Kramladen
+shop: tienda de variedades
 ---

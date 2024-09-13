@@ -1,5 +1,5 @@
 ---
 title: "Cento"
 url: /arroyito/cento/
-shop: Haushaltsgeräte
+shop: aparato
 ---

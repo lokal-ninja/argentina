@@ -1,5 +1,5 @@
 ---
 title: "Regalalo"
 url: /ciudad-autonoma-de-buenos-aires/regalalo/
-shop: Andenken
+shop: regalo
 ---

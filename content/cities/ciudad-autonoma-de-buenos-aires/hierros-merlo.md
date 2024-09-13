@@ -1,5 +1,5 @@
 ---
 title: "Hierros Merlo"
 url: /ciudad-autonoma-de-buenos-aires/hierros-merlo/
-shop: Allgemein
+shop: general
 ---

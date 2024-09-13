@@ -1,5 +1,5 @@
 ---
 title: "Libreria San Pablo"
 url: /san-fernando-del-valle-de-catamarca/libreria-san-pablo/
-shop: Schreibwaren
+shop: material de oficina
 ---

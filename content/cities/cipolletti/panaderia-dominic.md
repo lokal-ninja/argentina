@@ -1,5 +1,5 @@
 ---
 title: "Panadería Dominic"
 url: /cipolletti/panaderia-dominic/
-shop: Bäckerei
+shop: panadería
 ---

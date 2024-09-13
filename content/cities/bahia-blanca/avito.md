@@ -1,5 +1,5 @@
 ---
 title: "Avito"
 url: /bahia-blanca/avito/
-shop: Kleidung
+shop: ropa
 ---

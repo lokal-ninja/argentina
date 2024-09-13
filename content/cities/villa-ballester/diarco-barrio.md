@@ -1,5 +1,5 @@
 ---
 title: "Diarco Barrio"
 url: /villa-ballester/diarco-barrio/
-shop: Großhandel
+shop: mayorista
 ---

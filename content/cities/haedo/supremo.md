@@ -1,5 +1,5 @@
 ---
 title: "Supremo"
 url: /haedo/supremo/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sensaciones"
 url: /ciudad-autonoma-de-buenos-aires/sensaciones/
-shop: Badezimmer
+shop: cuarto de baño
 ---

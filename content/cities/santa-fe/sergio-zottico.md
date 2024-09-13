@@ -1,5 +1,5 @@
 ---
 title: "Sergio Zottico"
 url: /santa-fe/sergio-zottico/
-shop: Lampen
+shop: lámparas
 ---

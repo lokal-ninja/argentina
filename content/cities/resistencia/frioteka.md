@@ -1,5 +1,5 @@
 ---
 title: "Frioteka"
 url: /resistencia/frioteka/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

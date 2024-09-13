@@ -1,5 +1,5 @@
 ---
 title: "Gerli, concesionario Citroen"
 url: /zarate/gerli-concesionario-citroen/
-shop: Autohaus
+shop: coche
 ---

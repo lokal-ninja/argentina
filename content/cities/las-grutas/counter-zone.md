@@ -1,5 +1,5 @@
 ---
 title: "Counter Zone"
 url: /las-grutas/counter-zone/
-shop: Videospiele
+shop: videojuegos
 ---

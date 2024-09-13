@@ -1,5 +1,5 @@
 ---
 title: "Zooco"
 url: /ciudad-autonoma-de-buenos-aires/zooco/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan Caliente"
 url: /agua-de-oro/pan-caliente/
-shop: Bäckerei
+shop: panadería
 ---

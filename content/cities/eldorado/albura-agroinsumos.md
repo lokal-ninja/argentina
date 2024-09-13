@@ -1,5 +1,5 @@
 ---
 title: "Albura Agroinsumos"
 url: /eldorado/albura-agroinsumos/
-shop: Hofladen
+shop: granja
 ---

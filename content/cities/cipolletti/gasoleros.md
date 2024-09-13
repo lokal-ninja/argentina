@@ -1,5 +1,5 @@
 ---
 title: "Gasoleros"
 url: /cipolletti/gasoleros/
-shop: Kleidung
+shop: ropa
 ---

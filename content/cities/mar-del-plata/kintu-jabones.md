@@ -1,5 +1,5 @@
 ---
 title: "Kintu Jabones"
 url: /mar-del-plata/kintu-jabones/
-shop: Kosmetik
+shop: cosméticos
 ---

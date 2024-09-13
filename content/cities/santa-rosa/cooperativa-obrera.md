@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /santa-rosa/cooperativa-obrera/
-shop: Supermarkt
+shop: supermercado
 ---

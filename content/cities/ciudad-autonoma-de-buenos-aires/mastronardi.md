@@ -1,5 +1,5 @@
 ---
 title: "Mastronardi"
 url: /ciudad-autonoma-de-buenos-aires/mastronardi/
-shop: Haushaltsgeräte
+shop: aparato
 ---

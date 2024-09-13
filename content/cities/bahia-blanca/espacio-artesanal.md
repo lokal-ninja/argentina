@@ -1,5 +1,5 @@
 ---
 title: "Espacio Artesanal"
 url: /bahia-blanca/espacio-artesanal/
-shop: Basteln
+shop: artesanía
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ByC"
 url: /arroyito/byc/
-shop: Supermarkt
+shop: supermercado
 ---

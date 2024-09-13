@@ -1,5 +1,5 @@
 ---
 title: "Quinque"
 url: /virreyes/quinque/
-shop: Schreibwaren
+shop: material de oficina
 ---

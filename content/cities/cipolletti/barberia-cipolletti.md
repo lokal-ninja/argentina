@@ -1,5 +1,5 @@
 ---
 title: "Barbería Cipolletti"
 url: /cipolletti/barberia-cipolletti/
-shop: Friseur
+shop: peluquería
 ---

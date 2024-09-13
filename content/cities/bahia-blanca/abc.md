@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /bahia-blanca/abc/
-shop: Schreibwaren
+shop: material de oficina
 ---

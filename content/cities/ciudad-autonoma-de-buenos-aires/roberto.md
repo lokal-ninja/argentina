@@ -1,5 +1,5 @@
 ---
 title: "Roberto"
 url: /ciudad-autonoma-de-buenos-aires/roberto/
-shop: Friseur
+shop: peluquería
 ---

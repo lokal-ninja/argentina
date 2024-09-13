@@ -1,5 +1,5 @@
 ---
 title: "Gerry Hogar"
 url: /rufino/gerry-hogar/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Barbaresi"
 url: /victoria/libreria-barbaresi/
-shop: Bücher
+shop: libros
 ---

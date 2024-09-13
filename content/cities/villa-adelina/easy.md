@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /villa-adelina/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

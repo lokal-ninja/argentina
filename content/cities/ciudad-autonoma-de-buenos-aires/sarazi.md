@@ -1,5 +1,5 @@
 ---
 title: "Sarazi"
 url: /ciudad-autonoma-de-buenos-aires/sarazi/
-shop: Allgemein
+shop: general
 ---

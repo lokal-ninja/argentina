@@ -1,5 +1,5 @@
 ---
 title: "Lotería El Arco"
 url: /campana/loteria-el-arco/
-shop: Allgemein
+shop: general
 ---

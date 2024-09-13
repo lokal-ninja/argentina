@@ -1,5 +1,5 @@
 ---
 title: "Super Morris"
 url: /william-c-morris/super-morris/
-shop: Supermarkt
+shop: supermercado
 ---

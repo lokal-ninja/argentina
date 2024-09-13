@@ -1,5 +1,5 @@
 ---
 title: "Saos"
 url: /neuquen/saos/
-shop: Bäckerei
+shop: panadería
 ---

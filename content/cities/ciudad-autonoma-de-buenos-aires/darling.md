@@ -1,5 +1,5 @@
 ---
 title: "Darling"
 url: /ciudad-autonoma-de-buenos-aires/darling/
-shop: Bäckerei
+shop: panadería
 ---

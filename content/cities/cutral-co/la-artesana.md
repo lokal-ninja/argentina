@@ -1,5 +1,5 @@
 ---
 title: "La Artesana"
 url: /cutral-co/la-artesana/
-shop: Bäckerei
+shop: panadería
 ---

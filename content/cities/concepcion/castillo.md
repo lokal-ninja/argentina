@@ -1,5 +1,5 @@
 ---
 title: "Castillo"
 url: /concepcion/castillo/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moto Manía"
 url: /bahia-blanca/moto-mania/
-shop: Motorrad
+shop: motocicleta
 ---

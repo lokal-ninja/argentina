@@ -1,5 +1,5 @@
 ---
 title: "Patitas CatDog"
 url: /neuquen/patitas-catdog/
-shop: Tiere
+shop: mascotas
 ---

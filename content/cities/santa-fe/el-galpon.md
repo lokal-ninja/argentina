@@ -1,5 +1,5 @@
 ---
 title: "El Galpón"
 url: /santa-fe/el-galpon/
-shop: Großhandel
+shop: mayorista
 ---

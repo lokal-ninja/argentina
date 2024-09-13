@@ -1,5 +1,5 @@
 ---
 title: "Berny"
 url: /concepcion/berny/
-shop: Kleidung
+shop: ropa
 ---

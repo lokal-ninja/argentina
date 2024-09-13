@@ -1,5 +1,5 @@
 ---
 title: "Tata´s Home"
 url: /azul/tata-s-home/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joti"
 url: /ramos-mejia/joti/
-shop: Schreibwaren
+shop: material de oficina
 ---

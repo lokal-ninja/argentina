@@ -1,5 +1,5 @@
 ---
 title: "Bukito"
 url: /ciudad-autonoma-de-buenos-aires/bukito/
-shop: Spielzeug
+shop: juguetes
 ---

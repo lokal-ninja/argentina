@@ -1,5 +1,5 @@
 ---
 title: "Legacy"
 url: /san-martin-de-los-andes/legacy/
-shop: Kleidung
+shop: ropa
 ---

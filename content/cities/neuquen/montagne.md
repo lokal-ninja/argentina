@@ -1,5 +1,5 @@
 ---
 title: "Montagne"
 url: /neuquen/montagne/
-shop: Outdoor
+shop: exterior
 ---

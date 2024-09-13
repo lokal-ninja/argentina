@@ -1,5 +1,5 @@
 ---
 title: "La"
 url: /obera/la/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Tranquera"
 url: /villa-elisa/la-tranquera/
-shop: Feinkost
+shop: charcutería
 ---

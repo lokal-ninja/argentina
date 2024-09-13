@@ -1,5 +1,5 @@
 ---
 title: "Agrocenter"
 url: /rosario/agrocenter/
-shop: Dorfladen
+shop: tienda rural
 ---

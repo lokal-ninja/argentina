@@ -1,5 +1,5 @@
 ---
 title: "Carlos Gardel"
 url: /calchaqui/carlos-gardel/
-shop: Eisenwaren
+shop: hardware
 ---

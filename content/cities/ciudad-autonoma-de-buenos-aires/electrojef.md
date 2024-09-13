@@ -1,5 +1,5 @@
 ---
 title: "Electrojef"
 url: /ciudad-autonoma-de-buenos-aires/electrojef/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toot"
 url: /ciudad-autonoma-de-buenos-aires/toot/
-shop: Schuhe
+shop: zapatos
 ---

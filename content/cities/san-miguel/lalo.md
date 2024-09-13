@@ -1,5 +1,5 @@
 ---
 title: "Lalo"
 url: /san-miguel/lalo/
-shop: Metzgerei
+shop: carnicero
 ---

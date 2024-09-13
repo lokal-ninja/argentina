@@ -1,5 +1,5 @@
 ---
 title: "Basico"
 url: /virreyes/basico/
-shop: Babysachen
+shop: artículos para bebés
 ---

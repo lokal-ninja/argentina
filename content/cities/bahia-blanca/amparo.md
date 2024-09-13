@@ -1,5 +1,5 @@
 ---
 title: "Amparo"
 url: /bahia-blanca/amparo/
-shop: Kleidung
+shop: ropa
 ---

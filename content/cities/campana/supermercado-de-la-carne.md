@@ -1,5 +1,5 @@
 ---
 title: "Supermercado de la Carne"
 url: /campana/supermercado-de-la-carne/
-shop: Metzgerei
+shop: carnicero
 ---

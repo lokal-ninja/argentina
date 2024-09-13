@@ -1,5 +1,5 @@
 ---
 title: "TATE"
 url: /rio-cuarto/tate/
-shop: Schuhe
+shop: zapatos
 ---

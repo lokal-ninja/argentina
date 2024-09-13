@@ -1,5 +1,5 @@
 ---
 title: "San Pablo Sucursal"
 url: /san-salvador-de-jujuy/san-pablo-sucursal/
-shop: Bücher
+shop: libros
 ---

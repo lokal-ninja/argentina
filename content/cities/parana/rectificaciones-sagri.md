@@ -1,5 +1,5 @@
 ---
 title: "Rectificaciones Sagri"
 url: /parana/rectificaciones-sagri/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

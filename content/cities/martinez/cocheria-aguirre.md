@@ -1,5 +1,5 @@
 ---
 title: "Cochería Aguirre"
 url: /martinez/cocheria-aguirre/
-shop: Bestattungen
+shop: directores de funerarias
 ---

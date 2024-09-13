@@ -1,5 +1,5 @@
 ---
 title: "Amaru"
 url: /viedma/amaru/
-shop: Metzgerei
+shop: carnicero
 ---

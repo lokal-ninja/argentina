@@ -1,5 +1,5 @@
 ---
 title: "Tekna"
 url: /cipolletti/tekna/
-shop: Türen
+shop: puertas
 ---

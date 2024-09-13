@@ -1,5 +1,5 @@
 ---
 title: "Maxigoma"
 url: /cipolletti/maxigoma/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería Henry"
 url: /bahia-blanca/libreria-henry/
-shop: Bücher
+shop: libros
 ---

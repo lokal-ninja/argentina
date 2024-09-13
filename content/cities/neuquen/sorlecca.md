@@ -1,5 +1,5 @@
 ---
 title: "Sorlecca"
 url: /neuquen/sorlecca/
-shop: Kleidung
+shop: ropa
 ---

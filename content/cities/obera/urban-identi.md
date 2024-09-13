@@ -1,5 +1,5 @@
 ---
 title: "Urban Identi"
 url: /obera/urban-identi/
-shop: Friseur
+shop: peluquería
 ---

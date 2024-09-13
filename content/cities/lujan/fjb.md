@@ -1,5 +1,5 @@
 ---
 title: "FJB"
 url: /lujan/fjb/
-shop: Baustoffe
+shop: comercio
 ---

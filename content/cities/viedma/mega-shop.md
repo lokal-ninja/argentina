@@ -1,5 +1,5 @@
 ---
 title: "Mega Shop"
 url: /viedma/mega-shop/
-shop: Kramladen
+shop: tienda de variedades
 ---

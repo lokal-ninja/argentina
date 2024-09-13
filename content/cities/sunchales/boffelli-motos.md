@@ -1,5 +1,5 @@
 ---
 title: "Boffelli Motos"
 url: /sunchales/boffelli-motos/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alberto"
 url: /tigre/alberto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

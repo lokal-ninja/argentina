@@ -1,5 +1,5 @@
 ---
 title: "Suspension Mario"
 url: /san-justo/suspension-mario/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

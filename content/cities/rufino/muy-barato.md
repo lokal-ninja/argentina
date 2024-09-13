@@ -1,5 +1,5 @@
 ---
 title: "Muy Barato"
 url: /rufino/muy-barato/
-shop: Supermarkt
+shop: supermercado
 ---

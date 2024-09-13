@@ -1,5 +1,5 @@
 ---
 title: "Belgrano"
 url: /ciudad-autonoma-de-buenos-aires/belgrano/
-shop: Metzgerei
+shop: carnicero
 ---

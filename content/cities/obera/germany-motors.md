@@ -1,5 +1,5 @@
 ---
 title: "Germany Motors"
 url: /obera/germany-motors/
-shop: Autohaus
+shop: coche
 ---

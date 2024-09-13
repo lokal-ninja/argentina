@@ -1,5 +1,5 @@
 ---
 title: "Nahuelito"
 url: /neuquen/nahuelito/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kioscordia"
 url: /concordia/kioscordia/
-shop: Kiosk
+shop: quiosco
 ---

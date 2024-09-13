@@ -1,5 +1,5 @@
 ---
 title: "Leimat"
 url: /neuquen/leimat/
-shop: Autoteile
+shop: piezas de automóviles
 ---

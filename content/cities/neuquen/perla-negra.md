@@ -1,5 +1,5 @@
 ---
 title: "Perla Negra"
 url: /neuquen/perla-negra/
-shop: Modehaus
+shop: tienda
 ---

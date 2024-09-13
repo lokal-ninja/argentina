@@ -1,5 +1,5 @@
 ---
 title: "Expo Argentina"
 url: /campana/expo-argentina/
-shop: Eisenwaren
+shop: hardware
 ---

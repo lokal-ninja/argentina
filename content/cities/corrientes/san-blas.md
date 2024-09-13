@@ -1,5 +1,5 @@
 ---
 title: "San Blas"
 url: /corrientes/san-blas/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franco Motos"
 url: /campana/franco-motos/
-shop: Motorrad
+shop: motocicleta
 ---

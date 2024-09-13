@@ -1,5 +1,5 @@
 ---
 title: "Electricidad Mario"
 url: /san-vicente/electricidad-mario/
-shop: Elektronik
+shop: electrónica
 ---

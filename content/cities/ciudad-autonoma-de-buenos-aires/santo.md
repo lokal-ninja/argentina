@@ -1,5 +1,5 @@
 ---
 title: "Santo"
 url: /ciudad-autonoma-de-buenos-aires/santo/
-shop: Supermarkt
+shop: supermercado
 ---

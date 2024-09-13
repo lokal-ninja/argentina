@@ -1,5 +1,5 @@
 ---
 title: "Legado"
 url: /cipolletti/legado/
-shop: Kleidung
+shop: ropa
 ---

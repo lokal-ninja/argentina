@@ -1,5 +1,5 @@
 ---
 title: "Muebles y Tapiceria"
 url: /tigre/muebles-y-tapiceria/
-shop: Möbel
+shop: muebles
 ---

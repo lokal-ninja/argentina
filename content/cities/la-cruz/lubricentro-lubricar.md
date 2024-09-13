@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Lubricar"
 url: /la-cruz/lubricentro-lubricar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

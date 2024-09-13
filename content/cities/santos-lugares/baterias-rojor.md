@@ -1,5 +1,5 @@
 ---
 title: "Baterias Rojor"
 url: /santos-lugares/baterias-rojor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

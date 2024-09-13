@@ -1,5 +1,5 @@
 ---
 title: "Guazú Ice Beer"
 url: /posadas/guazu-ice-beer/
-shop: Getränke
+shop: bebidas
 ---

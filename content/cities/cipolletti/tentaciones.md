@@ -1,5 +1,5 @@
 ---
 title: "Tentaciones"
 url: /cipolletti/tentaciones/
-shop: Bäckerei
+shop: panadería
 ---

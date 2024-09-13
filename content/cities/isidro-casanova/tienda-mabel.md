@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mabel"
 url: /isidro-casanova/tienda-mabel/
-shop: Allgemein
+shop: general
 ---

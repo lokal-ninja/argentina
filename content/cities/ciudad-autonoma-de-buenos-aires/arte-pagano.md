@@ -1,5 +1,5 @@
 ---
-title: "Arte Pagano"
+title: "Arte pagano"
 url: /ciudad-autonoma-de-buenos-aires/arte-pagano/
-shop: Metzgerei
+shop: peluquería
 ---

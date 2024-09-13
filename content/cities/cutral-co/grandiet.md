@@ -1,5 +1,5 @@
 ---
 title: "Grandiet"
 url: /cutral-co/grandiet/
-shop: Bioladen
+shop: alimentación sana
 ---

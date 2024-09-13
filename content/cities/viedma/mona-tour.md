@@ -1,5 +1,5 @@
 ---
 title: "Mona Tour"
 url: /viedma/mona-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

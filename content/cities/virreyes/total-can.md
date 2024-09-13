@@ -1,5 +1,5 @@
 ---
 title: "TOTAL CAN"
 url: /virreyes/total-can/
-shop: Tiere
+shop: mascotas
 ---

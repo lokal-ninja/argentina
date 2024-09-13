@@ -1,5 +1,5 @@
 ---
 title: "Galería de la Paz"
 url: /ciudad-autonoma-de-buenos-aires/galeria-de-la-paz/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

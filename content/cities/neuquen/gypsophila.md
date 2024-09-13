@@ -1,5 +1,5 @@
 ---
 title: "Gypsophila"
 url: /neuquen/gypsophila/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cachetona"
 url: /cipolletti/cachetona/
-shop: Modehaus
+shop: tienda
 ---

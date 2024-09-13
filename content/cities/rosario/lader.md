@@ -1,5 +1,5 @@
 ---
 title: "Lader"
 url: /rosario/lader/
-shop: Schreibwaren
+shop: material de oficina
 ---

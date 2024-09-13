@@ -1,5 +1,5 @@
 ---
 title: "Cortes de Precision"
 url: /villa-lynch/cortes-de-precision/
-shop: Allgemein
+shop: general
 ---

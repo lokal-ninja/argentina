@@ -1,5 +1,5 @@
 ---
 title: "Dancing Kalaka"
 url: /campana/dancing-kalaka/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sala Velatoria Godoy"
 url: /neuquen/sala-velatoria-godoy/
-shop: Bestattungen
+shop: directores de funerarias
 ---

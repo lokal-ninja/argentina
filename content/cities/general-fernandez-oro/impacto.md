@@ -1,5 +1,5 @@
 ---
 title: "Impacto"
 url: /general-fernandez-oro/impacto/
-shop: Kramladen
+shop: tienda de variedades
 ---

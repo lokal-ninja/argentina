@@ -1,5 +1,5 @@
 ---
 title: "El Correcaminos bicicleteria"
 url: /morteros/el-correcaminos-bicicleteria/
-shop: Fahrrad
+shop: bicicleta
 ---

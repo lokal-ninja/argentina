@@ -1,5 +1,5 @@
 ---
 title: "La Reina de Olivos"
 url: /olivos/la-reina-de-olivos/
-shop: Bäckerei
+shop: panadería
 ---

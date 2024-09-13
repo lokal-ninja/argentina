@@ -1,5 +1,5 @@
 ---
 title: "La Casita"
 url: /las-grutas/la-casita/
-shop: Lotterie
+shop: lotería
 ---

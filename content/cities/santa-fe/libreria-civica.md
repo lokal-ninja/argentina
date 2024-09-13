@@ -1,5 +1,5 @@
 ---
 title: "Librería civica"
 url: /santa-fe/libreria-civica/
-shop: Bücher
+shop: libros
 ---

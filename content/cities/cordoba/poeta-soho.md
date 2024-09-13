@@ -1,5 +1,5 @@
 ---
 title: "Poeta Soho"
 url: /cordoba/poeta-soho/
-shop: Schreibwaren
+shop: material de oficina
 ---

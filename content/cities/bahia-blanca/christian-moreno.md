@@ -1,5 +1,5 @@
 ---
 title: "Christian Moreno"
 url: /bahia-blanca/christian-moreno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /hipolito-yrigoyen/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

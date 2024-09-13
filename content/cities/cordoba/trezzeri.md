@@ -1,5 +1,5 @@
 ---
 title: "Trezzeri"
 url: /cordoba/trezzeri/
-shop: Bäckerei
+shop: panadería
 ---

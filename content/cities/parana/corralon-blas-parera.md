@@ -1,5 +1,5 @@
 ---
 title: "Corralón Blas Parera"
 url: /parana/corralon-blas-parera/
-shop: Baustoffe
+shop: comercio
 ---

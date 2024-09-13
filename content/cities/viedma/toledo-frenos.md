@@ -1,5 +1,5 @@
 ---
 title: "Toledo Frenos"
 url: /viedma/toledo-frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

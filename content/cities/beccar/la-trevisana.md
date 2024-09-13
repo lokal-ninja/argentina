@@ -1,5 +1,5 @@
 ---
 title: "La Trevisana"
 url: /beccar/la-trevisana/
-shop: Fahrrad
+shop: bicicleta
 ---

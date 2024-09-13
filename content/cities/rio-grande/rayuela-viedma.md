@@ -1,5 +1,5 @@
 ---
 title: "Rayuela"
 url: /rio-grande/rayuela-viedma/
-shop: Allgemein
+shop: general
 ---

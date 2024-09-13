@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /obera/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

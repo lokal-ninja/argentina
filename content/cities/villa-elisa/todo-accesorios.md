@@ -1,5 +1,5 @@
 ---
 title: "Todo accesorios"
 url: /villa-elisa/todo-accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

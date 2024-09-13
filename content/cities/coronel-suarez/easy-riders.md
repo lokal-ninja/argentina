@@ -1,5 +1,5 @@
 ---
 title: "Easy Riders"
 url: /coronel-suarez/easy-riders/
-shop: Motorrad
+shop: motocicleta
 ---

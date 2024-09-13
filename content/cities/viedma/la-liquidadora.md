@@ -1,5 +1,5 @@
 ---
 title: "La Liquidadora"
 url: /viedma/la-liquidadora/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estación Vaqueros"
 url: /viedma/estacion-vaqueros/
-shop: Kleidung
+shop: ropa
 ---

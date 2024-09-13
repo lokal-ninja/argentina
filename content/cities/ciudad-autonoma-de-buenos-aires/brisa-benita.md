@@ -1,5 +1,5 @@
 ---
 title: "Brisa Benita"
 url: /ciudad-autonoma-de-buenos-aires/brisa-benita/
-shop: Allgemein
+shop: general
 ---

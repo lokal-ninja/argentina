@@ -1,5 +1,5 @@
 ---
 title: "Diesel Avenida"
 url: /arroyito/diesel-avenida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Ciclón"
 url: /ramos-mejia/el-ciclon/
-shop: Zeitungen
+shop: quiosco
 ---

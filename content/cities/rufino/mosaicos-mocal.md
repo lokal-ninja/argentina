@@ -1,5 +1,5 @@
 ---
 title: "Mosaicos Mocal"
 url: /rufino/mosaicos-mocal/
-shop: Allgemein
+shop: general
 ---

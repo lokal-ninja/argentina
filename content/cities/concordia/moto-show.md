@@ -1,5 +1,5 @@
 ---
 title: "Moto Show"
 url: /concordia/moto-show/
-shop: Motorrad
+shop: motocicleta
 ---

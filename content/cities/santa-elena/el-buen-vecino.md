@@ -1,5 +1,5 @@
 ---
 title: "El Buen Vecino"
 url: /santa-elena/el-buen-vecino/
-shop: Supermarkt
+shop: supermercado
 ---

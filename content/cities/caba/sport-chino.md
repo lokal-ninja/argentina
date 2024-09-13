@@ -1,5 +1,5 @@
 ---
 title: "Sport Chino"
 url: /caba/sport-chino/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

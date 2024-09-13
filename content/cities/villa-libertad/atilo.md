@@ -1,5 +1,5 @@
 ---
 title: "Atilo"
 url: /villa-libertad/atilo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

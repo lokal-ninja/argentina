@@ -1,5 +1,5 @@
 ---
 title: "Poliet M"
 url: /bahia-blanca/poliet-m/
-shop: Allgemein
+shop: general
 ---

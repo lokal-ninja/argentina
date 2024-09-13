@@ -1,5 +1,5 @@
 ---
 title: "El Buzón"
 url: /rufino/el-buzon/
-shop: Schreibwaren
+shop: material de oficina
 ---

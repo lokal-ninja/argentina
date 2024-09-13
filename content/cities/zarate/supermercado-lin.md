@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Lin"
 url: /zarate/supermercado-lin/
-shop: Supermarkt
+shop: supermercado
 ---

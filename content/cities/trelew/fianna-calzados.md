@@ -1,5 +1,5 @@
 ---
 title: "Fianna Calzados"
 url: /trelew/fianna-calzados/
-shop: Schuhe
+shop: zapatos
 ---

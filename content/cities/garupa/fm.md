@@ -1,5 +1,5 @@
 ---
 title: "FM"
 url: /garupa/fm/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megatone"
 url: /general-pico/megatone/
-shop: Elektronik
+shop: electrónica
 ---

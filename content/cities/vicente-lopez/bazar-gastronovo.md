@@ -1,5 +1,5 @@
 ---
 title: "Bazar Gastronovo"
 url: /vicente-lopez/bazar-gastronovo/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

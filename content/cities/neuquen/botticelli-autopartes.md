@@ -1,5 +1,5 @@
 ---
 title: "Botticelli Autopartes"
 url: /neuquen/botticelli-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

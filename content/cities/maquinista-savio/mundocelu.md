@@ -1,5 +1,5 @@
 ---
 title: "mundocelu"
 url: /maquinista-savio/mundocelu/
-shop: Handy
+shop: teléfono móvil
 ---

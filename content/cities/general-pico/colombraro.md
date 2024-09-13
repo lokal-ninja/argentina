@@ -1,5 +1,5 @@
 ---
 title: "Colombraro"
 url: /general-pico/colombraro/
-shop: Kramladen
+shop: tienda de variedades
 ---

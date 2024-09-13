@@ -1,5 +1,5 @@
 ---
 title: "La Bahía"
 url: /neuquen/la-bahia/
-shop: Farben
+shop: pintura
 ---

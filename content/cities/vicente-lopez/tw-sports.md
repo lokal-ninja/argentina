@@ -1,5 +1,5 @@
 ---
 title: "TW Sports"
 url: /vicente-lopez/tw-sports/
-shop: Sport
+shop: deportes
 ---

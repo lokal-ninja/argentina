@@ -1,5 +1,5 @@
 ---
 title: "Bruswagen"
 url: /azul/bruswagen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

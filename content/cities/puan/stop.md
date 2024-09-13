@@ -1,5 +1,5 @@
 ---
 title: "Stop"
 url: /puan/stop/
-shop: Kiosk
+shop: quiosco
 ---

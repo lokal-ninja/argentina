@@ -1,5 +1,5 @@
 ---
 title: "Mauro Sergio"
 url: /san-carlos-de-bariloche/mauro-sergio/
-shop: Kleidung
+shop: ropa
 ---

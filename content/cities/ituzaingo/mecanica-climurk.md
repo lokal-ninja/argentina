@@ -1,5 +1,5 @@
 ---
 title: "Mecanica climurk"
 url: /ituzaingo/mecanica-climurk/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

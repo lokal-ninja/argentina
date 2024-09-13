@@ -1,5 +1,5 @@
 ---
 title: "The Market"
 url: /godoy-cruz/the-market/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

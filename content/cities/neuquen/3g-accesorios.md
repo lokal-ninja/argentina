@@ -1,5 +1,5 @@
 ---
 title: "3G Accesorios"
 url: /neuquen/3g-accesorios/
-shop: Elektronik
+shop: electrónica
 ---

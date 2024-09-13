@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /san-isidro/musimundo/
-shop: Elektronik
+shop: electrónica
 ---

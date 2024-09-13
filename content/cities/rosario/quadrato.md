@@ -1,5 +1,5 @@
 ---
 title: "Quadrato"
 url: /rosario/quadrato/
-shop: Schuhe
+shop: zapatos
 ---

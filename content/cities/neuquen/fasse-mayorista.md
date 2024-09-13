@@ -1,5 +1,5 @@
 ---
 title: "Fasse Mayorista"
 url: /neuquen/fasse-mayorista/
-shop: Kleidung
+shop: ropa
 ---

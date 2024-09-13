@@ -1,5 +1,5 @@
 ---
 title: "Clé"
 url: /ciudad-autonoma-de-buenos-aires/cle/
-shop: Allgemein
+shop: general
 ---

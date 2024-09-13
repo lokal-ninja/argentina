@@ -1,5 +1,5 @@
 ---
 title: "Electromecánica Norte"
 url: /viedma/electromecanica-norte/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

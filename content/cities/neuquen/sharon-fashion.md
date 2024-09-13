@@ -1,5 +1,5 @@
 ---
 title: "Sharon Fashion"
 url: /neuquen/sharon-fashion/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Río Luna"
 url: /ciudad-autonoma-de-buenos-aires/rio-luna/
-shop: Kramladen
+shop: tienda de variedades
 ---

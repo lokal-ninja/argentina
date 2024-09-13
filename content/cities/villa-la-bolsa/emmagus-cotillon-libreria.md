@@ -1,5 +1,5 @@
 ---
 title: "Emmagus Cotillon Libreria"
 url: /villa-la-bolsa/emmagus-cotillon-libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

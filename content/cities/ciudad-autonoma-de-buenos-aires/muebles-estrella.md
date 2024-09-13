@@ -1,5 +1,5 @@
 ---
 title: "Muebles Estrella"
 url: /ciudad-autonoma-de-buenos-aires/muebles-estrella/
-shop: Möbel
+shop: muebles
 ---

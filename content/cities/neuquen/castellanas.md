@@ -1,5 +1,5 @@
 ---
 title: "Castellanas"
 url: /neuquen/castellanas/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zadikian"
 url: /ciudad-autonoma-de-buenos-aires/zadikian/
-shop: Babysachen
+shop: artículos para bebés
 ---

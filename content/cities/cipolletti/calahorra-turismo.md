@@ -1,5 +1,5 @@
 ---
 title: "Calahorra Turismo"
 url: /cipolletti/calahorra-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

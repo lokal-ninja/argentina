@@ -1,5 +1,5 @@
 ---
 title: "El Condor"
 url: /villa-elisa/el-condor/
-shop: Eisenwaren
+shop: hardware
 ---

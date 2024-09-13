@@ -1,5 +1,5 @@
 ---
 title: "Librería Garabatos"
 url: /olivos/libreria-garabatos/
-shop: Schreibwaren
+shop: material de oficina
 ---

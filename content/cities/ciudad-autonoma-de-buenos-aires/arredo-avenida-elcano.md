@@ -1,5 +1,5 @@
 ---
 title: "Arredo"
 url: /ciudad-autonoma-de-buenos-aires/arredo-avenida-elcano/
-shop: Betten
+shop: cama
 ---

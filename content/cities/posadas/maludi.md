@@ -1,5 +1,5 @@
 ---
 title: "Maludi"
 url: /posadas/maludi/
-shop: Supermarkt
+shop: supermercado
 ---

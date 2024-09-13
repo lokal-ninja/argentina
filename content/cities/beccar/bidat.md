@@ -1,5 +1,5 @@
 ---
 title: "Bidat"
 url: /beccar/bidat/
-shop: Metzgerei
+shop: carnicero
 ---

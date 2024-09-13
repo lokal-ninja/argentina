@@ -1,5 +1,5 @@
 ---
 title: "Rapsodia"
 url: /olivos/rapsodia/
-shop: Kleidung
+shop: ropa
 ---

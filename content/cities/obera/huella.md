@@ -1,5 +1,5 @@
 ---
 title: "Huella"
 url: /obera/huella/
-shop: Kiosk
+shop: quiosco
 ---

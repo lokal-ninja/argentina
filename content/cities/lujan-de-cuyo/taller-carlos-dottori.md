@@ -1,5 +1,5 @@
 ---
 title: "Taller Carlos Dottori"
 url: /lujan-de-cuyo/taller-carlos-dottori/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

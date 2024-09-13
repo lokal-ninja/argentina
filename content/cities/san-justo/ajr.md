@@ -1,5 +1,5 @@
 ---
 title: "AJR"
 url: /san-justo/ajr/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

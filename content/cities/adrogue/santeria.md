@@ -1,5 +1,5 @@
 ---
 title: "Santeria"
 url: /adrogue/santeria/
-shop: Religion
+shop: religión
 ---

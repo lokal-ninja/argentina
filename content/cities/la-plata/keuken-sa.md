@@ -1,5 +1,5 @@
 ---
 title: "Keuken SA"
 url: /la-plata/keuken-sa/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotores El Triangulo"
 url: /ciudad-autonoma-de-buenos-aires/automotores-el-triangulo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chiquilines"
 url: /san-fernando-del-valle-de-catamarca/chiquilines/
-shop: Kleidung
+shop: ropa
 ---

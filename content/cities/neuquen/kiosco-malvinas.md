@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Malvinas"
 url: /neuquen/kiosco-malvinas/
-shop: Kiosk
+shop: quiosco
 ---

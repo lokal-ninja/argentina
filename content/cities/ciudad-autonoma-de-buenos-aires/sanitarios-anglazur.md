@@ -1,5 +1,5 @@
 ---
 title: "Sanitarios Anglazur"
 url: /ciudad-autonoma-de-buenos-aires/sanitarios-anglazur/
-shop: Badezimmer
+shop: cuarto de baño
 ---

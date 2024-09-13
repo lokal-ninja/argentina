@@ -1,5 +1,5 @@
 ---
 title: "Bonsai"
 url: /florida/bonsai/
-shop: Garten-Center
+shop: centro de jardinería
 ---

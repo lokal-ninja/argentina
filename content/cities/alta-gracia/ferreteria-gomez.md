@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Gomez"
 url: /alta-gracia/ferreteria-gomez/
-shop: Eisenwaren
+shop: hardware
 ---

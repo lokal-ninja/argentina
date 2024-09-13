@@ -1,5 +1,5 @@
 ---
 title: "Portal Trelew"
 url: /trelew/portal-trelew/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

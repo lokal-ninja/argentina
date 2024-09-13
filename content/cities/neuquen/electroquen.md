@@ -1,5 +1,5 @@
 ---
 title: "Electroquén"
 url: /neuquen/electroquen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

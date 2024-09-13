@@ -1,5 +1,5 @@
 ---
 title: "Corralón La Esperanza"
 url: /carlos-spegazzini/corralon-la-esperanza/
-shop: Baustoffe
+shop: comercio
 ---

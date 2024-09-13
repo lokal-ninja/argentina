@@ -1,5 +1,5 @@
 ---
 title: "QuiqueGian"
 url: /rosario/quiquegian/
-shop: Reisebüro
+shop: agencia de viajes
 ---

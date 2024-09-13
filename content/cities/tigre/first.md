@@ -1,5 +1,5 @@
 ---
 title: "First"
 url: /tigre/first/
-shop: Autoteile
+shop: piezas de automóviles
 ---

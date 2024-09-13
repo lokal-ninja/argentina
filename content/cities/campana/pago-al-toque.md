@@ -1,5 +1,5 @@
 ---
 title: "Pago Al Toque"
 url: /campana/pago-al-toque/
-shop: Lotterie
+shop: lotería
 ---

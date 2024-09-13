@@ -1,5 +1,5 @@
 ---
 title: "Multicompras Express"
 url: /cipolletti/multicompras-express/
-shop: Kramladen
+shop: tienda de variedades
 ---

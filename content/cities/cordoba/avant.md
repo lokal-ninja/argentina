@@ -1,5 +1,5 @@
 ---
 title: "Avant"
 url: /cordoba/avant/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

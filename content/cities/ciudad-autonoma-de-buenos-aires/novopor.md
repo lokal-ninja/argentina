@@ -1,5 +1,5 @@
 ---
 title: "Novopor"
 url: /ciudad-autonoma-de-buenos-aires/novopor/
-shop: Allgemein
+shop: general
 ---

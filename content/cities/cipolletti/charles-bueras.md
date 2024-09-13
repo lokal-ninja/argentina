@@ -1,5 +1,5 @@
 ---
 title: "Charles Bueras"
 url: /cipolletti/charles-bueras/
-shop: Kleidung
+shop: ropa
 ---

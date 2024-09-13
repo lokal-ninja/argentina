@@ -1,5 +1,5 @@
 ---
 title: "Imperio Chino"
 url: /ciudad-autonoma-de-buenos-aires/imperio-chino/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "List Motores"
 url: /adrogue/list-motores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

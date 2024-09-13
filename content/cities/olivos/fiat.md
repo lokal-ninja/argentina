@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /olivos/fiat/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariela"
 url: /ciudad-autonoma-de-buenos-aires/mariela/
-shop: Allgemein
+shop: general
 ---

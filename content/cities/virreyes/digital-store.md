@@ -1,5 +1,5 @@
 ---
 title: "Digital Store"
 url: /virreyes/digital-store/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coccolino"
 url: /ciudad-autonoma-de-buenos-aires/coccolino/
-shop: Partyzubehör
+shop: fiesta
 ---

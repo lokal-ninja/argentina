@@ -1,5 +1,5 @@
 ---
 title: "Casa Muzik"
 url: /la-plata/casa-muzik/
-shop: Instrumente
+shop: instrumento musical
 ---

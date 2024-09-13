@@ -1,5 +1,5 @@
 ---
 title: "Benita"
 url: /san-carlos-de-bariloche/benita/
-shop: Konditorei
+shop: pastelería
 ---

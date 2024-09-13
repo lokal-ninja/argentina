@@ -1,5 +1,5 @@
 ---
 title: "Logui Soft"
 url: /morteros/logui-soft/
-shop: Computer
+shop: ordenador
 ---

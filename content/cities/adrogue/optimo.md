@@ -1,5 +1,5 @@
 ---
 title: "Óptimo"
 url: /adrogue/optimo/
-shop: Supermarkt
+shop: supermercado
 ---

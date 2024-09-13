@@ -1,5 +1,5 @@
 ---
 title: "Serratti"
 url: /viedma/serratti/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /rosario/adidas/
-shop: Sport
+shop: deportes
 ---

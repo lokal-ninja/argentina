@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Tiburón"
 url: /quilmes/supermercado-tiburon/
-shop: Supermarkt
+shop: supermercado
 ---

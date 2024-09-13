@@ -1,5 +1,5 @@
 ---
 title: "Decoluz"
 url: /obera/decoluz/
-shop: Lampen
+shop: lámparas
 ---

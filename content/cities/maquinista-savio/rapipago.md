@@ -1,5 +1,5 @@
 ---
 title: "rapipago"
 url: /maquinista-savio/rapipago/
-shop: Allgemein
+shop: general
 ---

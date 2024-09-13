@@ -1,5 +1,5 @@
 ---
 title: "London Travel"
 url: /general-pico/london-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

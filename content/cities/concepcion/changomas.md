@@ -1,5 +1,5 @@
 ---
 title: "Changomás"
 url: /concepcion/changomas/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jean's Look III"
 url: /glew/jeans-look-iii/
-shop: Kleidung
+shop: ropa
 ---

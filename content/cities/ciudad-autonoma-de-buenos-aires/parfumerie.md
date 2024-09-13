@@ -1,5 +1,5 @@
 ---
 title: "Parfumerie"
 url: /ciudad-autonoma-de-buenos-aires/parfumerie/
-shop: Parfümerie
+shop: perfumería
 ---

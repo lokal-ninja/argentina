@@ -1,5 +1,5 @@
 ---
 title: "La Margarita Confitería"
 url: /parana/la-margarita-confiteria/
-shop: Bäckerei
+shop: panadería
 ---

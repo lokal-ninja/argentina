@@ -1,5 +1,5 @@
 ---
 title: "Servicio motriz"
 url: /santa-fe/servicio-motriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

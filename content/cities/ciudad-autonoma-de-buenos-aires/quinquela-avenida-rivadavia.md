@@ -1,5 +1,5 @@
 ---
 title: "Quinquela"
 url: /ciudad-autonoma-de-buenos-aires/quinquela-avenida-rivadavia/
-shop: Farben
+shop: pintura
 ---

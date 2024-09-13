@@ -1,5 +1,5 @@
 ---
 title: "Avenida"
 url: /cerro-azul/avenida/
-shop: Bäckerei
+shop: panadería
 ---

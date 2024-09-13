@@ -1,5 +1,5 @@
 ---
 title: "Eluney"
 url: /bahia-blanca/eluney/
-shop: Kleidung
+shop: ropa
 ---

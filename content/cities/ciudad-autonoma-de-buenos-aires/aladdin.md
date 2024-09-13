@@ -1,5 +1,5 @@
 ---
 title: "Aladdin"
 url: /ciudad-autonoma-de-buenos-aires/aladdin/
-shop: Reisebüro
+shop: agencia de viajes
 ---

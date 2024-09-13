@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /ciudad-autonoma-de-buenos-aires/claro-avenida-cabildo/
-shop: Handy
+shop: teléfono móvil
 ---

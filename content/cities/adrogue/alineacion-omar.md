@@ -1,5 +1,5 @@
 ---
 title: "Alineación Omar"
 url: /adrogue/alineacion-omar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parque Patricios"
 url: /ciudad-autonoma-de-buenos-aires/parque-patricios/
-shop: Supermarkt
+shop: supermercado
 ---

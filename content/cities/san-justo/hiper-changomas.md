@@ -1,5 +1,5 @@
 ---
 title: "Hiper ChangoMâs"
 url: /san-justo/hiper-changomas/
-shop: Supermarkt
+shop: supermercado
 ---

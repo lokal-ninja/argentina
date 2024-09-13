@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /cinco-saltos/la-anonima/
-shop: Supermarkt
+shop: supermercado
 ---

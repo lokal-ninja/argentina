@@ -1,5 +1,5 @@
 ---
 title: "Bulonera Reconquista"
 url: /reconquista/bulonera-reconquista/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

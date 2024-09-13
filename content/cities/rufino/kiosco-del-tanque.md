@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Del Tanque"
 url: /rufino/kiosco-del-tanque/
-shop: Lebensmittel
+shop: comodidad
 ---

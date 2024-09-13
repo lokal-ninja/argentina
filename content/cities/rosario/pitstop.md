@@ -1,5 +1,5 @@
 ---
 title: "PitStop"
 url: /rosario/pitstop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

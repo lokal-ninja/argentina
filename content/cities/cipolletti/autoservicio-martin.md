@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Martín"
 url: /cipolletti/autoservicio-martin/
-shop: Lebensmittel
+shop: comodidad
 ---

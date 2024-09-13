@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /cordoba/nissan/
-shop: Autohaus
+shop: coche
 ---

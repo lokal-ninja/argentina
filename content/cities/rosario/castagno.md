@@ -1,5 +1,5 @@
 ---
 title: "Castagno"
 url: /rosario/castagno/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubrirap"
 url: /ciudad-autonoma-de-buenos-aires/lubrirap/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

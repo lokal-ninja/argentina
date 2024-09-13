@@ -1,5 +1,5 @@
 ---
 title: "González Motos"
 url: /parana/gonzalez-motos/
-shop: Motorrad
+shop: motocicleta
 ---

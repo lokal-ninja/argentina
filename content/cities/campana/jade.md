@@ -1,5 +1,5 @@
 ---
 title: "Jade"
 url: /campana/jade/
-shop: Kleidung
+shop: ropa
 ---

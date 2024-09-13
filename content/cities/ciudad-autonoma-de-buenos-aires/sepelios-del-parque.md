@@ -1,5 +1,5 @@
 ---
 title: "Sepelios del Parque"
 url: /ciudad-autonoma-de-buenos-aires/sepelios-del-parque/
-shop: Bestattungen
+shop: directores de funerarias
 ---

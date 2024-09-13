@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Amor"
 url: /quilmes/supermercado-amor/
-shop: Supermarkt
+shop: supermercado
 ---

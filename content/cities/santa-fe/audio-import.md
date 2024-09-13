@@ -1,5 +1,5 @@
 ---
 title: "Audio Import"
 url: /santa-fe/audio-import/
-shop: Autoteile
+shop: piezas de automóviles
 ---

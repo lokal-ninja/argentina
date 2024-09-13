@@ -1,5 +1,5 @@
 ---
 title: "Mistral"
 url: /neuquen/mistral/
-shop: Kleidung
+shop: ropa
 ---

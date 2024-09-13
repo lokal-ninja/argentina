@@ -1,5 +1,5 @@
 ---
 title: "Kaizen"
 url: /la-plata/kaizen-calle-2/
-shop: Motorrad
+shop: motocicleta
 ---

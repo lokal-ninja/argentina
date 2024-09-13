@@ -1,5 +1,5 @@
 ---
 title: "Florería Triunvirato"
 url: /ciudad-autonoma-de-buenos-aires/floreria-triunvirato/
-shop: Blumen
+shop: floristería
 ---

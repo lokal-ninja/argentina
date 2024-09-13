@@ -1,5 +1,5 @@
 ---
 title: "susana tienda"
 url: /veronica/susana-tienda/
-shop: Kleidung
+shop: ropa
 ---

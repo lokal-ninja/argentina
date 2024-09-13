@@ -1,5 +1,5 @@
 ---
 title: "Alsina Informática"
 url: /obera/alsina-informatica/
-shop: Computer
+shop: ordenador
 ---

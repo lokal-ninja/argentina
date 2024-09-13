@@ -1,5 +1,5 @@
 ---
 title: "Almendra"
 url: /rosario/almendra/
-shop: Schreibwaren
+shop: material de oficina
 ---

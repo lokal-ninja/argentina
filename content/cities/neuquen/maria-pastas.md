@@ -1,5 +1,5 @@
 ---
 title: "María Pastas"
 url: /neuquen/maria-pastas/
-shop: Pasta
+shop: pasta
 ---

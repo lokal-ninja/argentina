@@ -1,5 +1,5 @@
 ---
 title: "Arduza"
 url: /ciudad-autonoma-de-buenos-aires/arduza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

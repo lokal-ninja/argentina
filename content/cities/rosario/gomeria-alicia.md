@@ -1,5 +1,5 @@
 ---
 title: "Gomería Alicia"
 url: /rosario/gomeria-alicia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

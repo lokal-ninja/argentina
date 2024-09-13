@@ -1,5 +1,5 @@
 ---
 title: "Sudamericana Motors"
 url: /san-salvador-de-jujuy/sudamericana-motors/
-shop: Autohaus
+shop: coche
 ---

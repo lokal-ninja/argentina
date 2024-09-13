@@ -1,5 +1,5 @@
 ---
 title: "Piamontesa"
 url: /villaguay/piamontesa/
-shop: Supermarkt
+shop: supermercado
 ---

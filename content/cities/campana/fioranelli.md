@@ -1,5 +1,5 @@
 ---
 title: "Fioranelli"
 url: /campana/fioranelli/
-shop: Reifen
+shop: neumáticos
 ---

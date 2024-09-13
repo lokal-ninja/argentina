@@ -1,5 +1,5 @@
 ---
 title: "FerreCar"
 url: /santa-rosa/ferrecar/
-shop: Eisenwaren
+shop: hardware
 ---

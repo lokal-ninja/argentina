@@ -1,5 +1,5 @@
 ---
 title: "Toledo"
 url: /necochea/toledo/
-shop: Supermarkt
+shop: supermercado
 ---

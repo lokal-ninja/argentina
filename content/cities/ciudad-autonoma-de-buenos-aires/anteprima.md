@@ -1,5 +1,5 @@
 ---
 title: "Anteprima"
 url: /ciudad-autonoma-de-buenos-aires/anteprima/
-shop: Kleidung
+shop: ropa
 ---

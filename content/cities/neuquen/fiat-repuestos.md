@@ -1,5 +1,5 @@
 ---
 title: "Fiat Repuestos"
 url: /neuquen/fiat-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

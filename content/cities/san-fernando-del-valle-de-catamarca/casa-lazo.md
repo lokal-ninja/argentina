@@ -1,5 +1,5 @@
 ---
 title: "Casa Lazo"
 url: /san-fernando-del-valle-de-catamarca/casa-lazo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

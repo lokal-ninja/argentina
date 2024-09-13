@@ -1,5 +1,5 @@
 ---
 title: "Sebastián Repuestos"
 url: /neuquen/sebastian-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

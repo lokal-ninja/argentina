@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /olivos/pirelli/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orfilia"
 url: /rosario/orfilia/
-shop: Kleidung
+shop: ropa
 ---

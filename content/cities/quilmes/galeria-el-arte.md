@@ -1,5 +1,5 @@
 ---
 title: "Galería El Arte"
 url: /quilmes/galeria-el-arte/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

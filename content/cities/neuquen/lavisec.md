@@ -1,5 +1,5 @@
 ---
 title: "Lavisec"
 url: /neuquen/lavisec/
-shop: Wäscherei
+shop: lavandería
 ---

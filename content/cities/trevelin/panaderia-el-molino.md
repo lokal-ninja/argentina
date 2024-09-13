@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Molino"
 url: /trevelin/panaderia-el-molino/
-shop: Bäckerei
+shop: panadería
 ---

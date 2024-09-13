@@ -1,5 +1,5 @@
 ---
 title: "El Colegio"
 url: /villa-martelli/el-colegio/
-shop: Schreibwaren
+shop: material de oficina
 ---

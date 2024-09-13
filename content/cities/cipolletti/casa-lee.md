@@ -1,5 +1,5 @@
 ---
 title: "Casa Lee"
 url: /cipolletti/casa-lee/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Panambi"
 url: /sarmiento/minimarket-panambi/
-shop: Supermarkt
+shop: supermercado
 ---

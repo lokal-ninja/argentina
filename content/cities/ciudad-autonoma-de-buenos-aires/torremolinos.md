@@ -1,5 +1,5 @@
 ---
 title: "Torremolinos"
 url: /ciudad-autonoma-de-buenos-aires/torremolinos/
-shop: Reisebüro
+shop: agencia de viajes
 ---

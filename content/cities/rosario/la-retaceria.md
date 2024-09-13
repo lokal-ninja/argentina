@@ -1,5 +1,5 @@
 ---
 title: "La Retaceria"
 url: /rosario/la-retaceria/
-shop: Textil
+shop: tela
 ---

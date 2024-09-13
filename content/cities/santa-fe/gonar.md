@@ -1,5 +1,5 @@
 ---
 title: "Gonar"
 url: /santa-fe/gonar/
-shop: Autohaus
+shop: coche
 ---

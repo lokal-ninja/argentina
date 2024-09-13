@@ -1,5 +1,5 @@
 ---
 title: "Cebra"
 url: /cipolletti/cebra/
-shop: Kleidung
+shop: ropa
 ---

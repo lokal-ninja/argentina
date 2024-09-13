@@ -1,5 +1,5 @@
 ---
 title: "Granada"
 url: /viedma/granada/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sahira"
 url: /martinez/sahira/
-shop: Kleidung
+shop: ropa
 ---

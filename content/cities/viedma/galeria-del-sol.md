@@ -1,5 +1,5 @@
 ---
 title: "Galería del Sol"
 url: /viedma/galeria-del-sol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

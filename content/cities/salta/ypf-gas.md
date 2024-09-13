@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /salta/ypf-gas/
-shop: Gasflaschen
+shop: gas
 ---

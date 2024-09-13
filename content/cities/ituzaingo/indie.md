@@ -1,5 +1,5 @@
 ---
 title: "Indie"
 url: /ituzaingo/indie/
-shop: Kleidung
+shop: ropa
 ---

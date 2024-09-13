@@ -1,5 +1,5 @@
 ---
 title: "Frávega"
 url: /san-fernando/fravega/
-shop: Elektronik
+shop: electrónica
 ---

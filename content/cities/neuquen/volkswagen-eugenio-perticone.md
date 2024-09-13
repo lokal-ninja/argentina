@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /neuquen/volkswagen-eugenio-perticone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

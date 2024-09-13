@@ -1,5 +1,5 @@
 ---
 title: "MARVIC"
 url: /ingeniero-white/marvic/
-shop: Eisenwaren
+shop: hardware
 ---

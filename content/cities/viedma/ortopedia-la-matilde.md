@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia La Matilde"
 url: /viedma/ortopedia-la-matilde/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

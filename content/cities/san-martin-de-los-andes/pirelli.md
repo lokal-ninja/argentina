@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /san-martin-de-los-andes/pirelli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

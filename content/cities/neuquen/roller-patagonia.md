@@ -1,5 +1,5 @@
 ---
 title: "Roller Patagonia"
 url: /neuquen/roller-patagonia/
-shop: Gardinen
+shop: cortina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavaya"
 url: /ciudad-autonoma-de-buenos-aires/lavaya/
-shop: Wäscherei
+shop: lavandería
 ---

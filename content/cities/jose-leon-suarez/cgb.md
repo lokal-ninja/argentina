@@ -1,5 +1,5 @@
 ---
 title: "CGB"
 url: /jose-leon-suarez/cgb/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Werlen Repuestos"
 url: /galvez/werlen-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

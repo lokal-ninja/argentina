@@ -1,5 +1,5 @@
 ---
 title: "Celia Michel"
 url: /ciudad-autonoma-de-buenos-aires/celia-michel/
-shop: Kosmetik
+shop: cosméticos
 ---

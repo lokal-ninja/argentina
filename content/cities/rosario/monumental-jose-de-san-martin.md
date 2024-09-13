@@ -1,5 +1,5 @@
 ---
 title: "Monumental"
 url: /rosario/monumental-jose-de-san-martin/
-shop: Haushaltsgeräte
+shop: aparato
 ---

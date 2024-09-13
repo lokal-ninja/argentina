@@ -1,5 +1,5 @@
 ---
 title: "Helio"
 url: /martinez/helio/
-shop: Partyzubehör
+shop: fiesta
 ---

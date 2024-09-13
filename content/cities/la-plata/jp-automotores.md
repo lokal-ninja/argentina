@@ -1,5 +1,5 @@
 ---
 title: "JP Automotores"
 url: /la-plata/jp-automotores/
-shop: Autohaus
+shop: coche
 ---

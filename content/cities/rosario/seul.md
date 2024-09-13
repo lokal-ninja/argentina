@@ -1,5 +1,5 @@
 ---
 title: "Seúl"
 url: /rosario/seul/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Services"
 url: /cipolletti/all-services/
-shop: Computer
+shop: ordenador
 ---

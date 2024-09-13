@@ -1,5 +1,5 @@
 ---
 title: "El Río Libros"
 url: /san-isidro/el-rio-libros/
-shop: Bücher
+shop: libros
 ---

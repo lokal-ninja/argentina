@@ -1,5 +1,5 @@
 ---
 title: "Carre"
 url: /neuquen/carre/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /punta-alta/musimundo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

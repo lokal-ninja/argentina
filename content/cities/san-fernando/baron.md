@@ -1,5 +1,5 @@
 ---
 title: "Barón"
 url: /san-fernando/baron/
-shop: Boot
+shop: barco
 ---

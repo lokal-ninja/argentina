@@ -1,5 +1,5 @@
 ---
 title: "El Chango II"
 url: /viedma/el-chango-ii/
-shop: Lebensmittel
+shop: comodidad
 ---

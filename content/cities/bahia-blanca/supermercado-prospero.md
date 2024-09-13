@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Próspero"
 url: /bahia-blanca/supermercado-prospero/
-shop: Lebensmittel
+shop: comodidad
 ---

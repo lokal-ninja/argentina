@@ -1,5 +1,5 @@
 ---
 title: "Baterias Vulcano"
 url: /merlo/baterias-vulcano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

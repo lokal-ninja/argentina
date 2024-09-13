@@ -1,5 +1,5 @@
 ---
 title: "Comahue"
 url: /san-martin-de-los-andes/comahue/
-shop: Kramladen
+shop: tienda de variedades
 ---

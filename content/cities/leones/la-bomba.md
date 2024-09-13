@@ -1,5 +1,5 @@
 ---
 title: "La Bomba"
 url: /leones/la-bomba/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Universo"
 url: /azul/universo/
-shop: Farben
+shop: pintura
 ---

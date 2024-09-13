@@ -1,5 +1,5 @@
 ---
 title: "Whisky Motos"
 url: /adrogue/whisky-motos/
-shop: Motorrad
+shop: motocicleta
 ---

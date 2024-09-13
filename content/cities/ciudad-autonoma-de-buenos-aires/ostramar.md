@@ -1,5 +1,5 @@
 ---
 title: "Ostramar"
 url: /ciudad-autonoma-de-buenos-aires/ostramar/
-shop: Fisch
+shop: marisco
 ---

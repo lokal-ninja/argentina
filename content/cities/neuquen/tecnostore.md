@@ -1,5 +1,5 @@
 ---
 title: "TecnoStore"
 url: /neuquen/tecnostore/
-shop: Farben
+shop: pintura
 ---

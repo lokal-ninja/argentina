@@ -1,5 +1,5 @@
 ---
 title: "Minimercado"
 url: /villa-paranacito/minimercado/
-shop: Lebensmittel
+shop: comodidad
 ---

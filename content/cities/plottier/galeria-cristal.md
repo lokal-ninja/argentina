@@ -1,5 +1,5 @@
 ---
 title: "Galería Cristal"
 url: /plottier/galeria-cristal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

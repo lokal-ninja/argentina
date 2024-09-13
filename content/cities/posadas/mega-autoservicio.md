@@ -1,5 +1,5 @@
 ---
 title: "Mega Autoservicio"
 url: /posadas/mega-autoservicio/
-shop: Lebensmittel
+shop: comodidad
 ---

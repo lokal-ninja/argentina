@@ -1,5 +1,5 @@
 ---
 title: "Clean Up!"
 url: /cipolletti/clean-up/
-shop: Drogerie
+shop: farmacia
 ---

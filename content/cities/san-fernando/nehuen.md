@@ -1,5 +1,5 @@
 ---
 title: "Nehúen"
 url: /san-fernando/nehuen/
-shop: Allgemein
+shop: general
 ---

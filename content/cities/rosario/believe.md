@@ -1,5 +1,5 @@
 ---
 title: "Believe"
 url: /rosario/believe/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercado Mayra"
 url: /cipolletti/mercado-mayra/
-shop: Lebensmittel
+shop: comodidad
 ---

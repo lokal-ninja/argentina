@@ -1,5 +1,5 @@
 ---
 title: "Sol Semilla"
 url: /viedma/sol-semilla/
-shop: Bioladen
+shop: alimentación sana
 ---

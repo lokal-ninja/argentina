@@ -1,5 +1,5 @@
 ---
 title: "La Taba"
 url: /amboy/la-taba/
-shop: Lebensmittel
+shop: comodidad
 ---

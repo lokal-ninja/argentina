@@ -1,5 +1,5 @@
 ---
 title: "Indumentaria Femenina"
 url: /ciudad-autonoma-de-buenos-aires/indumentaria-femenina/
-shop: Allgemein
+shop: general
 ---

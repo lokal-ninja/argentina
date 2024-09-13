@@ -1,5 +1,5 @@
 ---
 title: "Attaguile"
 url: /guaymallen/attaguile/
-shop: Bäckerei
+shop: panadería
 ---

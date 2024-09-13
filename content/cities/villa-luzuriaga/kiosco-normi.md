@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Normi"
 url: /villa-luzuriaga/kiosco-normi/
-shop: Supermarkt
+shop: supermercado
 ---

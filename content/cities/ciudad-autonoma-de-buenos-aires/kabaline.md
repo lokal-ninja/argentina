@@ -1,5 +1,5 @@
 ---
 title: "Kabaline"
 url: /ciudad-autonoma-de-buenos-aires/kabaline/
-shop: Kleidung
+shop: ropa
 ---

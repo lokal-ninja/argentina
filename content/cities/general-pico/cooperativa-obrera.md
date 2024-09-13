@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /general-pico/cooperativa-obrera/
-shop: Supermarkt
+shop: supermercado
 ---

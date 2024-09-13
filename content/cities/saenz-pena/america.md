@@ -1,5 +1,5 @@
 ---
 title: "America"
 url: /saenz-pena/america/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

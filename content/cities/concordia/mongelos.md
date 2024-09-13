@@ -1,5 +1,5 @@
 ---
 title: "Mongelós"
 url: /concordia/mongelos/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Changomás Paraná"
 url: /parana/changomas-parana/
-shop: Supermarkt
+shop: supermercado
 ---

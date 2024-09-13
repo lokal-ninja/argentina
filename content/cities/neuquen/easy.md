@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /neuquen/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cimarrón"
 url: /viedma/cimarron-colon/
-shop: Kleidung
+shop: ropa
 ---

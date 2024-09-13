@@ -1,5 +1,5 @@
 ---
 title: "Paseo Margarita"
 url: /roldan/paseo-margarita/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weber"
 url: /ciudad-autonoma-de-buenos-aires/weber/
-shop: Baustoffe
+shop: comercio
 ---

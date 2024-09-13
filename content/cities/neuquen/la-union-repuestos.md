@@ -1,5 +1,5 @@
 ---
 title: "La Unión Repuestos"
 url: /neuquen/la-union-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /el-calafate/diarco/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cayena"
 url: /neuquen/cayena/
-shop: Bioladen
+shop: alimentación sana
 ---

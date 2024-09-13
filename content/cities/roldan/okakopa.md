@@ -1,5 +1,5 @@
 ---
 title: "Okakopa"
 url: /roldan/okakopa/
-shop: Tiere
+shop: mascotas
 ---

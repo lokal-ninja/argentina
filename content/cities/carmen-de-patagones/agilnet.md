@@ -1,5 +1,5 @@
 ---
 title: "Agilnet"
 url: /carmen-de-patagones/agilnet/
-shop: Handy
+shop: teléfono móvil
 ---

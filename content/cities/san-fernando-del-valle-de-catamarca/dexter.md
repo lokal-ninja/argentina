@@ -1,5 +1,5 @@
 ---
 title: "Dexter"
 url: /san-fernando-del-valle-de-catamarca/dexter/
-shop: Schuhe
+shop: zapatos
 ---

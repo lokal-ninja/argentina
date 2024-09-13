@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /coronel-dorrego/pirelli/
-shop: Reifen
+shop: neumáticos
 ---

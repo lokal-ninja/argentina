@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Gral. Belgrano"
 url: /anatuya/ferreteria-gral-belgrano/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puntocom"
 url: /ramos-mejia/puntocom/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

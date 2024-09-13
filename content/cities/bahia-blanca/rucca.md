@@ -1,5 +1,5 @@
 ---
 title: "Rucca"
 url: /bahia-blanca/rucca/
-shop: Kleidung
+shop: ropa
 ---

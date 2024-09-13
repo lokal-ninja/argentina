@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /viedma/personal/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Binder Rulemanes"
 url: /obera/binder-rulemanes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

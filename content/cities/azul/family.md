@@ -1,5 +1,5 @@
 ---
 title: "Family"
 url: /azul/family/
-shop: Kramladen
+shop: tienda de variedades
 ---

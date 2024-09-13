@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /rosario/claro-cordoba/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nox Patagonia"
 url: /neuquen/nox-patagonia/
-shop: Kleidung
+shop: ropa
 ---

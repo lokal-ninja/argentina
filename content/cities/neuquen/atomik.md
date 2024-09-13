@@ -1,5 +1,5 @@
 ---
 title: "Atomik"
 url: /neuquen/atomik/
-shop: Schuhe
+shop: zapatos
 ---

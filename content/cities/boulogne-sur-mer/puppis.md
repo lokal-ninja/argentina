@@ -1,5 +1,5 @@
 ---
 title: "Puppis"
 url: /boulogne-sur-mer/puppis/
-shop: Tiere
+shop: mascotas
 ---

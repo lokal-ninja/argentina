@@ -1,5 +1,5 @@
 ---
 title: "SBS"
 url: /ciudad-autonoma-de-buenos-aires/sbs/
-shop: Bücher
+shop: libros
 ---

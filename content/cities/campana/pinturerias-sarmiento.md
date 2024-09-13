@@ -1,5 +1,5 @@
 ---
 title: "Pinturerías Sarmiento"
 url: /campana/pinturerias-sarmiento/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matsu"
 url: /las-toninas/matsu/
-shop: Warenhaus
+shop: grandes almacenes
 ---

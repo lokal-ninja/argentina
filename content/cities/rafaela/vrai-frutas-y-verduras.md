@@ -1,5 +1,5 @@
 ---
 title: "Vrai Frutas y verduras"
 url: /rafaela/vrai-frutas-y-verduras/
-shop: Gemüse & Obst
+shop: frutería
 ---

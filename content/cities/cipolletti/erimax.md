@@ -1,5 +1,5 @@
 ---
 title: "Erimax"
 url: /cipolletti/erimax/
-shop: Kleidung
+shop: ropa
 ---

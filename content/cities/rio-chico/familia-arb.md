@@ -1,5 +1,5 @@
 ---
 title: "Familia Arb"
 url: /rio-chico/familia-arb/
-shop: Supermarkt
+shop: supermercado
 ---

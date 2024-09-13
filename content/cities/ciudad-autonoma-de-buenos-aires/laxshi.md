@@ -1,5 +1,5 @@
 ---
 title: "Laxshi"
 url: /ciudad-autonoma-de-buenos-aires/laxshi/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florería Néstor"
 url: /rosario/floreria-nestor/
-shop: Blumen
+shop: floristería
 ---

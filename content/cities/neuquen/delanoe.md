@@ -1,5 +1,5 @@
 ---
 title: "Delanoe"
 url: /neuquen/delanoe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

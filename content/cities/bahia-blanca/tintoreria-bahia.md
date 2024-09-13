@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Bahía"
 url: /bahia-blanca/tintoreria-bahia/
-shop: Wäscherei
+shop: lavandería
 ---

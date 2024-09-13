@@ -1,5 +1,5 @@
 ---
 title: "Alvear"
 url: /santa-fe/alvear-bulevar-pellegrini/
-shop: Supermarkt
+shop: supermercado
 ---

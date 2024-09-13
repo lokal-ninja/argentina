@@ -1,5 +1,5 @@
 ---
 title: "Te Llamaré Viernes"
 url: /ciudad-autonoma-de-buenos-aires/te-llamare-viernes/
-shop: Bücher
+shop: libros
 ---

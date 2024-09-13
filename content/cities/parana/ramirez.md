@@ -1,5 +1,5 @@
 ---
 title: "Ramirez"
 url: /parana/ramirez/
-shop: Supermarkt
+shop: supermercado
 ---

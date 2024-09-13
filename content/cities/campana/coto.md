@@ -1,5 +1,5 @@
 ---
 title: "Coto"
 url: /campana/coto/
-shop: Supermarkt
+shop: supermercado
 ---

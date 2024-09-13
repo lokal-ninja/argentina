@@ -1,5 +1,5 @@
 ---
 title: "Campo Abierto"
 url: /villa-elisa/campo-abierto/
-shop: Autohaus
+shop: coche
 ---

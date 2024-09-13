@@ -1,5 +1,5 @@
 ---
 title: "Dar"
 url: /rosario/dar-rioja/
-shop: Supermarkt
+shop: supermercado
 ---

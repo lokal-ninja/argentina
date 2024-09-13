@@ -1,5 +1,5 @@
 ---
 title: "La Playita del Puente"
 url: /san-ignacio/la-playita-del-puente/
-shop: Lebensmittel
+shop: comodidad
 ---

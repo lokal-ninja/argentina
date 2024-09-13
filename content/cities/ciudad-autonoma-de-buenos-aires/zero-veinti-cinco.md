@@ -1,5 +1,5 @@
 ---
 title: "Zero Veinti Cinco"
 url: /ciudad-autonoma-de-buenos-aires/zero-veinti-cinco/
-shop: Allgemein
+shop: general
 ---

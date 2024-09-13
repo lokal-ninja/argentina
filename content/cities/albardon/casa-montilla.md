@@ -1,5 +1,5 @@
 ---
 title: "Casa Montilla"
 url: /albardon/casa-montilla/
-shop: Supermarkt
+shop: supermercado
 ---

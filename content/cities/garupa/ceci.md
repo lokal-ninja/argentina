@@ -1,5 +1,5 @@
 ---
 title: "Ceci"
 url: /garupa/ceci/
-shop: Friseur
+shop: peluquería
 ---

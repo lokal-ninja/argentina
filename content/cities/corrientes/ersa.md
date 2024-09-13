@@ -1,5 +1,5 @@
 ---
 title: "Ersa"
 url: /corrientes/ersa/
-shop: Tickets
+shop: entradas
 ---

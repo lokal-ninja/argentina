@@ -1,5 +1,5 @@
 ---
 title: "Cochería Fagnani"
 url: /zarate/cocheria-fagnani/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powershop"
 url: /martinez/powershop/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

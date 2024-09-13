@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /villa-ballester/claro/
-shop: Handy
+shop: teléfono móvil
 ---

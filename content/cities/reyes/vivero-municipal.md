@@ -1,5 +1,5 @@
 ---
 title: "VIVERO MUNICIPAL"
 url: /reyes/vivero-municipal/
-shop: Garten-Center
+shop: centro de jardinería
 ---

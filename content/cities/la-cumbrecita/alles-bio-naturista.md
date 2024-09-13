@@ -1,5 +1,5 @@
 ---
 title: "Alles Bio, Naturista"
 url: /la-cumbrecita/alles-bio-naturista/
-shop: Lebensmittel
+shop: comodidad
 ---

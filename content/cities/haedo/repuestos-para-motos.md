@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Para Motos"
 url: /haedo/repuestos-para-motos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

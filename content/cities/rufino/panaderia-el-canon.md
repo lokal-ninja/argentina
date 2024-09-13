@@ -1,5 +1,5 @@
 ---
 title: "Panaderia El Cañon"
 url: /rufino/panaderia-el-canon/
-shop: Bäckerei
+shop: panadería
 ---

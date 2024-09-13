@@ -1,5 +1,5 @@
 ---
 title: "Drugstore La Esquina"
 url: /concordia/drugstore-la-esquina/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ananá"
 url: /bahia-blanca/anana/
-shop: Kramladen
+shop: tienda de variedades
 ---

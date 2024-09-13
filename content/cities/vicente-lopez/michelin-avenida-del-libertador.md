@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /vicente-lopez/michelin-avenida-del-libertador/
-shop: Reifen
+shop: neumáticos
 ---

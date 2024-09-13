@@ -1,5 +1,5 @@
 ---
 title: "San Jorge"
 url: /tristan-suarez/san-jorge/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promofiesta"
 url: /neuquen/promofiesta/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuciones Coelho"
 url: /neuquen/distribuciones-coelho/
-shop: Autoteile
+shop: piezas de automóviles
 ---

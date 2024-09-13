@@ -1,5 +1,5 @@
 ---
 title: "Borsalino"
 url: /rosario/borsalino/
-shop: Schuhe
+shop: zapatos
 ---

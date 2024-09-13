@@ -1,5 +1,5 @@
 ---
 title: "Tres Ge"
 url: /san-andres/tres-ge/
-shop: Metzgerei
+shop: carnicero
 ---

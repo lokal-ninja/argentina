@@ -1,5 +1,5 @@
 ---
 title: "Cooperativa Obrera"
 url: /bahia-blanca/cooperativa-obrera-roca/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alimak"
 url: /obera/alimak/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

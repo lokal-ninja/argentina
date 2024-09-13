@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /ciudad-autonoma-de-buenos-aires/kiosco/
-shop: Lebensmittel
+shop: comodidad
 ---

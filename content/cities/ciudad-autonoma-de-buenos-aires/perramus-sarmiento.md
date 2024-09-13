@@ -1,5 +1,5 @@
 ---
 title: "Perramus"
 url: /ciudad-autonoma-de-buenos-aires/perramus-sarmiento/
-shop: Kleidung
+shop: ropa
 ---

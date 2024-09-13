@@ -1,5 +1,5 @@
 ---
 title: "Carlachiani"
 url: /rosario/carlachiani/
-shop: Immobilien
+shop: agente inmobiliario
 ---

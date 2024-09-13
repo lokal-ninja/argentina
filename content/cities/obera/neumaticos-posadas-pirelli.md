@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Posadas - Pirelli"
 url: /obera/neumaticos-posadas-pirelli/
-shop: Reifen
+shop: neumáticos
 ---

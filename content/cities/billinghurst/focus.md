@@ -1,5 +1,5 @@
 ---
 title: "Focus"
 url: /billinghurst/focus/
-shop: Autoteile
+shop: piezas de automóviles
 ---

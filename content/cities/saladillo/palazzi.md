@@ -1,5 +1,5 @@
 ---
 title: "Palazzi"
 url: /saladillo/palazzi/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /general-pico/la-anonima-calle-9-oeste/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delta"
 url: /vicente-lopez/delta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

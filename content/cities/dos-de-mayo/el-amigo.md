@@ -1,5 +1,5 @@
 ---
 title: "El Amigo"
 url: /dos-de-mayo/el-amigo/
-shop: Metzgerei
+shop: carnicero
 ---

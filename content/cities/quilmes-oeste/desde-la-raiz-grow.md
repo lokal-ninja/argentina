@@ -1,5 +1,5 @@
 ---
 title: "Desde La Raiz Grow"
 url: /quilmes-oeste/desde-la-raiz-grow/
-shop: Hanf
+shop: cannabis
 ---

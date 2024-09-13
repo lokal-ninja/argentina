@@ -1,5 +1,5 @@
 ---
 title: "La Barraca"
 url: /el-calafate/la-barraca/
-shop: Mieten
+shop: alquiler
 ---

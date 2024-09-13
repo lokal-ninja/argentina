@@ -1,5 +1,5 @@
 ---
 title: "Multicompras"
 url: /neuquen/multicompras/
-shop: Kramladen
+shop: tienda de variedades
 ---

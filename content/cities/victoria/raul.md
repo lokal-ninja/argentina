@@ -1,5 +1,5 @@
 ---
 title: "Raul"
 url: /victoria/raul/
-shop: Eisenwaren
+shop: hardware
 ---

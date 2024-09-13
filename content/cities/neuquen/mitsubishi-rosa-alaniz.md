@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /neuquen/mitsubishi-rosa-alaniz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allbikes Motos"
 url: /lobos/allbikes-motos/
-shop: Motorrad
+shop: motocicleta
 ---

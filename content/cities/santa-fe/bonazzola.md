@@ -1,5 +1,5 @@
 ---
 title: "Bonazzola"
 url: /santa-fe/bonazzola/
-shop: Optiker
+shop: óptico
 ---

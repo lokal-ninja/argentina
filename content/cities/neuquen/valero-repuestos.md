@@ -1,5 +1,5 @@
 ---
 title: "Valero Repuestos"
 url: /neuquen/valero-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

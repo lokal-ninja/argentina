@@ -1,5 +1,5 @@
 ---
 title: "LubriGo"
 url: /santa-fe/lubrigo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Argentino Lubricentro"
 url: /zarate/el-argentino-lubricentro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

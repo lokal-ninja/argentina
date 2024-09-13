@@ -1,5 +1,5 @@
 ---
 title: "El Apo"
 url: /campana/el-apo/
-shop: Metzgerei
+shop: carnicero
 ---

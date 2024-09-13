@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Neuquén"
 url: /neuquen/radiadores-neuquen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

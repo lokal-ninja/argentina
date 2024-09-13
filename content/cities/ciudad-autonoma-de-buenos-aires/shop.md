@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /ciudad-autonoma-de-buenos-aires/shop/
-shop: Lebensmittel
+shop: comodidad
 ---

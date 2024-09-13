@@ -1,5 +1,5 @@
 ---
 title: "Zohara"
 url: /rosario/zohara/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /russell/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

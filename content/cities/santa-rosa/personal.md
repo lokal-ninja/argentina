@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /santa-rosa/personal/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motomel"
 url: /concordia/motomel/
-shop: Motorrad
+shop: motocicleta
 ---

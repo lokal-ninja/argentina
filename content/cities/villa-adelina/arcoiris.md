@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /villa-adelina/arcoiris/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Faena"
 url: /corrientes/la-faena/
-shop: Metzgerei
+shop: carnicero
 ---

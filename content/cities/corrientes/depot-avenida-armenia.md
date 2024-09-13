@@ -1,5 +1,5 @@
 ---
 title: "Depot."
 url: /corrientes/depot-avenida-armenia/
-shop: Supermarkt
+shop: supermercado
 ---

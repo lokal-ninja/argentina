@@ -1,5 +1,5 @@
 ---
 title: "Antioxido"
 url: /viedma/antioxido/
-shop: Kleidung
+shop: ropa
 ---

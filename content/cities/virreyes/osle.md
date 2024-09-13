@@ -1,5 +1,5 @@
 ---
 title: "Oslé"
 url: /virreyes/osle/
-shop: Großhandel
+shop: mayorista
 ---

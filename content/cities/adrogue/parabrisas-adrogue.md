@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas Adrogué"
 url: /adrogue/parabrisas-adrogue/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

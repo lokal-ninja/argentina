@@ -1,5 +1,5 @@
 ---
 title: "Nexo"
 url: /ciudad-autonoma-de-buenos-aires/nexo/
-shop: Allgemein
+shop: general
 ---

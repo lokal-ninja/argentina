@@ -1,5 +1,5 @@
 ---
 title: "RES"
 url: /ciudad-autonoma-de-buenos-aires/res/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altomonte"
 url: /virreyes/altomonte/
-shop: Autoteile
+shop: piezas de automóviles
 ---

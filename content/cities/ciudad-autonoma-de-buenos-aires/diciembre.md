@@ -1,5 +1,5 @@
 ---
 title: "Diciembre"
 url: /ciudad-autonoma-de-buenos-aires/diciembre/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megatone"
 url: /cipolletti/megatone/
-shop: Elektronik
+shop: electrónica
 ---

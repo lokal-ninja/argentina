@@ -1,5 +1,5 @@
 ---
 title: "Elden Exclusive Home Equipment"
 url: /martinez/elden-exclusive-home-equipment/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

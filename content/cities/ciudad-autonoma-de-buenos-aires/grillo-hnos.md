@@ -1,5 +1,5 @@
 ---
 title: "Grillo Hnos."
 url: /ciudad-autonoma-de-buenos-aires/grillo-hnos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

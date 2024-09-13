@@ -1,5 +1,5 @@
 ---
 title: "Gomería Avenida"
 url: /santos-lugares/gomeria-avenida/
-shop: Reifen
+shop: neumáticos
 ---

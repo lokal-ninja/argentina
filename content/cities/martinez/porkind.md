@@ -1,5 +1,5 @@
 ---
 title: "Porkind"
 url: /martinez/porkind/
-shop: Feinkost
+shop: charcutería
 ---

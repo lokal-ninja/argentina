@@ -1,5 +1,5 @@
 ---
 title: "RS4"
 url: /san-isidro/rs4/
-shop: Reifen
+shop: neumáticos
 ---

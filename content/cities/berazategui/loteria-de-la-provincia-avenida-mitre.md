@@ -1,5 +1,5 @@
 ---
 title: "Loteria de la Provincia"
 url: /berazategui/loteria-de-la-provincia-avenida-mitre/
-shop: Lotterie
+shop: lotería
 ---

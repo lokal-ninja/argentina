@@ -1,5 +1,5 @@
 ---
 title: "Blasevich"
 url: /villa-luzuriaga/blasevich/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

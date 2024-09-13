@@ -1,5 +1,5 @@
 ---
 title: "Lader"
 url: /rosario/lader-jose-de-san-martin/
-shop: Schreibwaren
+shop: material de oficina
 ---

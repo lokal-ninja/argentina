@@ -1,5 +1,5 @@
 ---
 title: "YPF"
 url: /tres-cerros/ypf/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Craft Papeles"
 url: /concordia/craft-papeles/
-shop: Schreibwaren
+shop: material de oficina
 ---

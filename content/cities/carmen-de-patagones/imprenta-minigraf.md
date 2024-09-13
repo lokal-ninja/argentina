@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Minigraf"
 url: /carmen-de-patagones/imprenta-minigraf/
-shop: Kopieren
+shop: copyshop
 ---

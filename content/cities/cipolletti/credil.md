@@ -1,5 +1,5 @@
 ---
 title: "Credil"
 url: /cipolletti/credil/
-shop: Leiher
+shop: prestamista
 ---

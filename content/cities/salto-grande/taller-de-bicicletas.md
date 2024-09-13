@@ -1,5 +1,5 @@
 ---
 title: "Taller de Bicicletas"
 url: /salto-grande/taller-de-bicicletas/
-shop: Fahrrad
+shop: bicicleta
 ---

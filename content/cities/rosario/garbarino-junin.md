@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /rosario/garbarino-junin/
-shop: Reisebüro
+shop: agencia de viajes
 ---

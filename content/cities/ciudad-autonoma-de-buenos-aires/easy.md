@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /ciudad-autonoma-de-buenos-aires/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

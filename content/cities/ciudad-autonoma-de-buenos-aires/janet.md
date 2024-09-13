@@ -1,5 +1,5 @@
 ---
 title: "Janet"
 url: /ciudad-autonoma-de-buenos-aires/janet/
-shop: Friseur
+shop: peluquería
 ---

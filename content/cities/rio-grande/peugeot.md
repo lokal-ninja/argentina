@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /rio-grande/peugeot/
-shop: Autohaus
+shop: coche
 ---

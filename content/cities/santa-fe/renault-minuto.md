@@ -1,5 +1,5 @@
 ---
 title: "Renault Minuto"
 url: /santa-fe/renault-minuto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cimar Distribuciones"
 url: /neuquen/cimar-distribuciones/
-shop: Großhandel
+shop: mayorista
 ---

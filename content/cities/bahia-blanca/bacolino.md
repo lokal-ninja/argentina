@@ -1,5 +1,5 @@
 ---
 title: "Bacolino"
 url: /bahia-blanca/bacolino/
-shop: Kleidung
+shop: ropa
 ---

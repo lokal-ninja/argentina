@@ -1,5 +1,5 @@
 ---
 title: "Salmon Tienda"
 url: /ciudad-autonoma-de-buenos-aires/salmon-tienda/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

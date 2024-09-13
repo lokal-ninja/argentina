@@ -1,5 +1,5 @@
 ---
 title: "Ecomadera"
 url: /posadas/ecomadera/
-shop: Möbel
+shop: muebles
 ---

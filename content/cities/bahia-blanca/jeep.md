@@ -1,5 +1,5 @@
 ---
 title: "Jeep"
 url: /bahia-blanca/jeep/
-shop: Autohaus
+shop: coche
 ---

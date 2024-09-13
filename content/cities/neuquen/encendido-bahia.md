@@ -1,5 +1,5 @@
 ---
 title: "Encendido Bahía"
 url: /neuquen/encendido-bahia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

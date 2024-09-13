@@ -1,5 +1,5 @@
 ---
 title: "Gomería Coutsiers"
 url: /villa-nueva/gomeria-coutsiers/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

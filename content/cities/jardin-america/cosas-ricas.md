@@ -1,5 +1,5 @@
 ---
 title: "Cosas Ricas"
 url: /jardin-america/cosas-ricas/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyelit"
 url: /concordia/eyelit/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavadero"
 url: /concordia/lavadero/
-shop: Wäscherei
+shop: lavandería
 ---

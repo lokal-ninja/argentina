@@ -1,5 +1,5 @@
 ---
 title: "Mosqueta"
 url: /rosario/mosqueta/
-shop: Kleidung
+shop: ropa
 ---

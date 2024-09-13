@@ -1,5 +1,5 @@
 ---
 title: "MaxiCasa Outlet Factory"
 url: /concordia/maxicasa-outlet-factory/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

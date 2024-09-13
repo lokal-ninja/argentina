@@ -1,5 +1,5 @@
 ---
 title: "Maxigoma"
 url: /plottier/maxigoma/
-shop: Allgemein
+shop: general
 ---

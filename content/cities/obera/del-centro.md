@@ -1,5 +1,5 @@
 ---
 title: "Del Centro"
 url: /obera/del-centro/
-shop: Farben
+shop: pintura
 ---

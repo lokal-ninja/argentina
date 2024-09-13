@@ -1,5 +1,5 @@
 ---
 title: "Mototech"
 url: /neuquen/mototech/
-shop: Autoteile
+shop: piezas de automóviles
 ---

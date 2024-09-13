@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Chobin"
 url: /chos-malal/minimercado-chobin/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isabella"
 url: /cipolletti/isabella/
-shop: Kleidung
+shop: ropa
 ---

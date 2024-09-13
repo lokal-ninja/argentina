@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Luisito"
 url: /lobos/carniceria-luisito/
-shop: Metzgerei
+shop: carnicero
 ---

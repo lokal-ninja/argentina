@@ -1,5 +1,5 @@
 ---
 title: "Plusmar"
 url: /bahia-blanca/plusmar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

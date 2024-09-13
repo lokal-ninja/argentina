@@ -1,5 +1,5 @@
 ---
 title: "Molentino"
 url: /ciudad-autonoma-de-buenos-aires/molentino/
-shop: Friseur
+shop: peluquería
 ---

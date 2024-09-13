@@ -1,5 +1,5 @@
 ---
 title: "Alem"
 url: /leandro-n-alem/alem/
-shop: Baustoffe
+shop: comercio
 ---

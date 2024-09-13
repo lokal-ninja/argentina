@@ -1,5 +1,5 @@
 ---
 title: "Compañía Principal"
 url: /olivos/compania-principal/
-shop: Bestattungen
+shop: directores de funerarias
 ---

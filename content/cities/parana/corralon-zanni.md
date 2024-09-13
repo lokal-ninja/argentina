@@ -1,5 +1,5 @@
 ---
 title: "Corralon Zanni"
 url: /parana/corralon-zanni/
-shop: Eisenwaren
+shop: hardware
 ---

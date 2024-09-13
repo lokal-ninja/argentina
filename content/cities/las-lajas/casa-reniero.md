@@ -1,5 +1,5 @@
 ---
 title: "Casa Reniero"
 url: /las-lajas/casa-reniero/
-shop: Andenken
+shop: regalo
 ---

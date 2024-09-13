@@ -1,5 +1,5 @@
 ---
 title: "Encendido Patagonia"
 url: /neuquen/encendido-patagonia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

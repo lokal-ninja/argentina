@@ -1,5 +1,5 @@
 ---
 title: "Joyar Juiye"
 url: /ciudad-autonoma-de-buenos-aires/joyar-juiye/
-shop: Schmuck
+shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espacio Sur"
 url: /neuquen/espacio-sur/
-shop: Raumausstattung
+shop: decoración interior
 ---

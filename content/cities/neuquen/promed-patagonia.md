@@ -1,5 +1,5 @@
 ---
 title: "ProMed Patagonia"
 url: /neuquen/promed-patagonia/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

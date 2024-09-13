@@ -1,5 +1,5 @@
 ---
 title: "Sol Supermercados"
 url: /resistencia/sol-supermercados/
-shop: Supermarkt
+shop: supermercado
 ---

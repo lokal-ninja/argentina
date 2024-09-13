@@ -1,5 +1,5 @@
 ---
 title: "Victorino Calzados"
 url: /arroyito/victorino-calzados/
-shop: Schuhe
+shop: zapatos
 ---

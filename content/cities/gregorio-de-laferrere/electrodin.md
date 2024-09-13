@@ -1,5 +1,5 @@
 ---
 title: "Electrodin"
 url: /gregorio-de-laferrere/electrodin/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automix"
 url: /campana/automix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

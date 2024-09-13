@@ -1,5 +1,5 @@
 ---
 title: "Centro"
 url: /ciudad-autonoma-de-buenos-aires/centro/
-shop: Optiker
+shop: óptico
 ---

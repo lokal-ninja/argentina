@@ -1,5 +1,5 @@
 ---
 title: "Svampa Cuadros"
 url: /cipolletti/svampa-cuadros/
-shop: Rahmen
+shop: marco
 ---

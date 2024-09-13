@@ -1,5 +1,5 @@
 ---
 title: "Optilent"
 url: /azul/optilent/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chennai"
 url: /concepcion/chennai/
-shop: Parfümerie
+shop: perfumería
 ---

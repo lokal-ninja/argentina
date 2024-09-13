@@ -1,5 +1,5 @@
 ---
 title: "Farmacia Iris"
 url: /florida/farmacia-iris/
-shop: Drogerie
+shop: farmacia
 ---

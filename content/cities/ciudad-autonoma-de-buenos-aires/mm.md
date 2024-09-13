@@ -1,5 +1,5 @@
 ---
 title: "MM"
 url: /ciudad-autonoma-de-buenos-aires/mm/
-shop: Farben
+shop: pintura
 ---

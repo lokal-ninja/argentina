@@ -1,5 +1,5 @@
 ---
 title: "Bolche"
 url: /ciudad-autonoma-de-buenos-aires/bolche/
-shop: Lebensmittel
+shop: comodidad
 ---

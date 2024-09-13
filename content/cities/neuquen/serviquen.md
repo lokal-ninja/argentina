@@ -1,5 +1,5 @@
 ---
 title: "Serviquén"
 url: /neuquen/serviquen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

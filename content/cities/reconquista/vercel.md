@@ -1,5 +1,5 @@
 ---
 title: "VerCel"
 url: /reconquista/vercel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papalote"
 url: /cipolletti/papalote/
-shop: Spielzeug
+shop: juguetes
 ---

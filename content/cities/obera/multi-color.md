@@ -1,5 +1,5 @@
 ---
 title: "Multi Color"
 url: /obera/multi-color/
-shop: Farben
+shop: pintura
 ---

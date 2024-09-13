@@ -1,5 +1,5 @@
 ---
 title: "La Bodega"
 url: /neuquen/la-bodega/
-shop: Gemüse & Obst
+shop: frutería
 ---

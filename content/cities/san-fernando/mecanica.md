@@ -1,5 +1,5 @@
 ---
 title: "Mecanica"
 url: /san-fernando/mecanica/
-shop: Autoteile
+shop: piezas de automóviles
 ---

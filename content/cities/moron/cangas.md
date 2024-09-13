@@ -1,5 +1,5 @@
 ---
 title: "Cangas"
 url: /moron/cangas/
-shop: Metzgerei
+shop: carnicero
 ---

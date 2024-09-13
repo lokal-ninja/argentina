@@ -1,5 +1,5 @@
 ---
 title: "AutoMedio"
 url: /neuquen/automedio/
-shop: Autohaus
+shop: coche
 ---

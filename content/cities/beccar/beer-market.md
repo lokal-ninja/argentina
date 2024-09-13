@@ -1,5 +1,5 @@
 ---
 title: "Beer Market"
 url: /beccar/beer-market/
-shop: Spirituosen
+shop: alcohol
 ---

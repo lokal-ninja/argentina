@@ -1,5 +1,5 @@
 ---
 title: "ZentroAuto"
 url: /zapala/zentroauto/
-shop: Autohaus
+shop: coche
 ---

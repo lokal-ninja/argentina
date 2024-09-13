@@ -1,5 +1,5 @@
 ---
 title: "Mario"
 url: /ciudad-autonoma-de-buenos-aires/mario-avenida-olivera/
-shop: Schlüsseldienst
+shop: piezas de automóviles
 ---

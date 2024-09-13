@@ -1,5 +1,5 @@
 ---
 title: "Azul Kahlo"
 url: /ciudad-autonoma-de-buenos-aires/azul-kahlo/
-shop: Modehaus
+shop: tienda
 ---

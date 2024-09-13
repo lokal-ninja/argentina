@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Mass Oil"
 url: /villa-nueva/lubricentro-mass-oil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

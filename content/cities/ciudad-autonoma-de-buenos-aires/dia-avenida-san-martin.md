@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /ciudad-autonoma-de-buenos-aires/dia-avenida-san-martin/
-shop: Supermarkt
+shop: supermercado
 ---

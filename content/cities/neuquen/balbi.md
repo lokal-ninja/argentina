@@ -1,5 +1,5 @@
 ---
 title: "Balbi"
 url: /neuquen/balbi/
-shop: Warenhaus
+shop: grandes almacenes
 ---

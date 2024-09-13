@@ -1,5 +1,5 @@
 ---
 title: "Nativo Skateshop"
 url: /cipolletti/nativo-skateshop/
-shop: Kleidung
+shop: ropa
 ---

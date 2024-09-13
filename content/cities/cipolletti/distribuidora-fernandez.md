@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Fernández"
 url: /cipolletti/distribuidora-fernandez/
-shop: Großhandel
+shop: mayorista
 ---

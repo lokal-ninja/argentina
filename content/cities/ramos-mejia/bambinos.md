@@ -1,5 +1,5 @@
 ---
 title: "Bambino's"
 url: /ramos-mejia/bambinos/
-shop: Babysachen
+shop: artículos para bebés
 ---

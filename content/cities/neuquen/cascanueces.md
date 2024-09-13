@@ -1,5 +1,5 @@
 ---
 title: "Cascanueces"
 url: /neuquen/cascanueces/
-shop: Bioladen
+shop: alimentación sana
 ---

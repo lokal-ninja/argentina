@@ -1,5 +1,5 @@
 ---
 title: "Papelera DelÁngel"
 url: /cipolletti/papelera-delangel/
-shop: Schreibwaren
+shop: material de oficina
 ---

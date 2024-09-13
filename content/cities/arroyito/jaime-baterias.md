@@ -1,5 +1,5 @@
 ---
 title: "Jaime Baterias"
 url: /arroyito/jaime-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

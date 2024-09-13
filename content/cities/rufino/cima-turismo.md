@@ -1,5 +1,5 @@
 ---
 title: "Cima Turismo"
 url: /rufino/cima-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes"
 url: /godoy-cruz/lubricantes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

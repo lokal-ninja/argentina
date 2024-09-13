@@ -1,5 +1,5 @@
 ---
 title: "LC Repuestos"
 url: /rosario/lc-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

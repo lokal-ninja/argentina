@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /viedma/look/
-shop: Schuhe
+shop: zapatos
 ---

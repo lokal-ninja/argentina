@@ -1,5 +1,5 @@
 ---
 title: "Yvette"
 url: /ciudad-autonoma-de-buenos-aires/yvette/
-shop: Schuhe
+shop: zapatos
 ---

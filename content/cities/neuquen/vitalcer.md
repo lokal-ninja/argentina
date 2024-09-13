@@ -1,5 +1,5 @@
 ---
 title: "Vitalcer"
 url: /neuquen/vitalcer/
-shop: Bioladen
+shop: alimentación sana
 ---

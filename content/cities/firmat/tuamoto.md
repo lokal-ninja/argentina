@@ -1,5 +1,5 @@
 ---
 title: "Tuamoto"
 url: /firmat/tuamoto/
-shop: Motorrad
+shop: motocicleta
 ---

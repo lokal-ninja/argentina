@@ -1,5 +1,5 @@
 ---
 title: "Ankara"
 url: /san-fernando/ankara/
-shop: Eisenwaren
+shop: hardware
 ---

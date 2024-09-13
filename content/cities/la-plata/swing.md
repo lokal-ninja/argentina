@@ -1,5 +1,5 @@
 ---
 title: "Swing"
 url: /la-plata/swing/
-shop: Spielzeug
+shop: juguetes
 ---

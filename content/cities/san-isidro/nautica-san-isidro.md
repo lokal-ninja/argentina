@@ -1,5 +1,5 @@
 ---
 title: "Nautica San Isidro"
 url: /san-isidro/nautica-san-isidro/
-shop: Boot
+shop: barco
 ---

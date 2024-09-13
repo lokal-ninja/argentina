@@ -1,5 +1,5 @@
 ---
 title: "El Galpon"
 url: /san-justo/el-galpon/
-shop: Reifen
+shop: neumáticos
 ---

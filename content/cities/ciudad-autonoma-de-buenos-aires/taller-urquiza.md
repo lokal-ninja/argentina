@@ -1,5 +1,5 @@
 ---
 title: "Taller Urquiza"
 url: /ciudad-autonoma-de-buenos-aires/taller-urquiza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sub Agencia de Quinela"
 url: /el-soberbio/sub-agencia-de-quinela/
-shop: Lotterie
+shop: lotería
 ---

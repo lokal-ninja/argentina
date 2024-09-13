@@ -1,5 +1,5 @@
 ---
 title: "Gomería Huguito"
 url: /santa-fe/gomeria-huguito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

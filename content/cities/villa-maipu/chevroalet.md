@@ -1,5 +1,5 @@
 ---
 title: "Chevroalet"
 url: /villa-maipu/chevroalet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gráfica Olivares"
 url: /ciudad-autonoma-de-buenos-aires/grafica-olivares/
-shop: Kopieren
+shop: copyshop
 ---

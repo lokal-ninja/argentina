@@ -1,5 +1,5 @@
 ---
 title: "Jade Lencería"
 url: /viedma/jade-lenceria/
-shop: Kleidung
+shop: ropa
 ---

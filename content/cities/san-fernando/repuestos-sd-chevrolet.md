@@ -1,5 +1,5 @@
 ---
 title: "Repuestos SD Chevrolet"
 url: /san-fernando/repuestos-sd-chevrolet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

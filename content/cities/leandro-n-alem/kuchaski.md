@@ -1,5 +1,5 @@
 ---
 title: "Kuchaski"
 url: /leandro-n-alem/kuchaski/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

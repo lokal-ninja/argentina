@@ -1,5 +1,5 @@
 ---
 title: "Herrafer"
 url: /cipolletti/herrafer/
-shop: Eisenwaren
+shop: hardware
 ---

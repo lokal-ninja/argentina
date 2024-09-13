@@ -1,5 +1,5 @@
 ---
 title: "Belegica"
 url: /ciudad-autonoma-de-buenos-aires/belegica/
-shop: Allgemein
+shop: general
 ---

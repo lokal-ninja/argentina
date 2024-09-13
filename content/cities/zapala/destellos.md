@@ -1,5 +1,5 @@
 ---
 title: "Destellos"
 url: /zapala/destellos/
-shop: Schmuck
+shop: joyería
 ---

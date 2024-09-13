@@ -1,5 +1,5 @@
 ---
 title: "sensei^"
 url: /concordia/sensei/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

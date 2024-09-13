@@ -1,5 +1,5 @@
 ---
 title: "Pinturería Tecnicolor"
 url: /bahia-blanca/pintureria-tecnicolor/
-shop: Farben
+shop: pintura
 ---

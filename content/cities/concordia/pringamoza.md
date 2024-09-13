@@ -1,5 +1,5 @@
 ---
 title: "Pringamoza"
 url: /concordia/pringamoza/
-shop: Kleidung
+shop: ropa
 ---

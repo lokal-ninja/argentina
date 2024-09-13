@@ -1,5 +1,5 @@
 ---
 title: "Rosignano Gourmet"
 url: /neuquen/rosignano-gourmet/
-shop: Lebensmittel
+shop: comodidad
 ---

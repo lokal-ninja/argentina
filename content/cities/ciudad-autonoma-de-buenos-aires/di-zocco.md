@@ -1,5 +1,5 @@
 ---
 title: "DI ZOCCO"
 url: /ciudad-autonoma-de-buenos-aires/di-zocco/
-shop: Kleidung
+shop: ropa
 ---

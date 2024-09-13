@@ -1,5 +1,5 @@
 ---
 title: "Gaitán"
 url: /salsipuedes/gaitan/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

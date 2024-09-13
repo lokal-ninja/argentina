@@ -1,5 +1,5 @@
 ---
 title: "Kilbel"
 url: /santa-fe/kilbel-urquiza/
-shop: Supermarkt
+shop: supermercado
 ---

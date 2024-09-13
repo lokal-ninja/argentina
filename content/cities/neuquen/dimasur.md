@@ -1,5 +1,5 @@
 ---
 title: "Dimasur"
 url: /neuquen/dimasur/
-shop: Baustoffe
+shop: comercio
 ---

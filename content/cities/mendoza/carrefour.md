@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /mendoza/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

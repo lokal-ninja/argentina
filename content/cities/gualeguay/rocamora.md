@@ -1,5 +1,5 @@
 ---
 title: "Rocamora"
 url: /gualeguay/rocamora/
-shop: Bäckerei
+shop: panadería
 ---

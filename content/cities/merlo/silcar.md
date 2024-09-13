@@ -1,5 +1,5 @@
 ---
 title: "Silcar"
 url: /merlo/silcar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distrisur"
 url: /plottier/distrisur/
-shop: Autoteile
+shop: piezas de automóviles
 ---

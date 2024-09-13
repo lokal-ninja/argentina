@@ -1,5 +1,5 @@
 ---
 title: "Surya"
 url: /viedma/surya/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salar"
 url: /san-isidro/salar/
-shop: Kopieren
+shop: copyshop
 ---

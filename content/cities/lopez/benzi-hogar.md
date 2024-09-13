@@ -1,5 +1,5 @@
 ---
 title: "Benzi Hogar"
 url: /lopez/benzi-hogar/
-shop: Kramladen
+shop: tienda de variedades
 ---

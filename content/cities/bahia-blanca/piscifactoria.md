@@ -1,5 +1,5 @@
 ---
 title: "Piscifactoria"
 url: /bahia-blanca/piscifactoria/
-shop: Tiere
+shop: mascotas
 ---

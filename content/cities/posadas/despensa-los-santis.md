@@ -1,5 +1,5 @@
 ---
 title: "Despensa Los Santis"
 url: /posadas/despensa-los-santis/
-shop: Lebensmittel
+shop: comodidad
 ---

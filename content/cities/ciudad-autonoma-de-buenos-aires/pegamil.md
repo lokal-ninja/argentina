@@ -1,5 +1,5 @@
 ---
 title: "Pegamil"
 url: /ciudad-autonoma-de-buenos-aires/pegamil/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maker"
 url: /comodoro-rivadavia/maker/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

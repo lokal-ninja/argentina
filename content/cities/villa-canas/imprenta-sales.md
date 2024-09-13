@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Sales"
 url: /villa-canas/imprenta-sales/
-shop: Schreibwaren
+shop: material de oficina
 ---

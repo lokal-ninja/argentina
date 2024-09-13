@@ -1,5 +1,5 @@
 ---
 title: "Yayo"
 url: /franck/yayo/
-shop: Bäckerei
+shop: panadería
 ---

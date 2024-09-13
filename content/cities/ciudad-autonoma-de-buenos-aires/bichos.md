@@ -1,5 +1,5 @@
 ---
 title: "bicho's"
 url: /ciudad-autonoma-de-buenos-aires/bichos/
-shop: Tiere
+shop: mascotas
 ---

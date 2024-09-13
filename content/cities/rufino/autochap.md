@@ -1,5 +1,5 @@
 ---
 title: "Autochap"
 url: /rufino/autochap/
-shop: Autoteile
+shop: piezas de automóviles
 ---

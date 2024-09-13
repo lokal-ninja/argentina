@@ -1,5 +1,5 @@
 ---
 title: "Maxikiosco Rodri"
 url: /viedma/maxikiosco-rodri/
-shop: Lebensmittel
+shop: comodidad
 ---

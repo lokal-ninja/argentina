@@ -1,5 +1,5 @@
 ---
 title: "Buby"
 url: /san-justo/buby/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wow! Boutique de Mascotas"
 url: /neuquen/wow-boutique-de-mascotas/
-shop: Tiere
+shop: mascotas
 ---

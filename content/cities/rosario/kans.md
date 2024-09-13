@@ -1,5 +1,5 @@
 ---
 title: "Kans"
 url: /rosario/kans/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

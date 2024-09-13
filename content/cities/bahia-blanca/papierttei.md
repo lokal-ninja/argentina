@@ -1,5 +1,5 @@
 ---
 title: "Papierttei"
 url: /bahia-blanca/papierttei/
-shop: Autoteile
+shop: piezas de automóviles
 ---

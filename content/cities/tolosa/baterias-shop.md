@@ -1,5 +1,5 @@
 ---
 title: "baterias Shop"
 url: /tolosa/baterias-shop/
-shop: Autoteile
+shop: piezas de automóviles
 ---

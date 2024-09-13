@@ -1,5 +1,5 @@
 ---
 title: "D'Arc"
 url: /buenos-aires/darc/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

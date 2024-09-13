@@ -1,5 +1,5 @@
 ---
 title: "Gnc Inyeccion Javier"
 url: /san-salvador-de-jujuy/gnc-inyeccion-javier/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

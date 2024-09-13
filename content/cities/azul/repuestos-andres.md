@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Andrés"
 url: /azul/repuestos-andres/
-shop: Autoteile
+shop: piezas de automóviles
 ---

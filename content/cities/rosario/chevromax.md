@@ -1,5 +1,5 @@
 ---
 title: "Chevromax"
 url: /rosario/chevromax/
-shop: Autohaus
+shop: coche
 ---

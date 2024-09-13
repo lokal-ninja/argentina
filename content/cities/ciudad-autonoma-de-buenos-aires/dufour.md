@@ -1,5 +1,5 @@
 ---
 title: "Dufour"
 url: /ciudad-autonoma-de-buenos-aires/dufour/
-shop: Kleidung
+shop: ropa
 ---

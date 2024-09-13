@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Pichingo"
 url: /carlos-casares/repuestos-pichingo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

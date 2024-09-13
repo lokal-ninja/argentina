@@ -1,5 +1,5 @@
 ---
 title: "Modo Slow"
 url: /ciudad-autonoma-de-buenos-aires/modo-slow/
-shop: Raumausstattung
+shop: decoración interior
 ---

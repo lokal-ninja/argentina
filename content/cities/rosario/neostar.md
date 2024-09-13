@@ -1,5 +1,5 @@
 ---
 title: "Neostar"
 url: /rosario/neostar/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Toto - Sucursal"
 url: /anatuya/don-toto-sucursal/
-shop: Supermarkt
+shop: supermercado
 ---

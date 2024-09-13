@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /olivos/honda/
-shop: Motorrad
+shop: motocicleta
 ---

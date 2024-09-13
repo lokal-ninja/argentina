@@ -1,5 +1,5 @@
 ---
 title: "Lucho"
 url: /viedma/lucho/
-shop: Schuhe
+shop: zapatos
 ---

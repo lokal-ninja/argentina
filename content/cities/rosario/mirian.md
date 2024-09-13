@@ -1,5 +1,5 @@
 ---
 title: "Mirian"
 url: /rosario/mirian/
-shop: Bücher
+shop: libros
 ---

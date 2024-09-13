@@ -1,5 +1,5 @@
 ---
 title: "Pinturería Saenz Peña"
 url: /concepcion/pintureria-saenz-pena/
-shop: Farben
+shop: pintura
 ---

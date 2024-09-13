@@ -1,5 +1,5 @@
 ---
 title: "Vea"
 url: /san-clemente-del-tuyu/vea/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sunchales/shell/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NINE Shopping"
 url: /moreno/nine-shopping/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

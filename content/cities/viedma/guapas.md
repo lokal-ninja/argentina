@@ -1,5 +1,5 @@
 ---
 title: "Guapas"
 url: /viedma/guapas/
-shop: Andenken
+shop: regalo
 ---

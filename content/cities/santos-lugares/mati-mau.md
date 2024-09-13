@@ -1,5 +1,5 @@
 ---
 title: "Mati-Mau"
 url: /santos-lugares/mati-mau/
-shop: Metzgerei
+shop: carnicero
 ---

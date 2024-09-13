@@ -1,5 +1,5 @@
 ---
 title: "Lider Moto"
 url: /tigre/lider-moto/
-shop: Motorrad
+shop: motocicleta
 ---

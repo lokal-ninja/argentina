@@ -1,5 +1,5 @@
 ---
 title: "Lapcar"
 url: /plottier/lapcar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

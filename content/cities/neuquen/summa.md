@@ -1,5 +1,5 @@
 ---
 title: "Summa"
 url: /neuquen/summa/
-shop: Möbel
+shop: muebles
 ---

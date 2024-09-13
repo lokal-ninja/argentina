@@ -1,5 +1,5 @@
 ---
 title: "Mauro Sergio"
 url: /catriel/mauro-sergio/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OZ Motos"
 url: /salto/oz-motos/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polarizados RG"
 url: /villa-elisa/polarizados-rg/
-shop: Autoteile
+shop: piezas de automóviles
 ---

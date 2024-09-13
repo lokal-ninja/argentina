@@ -1,5 +1,5 @@
 ---
 title: "Suerte"
 url: /victoria/suerte/
-shop: Supermarkt
+shop: supermercado
 ---

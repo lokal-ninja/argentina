@@ -1,5 +1,5 @@
 ---
 title: "Refinor"
 url: /san-miguel-de-tucuman/refinor/
-shop: Allgemein
+shop: general
 ---

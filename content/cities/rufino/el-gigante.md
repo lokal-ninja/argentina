@@ -1,5 +1,5 @@
 ---
 title: "El Gigante"
 url: /rufino/el-gigante/
-shop: Kramladen
+shop: tienda de variedades
 ---

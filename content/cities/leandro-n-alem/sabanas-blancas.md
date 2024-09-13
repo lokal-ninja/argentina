@@ -1,5 +1,5 @@
 ---
 title: "Sábanas Blancas"
 url: /leandro-n-alem/sabanas-blancas/
-shop: Gardinen
+shop: cortina
 ---

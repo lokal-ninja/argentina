@@ -1,5 +1,5 @@
 ---
 title: "Marta Decapi"
 url: /ciudad-autonoma-de-buenos-aires/marta-decapi/
-shop: Raumausstattung
+shop: decoración interior
 ---

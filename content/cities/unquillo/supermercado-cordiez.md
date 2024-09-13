@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Cordiez"
 url: /unquillo/supermercado-cordiez/
-shop: Supermarkt
+shop: supermercado
 ---

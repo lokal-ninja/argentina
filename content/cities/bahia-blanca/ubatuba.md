@@ -1,5 +1,5 @@
 ---
 title: "Ubatuba"
 url: /bahia-blanca/ubatuba/
-shop: Kleidung
+shop: ropa
 ---

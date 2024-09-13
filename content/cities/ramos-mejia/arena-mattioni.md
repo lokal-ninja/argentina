@@ -1,5 +1,5 @@
 ---
 title: "Arena Mattioni"
 url: /ramos-mejia/arena-mattioni/
-shop: Schreibwaren
+shop: material de oficina
 ---

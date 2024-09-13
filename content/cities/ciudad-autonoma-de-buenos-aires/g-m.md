@@ -1,5 +1,5 @@
 ---
 title: "G-M"
 url: /ciudad-autonoma-de-buenos-aires/g-m/
-shop: Kosmetik
+shop: cosméticos
 ---

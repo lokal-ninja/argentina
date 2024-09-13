@@ -1,5 +1,5 @@
 ---
 title: "Bellini"
 url: /ciudad-autonoma-de-buenos-aires/bellini/
-shop: Möbel
+shop: muebles
 ---

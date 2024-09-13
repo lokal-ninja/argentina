@@ -1,5 +1,5 @@
 ---
 title: "Quique"
 url: /ciudad-autonoma-de-buenos-aires/quique/
-shop: Lebensmittel
+shop: comodidad
 ---

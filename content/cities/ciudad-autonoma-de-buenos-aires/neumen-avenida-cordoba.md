@@ -1,5 +1,5 @@
 ---
 title: "Neumen"
 url: /ciudad-autonoma-de-buenos-aires/neumen-avenida-cordoba/
-shop: Reifen
+shop: neumáticos
 ---

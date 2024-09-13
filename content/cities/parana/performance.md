@@ -1,5 +1,5 @@
 ---
 title: "Performance"
 url: /parana/performance/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

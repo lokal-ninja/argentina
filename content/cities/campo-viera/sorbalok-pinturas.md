@@ -1,5 +1,5 @@
 ---
 title: "Sorbalok Pinturas"
 url: /campo-viera/sorbalok-pinturas/
-shop: Farben
+shop: pintura
 ---

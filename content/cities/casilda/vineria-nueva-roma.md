@@ -1,5 +1,5 @@
 ---
 title: "Vinería Nueva Roma"
 url: /casilda/vineria-nueva-roma/
-shop: Wein
+shop: vino
 ---

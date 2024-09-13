@@ -1,5 +1,5 @@
 ---
 title: "YPF Gas"
 url: /rawson/ypf-gas/
-shop: Gasflaschen
+shop: gas
 ---

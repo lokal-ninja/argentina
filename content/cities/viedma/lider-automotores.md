@@ -1,5 +1,5 @@
 ---
 title: "Líder Automotores"
 url: /viedma/lider-automotores/
-shop: Autohaus
+shop: coche
 ---

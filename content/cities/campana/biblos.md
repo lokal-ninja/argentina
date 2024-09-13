@@ -1,5 +1,5 @@
 ---
 title: "Biblos"
 url: /campana/biblos/
-shop: Bücher
+shop: libros
 ---

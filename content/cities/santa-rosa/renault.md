@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /santa-rosa/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NorthColor"
 url: /san-fernando/northcolor/
-shop: Farben
+shop: pintura
 ---

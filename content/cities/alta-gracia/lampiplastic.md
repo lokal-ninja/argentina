@@ -1,5 +1,5 @@
 ---
 title: "Lampiplastic"
 url: /alta-gracia/lampiplastic/
-shop: Schreibwaren
+shop: material de oficina
 ---

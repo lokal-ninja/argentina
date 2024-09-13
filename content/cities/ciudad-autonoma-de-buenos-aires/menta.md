@@ -1,5 +1,5 @@
 ---
 title: "Menta"
 url: /ciudad-autonoma-de-buenos-aires/menta/
-shop: Schuhe
+shop: zapatos
 ---

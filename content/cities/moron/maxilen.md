@@ -1,5 +1,5 @@
 ---
 title: "MaxiLen"
 url: /moron/maxilen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

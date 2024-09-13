@@ -1,5 +1,5 @@
 ---
 title: "El Monito"
 url: /reconquista/el-monito/
-shop: Kleidung
+shop: ropa
 ---

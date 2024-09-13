@@ -1,5 +1,5 @@
 ---
 title: "Todo Náutica"
 url: /cipolletti/todo-nautica/
-shop: Boot
+shop: barco
 ---

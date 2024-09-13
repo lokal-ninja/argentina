@@ -1,5 +1,5 @@
 ---
 title: "Asby"
 url: /ciudad-autonoma-de-buenos-aires/asby/
-shop: Lebensmittel
+shop: comodidad
 ---

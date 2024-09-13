@@ -1,5 +1,5 @@
 ---
 title: "Maxiconsumo"
 url: /berazategui/maxiconsumo/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daysi"
 url: /ciudad-autonoma-de-buenos-aires/daysi/
-shop: Schreibwaren
+shop: material de oficina
 ---

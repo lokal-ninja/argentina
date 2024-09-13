@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Peña"
 url: /zapala/mecanica-pena/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

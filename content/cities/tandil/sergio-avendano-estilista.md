@@ -1,5 +1,5 @@
 ---
 title: "Sergio Avendaño Estilista"
 url: /tandil/sergio-avendano-estilista/
-shop: Friseur
+shop: peluquería
 ---

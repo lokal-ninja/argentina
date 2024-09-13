@@ -1,5 +1,5 @@
 ---
 title: "Aubá"
 url: /obera/auba/
-shop: Süßwaren
+shop: confitería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /martinez/diarco/
-shop: Supermarkt
+shop: supermercado
 ---

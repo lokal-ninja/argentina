@@ -1,5 +1,5 @@
 ---
 title: "Hierros"
 url: /ciudad-autonoma-de-buenos-aires/hierros/
-shop: Baustoffe
+shop: comercio
 ---

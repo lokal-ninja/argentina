@@ -1,5 +1,5 @@
 ---
 title: "Marmolería Granitec"
 url: /beccar/marmoleria-granitec/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

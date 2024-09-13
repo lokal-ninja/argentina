@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /bahia-blanca/look/
-shop: Raumausstattung
+shop: decoración interior
 ---

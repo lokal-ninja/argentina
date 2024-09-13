@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /martinez/citroen/
-shop: Autohaus
+shop: coche
 ---

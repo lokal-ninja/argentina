@@ -1,5 +1,5 @@
 ---
 title: "Juanjo Motos"
 url: /lobos/juanjo-motos/
-shop: Motorrad
+shop: motocicleta
 ---

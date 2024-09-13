@@ -1,5 +1,5 @@
 ---
 title: "La Mejor"
 url: /san-fernando/la-mejor/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katana"
 url: /san-isidro/katana/
-shop: Handy
+shop: teléfono móvil
 ---

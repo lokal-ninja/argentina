@@ -1,5 +1,5 @@
 ---
 title: "Abarcas"
 url: /la-plata/abarcas/
-shop: Instrumente
+shop: instrumento musical
 ---

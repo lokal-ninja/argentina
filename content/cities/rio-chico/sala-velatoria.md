@@ -1,5 +1,5 @@
 ---
 title: "Sala Velatoria"
 url: /rio-chico/sala-velatoria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

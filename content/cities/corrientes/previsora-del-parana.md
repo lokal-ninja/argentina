@@ -1,5 +1,5 @@
 ---
 title: "Previsora del Parana"
 url: /corrientes/previsora-del-parana/
-shop: Bestattungen
+shop: directores de funerarias
 ---

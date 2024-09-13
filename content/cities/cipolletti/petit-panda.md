@@ -1,5 +1,5 @@
 ---
 title: "Petit Panda"
 url: /cipolletti/petit-panda/
-shop: Babysachen
+shop: artículos para bebés
 ---

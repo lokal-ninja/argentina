@@ -1,5 +1,5 @@
 ---
 title: "Marozzi distribuidora"
 url: /rafaela/marozzi-distribuidora/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Esquina"
 url: /barranqueras/la-esquina/
-shop: Supermarkt
+shop: supermercado
 ---

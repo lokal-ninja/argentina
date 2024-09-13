@@ -1,5 +1,5 @@
 ---
 title: "Universal"
 url: /villa-elisa/universal/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distrizan"
 url: /neuquen/distrizan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Mil Artículos"
 url: /san-fernando-del-valle-de-catamarca/los-mil-articulos/
-shop: Kramladen
+shop: tienda de variedades
 ---

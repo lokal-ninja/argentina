@@ -1,5 +1,5 @@
 ---
 title: "Conscientir"
 url: /rosario/conscientir/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Exe"
 url: /las-grutas/autoservicio-exe/
-shop: Lebensmittel
+shop: comodidad
 ---

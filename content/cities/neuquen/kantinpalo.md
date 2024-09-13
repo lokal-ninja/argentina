@@ -1,5 +1,5 @@
 ---
 title: "Kantinpalo"
 url: /neuquen/kantinpalo/
-shop: Kleidung
+shop: ropa
 ---

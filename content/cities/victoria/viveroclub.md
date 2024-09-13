@@ -1,5 +1,5 @@
 ---
 title: "Viveroclub"
 url: /victoria/viveroclub/
-shop: Garten-Center
+shop: centro de jardinería
 ---
