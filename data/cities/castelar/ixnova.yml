@@ -1,11 +1,11 @@
 id: 1298064066
-type: way
+type: node
 latitude: -34.63488
 longitude: -58.63141
 postcode: "1712"
 city: Castelar
-street: "Salvador Curutchet"
-housenumber: 1747
+street: Salvador Curutchet
+housenumber: "1747"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

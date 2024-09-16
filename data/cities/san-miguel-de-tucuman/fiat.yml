@@ -1,11 +1,11 @@
 id: 422270271
-type: way
+type: node
 latitude: -26.8277
 longitude: -65.21482
 postcode: "4000"
 city: San Miguel de Tucumán
-street: "San Martín"
-housenumber: 
+street: San Martín
+housenumber: ""
 phone: ""
-opening_hours: "8:30-13:00, 16:30-21:00"
+opening_hours: 8:30-13:00, 16:30-21:00
 website: ""

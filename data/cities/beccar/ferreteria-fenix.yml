@@ -1,11 +1,11 @@
 id: 468225937
-type: way
+type: node
 latitude: -34.46001
 longitude: -58.52753
 postcode: "1643"
 city: Beccar
-street: "Ayacucho"
-housenumber: 76
-phone: "+54 11 4743-4437"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 08:00-13:00"
+street: Ayacucho
+housenumber: "76"
+phone: +54 11 4743-4437
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 08:00-13:00
 website: ""

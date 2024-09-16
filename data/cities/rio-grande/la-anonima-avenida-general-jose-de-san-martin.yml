@@ -1,11 +1,11 @@
 id: 787180375
-type: way
+type: node
 latitude: -53.77882
 longitude: -67.71657
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Avenida General José de San Martín"
-housenumber: 1605
+street: Avenida General José de San Martín
+housenumber: "1605"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/074-rio-grande"
+website: https://www.laanonima.com.ar/sucursales/074-rio-grande

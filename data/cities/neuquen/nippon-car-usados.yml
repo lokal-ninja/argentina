@@ -1,11 +1,11 @@
 id: 1075604186
-type: way
+type: node
 latitude: -38.95994
 longitude: -68.03765
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 1600
+street: Eugenio Perticone
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://nipponcar.com.ar/"
+website: https://nipponcar.com.ar/

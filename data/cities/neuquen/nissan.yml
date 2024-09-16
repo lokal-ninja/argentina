@@ -1,11 +1,11 @@
 id: 1133896199
-type: way
+type: node
 latitude: -38.95884
 longitude: -68.08376
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 1731
+street: Doctor Luis Teodoro Planas
+housenumber: "1731"
 phone: ""
 opening_hours: ""
-website: "https://aikaneuquen.com/"
+website: https://aikaneuquen.com/

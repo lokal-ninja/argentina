@@ -1,11 +1,11 @@
 id: 821705564
-type: way
+type: node
 latitude: -38.95922
 longitude: -68.04163
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martin"
-housenumber: 1266
+street: Félix San Martin
+housenumber: "1266"
 phone: ""
 opening_hours: ""
-website: "https://compulider.com.ar/"
+website: https://compulider.com.ar/

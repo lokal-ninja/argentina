@@ -1,11 +1,11 @@
 id: 1174170771
-type: way
+type: node
 latitude: -38.9575
 longitude: -68.05638
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Río Negro"
-housenumber: 233
+street: Río Negro
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 398630974
-type: way
+type: node
 latitude: -31.37085
 longitude: -64.23598
-postcode: "X5009ABW"
+postcode: X5009ABW
 city: Córdoba
-street: "Fernando Fader"
-housenumber: 4258
+street: Fernando Fader
+housenumber: "4258"
 phone: ""
-opening_hours: "10:00-13:00,17:00-20:00"
+opening_hours: 10:00-13:00,17:00-20:00
 website: ""

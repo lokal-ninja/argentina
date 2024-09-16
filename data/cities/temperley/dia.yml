@@ -1,11 +1,11 @@
 id: 387452456
-type: way
+type: node
 latitude: -34.77338
 longitude: -58.38568
 postcode: "1834"
 city: Temperley
-street: "Avenida Eva Perón"
-housenumber: 920
+street: Avenida Eva Perón
+housenumber: "920"
 phone: ""
-opening_hours: "08:00-21:30"
+opening_hours: 08:00-21:30
 website: ""

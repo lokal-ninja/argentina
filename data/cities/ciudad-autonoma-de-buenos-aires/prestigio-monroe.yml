@@ -1,11 +1,11 @@
 id: 468564105
-type: way
+type: node
 latitude: -34.57225
 longitude: -58.48247
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Monroe"
-housenumber: 4802
-phone: "+54 11 4523-9888"
-opening_hours: "Mo-Fr 08:00-13:00,14:30-19:00; Sa 08:30-13:30"
-website: "https://www.prestigioweb.com/"
+street: Monroe
+housenumber: "4802"
+phone: +54 11 4523-9888
+opening_hours: Mo-Fr 08:00-13:00,14:30-19:00; Sa 08:30-13:30
+website: https://www.prestigioweb.com/

@@ -1,11 +1,11 @@
 id: 612413590
-type: way
+type: node
 latitude: -36.56922
 longitude: -56.6909
 postcode: "7108"
 city: Mar del Tuyú
-street: "Calle 2"
-housenumber: 6741
+street: Calle 2
+housenumber: "6741"
 phone: ""
 opening_hours: ""
 website: ""

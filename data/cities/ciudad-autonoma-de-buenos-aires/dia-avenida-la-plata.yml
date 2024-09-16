@@ -1,11 +1,11 @@
 id: 464800138
-type: way
+type: node
 latitude: -34.63784
 longitude: -58.42396
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida La Plata"
-housenumber: 
+street: Avenida La Plata
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

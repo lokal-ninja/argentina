@@ -1,11 +1,11 @@
 id: 540508618
-type: way
+type: node
 latitude: -34.72794
 longitude: -58.25574
 postcode: "1878"
 city: Quilmes
-street: "Brandsen"
-housenumber: 99
+street: Brandsen
+housenumber: "99"
 phone: "01142543047"
-opening_hours: "Mo-Su 12:00-00:00"
-website: "https://pedidodirecto.net/vittoriaheladosquilmes"
+opening_hours: Mo-Su 12:00-00:00
+website: https://pedidodirecto.net/vittoriaheladosquilmes

@@ -1,11 +1,11 @@
 id: 1185932445
-type: way
+type: node
 latitude: -31.42345
 longitude: -63.04981
 postcode: "2434"
 city: Arroyito
-street: "Avenida Fulvio Salvador Pagani"
-housenumber: 1067
+street: Avenida Fulvio Salvador Pagani
+housenumber: "1067"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 554181959
-type: way
+type: node
 latitude: -34.18115
 longitude: -58.94322
 postcode: "2804"
 city: Campana
-street: "Fray Mamerto Esquiú"
-housenumber: 1249
+street: Fray Mamerto Esquiú
+housenumber: "1249"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

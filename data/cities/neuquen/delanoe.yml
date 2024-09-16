@@ -1,11 +1,11 @@
 id: 1136883144
-type: way
+type: node
 latitude: -38.95227
 longitude: -68.08947
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Combate de San Lorenzo"
-housenumber: 231
+street: Combate de San Lorenzo
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://tallerdelanoe.negocio.site/"
+website: https://tallerdelanoe.negocio.site/

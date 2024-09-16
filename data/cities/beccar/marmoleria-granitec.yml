@@ -1,11 +1,11 @@
 id: 473674593
-type: way
+type: node
 latitude: -34.46892
 longitude: -58.5612
-postcode: "B1643"
+postcode: B1643
 city: Beccar
-street: "Avenida Uruguay"
-housenumber: 3798
-phone: "+54 11 5427-4433"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.marmoleriagranitec.com/"
+street: Avenida Uruguay
+housenumber: "3798"
+phone: +54 11 5427-4433
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.marmoleriagranitec.com/

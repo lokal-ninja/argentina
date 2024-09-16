@@ -4,8 +4,8 @@ latitude: -34.60187
 longitude: -58.39983
 postcode: "1028"
 city: Ciudad Autónoma de Buenos Aires
-street: "Pasteur"
-housenumber: 632
-phone: "+54 11 15 6426-1781"
-opening_hours: "10:00-20:00"
-website: "http://www.madoks.com.ar"
+street: Pasteur
+housenumber: "632"
+phone: +54 11 15 6426-1781
+opening_hours: 10:00-20:00
+website: http://www.madoks.com.ar

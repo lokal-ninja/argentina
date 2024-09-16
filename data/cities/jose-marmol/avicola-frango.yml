@@ -1,11 +1,11 @@
 id: 1082735297
-type: way
+type: node
 latitude: -34.79935
 longitude: -58.37214
 postcode: ""
 city: José Mármol
-street: "Avenida General San Martín"
-housenumber: 2201
+street: Avenida General San Martín
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

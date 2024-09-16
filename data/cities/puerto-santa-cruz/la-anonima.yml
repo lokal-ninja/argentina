@@ -1,11 +1,11 @@
 id: 849965059
-type: way
+type: node
 latitude: -50.01595
 longitude: -68.51924
-postcode: "Z9300"
+postcode: Z9300
 city: Puerto Santa Cruz
-street: "San Martín"
-housenumber: 135
+street: San Martín
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

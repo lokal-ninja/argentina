@@ -1,11 +1,11 @@
 id: 826627660
-type: way
+type: node
 latitude: -41.13432
 longitude: -71.29969
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Doctor John O'Connor"
-housenumber: 170
+street: Doctor John O'Connor
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

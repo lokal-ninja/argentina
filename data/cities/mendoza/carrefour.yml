@@ -1,11 +1,11 @@
 id: 160945396
-type: way
+type: node
 latitude: -32.8846
 longitude: -68.8484
 postcode: ""
 city: Mendoza
-street: "Avenida Las Heras"
-housenumber: 798
+street: Avenida Las Heras
+housenumber: "798"
 phone: ""
 opening_hours: ""
 website: ""

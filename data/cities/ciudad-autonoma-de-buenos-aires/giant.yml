@@ -1,11 +1,11 @@
 id: 469216361
-type: way
+type: node
 latitude: -34.55489
 longitude: -58.46176
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Congreso"
-housenumber: 2319
+street: Congreso
+housenumber: "2319"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:30-14:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:30-14:00
 website: ""

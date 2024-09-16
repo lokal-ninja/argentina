@@ -1,11 +1,11 @@
 id: 707548758
-type: way
+type: node
 latitude: -34.72377
 longitude: -58.26035
 postcode: ""
 city: Quilmes
-street: "Rivadavia"
-housenumber: 199
+street: Rivadavia
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

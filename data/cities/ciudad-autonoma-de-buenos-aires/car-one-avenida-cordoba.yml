@@ -1,11 +1,11 @@
 id: 476690406
-type: way
+type: node
 latitude: -34.59723
 longitude: -58.41795
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Córdoba"
-housenumber: 3861
+street: Avenida Córdoba
+housenumber: "3861"
 phone: ""
 opening_hours: ""
 website: ""

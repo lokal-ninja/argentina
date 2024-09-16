@@ -1,11 +1,11 @@
 id: 462342308
-type: way
+type: node
 latitude: -34.60006
 longitude: -58.54463
-postcode: "B1676"
+postcode: B1676
 city: Santos Lugares
-street: "436 - Avenida La Plata"
-housenumber: 3635
+street: 436 - Avenida La Plata
+housenumber: "3635"
 phone: ""
-opening_hours: "08:30-21:00"
+opening_hours: 08:30-21:00
 website: ""

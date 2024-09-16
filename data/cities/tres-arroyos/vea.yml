@@ -1,11 +1,11 @@
 id: 614595937
-type: way
+type: node
 latitude: -38.37713
 longitude: -60.27222
 postcode: "7500"
 city: Tres Arroyos
 street: "1810"
-housenumber: 124
+housenumber: "124"
 phone: ""
-opening_hours: "PH,Mo-Sa 08:00-09:00+"
+opening_hours: PH,Mo-Sa 08:00-09:00+
 website: ""

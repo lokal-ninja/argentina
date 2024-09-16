@@ -1,11 +1,11 @@
 id: 542127336
-type: way
+type: node
 latitude: -32.92675
 longitude: -60.66998
 postcode: "2013"
 city: Rosario
-street: "Junín"
-housenumber: 590
+street: Junín
+housenumber: "590"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su off"
+opening_hours: Mo-Sa 09:00-22:00; Su off
 website: ""

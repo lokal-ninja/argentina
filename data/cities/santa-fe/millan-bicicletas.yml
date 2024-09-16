@@ -2,10 +2,10 @@ id: 10109760294
 type: node
 latitude: -31.65111
 longitude: -60.71067
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "9 de Julio"
-housenumber: 2093
+street: 9 de Julio
+housenumber: "2093"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,16:00-19:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,16:00-19:00; Sa 08:00-12:00
 website: ""

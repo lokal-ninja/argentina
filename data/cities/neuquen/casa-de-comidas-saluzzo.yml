@@ -1,11 +1,11 @@
 id: 1118981580
-type: way
+type: node
 latitude: -38.95382
 longitude: -68.05338
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bernardino Rivadavia"
-housenumber: 410
+street: Bernardino Rivadavia
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

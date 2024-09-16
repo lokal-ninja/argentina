@@ -1,11 +1,11 @@
 id: 526342066
-type: way
+type: node
 latitude: -26.79339
 longitude: -65.22496
-postcode: "T4001LZO"
+postcode: T4001LZO
 city: San Miguel de Tucumán
-street: "Avenida Ejército del Norte"
-housenumber: 2324
+street: Avenida Ejército del Norte
+housenumber: "2324"
 phone: ""
 opening_hours: ""
 website: ""

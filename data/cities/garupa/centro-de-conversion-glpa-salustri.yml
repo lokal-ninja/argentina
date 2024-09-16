@@ -1,11 +1,11 @@
 id: 448059972
-type: way
+type: node
 latitude: -27.45662
 longitude: -55.85688
 postcode: "3304"
 city: Garupá
-street: "Ruta Nacional 12"
-housenumber: 
+street: Ruta Nacional 12
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.salustri.com.ar/"
+website: https://www.salustri.com.ar/

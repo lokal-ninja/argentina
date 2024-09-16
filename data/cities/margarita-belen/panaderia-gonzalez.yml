@@ -1,11 +1,11 @@
 id: 1248815930
-type: way
+type: node
 latitude: -27.26146
 longitude: -58.9757
 postcode: "3505"
 city: Margarita Belen
-street: "Carolina Ortega"
-housenumber: 86
+street: Carolina Ortega
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Su 08:00-13:00, 16:00-20:00"
+opening_hours: Mo-Su 08:00-13:00, 16:00-20:00
 website: ""

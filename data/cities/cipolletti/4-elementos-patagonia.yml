@@ -1,11 +1,11 @@
 id: 1211979725
-type: way
+type: node
 latitude: -38.93832
 longitude: -68.00292
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Perito Moreno"
-housenumber: 71
+street: Perito Moreno
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://4elementospatagonia.com.ar/"
+website: https://4elementospatagonia.com.ar/

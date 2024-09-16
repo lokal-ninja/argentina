@@ -1,11 +1,11 @@
 id: 565221838
-type: way
+type: node
 latitude: -31.4227
 longitude: -63.05079
 postcode: "2434"
 city: Arroyito
-street: "Belgrano"
-housenumber: 1111
-phone: "+54 03576 42-0310"
-opening_hours: "Mo-Sa 08:15-12:15, Mo-Sa 16:00-20:00"
+street: Belgrano
+housenumber: "1111"
+phone: +54 03576 42-0310
+opening_hours: Mo-Sa 08:15-12:15, Mo-Sa 16:00-20:00
 website: ""

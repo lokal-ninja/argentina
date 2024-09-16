@@ -1,11 +1,11 @@
 id: 478966485
-type: way
+type: node
 latitude: -28.47257
 longitude: -65.77814
-postcode: "K4700EJT"
+postcode: K4700EJT
 city: San Fernando del Valle de Catamarca
-street: "Rivadavia"
-housenumber: 954
+street: Rivadavia
+housenumber: "954"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; Su 08:00-22:00"
+opening_hours: Mo-Sa 09:00-21:30; Su 08:00-22:00
 website: ""

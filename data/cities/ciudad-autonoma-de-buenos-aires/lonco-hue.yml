@@ -1,11 +1,11 @@
 id: 1207652920
-type: way
+type: node
 latitude: -34.58053
 longitude: -58.43029
-postcode: "C1425FUC"
+postcode: C1425FUC
 city: Ciudad Autónoma de Buenos Aires
-street: "Humboldt"
-housenumber: 2279
+street: Humboldt
+housenumber: "2279"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00 Talleres"
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00 "Talleres"
 website: ""

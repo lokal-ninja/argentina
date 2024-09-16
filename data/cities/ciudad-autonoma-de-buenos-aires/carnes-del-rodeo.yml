@@ -1,11 +1,11 @@
 id: 474486886
-type: way
+type: node
 latitude: -34.64886
 longitude: -58.49977
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan Bautista Alberdi"
-housenumber: 
+street: Avenida Juan Bautista Alberdi
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:30,17:00-21:00; Sa 08:00-14:00,17:00-21:00"
+opening_hours: Mo-Fr 08:00-13:30,17:00-21:00; Sa 08:00-14:00,17:00-21:00
 website: ""

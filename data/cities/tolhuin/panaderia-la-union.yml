@@ -1,11 +1,11 @@
 id: 900505658
-type: way
+type: node
 latitude: -54.5101
 longitude: -67.19773
-postcode: "V9420"
+postcode: V9420
 city: Tolhuin
-street: "Cerro Jeujepen"
-housenumber: 450
+street: Cerro Jeujepen
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

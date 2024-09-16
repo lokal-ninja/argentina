@@ -1,11 +1,11 @@
 id: 943395166
-type: way
+type: node
 latitude: -38.71977
 longitude: -62.26382
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Belgrano"
-housenumber: 17
+street: Belgrano
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

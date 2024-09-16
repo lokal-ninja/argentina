@@ -1,11 +1,11 @@
 id: 1020940304
-type: way
+type: node
 latitude: -34.26623
 longitude: -62.71651
 postcode: "6100"
 city: Rufino
-street: "Manuel Roca"
-housenumber: 550
+street: Manuel Roca
+housenumber: "550"
 phone: ""
 opening_hours: ""
-website: "https://www.agroads.com.ar/e/luis-a-alvarez/"
+website: https://www.agroads.com.ar/e/luis-a-alvarez/

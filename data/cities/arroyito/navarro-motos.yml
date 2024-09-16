@@ -1,11 +1,11 @@
 id: 560569387
-type: way
+type: node
 latitude: -31.42309
 longitude: -63.0502
 postcode: "2434"
 city: Arroyito
-street: "San Martín"
-housenumber: 31
-phone: "+54 (3576) 42-1328"
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00"
-website: "https://navarromotos.com/"
+street: San Martín
+housenumber: "31"
+phone: +54 (3576) 42-1328
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00
+website: https://navarromotos.com/

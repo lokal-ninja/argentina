@@ -1,11 +1,11 @@
 id: 685337120
-type: way
+type: node
 latitude: -40.81401
 longitude: -63.01405
 postcode: "8500"
 city: Viedma
-street: "Haití"
-housenumber: 493
+street: Haití
+housenumber: "493"
 phone: ""
 opening_hours: ""
 website: ""

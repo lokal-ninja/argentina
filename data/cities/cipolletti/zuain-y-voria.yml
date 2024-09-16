@@ -1,11 +1,11 @@
 id: 1216158820
-type: way
+type: node
 latitude: -38.94107
 longitude: -68.00534
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Pacheco"
-housenumber: 195
+street: Avenida General Pacheco
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

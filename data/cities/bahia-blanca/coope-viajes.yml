@@ -1,11 +1,11 @@
 id: 946550021
-type: way
+type: node
 latitude: -38.71477
 longitude: -62.26192
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Yrigoyen"
-housenumber: 355
+street: Yrigoyen
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

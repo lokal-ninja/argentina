@@ -1,11 +1,11 @@
 id: 1075591131
-type: way
+type: node
 latitude: -38.95959
 longitude: -68.03576
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 1680
+street: Eugenio Perticone
+housenumber: "1680"
 phone: ""
 opening_hours: ""
-website: "https://www.pedrojustohogar.com.ar/"
+website: https://www.pedrojustohogar.com.ar/

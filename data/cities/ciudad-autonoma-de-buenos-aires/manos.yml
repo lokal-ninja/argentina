@@ -4,8 +4,8 @@ latitude: -34.56819
 longitude: -58.47566
 postcode: "1430"
 city: Ciudad Autónoma de Buenos Aires
-street: "Monroe"
-housenumber: 4048
-phone: "+54 11 4545-5122"
-opening_hours: "Tu-Sa 10:00-20:00"
+street: Monroe
+housenumber: "4048"
+phone: +54 11 4545-5122
+opening_hours: Tu-Sa 10:00-20:00
 website: ""

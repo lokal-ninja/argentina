@@ -1,11 +1,11 @@
 id: 904864681
-type: way
+type: node
 latitude: -53.76962
 longitude: -67.71708
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Viedma"
-housenumber: 777
+street: Viedma
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

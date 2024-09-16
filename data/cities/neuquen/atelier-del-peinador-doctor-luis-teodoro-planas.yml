@@ -1,11 +1,11 @@
 id: 1172887197
-type: way
+type: node
 latitude: -38.95903
 longitude: -68.0615
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 141
+street: Doctor Luis Teodoro Planas
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.atelierdelpeinador.com.ar/"
+website: https://www.atelierdelpeinador.com.ar/

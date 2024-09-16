@@ -1,11 +1,11 @@
 id: 584441064
-type: way
+type: node
 latitude: -31.3845
 longitude: -58.02213
 postcode: "3202"
 city: Concordia
-street: "Boulevard San Lorenzo Oeste"
-housenumber: 318
-phone: "+54 345 422-5826"
-opening_hours: "Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30"
-website: "https://allmotorsgroup.com.ar/"
+street: Boulevard San Lorenzo Oeste
+housenumber: "318"
+phone: +54 345 422-5826
+opening_hours: Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30
+website: https://allmotorsgroup.com.ar/

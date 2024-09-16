@@ -1,11 +1,11 @@
 id: 1165518490
-type: way
+type: node
 latitude: -38.86276
 longitude: -62.08272
 postcode: "8109"
 city: Punta Alta
-street: "Juan José Paso"
-housenumber: 2112
+street: Juan José Paso
+housenumber: "2112"
 phone: "+5492932425503"
-opening_hours: "Mo-Sa 09:30-13:00 Mo-Sa 16:30-20:00"
+opening_hours: Mo-Sa 09:30-13:00 Mo-Sa 16:30-20:00
 website: ""

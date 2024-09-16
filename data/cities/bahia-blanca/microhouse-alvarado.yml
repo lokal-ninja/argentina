@@ -1,11 +1,11 @@
 id: 1290257684
-type: way
+type: node
 latitude: -38.71484
 longitude: -62.26309
 postcode: "8000"
 city: Bahía Blanca
-street: "Alvarado"
-housenumber: 38
-phone: "+54 9 291 517-3204"
+street: Alvarado
+housenumber: "38"
+phone: +54 9 291 517-3204
 opening_hours: ""
-website: "https://microhouse.com.ar/"
+website: https://microhouse.com.ar/

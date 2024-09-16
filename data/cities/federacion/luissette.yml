@@ -1,11 +1,11 @@
 id: 1000785924
-type: way
+type: node
 latitude: -30.98848
 longitude: -57.91962
 postcode: "3206"
 city: Federación
-street: "Belgrano"
-housenumber: 
+street: Belgrano
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

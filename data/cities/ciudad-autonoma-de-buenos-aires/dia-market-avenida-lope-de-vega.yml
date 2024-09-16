@@ -1,11 +1,11 @@
 id: 473841501
-type: way
+type: node
 latitude: -34.62853
 longitude: -58.50586
-postcode: "C1407BNK"
+postcode: C1407BNK
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Lope de Vega"
-housenumber: 1155
+street: Avenida Lope de Vega
+housenumber: "1155"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.supermercadosdia.com.ar"
+opening_hours: 08:00-21:00
+website: https://www.supermercadosdia.com.ar

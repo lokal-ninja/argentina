@@ -1,11 +1,11 @@
 id: 585483418
-type: way
+type: node
 latitude: -32.40998
 longitude: -63.23983
 postcode: "5900"
 city: Villa María
-street: "Corrientes"
-housenumber: 1387
-phone: "+54 353 453-3125"
-opening_hours: "Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30"
-website: "https://www.corrientesmotos.com.ar/"
+street: Corrientes
+housenumber: "1387"
+phone: +54 353 453-3125
+opening_hours: Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30
+website: https://www.corrientesmotos.com.ar/

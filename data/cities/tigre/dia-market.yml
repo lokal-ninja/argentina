@@ -1,11 +1,11 @@
 id: 476141458
-type: way
+type: node
 latitude: -34.4255
 longitude: -58.57721
-postcode: "B1648"
+postcode: B1648
 city: Tigre
-street: "Avenida Daniel M. Cazón"
-housenumber: 
+street: Avenida Daniel M. Cazón
+housenumber: ""
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://diaonline.supermercadosdia.com.ar/"
+opening_hours: 08:00-22:00
+website: https://diaonline.supermercadosdia.com.ar/

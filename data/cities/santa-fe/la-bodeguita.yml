@@ -2,10 +2,10 @@ id: 4369740603
 type: node
 latitude: -31.61188
 longitude: -60.70461
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Avenida Facundo Zuviría"
-housenumber: 5900
+street: Avenida Facundo Zuviría
+housenumber: "5900"
 phone: ""
-opening_hours: "8:30-13:00,17:00-21:30"
+opening_hours: 8:30-13:00,17:00-21:30
 website: ""

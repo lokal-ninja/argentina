@@ -4,8 +4,8 @@ latitude: -34.56436
 longitude: -58.44136
 postcode: "1426"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Luis María Campos"
-housenumber: 1309
-phone: "+54 11 4788-8836"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-14:00"
-website: "http://www.ferreteriamaury.com.ar/"
+street: Avenida Luis María Campos
+housenumber: "1309"
+phone: +54 11 4788-8836
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-14:00
+website: http://www.ferreteriamaury.com.ar/

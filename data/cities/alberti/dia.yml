@@ -1,11 +1,11 @@
 id: 1185347558
-type: way
+type: node
 latitude: -35.03031
 longitude: -60.28011
-postcode: "B6634CTP"
+postcode: B6634CTP
 city: alberti
-street: "Avenida Vaccarezza"
-housenumber: 216
+street: Avenida Vaccarezza
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

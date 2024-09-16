@@ -1,11 +1,11 @@
 id: 584441063
-type: way
+type: node
 latitude: -32.62412
 longitude: -60.15404
 postcode: "3153"
 city: Victoria
-street: "Piaggio"
-housenumber: 479
-phone: "+54 3436 42-3990"
-opening_hours: "Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30"
-website: "https://www.divisionruedas.com.ar/"
+street: Piaggio
+housenumber: "479"
+phone: +54 3436 42-3990
+opening_hours: Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30
+website: https://www.divisionruedas.com.ar/

@@ -1,11 +1,11 @@
 id: 1080150268
-type: way
+type: node
 latitude: -38.96849
 longitude: -68.05048
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "El Chocón"
-housenumber: 650
+street: El Chocón
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://www.cooperativaobrera.coop/"
+website: https://www.cooperativaobrera.coop/

@@ -1,11 +1,11 @@
 id: 482355445
-type: way
+type: node
 latitude: -32.42617
 longitude: -63.19933
 postcode: "5900"
 city: Villa María
-street: "Avenida Presidente Juan Domingo Perón"
-housenumber: 3530
-phone: "0353 4521111"
+street: Avenida Presidente Juan Domingo Perón
+housenumber: "3530"
+phone: 0353 4521111
 opening_hours: ""
-website: "http://leparcsa.com.ar"
+website: http://leparcsa.com.ar

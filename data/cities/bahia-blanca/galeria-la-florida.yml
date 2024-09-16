@@ -1,11 +1,11 @@
 id: 944328432
-type: way
+type: node
 latitude: -38.71767
 longitude: -62.26315
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Alsina"
-housenumber: 107
+street: Alsina
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

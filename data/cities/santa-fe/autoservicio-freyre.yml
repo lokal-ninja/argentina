@@ -2,10 +2,10 @@ id: 9917331435
 type: node
 latitude: -31.64568
 longitude: -60.71868
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Avenida Gobernador Freyre"
-housenumber: 2341
-phone: "+54 342 446-8926"
-opening_hours: "Mo-Fr 09:00-15:00,16:30-20:30; Sa 09:00-14:00,17:00-20:30"
+street: Avenida Gobernador Freyre
+housenumber: "2341"
+phone: +54 342 446-8926
+opening_hours: Mo-Fr 09:00-15:00,16:30-20:30; Sa 09:00-14:00,17:00-20:30
 website: ""

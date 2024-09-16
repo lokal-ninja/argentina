@@ -1,11 +1,11 @@
 id: 825339687
-type: way
+type: node
 latitude: -41.13387
 longitude: -71.30729
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Paseo Mitre"
-housenumber: 185
+street: Paseo Mitre
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

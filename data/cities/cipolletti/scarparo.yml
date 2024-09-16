@@ -1,11 +1,11 @@
 id: 1298901601
-type: way
+type: node
 latitude: -38.93841
 longitude: -67.99013
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Roque Saenz Peña"
-housenumber: 379
-phone: "+54 299 655-5280"
+street: Roque Saenz Peña
+housenumber: "379"
+phone: +54 299 655-5280
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 251046358
-type: way
+type: node
 latitude: -32.89168
 longitude: -68.84683
 postcode: "5500"
 city: Mendoza
-street: "Chile"
-housenumber: 898
+street: Chile
+housenumber: "898"
 phone: ""
 opening_hours: ""
 website: ""

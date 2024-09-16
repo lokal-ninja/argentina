@@ -1,11 +1,11 @@
 id: 1076995207
-type: way
+type: node
 latitude: -38.95991
 longitude: -68.05736
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 111
+street: Eugenio Perticone
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://somosrex.com/"
+website: https://somosrex.com/

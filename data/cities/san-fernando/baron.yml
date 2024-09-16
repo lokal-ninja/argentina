@@ -1,11 +1,11 @@
 id: 476147483
-type: way
+type: node
 latitude: -34.44446
 longitude: -58.54895
 postcode: "1646"
 city: San Fernando
-street: "Avenida del Libertador"
-housenumber: 1898
+street: Avenida del Libertador
+housenumber: "1898"
 phone: ""
 opening_hours: ""
 website: ""

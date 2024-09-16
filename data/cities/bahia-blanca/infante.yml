@@ -1,11 +1,11 @@
 id: 677427981
-type: way
+type: node
 latitude: -38.71416
 longitude: -62.2923
 postcode: ""
 city: Bahía Blanca
-street: "Brasil"
-housenumber: 828
+street: Brasil
+housenumber: "828"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, 16:00-20:00"
+opening_hours: Mo-Sa 09:00-13:00, 16:00-20:00
 website: ""

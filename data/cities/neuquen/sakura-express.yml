@@ -1,11 +1,11 @@
 id: 1137970567
-type: way
+type: node
 latitude: -38.95402
 longitude: -68.09523
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Padre Mascardi"
-housenumber: 51
+street: Padre Mascardi
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.sakurasa.com/"
+website: https://www.sakurasa.com/

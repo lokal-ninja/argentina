@@ -1,11 +1,11 @@
 id: 1308556814
-type: way
+type: node
 latitude: -38.94015
 longitude: -67.99573
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 466
+street: General San Martín
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

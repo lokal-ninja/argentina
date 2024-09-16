@@ -1,11 +1,11 @@
 id: 1120483402
-type: way
+type: node
 latitude: -38.95857
 longitude: -68.05087
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bahía Blanca"
-housenumber: 339
+street: Bahía Blanca
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 477782887
-type: way
+type: node
 latitude: -34.61471
 longitude: -58.40419
 postcode: "1096"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Belgrano"
-housenumber: 2710
-phone: "+54 11 4942-2772"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.pintureriasrex.com/"
+street: Avenida Belgrano
+housenumber: "2710"
+phone: +54 11 4942-2772
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.pintureriasrex.com/

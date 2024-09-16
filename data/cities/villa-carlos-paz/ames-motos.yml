@@ -1,11 +1,11 @@
 id: 585483422
-type: way
+type: node
 latitude: -31.41822
 longitude: -64.4896
 postcode: "5152"
 city: Villa Carlos Paz
-street: "Avenida Libertad"
-housenumber: 635
-phone: "+54 3541 43-9180"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.amesmotos.com.ar/"
+street: Avenida Libertad
+housenumber: "635"
+phone: +54 3541 43-9180
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.amesmotos.com.ar/

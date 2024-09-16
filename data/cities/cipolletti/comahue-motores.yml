@@ -1,11 +1,11 @@
 id: 1297195520
-type: way
+type: node
 latitude: -38.94191
 longitude: -67.99324
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Fernández Oro"
-housenumber: 678
+street: Avenida General Fernández Oro
+housenumber: "678"
 phone: ""
 opening_hours: ""
 website: ""

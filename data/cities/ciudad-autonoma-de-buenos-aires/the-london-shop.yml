@@ -2,10 +2,10 @@ id: 2704857271
 type: node
 latitude: -34.59563
 longitude: -58.38856
-postcode: "C1060ABB"
+postcode: C1060ABB
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Santa Fe"
-housenumber: 1501
+street: Avenida Santa Fe
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

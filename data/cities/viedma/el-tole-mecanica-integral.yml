@@ -1,11 +1,11 @@
 id: 788279311
-type: way
+type: node
 latitude: -40.81711
 longitude: -63.01107
 postcode: "8500"
 city: Viedma
-street: "Los Notros"
-housenumber: 24
+street: Los Notros
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

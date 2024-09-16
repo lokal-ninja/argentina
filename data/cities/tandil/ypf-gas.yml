@@ -1,11 +1,11 @@
 id: 389998737
-type: way
+type: node
 latitude: -37.31458
 longitude: -59.11279
 postcode: "7000"
 city: Tandil
-street: "Tierra del Fuego"
-housenumber: 
+street: Tierra del Fuego
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

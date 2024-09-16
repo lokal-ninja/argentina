@@ -1,11 +1,11 @@
 id: 1189740927
-type: way
+type: node
 latitude: -38.93265
 longitude: -69.22391
 postcode: "8322"
 city: Cutral Có
-street: "Maestro Badilla"
-housenumber: 380
+street: Maestro Badilla
+housenumber: "380"
 phone: ""
 opening_hours: ""
-website: "https://grandiet.com/"
+website: https://grandiet.com/

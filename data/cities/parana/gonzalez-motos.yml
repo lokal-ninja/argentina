@@ -1,11 +1,11 @@
 id: 584441062
-type: way
+type: node
 latitude: -31.73835
 longitude: -60.52621
 postcode: "3100"
 city: Paraná
-street: "Gualeguaychú"
-housenumber: 444
-phone: "+54 343 431-8290"
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:30"
-website: "http://www.gonzalezmotos.com/"
+street: Gualeguaychú
+housenumber: "444"
+phone: +54 343 431-8290
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:30
+website: http://www.gonzalezmotos.com/

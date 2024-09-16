@@ -1,11 +1,11 @@
 id: 1031461394
-type: way
+type: node
 latitude: -34.39789
 longitude: -58.65304
 postcode: "1624"
 city: Nordelta
-street: "Avenida Agustín M. García"
-housenumber: 8135
-phone: "+54 11 4434-0400"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "https://www.laesquinadelneumatico.com/"
+street: Avenida Agustín M. García
+housenumber: "8135"
+phone: +54 11 4434-0400
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
+website: https://www.laesquinadelneumatico.com/

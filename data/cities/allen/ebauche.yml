@@ -1,11 +1,11 @@
 id: 1005054032
-type: way
+type: node
 latitude: -38.97758
 longitude: -67.82779
-postcode: "R8328"
+postcode: R8328
 city: Allen
-street: "Tomás Orell"
-housenumber: 144
+street: Tomás Orell
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

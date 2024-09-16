@@ -1,11 +1,11 @@
 id: 584441042
-type: way
+type: node
 latitude: -41.13787
 longitude: -71.3188
 postcode: "8400"
 city: San Carlos de Bariloche
-street: "Avenida de los Pioneros"
-housenumber: 435
-phone: "+54 294 443-7128"
-opening_hours: "Mo-Fr 09:00-13:00,16:00-20:00; Sa 09:00-13:00"
+street: Avenida de los Pioneros
+housenumber: "435"
+phone: +54 294 443-7128
+opening_hours: Mo-Fr 09:00-13:00,16:00-20:00; Sa 09:00-13:00
 website: ""

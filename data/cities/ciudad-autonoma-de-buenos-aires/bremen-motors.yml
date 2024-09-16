@@ -1,11 +1,11 @@
 id: 469141098
-type: way
+type: node
 latitude: -34.54676
 longitude: -58.45125
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Presidente Figueroa Alcorta"
-housenumber: 7730
+street: Avenida Presidente Figueroa Alcorta
+housenumber: "7730"
 phone: ""
 opening_hours: ""
 website: ""

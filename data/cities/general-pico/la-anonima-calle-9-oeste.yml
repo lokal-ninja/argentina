@@ -1,11 +1,11 @@
 id: 896330202
-type: way
+type: node
 latitude: -35.66571
 longitude: -63.76597
 postcode: "6360"
 city: General Pico
-street: "Calle 9 Oeste"
-housenumber: 51
+street: Calle 9 Oeste
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/196-general-pico"
+website: https://www.laanonima.com.ar/sucursales/196-general-pico

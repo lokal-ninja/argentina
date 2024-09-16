@@ -1,11 +1,11 @@
 id: 1208919314
-type: way
+type: node
 latitude: -34.72543
 longitude: -58.25813
 postcode: "1878"
 city: Quilmes
-street: "Humberto Primo"
-housenumber: 72
+street: Humberto Primo
+housenumber: "72"
 phone: "01142531233"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://buloneraquilmes.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://buloneraquilmes.com/

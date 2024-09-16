@@ -4,8 +4,8 @@ latitude: -34.57832
 longitude: -58.48045
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Triunvirato"
-housenumber: 4210
+street: Avenida Triunvirato
+housenumber: "4210"
 phone: ""
-opening_hours: "Mo-Sa 09:30-22:00; Su 11:00-20:00"
-website: "https://www.carrefour.com.ar/"
+opening_hours: Mo-Sa 09:30-22:00; Su 11:00-20:00
+website: https://www.carrefour.com.ar/

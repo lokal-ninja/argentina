@@ -1,11 +1,11 @@
 id: 821951808
-type: way
+type: node
 latitude: -43.2506
 longitude: -65.30906
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "Belgrano"
-housenumber: 117
+street: Belgrano
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

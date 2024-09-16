@@ -1,11 +1,11 @@
 id: 786316781
-type: way
+type: node
 latitude: -40.82587
 longitude: -62.97758
 postcode: "8500"
 city: Viedma
-street: "Los Mimbres"
-housenumber: 1936
+street: Los Mimbres
+housenumber: "1936"
 phone: ""
 opening_hours: ""
 website: ""

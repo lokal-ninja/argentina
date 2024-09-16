@@ -1,11 +1,11 @@
 id: 1256095253
-type: way
+type: node
 latitude: -38.94418
 longitude: -67.97324
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Río Collón Curá"
-housenumber: 88
+street: Río Collón Curá
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

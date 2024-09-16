@@ -1,11 +1,11 @@
 id: 463293281
-type: way
+type: node
 latitude: -34.66133
 longitude: -58.44043
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Lafuente"
-housenumber: 3018
+street: Avenida Lafuente
+housenumber: "3018"
 phone: ""
 opening_hours: ""
 website: ""

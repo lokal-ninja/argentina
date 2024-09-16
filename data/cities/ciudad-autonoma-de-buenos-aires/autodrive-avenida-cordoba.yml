@@ -1,11 +1,11 @@
 id: 476463316
-type: way
+type: node
 latitude: -34.59784
 longitude: -58.4215
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Córdoba"
-housenumber: 3886
+street: Avenida Córdoba
+housenumber: "3886"
 phone: ""
 opening_hours: ""
-website: "https://kiaautodrive.com.ar/"
+website: https://kiaautodrive.com.ar/

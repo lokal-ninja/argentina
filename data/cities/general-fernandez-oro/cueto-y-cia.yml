@@ -1,11 +1,11 @@
 id: 1286691622
-type: way
+type: node
 latitude: -38.9534
 longitude: -67.91899
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "9 de Julio"
-housenumber: 311
+street: 9 de Julio
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

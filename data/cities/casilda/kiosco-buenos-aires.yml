@@ -1,11 +1,11 @@
 id: 667613174
-type: way
+type: node
 latitude: -33.04832
 longitude: -61.17351
-postcode: "S2170"
+postcode: S2170
 city: Casilda
-street: "Buenos Aires"
-housenumber: 2817
+street: Buenos Aires
+housenumber: "2817"
 phone: ""
 opening_hours: ""
 website: ""

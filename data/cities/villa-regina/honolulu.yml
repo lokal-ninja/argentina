@@ -1,11 +1,11 @@
 id: 918837143
-type: way
+type: node
 latitude: -39.09476
 longitude: -67.08446
-postcode: "R8336"
+postcode: R8336
 city: Villa Regina
-street: "Reconquista"
-housenumber: 99
+street: Reconquista
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

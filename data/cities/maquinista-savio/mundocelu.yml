@@ -1,11 +1,11 @@
 id: 625906098
-type: way
+type: node
 latitude: -34.40838
 longitude: -58.77039
 postcode: "1620"
 city: Maquinista Savio
-street: "Chaco"
-housenumber: 
+street: Chaco
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

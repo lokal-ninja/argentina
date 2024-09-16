@@ -1,11 +1,11 @@
 id: 1306469615
-type: way
+type: node
 latitude: -38.93845
 longitude: -67.99742
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General Villegas"
-housenumber: 233
-phone: "+54 299 457-3030"
+street: General Villegas
+housenumber: "233"
+phone: +54 299 457-3030
 opening_hours: ""
-website: "http://calahorra.tur.ar/"
+website: http://calahorra.tur.ar/

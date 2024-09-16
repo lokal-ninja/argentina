@@ -1,11 +1,11 @@
 id: 350497568
-type: way
+type: node
 latitude: -32.84271
 longitude: -68.86977
 postcode: "5539"
 city: Las Heras
-street: "Bariloche"
-housenumber: 2546
+street: Bariloche
+housenumber: "2546"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30,16:30-20:30"
+opening_hours: Tu-Sa 09:00-12:30,16:30-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1206218858
-type: way
+type: node
 latitude: -34.72884
 longitude: -58.24825
 postcode: "1878"
 city: Quilmes
-street: "Avenida Mitre"
-housenumber: 1102
+street: Avenida Mitre
+housenumber: "1102"
 phone: "01175179862"
-opening_hours: "Mo-Fr 05:00-20:00; Sa 05:00-19:00; Su 08:00-13:00"
+opening_hours: Mo-Fr 05:00-20:00; Sa 05:00-19:00; Su 08:00-13:00
 website: ""

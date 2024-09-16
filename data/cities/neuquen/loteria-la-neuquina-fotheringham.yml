@@ -1,11 +1,11 @@
 id: 1101371348
-type: way
+type: node
 latitude: -38.95293
 longitude: -68.06878
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Fotheringham"
-housenumber: 199
+street: Fotheringham
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

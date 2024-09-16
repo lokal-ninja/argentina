@@ -1,11 +1,11 @@
 id: 1184515490
-type: way
+type: node
 latitude: -34.39359
 longitude: -58.66534
 postcode: "1624"
 city: Nordelta
-street: "Italia"
-housenumber: 3416
+street: Italia
+housenumber: "3416"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:30"
+opening_hours: Mo-Su 10:00-20:30
 website: ""

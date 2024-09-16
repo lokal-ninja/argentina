@@ -1,11 +1,11 @@
 id: 1215423955
-type: way
+type: node
 latitude: -38.94144
 longitude: -68.00884
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Pacheco"
-housenumber: 586
+street: Avenida General Pacheco
+housenumber: "586"
 phone: ""
 opening_hours: ""
-website: "https://www.ebconsa.com.ar/"
+website: https://www.ebconsa.com.ar/

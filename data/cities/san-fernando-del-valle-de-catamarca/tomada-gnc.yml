@@ -1,11 +1,11 @@
 id: 1299127479
-type: way
+type: node
 latitude: -28.4612
 longitude: -65.76313
 postcode: ""
 city: San Fernando del Valle de Catamarca
-street: "Avenida Presidente Castillo"
-housenumber: 578
+street: Avenida Presidente Castillo
+housenumber: "578"
 phone: ""
 opening_hours: ""
 website: ""

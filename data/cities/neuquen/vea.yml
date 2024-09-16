@@ -1,11 +1,11 @@
 id: 1167860752
-type: way
+type: node
 latitude: -38.95625
 longitude: -68.06689
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Manuel Lainez"
-housenumber: 115
+street: Manuel Lainez
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.vea.com.ar/"
+website: https://www.vea.com.ar/

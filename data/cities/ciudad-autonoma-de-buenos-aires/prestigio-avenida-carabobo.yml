@@ -2,10 +2,10 @@ id: 3743595791
 type: node
 latitude: -34.62937
 longitude: -58.45554
-postcode: "C1406GRI"
+postcode: C1406GRI
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Carabobo"
-housenumber: 209
-phone: "+54 11 4633-3001"
-opening_hours: "Mo-Fr 08:30-12:45,14:30-19:00; Sa 08:30-17:00"
+street: Avenida Carabobo
+housenumber: "209"
+phone: +54 11 4633-3001
+opening_hours: Mo-Fr 08:30-12:45,14:30-19:00; Sa 08:30-17:00
 website: ""

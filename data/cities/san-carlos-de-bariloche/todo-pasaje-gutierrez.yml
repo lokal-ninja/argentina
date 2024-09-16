@@ -1,11 +1,11 @@
 id: 896298138
-type: way
+type: node
 latitude: -41.15354
 longitude: -71.31672
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Pasaje Gutiérrez"
-housenumber: 2431
+street: Pasaje Gutiérrez
+housenumber: "2431"
 phone: ""
 opening_hours: ""
 website: ""

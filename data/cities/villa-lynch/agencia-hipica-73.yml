@@ -1,11 +1,11 @@
 id: 1229146104
-type: way
+type: node
 latitude: -34.59246
 longitude: -58.52077
-postcode: "B1672"
+postcode: B1672
 city: Villa Lynch
-street: "Avenida 2 - General Paz"
-housenumber: 3745
+street: Avenida 2 - General Paz
+housenumber: "3745"
 phone: ""
 opening_hours: ""
 website: ""

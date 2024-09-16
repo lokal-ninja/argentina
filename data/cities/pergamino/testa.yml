@@ -1,11 +1,11 @@
 id: 786401451
-type: way
+type: node
 latitude: -33.8953
 longitude: -60.56354
 postcode: "2700"
 city: Pergamino
-street: "Prudencio González"
-housenumber: 325
+street: Prudencio González
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

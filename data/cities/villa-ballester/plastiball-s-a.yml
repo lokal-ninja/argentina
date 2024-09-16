@@ -1,11 +1,11 @@
 id: 1137099314
-type: way
+type: node
 latitude: -34.54821
 longitude: -58.55773
-postcode: "B1653"
+postcode: B1653
 city: Villa Ballester
-street: "122 - General José María Paz"
-housenumber: 5102
+street: 122 - General José María Paz
+housenumber: "5102"
 phone: ""
 opening_hours: ""
 website: ""

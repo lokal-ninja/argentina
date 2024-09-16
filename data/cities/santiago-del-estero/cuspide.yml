@@ -4,8 +4,8 @@ latitude: -27.78964
 longitude: -64.2595
 postcode: "4200"
 city: Santiago del Estero
-street: "9 de Julio"
-housenumber: 46
+street: 9 de Julio
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:30,17:30-21:00"
-website: "https://cuspide.com"
+opening_hours: Mo-Sa 09:00-13:30,17:30-21:00
+website: https://cuspide.com

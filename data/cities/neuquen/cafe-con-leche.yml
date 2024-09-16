@@ -1,11 +1,11 @@
 id: 1172645174
-type: way
+type: node
 latitude: -38.95775
 longitude: -68.06068
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "San Luis"
-housenumber: 258
+street: San Luis
+housenumber: "258"
 phone: ""
 opening_hours: ""
 website: ""

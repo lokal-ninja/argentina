@@ -1,11 +1,11 @@
 id: 1101863483
-type: way
+type: node
 latitude: -38.95258
 longitude: -68.07469
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Las Heras"
-housenumber: 1100
+street: Las Heras
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1052070572
-type: way
+type: node
 latitude: -32.93117
 longitude: -60.76188
 postcode: ""
 city: Rosario
-street: "Malabia"
-housenumber: 134
+street: Malabia
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

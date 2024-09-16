@@ -2,10 +2,10 @@ id: 5987329918
 type: node
 latitude: -31.65026
 longitude: -60.71371
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Lisandro de La Torre"
-housenumber: 3042
-phone: "342-4189773"
-opening_hours: "Mo-Fr 09:00-12:00, 16:00-20:00"
-website: "http://www.tqminformatica.com.ar"
+street: Lisandro de La Torre
+housenumber: "3042"
+phone: 342-4189773
+opening_hours: Mo-Fr 09:00-12:00, 16:00-20:00
+website: http://www.tqminformatica.com.ar

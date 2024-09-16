@@ -1,11 +1,11 @@
 id: 460586031
-type: way
+type: node
 latitude: -34.55884
 longitude: -58.4456
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Del Libertador"
-housenumber: 5755
+street: Avenida Del Libertador
+housenumber: "5755"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 962331342
-type: way
+type: node
 latitude: -38.7136
 longitude: -61.29397
-postcode: "B8150"
+postcode: B8150
 city: Coronel Dorrego
-street: "San Martín"
-housenumber: 274
+street: San Martín
+housenumber: "274"
 phone: ""
 opening_hours: ""
 website: ""

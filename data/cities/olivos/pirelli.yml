@@ -1,11 +1,11 @@
 id: 465963931
-type: way
+type: node
 latitude: -34.50563
 longitude: -58.48068
 postcode: "1636"
 city: Olivos
-street: "Juan Bautista Alberdi"
-housenumber: 2712
+street: Juan Bautista Alberdi
+housenumber: "2712"
 phone: ""
 opening_hours: ""
-website: "https://carpro.com.ar/"
+website: https://carpro.com.ar/

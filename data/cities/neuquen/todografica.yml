@@ -1,11 +1,11 @@
 id: 1122153793
-type: way
+type: node
 latitude: -38.95357
 longitude: -68.06655
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Salta"
-housenumber: 122
+street: Salta
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

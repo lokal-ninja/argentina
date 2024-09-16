@@ -1,11 +1,11 @@
 id: 1204493079
-type: way
+type: node
 latitude: -38.95161
 longitude: -68.05866
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Joaquín González"
-housenumber: 20
+street: Ministro Joaquín González
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

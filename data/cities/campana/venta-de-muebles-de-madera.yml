@@ -1,11 +1,11 @@
 id: 374538593
-type: way
+type: node
 latitude: -34.17717
 longitude: -58.96064
 postcode: "2804"
 city: Campana
-street: "Avenida Intendente Jorge Rubén Varela"
-housenumber: 1091
-phone: "+54 3489 424549"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.facebook.com/mueblesavenida.campana.39"
+street: Avenida Intendente Jorge Rubén Varela
+housenumber: "1091"
+phone: +54 3489 424549
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.facebook.com/mueblesavenida.campana.39

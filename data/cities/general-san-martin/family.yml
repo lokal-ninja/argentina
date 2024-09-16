@@ -1,11 +1,11 @@
 id: 465065104
-type: way
+type: node
 latitude: -34.5788
 longitude: -58.53089
-postcode: "B1650"
+postcode: B1650
 city: General San Martín
-street: "42 - Perdriel"
-housenumber: 3455
+street: 42 - Perdriel
+housenumber: "3455"
 phone: ""
 opening_hours: ""
 website: ""

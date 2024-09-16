@@ -1,11 +1,11 @@
 id: 475322574
-type: way
+type: node
 latitude: -34.60687
 longitude: -58.4435
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Ángel Gallardo"
-housenumber: 940
+street: Avenida Ángel Gallardo
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

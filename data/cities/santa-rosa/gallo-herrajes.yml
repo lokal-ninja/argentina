@@ -1,11 +1,11 @@
 id: 833243090
-type: way
+type: node
 latitude: -36.61748
 longitude: -64.28937
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Lucio Mansilla"
-housenumber: 145
+street: Lucio Mansilla
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

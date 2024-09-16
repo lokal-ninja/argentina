@@ -1,11 +1,11 @@
 id: 473851721
-type: way
+type: node
 latitude: -34.61877
 longitude: -58.37018
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Balcarce"
-housenumber: 961
+street: Balcarce
+housenumber: "961"
 phone: ""
 opening_hours: ""
 website: ""

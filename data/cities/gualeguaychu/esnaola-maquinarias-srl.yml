@@ -1,11 +1,11 @@
 id: 265964493
-type: way
+type: node
 latitude: -32.99846
 longitude: -58.52128
 postcode: "2820"
 city: Gualeguaychú
-street: "Avenida Primera Junta"
-housenumber: 680
-phone: "+54 3446 425009"
+street: Avenida Primera Junta
+housenumber: "680"
+phone: +54 3446 425009
 opening_hours: ""
 website: ""

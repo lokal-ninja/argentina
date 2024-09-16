@@ -1,11 +1,11 @@
 id: 1137938232
-type: way
+type: node
 latitude: -38.95492
 longitude: -68.09571
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "General San Martín"
-housenumber: 2626
+street: General San Martín
+housenumber: "2626"
 phone: ""
 opening_hours: ""
-website: "https://www.sakurasa.com/"
+website: https://www.sakurasa.com/

@@ -1,11 +1,11 @@
 id: 918366852
-type: way
+type: node
 latitude: -39.09859
 longitude: -67.08655
-postcode: "R8336"
+postcode: R8336
 city: Villa Regina
-street: "Las Heras"
-housenumber: 295
+street: Las Heras
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

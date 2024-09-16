@@ -1,11 +1,11 @@
 id: 186796795
-type: way
+type: node
 latitude: -34.88267
 longitude: -58.38974
 postcode: ""
 city: Glew
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 20260
-phone: "+54 2224 32513"
+street: Avenida Hipólito Yrigoyen
+housenumber: "20260"
+phone: +54 2224 32513
 opening_hours: ""
-website: "https://www.carrefour.com.ar/"
+website: https://www.carrefour.com.ar/

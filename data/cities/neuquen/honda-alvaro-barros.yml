@@ -1,11 +1,11 @@
 id: 1073483366
-type: way
+type: node
 latitude: -38.95912
 longitude: -68.04348
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Álvaro Barros"
-housenumber: 1145
+street: Álvaro Barros
+housenumber: "1145"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11860646608
 type: node
 latitude: -38.95219
 longitude: -68.05775
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Buenos Aires"
-housenumber: 270
-phone: "+54 299 655-7058"
+street: Buenos Aires
+housenumber: "270"
+phone: +54 299 655-7058
 opening_hours: ""
-website: "https://www.cordonandino.com/"
+website: https://www.cordonandino.com/

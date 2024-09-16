@@ -1,11 +1,11 @@
 id: 1222163915
-type: way
+type: node
 latitude: -38.95487
 longitude: -68.05399
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Independencia"
-housenumber: 366
+street: Independencia
+housenumber: "366"
 phone: ""
 opening_hours: ""
-website: "https://zanellatoweb.app.pricenavigator.net/"
+website: https://zanellatoweb.app.pricenavigator.net/

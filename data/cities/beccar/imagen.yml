@@ -1,11 +1,11 @@
 id: 473623388
-type: way
+type: node
 latitude: -34.45855
 longitude: -58.53123
 postcode: "1643"
 city: Beccar
-street: "Avenida Centenario"
-housenumber: 2268
-phone: "+54 11 6910-8103"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.pintureriasimagen.com.ar/"
+street: Avenida Centenario
+housenumber: "2268"
+phone: +54 11 6910-8103
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.pintureriasimagen.com.ar/

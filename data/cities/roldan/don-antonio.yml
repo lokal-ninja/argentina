@@ -1,11 +1,11 @@
 id: 500548089
-type: way
+type: node
 latitude: -32.93239
 longitude: -60.89333
-postcode: "S2134"
+postcode: S2134
 city: Roldán
-street: "Avenida de las Libertades"
-housenumber: 1659
+street: Avenida de las Libertades
+housenumber: "1659"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

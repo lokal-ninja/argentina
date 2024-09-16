@@ -1,11 +1,11 @@
 id: 693096311
-type: way
+type: node
 latitude: -34.99578
 longitude: -58.0479
 postcode: "1901"
 city: Lisandro Olmos
-street: "Avenida 197"
-housenumber: 615
+street: Avenida 197
+housenumber: "615"
 phone: ""
-opening_hours: "09:00-12:30,17:00-20:00"
+opening_hours: 09:00-12:30,17:00-20:00
 website: ""

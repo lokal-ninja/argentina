@@ -1,11 +1,11 @@
 id: 858244775
-type: way
+type: node
 latitude: -39.16466
 longitude: -66.14618
-postcode: "R8364"
+postcode: R8364
 city: Chimpay
-street: "Avenida Sarmiento"
-housenumber: 342
+street: Avenida Sarmiento
+housenumber: "342"
 phone: ""
 opening_hours: ""
 website: ""

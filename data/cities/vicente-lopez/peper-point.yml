@@ -1,11 +1,11 @@
 id: 467837507
-type: way
+type: node
 latitude: -34.52673
 longitude: -58.4819
-postcode: "B1602"
+postcode: B1602
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 1199
-phone: "+54 11 4797-3555"
-opening_hours: "24/7 closed"
+street: Avenida Maipú
+housenumber: "1199"
+phone: +54 11 4797-3555
+opening_hours: 24/7 closed
 website: ""

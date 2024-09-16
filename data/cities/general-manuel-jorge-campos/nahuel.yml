@@ -1,11 +1,11 @@
 id: 910575608
-type: way
+type: node
 latitude: -37.46364
 longitude: -63.58324
 postcode: "6310"
 city: General Manuel Jorge Campos
-street: "9 de Julio"
-housenumber: 810
+street: 9 de Julio
+housenumber: "810"
 phone: "+542954668449"
-opening_hours: "Mo-Sa 08:00-12:30,15:00-19:30"
+opening_hours: Mo-Sa 08:00-12:30,15:00-19:30
 website: ""

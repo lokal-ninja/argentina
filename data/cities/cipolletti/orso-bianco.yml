@@ -2,10 +2,10 @@ id: 6630059173
 type: node
 latitude: -38.94082
 longitude: -67.98949
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
 street: ""
-housenumber: 183
+housenumber: "183"
 phone: ""
 opening_hours: ""
-website: "https://orsobianco.com.ar/"
+website: https://orsobianco.com.ar/

@@ -4,8 +4,8 @@ latitude: -31.40828
 longitude: -64.20083
 postcode: "5000"
 city: Córdoba
-street: "Avenida Colón"
-housenumber: 123
+street: Avenida Colón
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

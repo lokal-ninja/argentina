@@ -1,11 +1,11 @@
 id: 1074012079
-type: way
+type: node
 latitude: -38.95375
 longitude: -68.02835
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Carmen de Patagones"
-housenumber: 2205
+street: Carmen de Patagones
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1017894036
-type: way
+type: node
 latitude: -34.26829
 longitude: -62.69201
 postcode: "6100"
 city: Rufino
-street: "Presidente Juan Domingo Perón"
-housenumber: 1554
+street: Presidente Juan Domingo Perón
+housenumber: "1554"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,16:30-20:30; Sa 08:30-20:30"
+opening_hours: Mo-Fr 08:30-12:30,16:30-20:30; Sa 08:30-20:30
 website: ""

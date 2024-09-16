@@ -1,11 +1,11 @@
 id: 1206951412
-type: way
+type: node
 latitude: -24.25065
 longitude: -65.23286
 postcode: ""
 city: Alto Comedero
-street: "Colectora Ruta Nacional 66"
-housenumber: 777
+street: Colectora Ruta Nacional 66
+housenumber: "777"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

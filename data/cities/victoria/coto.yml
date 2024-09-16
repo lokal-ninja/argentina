@@ -1,11 +1,11 @@
 id: 473407573
-type: way
+type: node
 latitude: -34.47473
 longitude: -58.57529
-postcode: "B1644"
+postcode: B1644
 city: Victoria
-street: "Avenida Uruguay"
-housenumber: 4691
-phone: "+54 11 4519-9757"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.coto.com.ar/"
+street: Avenida Uruguay
+housenumber: "4691"
+phone: +54 11 4519-9757
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.coto.com.ar/

@@ -1,11 +1,11 @@
 id: 477537070
-type: way
+type: node
 latitude: -34.58785
 longitude: -58.41299
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Santa Fe"
-housenumber: 3368
+street: Avenida Santa Fe
+housenumber: "3368"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

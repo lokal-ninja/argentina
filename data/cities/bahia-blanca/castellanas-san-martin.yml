@@ -1,11 +1,11 @@
 id: 943337549
-type: way
+type: node
 latitude: -38.71817
 longitude: -62.26267
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "San Martín"
-housenumber: 198
+street: San Martín
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

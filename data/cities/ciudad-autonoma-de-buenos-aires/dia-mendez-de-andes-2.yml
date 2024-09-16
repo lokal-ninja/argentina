@@ -1,11 +1,11 @@
 id: 552208164
-type: way
+type: node
 latitude: -34.61543
 longitude: -58.44889
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Méndez de Andes"
-housenumber: 955
+street: Méndez de Andes
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

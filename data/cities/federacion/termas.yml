@@ -1,11 +1,11 @@
 id: 999054479
-type: way
+type: node
 latitude: -30.98166
 longitude: -57.92515
 postcode: "3206"
 city: Federación
-street: "Sargento Gómez"
-housenumber: 
+street: Sargento Gómez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

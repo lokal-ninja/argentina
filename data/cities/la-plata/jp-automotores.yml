@@ -1,11 +1,11 @@
 id: 459467709
-type: way
+type: node
 latitude: -34.9075
 longitude: -57.97361
 postcode: ""
 city: La Plata
-street: "Avenida 13"
-housenumber: 75
+street: Avenida 13
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "http://jpautomotores.com"
+website: http://jpautomotores.com

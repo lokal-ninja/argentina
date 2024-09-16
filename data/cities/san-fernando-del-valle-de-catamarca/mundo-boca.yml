@@ -1,11 +1,11 @@
 id: 1266349195
-type: way
+type: node
 latitude: -28.46696
 longitude: -65.778
-postcode: "K4700BIM"
+postcode: K4700BIM
 city: San Fernando del Valle de Catamarca
-street: "Esquiú"
-housenumber: 623
+street: Esquiú
+housenumber: "623"
 phone: ""
 opening_hours: ""
 website: ""

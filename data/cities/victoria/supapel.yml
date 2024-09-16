@@ -4,8 +4,8 @@ latitude: -34.45487
 longitude: -58.5406
 postcode: "1644"
 city: Victoria
-street: "3 de Febrero"
-housenumber: 3207
-phone: "+54 11 4744-6385"
-opening_hours: "Mo-Fr 09:00-12:00,15:30-18:30; Sa 09:00-12:00; Su off"
+street: 3 de Febrero
+housenumber: "3207"
+phone: +54 11 4744-6385
+opening_hours: Mo-Fr 09:00-12:00,15:30-18:30; Sa 09:00-12:00; Su off
 website: ""

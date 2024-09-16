@@ -1,11 +1,11 @@
 id: 612409961
-type: way
+type: node
 latitude: -32.87853
 longitude: -60.69784
-postcode: "S2005"
+postcode: S2005
 city: Rosario
-street: "Bulevar General José Rondeau"
-housenumber: 3947
+street: Bulevar General José Rondeau
+housenumber: "3947"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 398041838
-type: way
+type: node
 latitude: -40.81251
 longitude: -63.00539
 postcode: "8500"
 city: Viedma
-street: "Caseros"
-housenumber: 1380
-phone: "+54 2920 43-0076"
-opening_hours: "Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30"
+street: Caseros
+housenumber: "1380"
+phone: +54 2920 43-0076
+opening_hours: Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30
 website: ""

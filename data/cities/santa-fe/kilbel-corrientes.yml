@@ -1,11 +1,11 @@
 id: 1243496321
-type: way
+type: node
 latitude: -31.65301
 longitude: -60.71227
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Corrientes"
-housenumber: 2870
+street: Corrientes
+housenumber: "2870"
 phone: ""
 opening_hours: ""
 website: ""

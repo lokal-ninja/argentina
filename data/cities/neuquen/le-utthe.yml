@@ -1,11 +1,11 @@
 id: 1173836598
-type: way
+type: node
 latitude: -38.95748
 longitude: -68.05895
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Olascoaga"
-housenumber: 232
+street: Avenida Olascoaga
+housenumber: "232"
 phone: ""
 opening_hours: ""
-website: "https://www.leutthe.com/"
+website: https://www.leutthe.com/

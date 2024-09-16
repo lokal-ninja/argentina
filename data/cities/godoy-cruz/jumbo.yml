@@ -1,11 +1,11 @@
 id: 206105981
-type: way
+type: node
 latitude: -32.91533
 longitude: -68.83973
 postcode: ""
 city: Godoy Cruz
-street: "Balcarce"
-housenumber: 735
+street: Balcarce
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

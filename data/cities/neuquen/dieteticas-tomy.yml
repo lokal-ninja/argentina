@@ -1,11 +1,11 @@
 id: 1204493069
-type: way
+type: node
 latitude: -38.95162
 longitude: -68.05783
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Joaquín González"
-housenumber: 94
+street: Ministro Joaquín González
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.dieteticastomy.com.ar/"
+website: https://www.dieteticastomy.com.ar/

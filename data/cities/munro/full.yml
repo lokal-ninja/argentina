@@ -1,11 +1,11 @@
 id: 428833167
-type: way
+type: node
 latitude: -34.51332
 longitude: -58.52191
-postcode: "B1605"
+postcode: B1605
 city: Munro
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://full.ypf.com/"
+opening_hours: 24/7
+website: https://full.ypf.com/

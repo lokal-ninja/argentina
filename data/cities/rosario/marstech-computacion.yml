@@ -4,8 +4,8 @@ latitude: -32.95083
 longitude: -60.64417
 postcode: "2000"
 city: Rosario
-street: "Mendoza"
-housenumber: 1419
+street: Mendoza
+housenumber: "1419"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-13:00
 website: ""

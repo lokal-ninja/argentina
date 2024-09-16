@@ -1,11 +1,11 @@
 id: 469532543
-type: way
+type: node
 latitude: -34.80487
 longitude: -58.40474
 postcode: "1846"
 city: Adrogué
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 12900
-phone: "+54 11 4293-4540"
-opening_hours: "Mo-Fr 08:00-12:00,15:00-19:30; Sa 09:00-13:00"
-website: "https://tamburrinomotos.com.ar/"
+street: Avenida Hipólito Yrigoyen
+housenumber: "12900"
+phone: +54 11 4293-4540
+opening_hours: Mo-Fr 08:00-12:00,15:00-19:30; Sa 09:00-13:00
+website: https://tamburrinomotos.com.ar/

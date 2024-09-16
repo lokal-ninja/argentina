@@ -1,11 +1,11 @@
 id: 853982005
-type: way
+type: node
 latitude: -41.13301
 longitude: -71.31113
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Avenida Juan Manuel de Rosas"
-housenumber: 101
+street: Avenida Juan Manuel de Rosas
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

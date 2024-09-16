@@ -1,11 +1,11 @@
 id: 468764379
-type: way
+type: node
 latitude: -34.66624
 longitude: -58.73754
 postcode: "1722"
 city: Merlo
-street: "Avenida Doctor Ricardo Balbín"
-housenumber: 1380
-phone: "0220 482-3651"
+street: Avenida Doctor Ricardo Balbín
+housenumber: "1380"
+phone: 0220 482-3651
 opening_hours: ""
-website: "https://www.bartolisrl.com/"
+website: https://www.bartolisrl.com/

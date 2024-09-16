@@ -1,11 +1,11 @@
 id: 1286691635
-type: way
+type: node
 latitude: -38.95353
 longitude: -67.91781
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "25 de Mayo"
-housenumber: 315
+street: 25 de Mayo
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

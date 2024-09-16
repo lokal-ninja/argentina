@@ -1,11 +1,11 @@
 id: 1303811791
-type: way
+type: node
 latitude: -34.67906
 longitude: -58.72955
 postcode: "1722"
 city: Merlo
-street: "Avenida Argentina"
-housenumber: 
+street: Avenida Argentina
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 737985702
-type: way
+type: node
 latitude: -40.80963
 longitude: -65.08732
 postcode: "8521"
 city: Las Grutas
-street: "El Bolsón"
-housenumber: 655
+street: El Bolsón
+housenumber: "655"
 phone: ""
 opening_hours: ""
 website: ""

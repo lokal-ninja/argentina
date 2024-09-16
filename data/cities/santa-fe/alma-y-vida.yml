@@ -2,10 +2,10 @@ id: 10888210156
 type: node
 latitude: -31.6545
 longitude: -60.7102
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "San Jerónimo"
-housenumber: 1800
-phone: "+54 342 459-2671"
-opening_hours: "Mo-Fr 07:30-12:30,16:00-20:00; Sa 08:30-13:00"
-website: "https://dieteticaalmayvida.com/"
+street: San Jerónimo
+housenumber: "1800"
+phone: +54 342 459-2671
+opening_hours: Mo-Fr 07:30-12:30,16:00-20:00; Sa 08:30-13:00
+website: https://dieteticaalmayvida.com/

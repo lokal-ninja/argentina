@@ -1,11 +1,11 @@
 id: 781182087
-type: way
+type: node
 latitude: -31.41918
 longitude: -63.05726
 postcode: "2434"
 city: Arroyito
-street: "Avenida Mariano Moreno"
-housenumber: 1560
+street: Avenida Mariano Moreno
+housenumber: "1560"
 phone: ""
 opening_hours: ""
 website: ""

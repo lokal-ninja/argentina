@@ -1,11 +1,11 @@
 id: 464856657
-type: way
+type: node
 latitude: -34.49158
 longitude: -58.48464
-postcode: "B1637"
+postcode: B1637
 city: La Lucila
-street: "Avenida del Libertador"
-housenumber: 12922
+street: Avenida del Libertador
+housenumber: "12922"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-19:00; Sa 09:00-13:00"
-website: "https://somosrex.com/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-19:00; Sa 09:00-13:00
+website: https://somosrex.com/

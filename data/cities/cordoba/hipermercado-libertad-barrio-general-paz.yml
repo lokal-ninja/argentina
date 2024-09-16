@@ -1,11 +1,11 @@
 id: 323691786
-type: way
+type: node
 latitude: -31.40856
 longitude: -64.17178
 postcode: "5000"
 city: Córdoba
-street: "Libertad"
-housenumber: 1098
+street: Libertad
+housenumber: "1098"
 phone: ""
-opening_hours: "08:00-22:00"
+opening_hours: 08:00-22:00
 website: ""

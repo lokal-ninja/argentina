@@ -1,11 +1,11 @@
 id: 962331442
-type: way
+type: node
 latitude: -38.72217
 longitude: -61.29243
-postcode: "B8150"
+postcode: B8150
 city: Coronel Dorrego
-street: "Avenida Ricardo Fuertes"
-housenumber: 1099
+street: Avenida Ricardo Fuertes
+housenumber: "1099"
 phone: ""
 opening_hours: ""
 website: ""

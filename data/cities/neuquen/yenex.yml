@@ -1,11 +1,11 @@
 id: 1202406609
-type: way
+type: node
 latitude: -38.95393
 longitude: -68.0513
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bernardino Rivadavia"
-housenumber: 560
+street: Bernardino Rivadavia
+housenumber: "560"
 phone: ""
 opening_hours: ""
-website: "https://yenex.com.ar/"
+website: https://yenex.com.ar/

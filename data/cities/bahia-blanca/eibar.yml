@@ -1,11 +1,11 @@
 id: 770865928
-type: way
+type: node
 latitude: -38.7209
 longitude: -62.29585
 postcode: ""
 city: Bahía Blanca
-street: "Don Bosco"
-housenumber: 1170
+street: Don Bosco
+housenumber: "1170"
 phone: ""
 opening_hours: ""
 website: ""

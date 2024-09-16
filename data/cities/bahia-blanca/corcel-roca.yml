@@ -1,11 +1,11 @@
 id: 857000056
-type: way
+type: node
 latitude: -38.719
 longitude: -62.27558
 postcode: "8000"
 city: Bahía Blanca
-street: "Roca"
-housenumber: 
+street: Roca
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.corcelsa.com.ar/"
+website: https://www.corcelsa.com.ar/

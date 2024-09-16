@@ -1,11 +1,11 @@
 id: 1136288930
-type: way
+type: node
 latitude: -38.94748
 longitude: -68.08551
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Antártida Argentina"
-housenumber: 1898
+street: Antártida Argentina
+housenumber: "1898"
 phone: ""
 opening_hours: ""
 website: ""

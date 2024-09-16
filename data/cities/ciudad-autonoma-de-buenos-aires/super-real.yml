@@ -1,11 +1,11 @@
 id: 838014458
-type: way
+type: node
 latitude: -34.55157
 longitude: -58.47446
-postcode: "C1429ALP"
+postcode: C1429ALP
 city: Ciudad Autónoma de Buenos Aires
-street: "Conesa"
-housenumber: 3654
+street: Conesa
+housenumber: "3654"
 phone: ""
 opening_hours: ""
 website: ""

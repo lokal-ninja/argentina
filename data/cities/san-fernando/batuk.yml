@@ -1,11 +1,11 @@
 id: 737088411
-type: way
+type: node
 latitude: -34.43894
 longitude: -58.56002
 postcode: "1646"
 city: San Fernando
-street: "Constitución"
-housenumber: 699
-phone: "+54 11 4744-3976"
+street: Constitución
+housenumber: "699"
+phone: +54 11 4744-3976
 opening_hours: ""
 website: ""

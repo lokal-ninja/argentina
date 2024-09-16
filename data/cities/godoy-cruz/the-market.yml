@@ -1,11 +1,11 @@
 id: 253278177
-type: way
+type: node
 latitude: -32.95687
 longitude: -68.85882
 postcode: ""
 city: Godoy Cruz
-street: "San Martín Sur"
-housenumber: 2901
+street: San Martín Sur
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

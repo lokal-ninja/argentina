@@ -1,11 +1,11 @@
 id: 582896760
-type: way
+type: node
 latitude: -34.63922
 longitude: -58.56398
 postcode: "1704"
 city: Ramos Mejía
-street: "Teniente General Pablo Ricchieri"
-housenumber: 101
+street: Teniente General Pablo Ricchieri
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

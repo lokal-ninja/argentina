@@ -1,11 +1,11 @@
 id: 471177553
-type: way
+type: node
 latitude: -34.57982
 longitude: -58.49248
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Olazábal"
-housenumber: 
+street: Avenida Olazábal
+housenumber: ""
 phone: ""
-opening_hours: "09:00-21:00"
+opening_hours: 09:00-21:00
 website: ""

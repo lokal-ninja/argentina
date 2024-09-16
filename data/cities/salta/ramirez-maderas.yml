@@ -1,11 +1,11 @@
 id: 835661458
-type: way
+type: node
 latitude: -24.80171
 longitude: -65.40776
 postcode: "4400"
 city: Salta
-street: "Corrientes"
-housenumber: 295
+street: Corrientes
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

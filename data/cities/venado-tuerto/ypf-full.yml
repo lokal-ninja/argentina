@@ -1,11 +1,11 @@
 id: 190804384
-type: way
+type: node
 latitude: -33.75035
 longitude: -61.97691
 postcode: "2600"
 city: Venado Tuerto
-street: "Bulevar 12 de Octubre"
-housenumber: 889
+street: Bulevar 12 de Octubre
+housenumber: "889"
 phone: ""
 opening_hours: ""
 website: ""

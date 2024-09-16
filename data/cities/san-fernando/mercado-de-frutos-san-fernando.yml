@@ -1,11 +1,11 @@
 id: 473129970
-type: way
+type: node
 latitude: -34.44747
 longitude: -58.54724
-postcode: "B1646"
+postcode: B1646
 city: San Fernando
-street: "Avenida Presidente Teniente General Juan Domingo Perón"
-housenumber: 2235
+street: Avenida Presidente Teniente General Juan Domingo Perón
+housenumber: "2235"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; Su 09:00-14:00"
+opening_hours: Mo-Sa 08:00-20:30; Su 09:00-14:00
 website: ""

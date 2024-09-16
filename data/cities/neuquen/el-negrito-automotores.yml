@@ -1,11 +1,11 @@
 id: 1073465821
-type: way
+type: node
 latitude: -38.95518
 longitude: -68.03999
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Primeros Pobladores"
-housenumber: 1400
+street: Primeros Pobladores
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

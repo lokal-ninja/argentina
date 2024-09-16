@@ -1,11 +1,11 @@
 id: 772458276
-type: way
+type: node
 latitude: -33.88989
 longitude: -60.58029
 postcode: "2700"
 city: Pergamino
-street: "Avenida de Mayo"
-housenumber: 1319
+street: Avenida de Mayo
+housenumber: "1319"
 phone: ""
 opening_hours: ""
 website: ""

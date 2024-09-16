@@ -1,11 +1,11 @@
 id: 828247521
-type: way
+type: node
 latitude: -53.78872
 longitude: -67.6956
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Avenida General José de San Martín"
-housenumber: 170
+street: Avenida General José de San Martín
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

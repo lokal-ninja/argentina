@@ -1,11 +1,11 @@
 id: 1181033456
-type: way
+type: node
 latitude: -28.47126
 longitude: -65.76709
 postcode: ""
 city: San Fernando del Valle de Catamarca
-street: "Avenida Italia"
-housenumber: 871
+street: Avenida Italia
+housenumber: "871"
 phone: ""
 opening_hours: ""
 website: ""

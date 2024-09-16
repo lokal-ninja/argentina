@@ -4,8 +4,8 @@ latitude: -31.65753
 longitude: -64.43257
 postcode: ""
 city: Alta Gracia
-street: "Avenida Belgrano"
-housenumber: 123
+street: Avenida Belgrano
+housenumber: "123"
 phone: "03547404406"
-opening_hours: "Mo-Sa 9:00-13:00 17:30-21:30"
-website: "https://www.calzadoscentro.com.ar/"
+opening_hours: Mo-Sa 9:00-13:00 17:30-21:30
+website: https://www.calzadoscentro.com.ar/

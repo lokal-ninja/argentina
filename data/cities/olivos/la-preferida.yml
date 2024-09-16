@@ -1,11 +1,11 @@
 id: 185904362
-type: way
+type: node
 latitude: -34.50448
 longitude: -58.49438
-postcode: "B1636"
+postcode: B1636
 city: Olivos
-street: "Avenida Maipú"
-housenumber: 3402
-phone: "+54 11 4799 2272"
+street: Avenida Maipú
+housenumber: "3402"
+phone: +54 11 4799 2272
 opening_hours: ""
 website: ""

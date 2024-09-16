@@ -1,11 +1,11 @@
 id: 537307454
-type: way
+type: node
 latitude: -36.60258
 longitude: -64.27209
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Avenida Circunvalación Ingeniero Santiago Marzo (N)"
-housenumber: 1550
+street: Avenida Circunvalación Ingeniero Santiago Marzo (N)
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

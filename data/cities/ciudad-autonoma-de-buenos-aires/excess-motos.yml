@@ -1,11 +1,11 @@
 id: 583003868
-type: way
+type: node
 latitude: -34.59784
 longitude: -58.43452
 postcode: "1414"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Raúl Scalabrini Ortiz"
-housenumber: 659
-phone: "+54 11 4777-7663"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-19:30"
+street: Avenida Raúl Scalabrini Ortiz
+housenumber: "659"
+phone: +54 11 4777-7663
+opening_hours: Mo-Fr 10:00-14:00,15:00-19:30
 website: ""

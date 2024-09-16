@@ -1,11 +1,11 @@
 id: 1251417056
-type: way
+type: node
 latitude: -34.58081
 longitude: -58.54243
-postcode: "B1650"
+postcode: B1650
 city: General San Martín
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 2062
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "2062"
 phone: ""
 opening_hours: ""
-website: "https://www.olimpiabikes.com.ar/"
+website: https://www.olimpiabikes.com.ar/

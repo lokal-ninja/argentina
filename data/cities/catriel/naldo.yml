@@ -1,11 +1,11 @@
 id: 835361609
-type: way
+type: node
 latitude: -37.88213
 longitude: -67.79699
-postcode: "R8307"
+postcode: R8307
 city: Catriel
-street: "Avenida San Martín"
-housenumber: 385
+street: Avenida San Martín
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

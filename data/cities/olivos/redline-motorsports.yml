@@ -1,11 +1,11 @@
 id: 466735599
-type: way
+type: node
 latitude: -34.50398
 longitude: -58.48133
 postcode: "1638"
 city: Olivos
-street: "Avenida del Libertador"
-housenumber: 2852
+street: Avenida del Libertador
+housenumber: "2852"
 phone: ""
 opening_hours: ""
 website: ""

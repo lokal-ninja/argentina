@@ -1,11 +1,11 @@
 id: 474496462
-type: way
+type: node
 latitude: -34.47024
 longitude: -58.51213
-postcode: "B1642"
+postcode: B1642
 city: San Isidro
-street: "Belgrano"
-housenumber: 240
+street: Belgrano
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

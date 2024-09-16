@@ -1,11 +1,11 @@
 id: 1178632905
-type: way
+type: node
 latitude: -38.95166
 longitude: -68.06246
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Julio Argentino Roca"
-housenumber: 217
+street: Julio Argentino Roca
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465645104
-type: way
+type: node
 latitude: -34.50051
 longitude: -58.49594
 postcode: "1636"
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 3835
-phone: "0810-220-2345"
-opening_hours: "Mo-Sa 09:00-20:30; Sun 10:00-20:00"
-website: "https://www.puppis.com.ar/"
+street: Avenida Maipú
+housenumber: "3835"
+phone: 0810-220-2345
+opening_hours: Mo-Sa 09:00-20:30; Sun 10:00-20:00
+website: https://www.puppis.com.ar/

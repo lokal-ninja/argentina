@@ -1,11 +1,11 @@
 id: 514038012
-type: way
+type: node
 latitude: -34.5772
 longitude: -58.47631
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "La Pampa"
-housenumber: 4731
-phone: "+54 11 4521-3878"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: La Pampa
+housenumber: "4731"
+phone: +54 11 4521-3878
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 838024643
-type: way
+type: node
 latitude: -42.91444
 longitude: -71.32026
-postcode: "U9200"
+postcode: U9200
 city: Esquel
-street: "25 de Mayo"
-housenumber: 563
+street: 25 de Mayo
+housenumber: "563"
 phone: ""
 opening_hours: ""
 website: ""

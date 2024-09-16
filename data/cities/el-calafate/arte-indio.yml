@@ -1,11 +1,11 @@
 id: 848254616
-type: way
+type: node
 latitude: -50.33771
 longitude: -72.26527
-postcode: "Z9405"
+postcode: Z9405
 city: El Calafate
-street: "Avenida del Libertador"
-housenumber: 1108
+street: Avenida del Libertador
+housenumber: "1108"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 839790673
-type: way
+type: node
 latitude: -31.52932
 longitude: -68.55945
 postcode: "5400"
 city: San Juan
-street: "Bartolomé Del Bono"
+street: Bartolomé Del Bono
 housenumber: 13 (S)
-phone: "+54 264 4745841"
-opening_hours: "Mo-Fr 09:30-14:00,17:30-21:00; Sa 09:30-14:00"
+phone: +54 264 4745841
+opening_hours: Mo-Fr 09:30-14:00,17:30-21:00; Sa 09:30-14:00
 website: ""

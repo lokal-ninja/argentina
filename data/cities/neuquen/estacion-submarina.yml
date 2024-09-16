@@ -1,11 +1,11 @@
 id: 1122204460
-type: way
+type: node
 latitude: -38.95567
 longitude: -68.0666
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Manuel Lainez"
-housenumber: 59
+street: Manuel Lainez
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

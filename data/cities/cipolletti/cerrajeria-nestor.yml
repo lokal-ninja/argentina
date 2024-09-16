@@ -1,11 +1,11 @@
 id: 1266680385
-type: way
+type: node
 latitude: -38.94085
 longitude: -67.98843
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General Roca"
-housenumber: 991
+street: General Roca
+housenumber: "991"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1140013981
-type: way
+type: node
 latitude: -38.88141
 longitude: -62.07938
 postcode: ""
 city: Punta Alta
-street: "Bernardo de Irigoyen"
-housenumber: 278
-phone: "+54 9 2932 42 1040"
-opening_hours: "Mo-Fr 08:00-16:45; Sa 09:30-12:30"
+street: Bernardo de Irigoyen
+housenumber: "278"
+phone: +54 9 2932 42 1040
+opening_hours: Mo-Fr 08:00-16:45; Sa 09:30-12:30
 website: ""

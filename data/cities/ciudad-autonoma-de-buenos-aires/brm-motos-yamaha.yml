@@ -1,11 +1,11 @@
 id: 470297936
-type: way
+type: node
 latitude: -34.56738
 longitude: -58.47438
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Monroe"
-housenumber: 
+street: Monroe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

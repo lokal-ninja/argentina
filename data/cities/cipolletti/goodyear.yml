@@ -1,11 +1,11 @@
 id: 821239611
-type: way
+type: node
 latitude: -38.9416
 longitude: -68.0077
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Pacheco"
-housenumber: 545
+street: Avenida General Pacheco
+housenumber: "545"
 phone: ""
 opening_hours: ""
-website: "https://www.neumaticoscorral.com.ar/"
+website: https://www.neumaticoscorral.com.ar/

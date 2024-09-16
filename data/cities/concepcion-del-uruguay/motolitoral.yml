@@ -1,11 +1,11 @@
 id: 584441060
-type: way
+type: node
 latitude: -32.48761
 longitude: -58.25697
 postcode: "3260"
 city: Concepción del Uruguay
-street: "Boulevard J. A. Sansoni"
-housenumber: 2014
-phone: "+54 3442 44-1500"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.hondamotolitoral.com.ar/"
+street: Boulevard J. A. Sansoni
+housenumber: "2014"
+phone: +54 3442 44-1500
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.hondamotolitoral.com.ar/

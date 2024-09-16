@@ -1,11 +1,11 @@
 id: 1174477672
-type: way
+type: node
 latitude: -38.95903
 longitude: -68.05619
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 202
+street: Félix San Martín
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://distribuidoraleo.com.ar/"
+website: https://distribuidoraleo.com.ar/

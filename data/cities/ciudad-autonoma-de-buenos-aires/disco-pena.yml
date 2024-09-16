@@ -1,11 +1,11 @@
 id: 183175851
-type: way
+type: node
 latitude: -34.58589
 longitude: -58.4054
-postcode: "C1425AVL"
+postcode: C1425AVL
 city: Ciudad Autónoma de Buenos Aires
-street: "Peña"
-housenumber: 3050
+street: Peña
+housenumber: "3050"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 09:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 09:00-21:00
 website: ""

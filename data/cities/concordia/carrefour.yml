@@ -1,11 +1,11 @@
 id: 464829429
-type: way
+type: node
 latitude: -31.36778
 longitude: -58.01314
 postcode: "3200"
 city: Concordia
-street: "Avenida Eva Perón"
-housenumber: 2250
-phone: "+54 345 425-1867"
-opening_hours: "Mo-Sa 08:30-22:00; Su 09:00-22:00"
-website: "https://www.carrefour.com.ar/"
+street: Avenida Eva Perón
+housenumber: "2250"
+phone: +54 345 425-1867
+opening_hours: Mo-Sa 08:30-22:00; Su 09:00-22:00
+website: https://www.carrefour.com.ar/

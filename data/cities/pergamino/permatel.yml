@@ -1,11 +1,11 @@
 id: 772204611
-type: way
+type: node
 latitude: -33.90519
 longitude: -60.58009
 postcode: "2700"
 city: Pergamino
-street: "Monroe"
-housenumber: 741
+street: Monroe
+housenumber: "741"
 phone: ""
 opening_hours: ""
 website: ""

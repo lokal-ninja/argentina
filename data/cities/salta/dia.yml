@@ -1,11 +1,11 @@
 id: 256800540
-type: way
+type: node
 latitude: -24.7195
 longitude: -65.40505
 postcode: "4400"
 city: Salta
-street: "Avenida Ejército Argentino"
-housenumber: 
-phone: "+54 08102225315"
+street: Avenida Ejército Argentino
+housenumber: ""
+phone: +54 08102225315
 opening_hours: ""
 website: ""

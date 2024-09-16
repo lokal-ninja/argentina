@@ -1,11 +1,11 @@
 id: 1136883090
-type: way
+type: node
 latitude: -38.95299
 longitude: -68.08593
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Facundo Quiroga"
-housenumber: 166
+street: Facundo Quiroga
+housenumber: "166"
 phone: ""
 opening_hours: ""
 website: ""

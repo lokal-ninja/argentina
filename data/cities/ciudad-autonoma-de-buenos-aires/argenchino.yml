@@ -1,11 +1,11 @@
 id: 466513569
-type: way
+type: node
 latitude: -34.54936
 longitude: -58.47453
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida García del Río"
-housenumber: 
+street: Avenida García del Río
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

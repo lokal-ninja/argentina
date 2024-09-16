@@ -2,10 +2,10 @@ id: 12070379395
 type: node
 latitude: -31.61934
 longitude: -60.69208
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Salvador del Carril"
-housenumber: 2058
-phone: "+54 9 342 463-9746"
-opening_hours: "Mo-Fr 09:00-13:00,16:30-20:00"
-website: "https://www.newmaster.com.ar/"
+street: Salvador del Carril
+housenumber: "2058"
+phone: +54 9 342 463-9746
+opening_hours: Mo-Fr 09:00-13:00,16:30-20:00
+website: https://www.newmaster.com.ar/

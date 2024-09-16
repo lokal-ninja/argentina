@@ -1,11 +1,11 @@
 id: 1278678209
-type: way
+type: node
 latitude: -38.95301
 longitude: -68.05726
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Juan Bautista Alberdi"
-housenumber: 101
-phone: "+54 299 448-1943"
+street: Juan Bautista Alberdi
+housenumber: "101"
+phone: +54 299 448-1943
 opening_hours: ""
 website: ""

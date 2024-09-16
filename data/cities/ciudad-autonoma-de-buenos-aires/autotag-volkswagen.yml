@@ -1,11 +1,11 @@
 id: 837468376
-type: way
+type: node
 latitude: -34.54776
 longitude: -58.47681
 postcode: "1429"
 city: Ciudad Autónoma de Buenos Aires
-street: "Conesa"
-housenumber: 4144
+street: Conesa
+housenumber: "4144"
 phone: ""
 opening_hours: ""
 website: ""

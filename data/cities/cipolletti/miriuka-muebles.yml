@@ -1,11 +1,11 @@
 id: 1226801442
-type: way
+type: node
 latitude: -38.94604
 longitude: -67.98708
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Maipú"
-housenumber: 154
-phone: "+54 299 513-2359"
+street: Maipú
+housenumber: "154"
+phone: +54 299 513-2359
 opening_hours: ""
-website: "https://miriuka.com/"
+website: https://miriuka.com/

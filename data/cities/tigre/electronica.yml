@@ -1,11 +1,11 @@
 id: 476716553
-type: way
+type: node
 latitude: -34.42258
 longitude: -58.57857
 postcode: "1648"
 city: Tigre
-street: "Avenida Italia"
-housenumber: 
+street: Avenida Italia
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

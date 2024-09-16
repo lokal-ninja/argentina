@@ -1,11 +1,11 @@
 id: 475322566
-type: way
+type: node
 latitude: -34.60864
 longitude: -58.4402
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Díaz Vélez"
-housenumber: 5201
+street: Avenida Díaz Vélez
+housenumber: "5201"
 phone: ""
 opening_hours: ""
 website: ""

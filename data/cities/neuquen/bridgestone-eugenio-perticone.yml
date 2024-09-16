@@ -1,11 +1,11 @@
 id: 1076726160
-type: way
+type: node
 latitude: -38.96003
 longitude: -68.05225
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 499
+street: Eugenio Perticone
+housenumber: "499"
 phone: ""
 opening_hours: ""
-website: "https://www.milla.com.ar/"
+website: https://www.milla.com.ar/

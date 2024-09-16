@@ -1,11 +1,11 @@
 id: 273395719
-type: way
+type: node
 latitude: -32.90705
 longitude: -60.90276
-postcode: "S2134"
+postcode: S2134
 city: Roldán
-street: "Catamarca"
-housenumber: 247
+street: Catamarca
+housenumber: "247"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

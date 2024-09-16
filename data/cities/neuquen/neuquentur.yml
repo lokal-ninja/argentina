@@ -2,10 +2,10 @@ id: 10967397623
 type: node
 latitude: -38.94988
 longitude: -68.06014
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Diagonal 9 de Julio"
-housenumber: 67
+street: Diagonal 9 de Julio
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "http://neuquentur.com.ar/"
+website: http://neuquentur.com.ar/

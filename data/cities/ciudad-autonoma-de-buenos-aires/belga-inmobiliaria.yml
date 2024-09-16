@@ -4,8 +4,8 @@ latitude: -34.56053
 longitude: -58.4538
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juramento"
-housenumber: 2102
-phone: "+54 11 4555-3310"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.belga.com.ar/"
+street: Avenida Juramento
+housenumber: "2102"
+phone: +54 11 4555-3310
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.belga.com.ar/

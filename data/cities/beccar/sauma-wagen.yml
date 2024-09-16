@@ -1,11 +1,11 @@
 id: 468231866
-type: way
+type: node
 latitude: -34.45619
 longitude: -58.53376
 postcode: "1643"
 city: Beccar
-street: "Avenida Centenario"
-housenumber: 2613
-phone: "+54 11 6009-7755"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.saumavw.com.ar/"
+street: Avenida Centenario
+housenumber: "2613"
+phone: +54 11 6009-7755
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.saumavw.com.ar/

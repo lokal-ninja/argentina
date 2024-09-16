@@ -1,11 +1,11 @@
 id: 1074672206
-type: way
+type: node
 latitude: -38.95793
 longitude: -68.03174
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 1995
+street: Eugenio Perticone
+housenumber: "1995"
 phone: ""
 opening_hours: ""
-website: "https://iruna.com.ar/"
+website: https://iruna.com.ar/

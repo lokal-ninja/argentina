@@ -1,11 +1,11 @@
 id: 1042801514
-type: way
+type: node
 latitude: -38.9563
 longitude: -68.22614
-postcode: "Q8316"
+postcode: Q8316
 city: Plottier
-street: "Avenida Riavitz"
-housenumber: 176
+street: Avenida Riavitz
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

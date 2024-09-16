@@ -2,10 +2,10 @@ id: 9240682528
 type: node
 latitude: -31.61125
 longitude: -60.68148
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Juan Pablo López"
-housenumber: 1329
-phone: "+54 342 614-5852"
-opening_hours: "Mo-Th 08:30-13:00; Fr-Sa 08:30-17:00"
+street: Juan Pablo López
+housenumber: "1329"
+phone: +54 342 614-5852
+opening_hours: Mo-Th 08:30-13:00; Fr-Sa 08:30-17:00
 website: ""

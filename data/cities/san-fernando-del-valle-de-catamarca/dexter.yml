@@ -1,11 +1,11 @@
 id: 139244782
-type: way
+type: node
 latitude: -28.46877
 longitude: -65.77826
-postcode: "K4700EJN"
+postcode: K4700EJN
 city: San Fernando del Valle de Catamarca
-street: "Rivadavia"
-housenumber: 642
+street: Rivadavia
+housenumber: "642"
 phone: ""
 opening_hours: ""
-website: "https://www.dexter.com.ar/"
+website: https://www.dexter.com.ar/

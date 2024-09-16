@@ -1,11 +1,11 @@
 id: 477045285
-type: way
+type: node
 latitude: -34.6143
 longitude: -58.40103
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Belgrano"
-housenumber: 2483
+street: Avenida Belgrano
+housenumber: "2483"
 phone: ""
 opening_hours: ""
 website: ""

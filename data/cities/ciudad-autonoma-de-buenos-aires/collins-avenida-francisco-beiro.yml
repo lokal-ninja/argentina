@@ -1,11 +1,11 @@
 id: 468920847
-type: way
+type: node
 latitude: -34.59519
 longitude: -58.49476
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Francisco Beiró"
-housenumber: 2955
+street: Avenida Francisco Beiró
+housenumber: "2955"
 phone: ""
 opening_hours: ""
 website: ""

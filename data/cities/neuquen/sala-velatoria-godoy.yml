@@ -1,11 +1,11 @@
 id: 834522934
-type: way
+type: node
 latitude: -38.94887
 longitude: -68.1177
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Enrique Godoy"
-housenumber: 522
+street: Enrique Godoy
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

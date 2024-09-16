@@ -1,11 +1,11 @@
 id: 1149034261
-type: way
+type: node
 latitude: -38.90202
 longitude: -70.06593
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Avenida San Martín"
-housenumber: 105
+street: Avenida San Martín
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

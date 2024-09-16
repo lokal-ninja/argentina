@@ -1,11 +1,11 @@
 id: 819566628
-type: way
+type: node
 latitude: -39.03991
 longitude: -67.5789
-postcode: "R8332"
+postcode: R8332
 city: General Roca
-street: "Avenida Julio Argentino Roca"
-housenumber: 466
+street: Avenida Julio Argentino Roca
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

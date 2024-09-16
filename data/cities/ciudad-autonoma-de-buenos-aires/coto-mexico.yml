@@ -1,11 +1,11 @@
 id: 210439254
-type: way
+type: node
 latitude: -34.61634
 longitude: -58.39902
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "México"
-housenumber: 2236
+street: México
+housenumber: "2236"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 620376334
-type: way
+type: node
 latitude: -31.42342
 longitude: -63.05027
 postcode: "2434"
 city: Arroyito
-street: "San Martín"
-housenumber: 2
+street: San Martín
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

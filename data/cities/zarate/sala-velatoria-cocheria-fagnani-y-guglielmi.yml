@@ -1,11 +1,11 @@
 id: 444766163
-type: way
+type: node
 latitude: -34.10124
 longitude: -59.02193
 postcode: "2800"
 city: Zárate
-street: "Almirante Brown"
-housenumber: 688
+street: Almirante Brown
+housenumber: "688"
 phone: ""
 opening_hours: ""
 website: ""

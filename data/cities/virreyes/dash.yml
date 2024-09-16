@@ -1,11 +1,11 @@
 id: 473666924
-type: way
+type: node
 latitude: -34.45073
 longitude: -58.5522
 postcode: "1646"
 city: Virreyes
-street: "Avenida Nicolás Avellaneda"
-housenumber: 1650
-phone: "+54 11 4725-0690"
-opening_hours: "Mo-Fr 09:00-13:00,16:00-20:00; Sa 09:00-20:00; Su off"
-website: "https://www.tiendadash.com.ar/"
+street: Avenida Nicolás Avellaneda
+housenumber: "1650"
+phone: +54 11 4725-0690
+opening_hours: Mo-Fr 09:00-13:00,16:00-20:00; Sa 09:00-20:00; Su off
+website: https://www.tiendadash.com.ar/

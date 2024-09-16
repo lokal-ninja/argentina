@@ -4,8 +4,9 @@ latitude: -31.39577
 longitude: -58.01919
 postcode: "3200"
 city: Concordia
-street: "Aristóbulo del Valle"
-housenumber: 38
+street: Aristóbulo del Valle
+housenumber: "38"
 phone: ""
-opening_hours: "Mo, Tu, Fr, Sa 09:00-12:00, 17:00-20:30; We 09:00-12:00, 16:00-20:30; Th 09:00-12:00, 13:00-20:30"
+opening_hours: Mo, Tu, Fr, Sa 09:00-12:00, 17:00-20:30; We 09:00-12:00, 16:00-20:30;
+    Th 09:00-12:00, 13:00-20:30
 website: ""

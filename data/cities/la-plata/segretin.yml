@@ -1,11 +1,11 @@
 id: 463899980
-type: way
+type: node
 latitude: -34.89545
 longitude: -57.94338
 postcode: "1900"
 city: La Plata
-street: "Avenida 122"
-housenumber: 521
-phone: "+54 (221) 483-9375"
+street: Avenida 122
+housenumber: "521"
+phone: +54 (221) 483-9375
 opening_hours: ""
 website: ""

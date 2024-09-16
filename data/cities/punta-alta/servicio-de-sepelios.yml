@@ -1,11 +1,11 @@
 id: 1135298807
-type: way
+type: node
 latitude: -38.88243
 longitude: -62.07002
 postcode: "8109"
 city: Punta Alta
-street: "Rosales"
-housenumber: 850
+street: Rosales
+housenumber: "850"
 phone: "2932423055"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

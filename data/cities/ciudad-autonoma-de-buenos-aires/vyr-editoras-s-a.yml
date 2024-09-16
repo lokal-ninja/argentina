@@ -2,10 +2,10 @@ id: 6797593185
 type: node
 latitude: -34.59652
 longitude: -58.37414
-postcode: "C1004AAS"
+postcode: C1004AAS
 city: Ciudad Autónoma de Buenos Aires
-street: "San Martín"
-housenumber: 969
+street: San Martín
+housenumber: "969"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00
 website: ""

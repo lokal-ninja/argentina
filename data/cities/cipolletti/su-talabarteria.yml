@@ -1,11 +1,11 @@
 id: 1299389245
-type: way
+type: node
 latitude: -38.93748
 longitude: -67.99253
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "9 de Julio"
-housenumber: 616
-phone: "+54 299 477-5916"
+street: 9 de Julio
+housenumber: "616"
+phone: +54 299 477-5916
 opening_hours: ""
-website: "https://www.sutalabarteria.com.ar/"
+website: https://www.sutalabarteria.com.ar/

@@ -1,11 +1,11 @@
 id: 581704705
-type: way
+type: node
 latitude: -38.7206
 longitude: -62.26985
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Güemes"
-housenumber: 30
-phone: "+54 291 456-5646"
-opening_hours: "Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30"
-website: "http://www.australmotos.com.ar/"
+street: Güemes
+housenumber: "30"
+phone: +54 291 456-5646
+opening_hours: Mo-Fr 08:00-12:30,16:00-20:00; Sa 08:00-12:30
+website: http://www.australmotos.com.ar/

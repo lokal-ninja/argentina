@@ -1,11 +1,11 @@
 id: 952817793
-type: way
+type: node
 latitude: -38.72615
 longitude: -62.27678
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Avenida Colón"
-housenumber: 845
+street: Avenida Colón
+housenumber: "845"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465224515
-type: way
+type: node
 latitude: -34.49134
 longitude: -58.48434
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida del Libertador"
-housenumber: 12925
+street: Avenida del Libertador
+housenumber: "12925"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00"
-website: "https://grupobonprix.com.ar/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00
+website: https://grupobonprix.com.ar/

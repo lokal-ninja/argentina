@@ -1,11 +1,11 @@
 id: 1298901593
-type: way
+type: node
 latitude: -38.93857
 longitude: -67.9893
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "9 de Julio"
-housenumber: 861
-phone: "0810-999-9832;+54 294 964-8000"
+street: 9 de Julio
+housenumber: "861"
+phone: 0810-999-9832;+54 294 964-8000
 opening_hours: ""
-website: "https://www.vea.com.ar/"
+website: https://www.vea.com.ar/

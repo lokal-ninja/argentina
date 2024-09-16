@@ -1,11 +1,11 @@
 id: 474427891
-type: way
+type: node
 latitude: -34.46938
 longitude: -58.5097
 postcode: "1642"
 city: San Isidro
-street: "Belgrano"
-housenumber: 427
-phone: "0810-444-7700"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.swissmedical.com.ar/"
+street: Belgrano
+housenumber: "427"
+phone: 0810-444-7700
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.swissmedical.com.ar/

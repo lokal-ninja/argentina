@@ -1,11 +1,11 @@
 id: 152566404
-type: way
+type: node
 latitude: -27.47636
 longitude: -58.8163
 postcode: "3400"
 city: Corrientes
-street: "Avenida Pedro Ferré"
-housenumber: 2985
+street: Avenida Pedro Ferré
+housenumber: "2985"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

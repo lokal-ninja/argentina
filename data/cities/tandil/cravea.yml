@@ -1,11 +1,11 @@
 id: 581704702
-type: way
+type: node
 latitude: -37.3171
 longitude: -59.12067
 postcode: "7000"
 city: Tandil
-street: "Avenida Buzón"
-housenumber: 804
-phone: "+54 249 444-8383"
-opening_hours: "Mo-Fr 09:00-12:00,15:30-20:00; Sa 09:00-13:00"
+street: Avenida Buzón
+housenumber: "804"
+phone: +54 249 444-8383
+opening_hours: Mo-Fr 09:00-12:00,15:30-20:00; Sa 09:00-13:00
 website: ""

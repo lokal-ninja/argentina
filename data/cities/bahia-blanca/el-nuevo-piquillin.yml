@@ -1,11 +1,11 @@
 id: 947061189
-type: way
+type: node
 latitude: -38.71733
 longitude: -62.25931
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Lamadrid"
-housenumber: 282
+street: Lamadrid
+housenumber: "282"
 phone: ""
 opening_hours: ""
 website: ""

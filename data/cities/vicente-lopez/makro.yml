@@ -1,11 +1,11 @@
 id: 85913574
-type: way
+type: node
 latitude: -34.52188
 longitude: -58.51446
-postcode: "B1870"
+postcode: B1870
 city: Vicente López
-street: "Esteban Echeverría"
-housenumber: 2870
+street: Esteban Echeverría
+housenumber: "2870"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.makro.com.ar/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.makro.com.ar/

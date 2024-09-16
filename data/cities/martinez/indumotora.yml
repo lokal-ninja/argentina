@@ -1,11 +1,11 @@
 id: 464856659
-type: way
+type: node
 latitude: -34.48931
 longitude: -58.48542
 postcode: "1640"
 city: Martínez
-street: "Avenida del Libertador"
-housenumber: 
+street: Avenida del Libertador
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.suzuki.com.ar/"
+website: https://www.suzuki.com.ar/

@@ -1,11 +1,11 @@
 id: 1098153113
-type: way
+type: node
 latitude: -38.95808
 longitude: -68.06806
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 627
+street: Ministro Alcorta
+housenumber: "627"
 phone: ""
 opening_hours: ""
 website: ""

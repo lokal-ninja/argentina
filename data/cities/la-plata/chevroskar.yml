@@ -1,11 +1,11 @@
 id: 1290777163
-type: way
+type: node
 latitude: -34.93794
 longitude: -57.93447
 postcode: "1900"
 city: La Plata
-street: "Avenida 72"
-housenumber: 942
-phone: "0221 651-7699"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://chevroskar.com.ar"
+street: Avenida 72
+housenumber: "942"
+phone: 0221 651-7699
+opening_hours: Mo-Fr 09:00-19:00
+website: https://chevroskar.com.ar

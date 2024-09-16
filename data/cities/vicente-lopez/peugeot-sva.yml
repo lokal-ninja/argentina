@@ -1,11 +1,11 @@
 id: 467812371
-type: way
+type: node
 latitude: -34.51501
 longitude: -58.47592
 postcode: "1638"
 city: Vicente López
-street: "Avenida del Libertador"
-housenumber: 1875
+street: Avenida del Libertador
+housenumber: "1875"
 phone: ""
 opening_hours: ""
-website: "https://www.svaauto.com.ar/"
+website: https://www.svaauto.com.ar/

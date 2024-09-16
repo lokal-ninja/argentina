@@ -4,8 +4,8 @@ latitude: -34.56598
 longitude: -58.4539
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "José Hernández"
-housenumber: 2446
-phone: "+54 11 2283-0472"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://rufianesbarbershop.com/"
+street: José Hernández
+housenumber: "2446"
+phone: +54 11 2283-0472
+opening_hours: Mo-Sa 10:00-20:00
+website: https://rufianesbarbershop.com/

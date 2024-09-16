@@ -1,11 +1,11 @@
 id: 851949213
-type: way
+type: node
 latitude: -42.76592
 longitude: -65.0341
-postcode: "U9120"
+postcode: U9120
 city: Puerto Madryn
-street: "Avenida Roca"
-housenumber: 210
+street: Avenida Roca
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

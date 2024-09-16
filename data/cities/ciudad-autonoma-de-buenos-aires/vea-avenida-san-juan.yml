@@ -1,11 +1,11 @@
 id: 210425395
-type: way
+type: node
 latitude: -34.62423
 longitude: -58.40479
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida San Juan"
-housenumber: 2862
+street: Avenida San Juan
+housenumber: "2862"
 phone: ""
 opening_hours: ""
 website: ""

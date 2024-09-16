@@ -1,11 +1,11 @@
 id: 1178632892
-type: way
+type: node
 latitude: -38.9509
 longitude: -68.06219
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Almirante Guillermo Brown"
-housenumber: 386
+street: Almirante Guillermo Brown
+housenumber: "386"
 phone: ""
 opening_hours: ""
-website: "http://www.disarquen.com.ar/"
+website: http://www.disarquen.com.ar/

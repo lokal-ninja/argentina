@@ -1,11 +1,11 @@
 id: 584441053
-type: way
+type: node
 latitude: -32.89554
 longitude: -68.83714
 postcode: "5500"
 city: Mendoza
-street: "José Vicente Zapata"
-housenumber: 256
-phone: "+54 261 429-5305"
-opening_hours: "Mo-Fr 08:30-13:00,16:30-20:30; Sa 09:00-13:00"
-website: "https://centrohonda.com.ar/"
+street: José Vicente Zapata
+housenumber: "256"
+phone: +54 261 429-5305
+opening_hours: Mo-Fr 08:30-13:00,16:30-20:30; Sa 09:00-13:00
+website: https://centrohonda.com.ar/

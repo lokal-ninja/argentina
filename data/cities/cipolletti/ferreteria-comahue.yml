@@ -1,11 +1,11 @@
 id: 1214112531
-type: way
+type: node
 latitude: -38.93579
 longitude: -68.00861
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Bernardo O'Higgins"
-housenumber: 497
+street: Bernardo O'Higgins
+housenumber: "497"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1116072578
-type: way
+type: node
 latitude: -31.73028
 longitude: -64.43314
 postcode: ""
 city: Villa La Bolsa
-street: "Santa Cruz"
-housenumber: 46
+street: Santa Cruz
+housenumber: "46"
 phone: "03512054465"
 opening_hours: ""
 website: ""

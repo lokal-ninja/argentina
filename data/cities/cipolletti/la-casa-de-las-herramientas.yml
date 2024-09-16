@@ -1,11 +1,11 @@
 id: 1308938521
-type: way
+type: node
 latitude: -38.94143
 longitude: -67.9951
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Miguel Muñoz"
-housenumber: 21
-phone: "+54 299 478-6100"
+street: Miguel Muñoz
+housenumber: "21"
+phone: +54 299 478-6100
 opening_hours: ""
 website: ""

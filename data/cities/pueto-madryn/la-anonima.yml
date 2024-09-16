@@ -1,11 +1,11 @@
 id: 358668264
-type: way
+type: node
 latitude: -42.78096
 longitude: -65.03779
 postcode: ""
 city: Pueto Madryn
-street: "Chubut"
-housenumber: 1400
+street: Chubut
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/167-puerto-madryn"
+website: https://www.laanonima.com.ar/sucursales/167-puerto-madryn

@@ -1,11 +1,11 @@
 id: 1117948499
-type: way
+type: node
 latitude: -38.95041
 longitude: -68.05833
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Diagonal España"
-housenumber: 35
+street: Diagonal España
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

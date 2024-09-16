@@ -1,11 +1,11 @@
 id: 625906082
-type: way
+type: node
 latitude: -34.40822
 longitude: -58.77099
 postcode: "1620"
 city: Maquinista Savio
-street: "Ruta Provincial 26"
-housenumber: 
+street: Ruta Provincial 26
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

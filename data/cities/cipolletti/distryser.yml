@@ -1,11 +1,11 @@
 id: 1308938537
-type: way
+type: node
 latitude: -38.94083
 longitude: -67.99524
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Miguel Muñoz"
-housenumber: 67
-phone: "+54 299 477-8352"
+street: Miguel Muñoz
+housenumber: "67"
+phone: +54 299 477-8352
 opening_hours: ""
-website: "https://www.distryser.com.ar/"
+website: https://www.distryser.com.ar/

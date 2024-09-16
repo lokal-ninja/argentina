@@ -1,11 +1,11 @@
 id: 1136306208
-type: way
+type: node
 latitude: -38.95032
 longitude: -68.08934
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "General Manuel Belgrano"
-housenumber: 2173
+street: General Manuel Belgrano
+housenumber: "2173"
 phone: ""
 opening_hours: ""
 website: ""

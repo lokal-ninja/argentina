@@ -1,11 +1,11 @@
 id: 440017091
-type: way
+type: node
 latitude: -34.55499
 longitude: -58.44126
 postcode: "1428"
 city: Ciudad Autónoma de Buenos Aires
-street: "Mariscal Antonio José de Sucre"
-housenumber: 1033
-phone: "+54 11 4786-9204"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.autovisiones.com.ar/"
+street: Mariscal Antonio José de Sucre
+housenumber: "1033"
+phone: +54 11 4786-9204
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.autovisiones.com.ar/

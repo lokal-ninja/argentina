@@ -2,10 +2,10 @@ id: 5949671968
 type: node
 latitude: -31.63475
 longitude: -60.7088
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "4 de Enero"
-housenumber: 3473
+street: 4 de Enero
+housenumber: "3473"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,17:00-20:00"
+opening_hours: Mo-Sa 09:00-12:30,17:00-20:00
 website: ""

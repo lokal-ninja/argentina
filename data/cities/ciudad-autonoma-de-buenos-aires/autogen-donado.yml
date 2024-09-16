@@ -1,11 +1,11 @@
 id: 578586001
-type: way
+type: node
 latitude: -34.58204
 longitude: -58.47024
 postcode: "1427"
 city: Ciudad Autónoma de Buenos Aires
-street: "Donado"
-housenumber: 1149
-phone: "+54 11 5195-0265"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.autogen.com.ar/"
+street: Donado
+housenumber: "1149"
+phone: +54 11 5195-0265
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.autogen.com.ar/

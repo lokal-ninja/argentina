@@ -1,11 +1,11 @@
 id: 896330184
-type: way
+type: node
 latitude: -35.65566
 longitude: -63.75674
 postcode: "6360"
 city: General Pico
-street: "Calle 7"
-housenumber: 1064
+street: Calle 7
+housenumber: "1064"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/189-general-pico"
+website: https://www.laanonima.com.ar/sucursales/189-general-pico

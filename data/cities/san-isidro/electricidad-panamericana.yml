@@ -1,11 +1,11 @@
 id: 467223266
-type: way
+type: node
 latitude: -34.50037
 longitude: -58.55885
-postcode: "B1609"
+postcode: B1609
 city: San Isidro
-street: "Avenida Avelino Rolón"
-housenumber: 1099
-phone: "+54 11 4765-5803"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off"
-website: "https://electricidadpanamericana.com.ar/"
+street: Avenida Avelino Rolón
+housenumber: "1099"
+phone: +54 11 4765-5803
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
+website: https://electricidadpanamericana.com.ar/

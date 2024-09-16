@@ -1,11 +1,11 @@
 id: 466463995
-type: way
+type: node
 latitude: -34.45104
 longitude: -58.52959
 postcode: "1644"
 city: Punta chica
-street: "Avenida del Libertador"
-housenumber: 3282
-phone: "+54 11 4853-5900"
+street: Avenida del Libertador
+housenumber: "3282"
+phone: +54 11 4853-5900
 opening_hours: ""
-website: "http://www.saumavw.com.ar/"
+website: http://www.saumavw.com.ar/

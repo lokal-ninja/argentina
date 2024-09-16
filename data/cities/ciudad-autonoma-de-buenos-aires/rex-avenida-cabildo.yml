@@ -2,10 +2,10 @@ id: 2703916264
 type: node
 latitude: -34.56714
 longitude: -58.45078
-postcode: "C1426ABO"
+postcode: C1426ABO
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Cabildo"
-housenumber: 1500
+street: Avenida Cabildo
+housenumber: "1500"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:30; Sa 09:00-13:00; PH,Su off"
-website: "https://www.somosrex.com"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:30; Sa 09:00-13:00; PH,Su off
+website: https://www.somosrex.com

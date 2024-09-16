@@ -1,11 +1,11 @@
 id: 869232779
-type: way
+type: node
 latitude: -31.73681
 longitude: -61.09357
 postcode: "3404"
 city: San Carlos Centro
-street: "San Lorenzo"
-housenumber: 
+street: San Lorenzo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

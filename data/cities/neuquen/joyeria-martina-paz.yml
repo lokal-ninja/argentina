@@ -1,11 +1,11 @@
 id: 1206502760
-type: way
+type: node
 latitude: -38.95146
 longitude: -68.05887
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Argentina"
-housenumber: 325
+street: Avenida Argentina
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

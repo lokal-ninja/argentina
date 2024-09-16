@@ -1,11 +1,11 @@
 id: 475387629
-type: way
+type: node
 latitude: -34.44686
 longitude: -58.54259
 postcode: "1644"
 city: Victoria
-street: "Avenida del Libertador"
-housenumber: 2470
-phone: "+54 11 4725-0100"
+street: Avenida del Libertador
+housenumber: "2470"
+phone: +54 11 4725-0100
 opening_hours: ""
 website: ""

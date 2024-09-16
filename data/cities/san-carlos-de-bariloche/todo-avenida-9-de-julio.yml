@@ -1,11 +1,11 @@
 id: 896298145
-type: way
+type: node
 latitude: -41.1434
 longitude: -71.28896
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Avenida 9 de Julio"
-housenumber: 925
+street: Avenida 9 de Julio
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

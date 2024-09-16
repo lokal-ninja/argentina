@@ -1,11 +1,11 @@
 id: 467508123
-type: way
+type: node
 latitude: -34.75022
 longitude: -58.40094
 postcode: "1832"
 city: Lomas de Zamora
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 8151
+street: Avenida Hipólito Yrigoyen
+housenumber: "8151"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1209166198
-type: way
+type: node
 latitude: -38.93346
 longitude: -68.00278
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Ceferino Namuncurá"
-housenumber: 598
+street: Ceferino Namuncurá
+housenumber: "598"
 phone: ""
 opening_hours: ""
 website: ""

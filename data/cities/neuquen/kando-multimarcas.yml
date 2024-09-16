@@ -1,11 +1,11 @@
 id: 1073254914
-type: way
+type: node
 latitude: -38.95656
 longitude: -68.04975
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bartolomé Mitre"
-housenumber: 670
+street: Bartolomé Mitre
+housenumber: "670"
 phone: ""
 opening_hours: ""
 website: ""

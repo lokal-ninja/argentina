@@ -1,11 +1,11 @@
 id: 667626062
-type: way
+type: node
 latitude: -33.04901
 longitude: -61.17295
-postcode: "S2170"
+postcode: S2170
 city: Casilda
-street: "Vicente López"
-housenumber: 2802
+street: Vicente López
+housenumber: "2802"
 phone: ""
 opening_hours: ""
 website: ""

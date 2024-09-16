@@ -4,8 +4,9 @@ latitude: -34.62606
 longitude: -58.45475
 postcode: "1406"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Rivadavia"
-housenumber: 6262
-phone: "+54 11 4631-1111"
-opening_hours: "Jan-Feb: Tu-Sa 09:00-13:30,16:30-20:30; Mar-Dec: Mo 09:00-13:30,15:30-20:30; Tu-Sa 08:00-13:30,15:30-20:30; Su 08:00-13:30"
-website: "https://www.lajuvenilpastas.com.ar/"
+street: Avenida Rivadavia
+housenumber: "6262"
+phone: +54 11 4631-1111
+opening_hours: 'Jan-Feb: Tu-Sa 09:00-13:30,16:30-20:30; Mar-Dec: Mo 09:00-13:30,15:30-20:30;
+    Tu-Sa 08:00-13:30,15:30-20:30; Su 08:00-13:30'
+website: https://www.lajuvenilpastas.com.ar/

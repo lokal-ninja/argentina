@@ -1,11 +1,11 @@
 id: 585483420
-type: way
+type: node
 latitude: -31.43356
 longitude: -64.15552
 postcode: "5000"
 city: Córdoba
-street: "Avenida Amadeo Sabattini"
-housenumber: 2292
-phone: "+54 351 455-6691"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00"
-website: "https://www.bondio.com.ar/"
+street: Avenida Amadeo Sabattini
+housenumber: "2292"
+phone: +54 351 455-6691
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00
+website: https://www.bondio.com.ar/

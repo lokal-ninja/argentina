@@ -1,11 +1,11 @@
 id: 1203013126
-type: way
+type: node
 latitude: -34.58285
 longitude: -58.55204
-postcode: "B1650"
+postcode: B1650
 city: General San Martín
-street: "119 - Coronel Mom"
-housenumber: 2411
+street: 119 - Coronel Mom
+housenumber: "2411"
 phone: ""
 opening_hours: ""
 website: ""

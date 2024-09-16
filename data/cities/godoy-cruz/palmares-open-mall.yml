@@ -1,11 +1,11 @@
 id: 160429386
-type: way
+type: node
 latitude: -32.95414
 longitude: -68.86011
 postcode: ""
 city: Godoy Cruz
-street: "Avenida General San Martín Sur"
-housenumber: 2650
-phone: "+54 261 413-9100"
+street: Avenida General San Martín Sur
+housenumber: "2650"
+phone: +54 261 413-9100
 opening_hours: ""
-website: "https://palmares.com.ar/"
+website: https://palmares.com.ar/

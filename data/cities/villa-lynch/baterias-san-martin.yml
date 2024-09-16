@@ -1,11 +1,11 @@
 id: 1150790759
-type: way
+type: node
 latitude: -34.57929
 longitude: -58.54441
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 2246
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "2246"
 phone: ""
 opening_hours: ""
 website: ""

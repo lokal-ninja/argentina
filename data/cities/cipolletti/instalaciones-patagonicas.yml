@@ -1,11 +1,11 @@
 id: 1297195571
-type: way
+type: node
 latitude: -38.94063
 longitude: -67.99267
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Italia"
-housenumber: 130
-phone: "+54 299 585-8731"
+street: Italia
+housenumber: "130"
+phone: +54 299 585-8731
 opening_hours: ""
-website: "https://www.instalacionespatagonicas.com/"
+website: https://www.instalacionespatagonicas.com/

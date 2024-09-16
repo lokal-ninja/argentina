@@ -1,11 +1,11 @@
 id: 585483416
-type: way
+type: node
 latitude: -33.13249
 longitude: -64.3562
 postcode: "5800"
 city: Río Cuarto
-street: "Urquiza"
-housenumber: 450
-phone: "+54 358 462-2629"
-opening_hours: "Mo-Fr 08:30-12:30,15:30-19:00; Sa 08:30-12:30"
-website: "http://www.magnagomotos.com.ar/"
+street: Urquiza
+housenumber: "450"
+phone: +54 358 462-2629
+opening_hours: Mo-Fr 08:30-12:30,15:30-19:00; Sa 08:30-12:30
+website: http://www.magnagomotos.com.ar/

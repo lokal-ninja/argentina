@@ -1,11 +1,11 @@
 id: 775368323
-type: way
+type: node
 latitude: -35.65996
 longitude: -63.75253
 postcode: "6360"
 city: General Pico
-street: "Calle 20"
-housenumber: 798
-phone: "+54 8104446342"
-opening_hours: "Mo-Sa 08:30-12:30,16:30-20:30"
-website: "https://www.megatone.net"
+street: Calle 20
+housenumber: "798"
+phone: +54 8104446342
+opening_hours: Mo-Sa 08:30-12:30,16:30-20:30
+website: https://www.megatone.net

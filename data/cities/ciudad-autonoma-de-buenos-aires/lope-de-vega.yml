@@ -1,11 +1,11 @@
 id: 473874033
-type: way
+type: node
 latitude: -34.62669
 longitude: -58.50863
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Lope de Vega"
-housenumber: 1414
+street: Avenida Lope de Vega
+housenumber: "1414"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471635563
-type: way
+type: node
 latitude: -34.57209
 longitude: -58.45899
 postcode: "1426"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Elcano"
-housenumber: 3105
-phone: "+54 11 4555-1117"
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-13:00"
-website: "https://www.pintureriasrex.com/"
+street: Avenida Elcano
+housenumber: "3105"
+phone: +54 11 4555-1117
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-13:00
+website: https://www.pintureriasrex.com/

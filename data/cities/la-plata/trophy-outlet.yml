@@ -1,11 +1,11 @@
 id: 467060017
-type: way
+type: node
 latitude: -34.9327
 longitude: -57.97921
 postcode: ""
 city: La Plata
-street: "Avenida 44"
-housenumber: 1772
+street: Avenida 44
+housenumber: "1772"
 phone: ""
 opening_hours: ""
 website: ""

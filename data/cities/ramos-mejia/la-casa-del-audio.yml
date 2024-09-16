@@ -1,11 +1,11 @@
 id: 475915331
-type: way
+type: node
 latitude: -34.64172
 longitude: -58.57062
 postcode: ""
 city: Ramos Mejía
-street: "Avenida Rivadavia"
-housenumber: 14422
-phone: "+54 11 4656-8400"
-opening_hours: "Mo-Sa 09:00-20:30; Su 10:00-20:00"
+street: Avenida Rivadavia
+housenumber: "14422"
+phone: +54 11 4656-8400
+opening_hours: Mo-Sa 09:00-20:30; Su 10:00-20:00
 website: ""

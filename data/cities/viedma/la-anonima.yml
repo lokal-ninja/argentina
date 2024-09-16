@@ -1,11 +1,11 @@
 id: 174392389
-type: way
+type: node
 latitude: -40.81656
 longitude: -63.00327
 postcode: "8500"
 city: Viedma
-street: "Álvaro Barros"
-housenumber: 1408
+street: Álvaro Barros
+housenumber: "1408"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/047-viedma"
+website: https://www.laanonima.com.ar/sucursales/047-viedma

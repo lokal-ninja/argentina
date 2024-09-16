@@ -1,11 +1,11 @@
 id: 982025162
-type: way
+type: node
 latitude: -38.70786
 longitude: -62.26562
 postcode: "8000"
 city: Bahía Blanca
-street: "Avenida Alem"
-housenumber: 702
-phone: "+52 9 291 423-1128"
+street: Avenida Alem
+housenumber: "702"
+phone: +52 9 291 423-1128
 opening_hours: ""
 website: ""

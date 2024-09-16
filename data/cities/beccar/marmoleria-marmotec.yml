@@ -1,11 +1,11 @@
 id: 473674600
-type: way
+type: node
 latitude: -34.4674
 longitude: -58.558
-postcode: "B1643"
+postcode: B1643
 city: Beccar
-street: "Avenida Uruguay"
-housenumber: 3462
-phone: "+54 11 4742-4442"
+street: Avenida Uruguay
+housenumber: "3462"
+phone: +54 11 4742-4442
 opening_hours: ""
 website: ""

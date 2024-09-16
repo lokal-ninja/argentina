@@ -1,11 +1,11 @@
 id: 1248973578
-type: way
+type: node
 latitude: -27.2636
 longitude: -58.9711
 postcode: "3505"
 city: Margarita Belen
-street: "Inocencio Moro"
-housenumber: 251
-phone: "+54 9 362 449-7332"
-opening_hours: "Mo-Sa 07:45-13:00,16:00-20:00"
+street: Inocencio Moro
+housenumber: "251"
+phone: +54 9 362 449-7332
+opening_hours: Mo-Sa 07:45-13:00,16:00-20:00
 website: ""

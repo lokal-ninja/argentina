@@ -1,11 +1,11 @@
 id: 466464275
-type: way
+type: node
 latitude: -34.56632
 longitude: -58.56232
-postcode: "B1650NCG"
+postcode: B1650NCG
 city: Villa Ballester
-street: "Diagonal 101 - Doctor Ricardo Balbín"
-housenumber: 4119
+street: Diagonal 101 - Doctor Ricardo Balbín
+housenumber: "4119"
 phone: ""
 opening_hours: ""
 website: ""

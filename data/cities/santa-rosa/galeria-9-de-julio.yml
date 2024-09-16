@@ -1,11 +1,11 @@
 id: 832433833
-type: way
+type: node
 latitude: -36.61934
 longitude: -64.292
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "9 de Julio"
-housenumber: 58
+street: 9 de Julio
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

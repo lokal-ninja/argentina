@@ -1,11 +1,11 @@
 id: 1201485918
-type: way
+type: node
 latitude: -27.46089
 longitude: -58.78153
 postcode: "3400"
 city: Corrientes
-street: "Avenida Eva Perón"
-housenumber: 5525
+street: Avenida Eva Perón
+housenumber: "5525"
 phone: ""
 opening_hours: ""
 website: ""

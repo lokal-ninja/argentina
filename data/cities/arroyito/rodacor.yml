@@ -1,11 +1,11 @@
 id: 560596635
-type: way
+type: node
 latitude: -31.42236
 longitude: -63.05717
 postcode: "2434"
 city: Arroyito
-street: "Avenida Carlos Pontin"
-housenumber: 296
-phone: "+54 3576 421715"
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 15:00-19:30"
-website: "http://www.rodacor.com.ar/"
+street: Avenida Carlos Pontin
+housenumber: "296"
+phone: +54 3576 421715
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 15:00-19:30
+website: http://www.rodacor.com.ar/

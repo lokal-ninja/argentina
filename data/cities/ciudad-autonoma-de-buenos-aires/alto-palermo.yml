@@ -1,11 +1,11 @@
 id: 28265940
-type: way
+type: node
 latitude: -34.58749
 longitude: -58.41083
-postcode: "C1425BGH"
+postcode: C1425BGH
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Santa Fe"
-housenumber: 3253
-phone: "+54 11 5777-8000"
+street: Avenida Santa Fe
+housenumber: "3253"
+phone: +54 11 5777-8000
 opening_hours: ""
-website: "https://www.altopalermo.com.ar/"
+website: https://www.altopalermo.com.ar/

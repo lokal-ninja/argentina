@@ -1,11 +1,11 @@
 id: 882563908
-type: way
+type: node
 latitude: -36.6309
 longitude: -64.29792
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Florentino Ameghino"
-housenumber: 1250
+street: Florentino Ameghino
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

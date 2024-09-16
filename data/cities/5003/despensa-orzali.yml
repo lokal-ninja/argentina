@@ -3,9 +3,9 @@ type: node
 latitude: -31.38416
 longitude: -64.27242
 postcode: ""
-city: 5003
-street: "José Orzali"
-housenumber: 
+city: "5003"
+street: José Orzali
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

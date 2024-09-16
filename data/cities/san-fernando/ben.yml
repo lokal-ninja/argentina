@@ -1,11 +1,11 @@
 id: 473442245
-type: way
+type: node
 latitude: -34.45106
 longitude: -58.57061
 postcode: "1646"
 city: San Fernando
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 
+street: Avenida Hipólito Yrigoyen
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

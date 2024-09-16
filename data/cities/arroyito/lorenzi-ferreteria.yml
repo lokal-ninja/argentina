@@ -1,11 +1,11 @@
 id: 566492337
-type: way
+type: node
 latitude: -31.42068
 longitude: -63.05353
 postcode: "2434"
 city: Arroyito
-street: "José A. Vocos"
-housenumber: 355
+street: José A. Vocos
+housenumber: "355"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 15:30-20:00"
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 15:30-20:00
 website: ""

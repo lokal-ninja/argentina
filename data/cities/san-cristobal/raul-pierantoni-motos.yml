@@ -1,11 +1,11 @@
 id: 584441029
-type: way
+type: node
 latitude: -30.31325
 longitude: -61.23405
-postcode: "S3070"
+postcode: S3070
 city: San Cristóbal
-street: "Caseros"
-housenumber: 892
-phone: "+54 3408 42-2397"
-opening_hours: "Mo-Fr 08:30-12:00,16:00-20:00; Sa 08:30-12:00"
+street: Caseros
+housenumber: "892"
+phone: +54 3408 42-2397
+opening_hours: Mo-Fr 08:30-12:00,16:00-20:00; Sa 08:30-12:00
 website: ""

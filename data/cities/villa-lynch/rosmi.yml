@@ -1,11 +1,11 @@
 id: 1152817819
-type: way
+type: node
 latitude: -34.58906
 longitude: -58.52097
-postcode: "B1672"
+postcode: B1672
 city: Villa Lynch
-street: "Avenida 85 - Libertador General San Martín"
-housenumber: 512
+street: Avenida 85 - Libertador General San Martín
+housenumber: "512"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su off"
-website: "https://www.gruporosmi.com.ar"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su off
+website: https://www.gruporosmi.com.ar

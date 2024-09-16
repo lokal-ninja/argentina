@@ -1,11 +1,11 @@
 id: 1151536782
-type: way
+type: node
 latitude: -38.89823
 longitude: -70.06272
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Bernardo Houssay"
-housenumber: 920
+street: Bernardo Houssay
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

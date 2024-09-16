@@ -1,11 +1,11 @@
 id: 1149566141
-type: way
+type: node
 latitude: -34.57601
 longitude: -58.5371
-postcode: "B1650BGJ"
+postcode: B1650BGJ
 city: General San Martín
-street: "85 - Bonifacini"
-housenumber: 2090
+street: 85 - Bonifacini
+housenumber: "2090"
 phone: ""
 opening_hours: ""
 website: ""

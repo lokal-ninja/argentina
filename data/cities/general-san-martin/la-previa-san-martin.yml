@@ -1,11 +1,11 @@
 id: 1196264603
-type: way
+type: node
 latitude: -34.58012
 longitude: -58.54782
-postcode: "B1650"
+postcode: B1650
 city: General San Martín
-street: "109 - Manuel Quintana"
-housenumber: 2376
+street: 109 - Manuel Quintana
+housenumber: "2376"
 phone: "+5491123866079"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

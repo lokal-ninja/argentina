@@ -1,11 +1,11 @@
 id: 471598205
-type: way
+type: node
 latitude: -34.51303
 longitude: -58.49004
 postcode: "1636"
 city: Olivos
-street: "Avenida Maipú"
-housenumber: 2430
+street: Avenida Maipú
+housenumber: "2430"
 phone: ""
 opening_hours: ""
-website: "https://www.simmons.com.ar/"
+website: https://www.simmons.com.ar/

@@ -2,10 +2,10 @@ id: 6680080463
 type: node
 latitude: -34.60386
 longitude: -58.44142
-postcode: "C1414EFC"
+postcode: C1414EFC
 city: Ciudad Autónoma de Buenos Aires
-street: "Mahatma Gandhi"
-housenumber: 359
-phone: "+54 11 4856-8686"
-opening_hours: "Mo-Su 10:00-20:00"
+street: Mahatma Gandhi
+housenumber: "359"
+phone: +54 11 4856-8686
+opening_hours: Mo-Su 10:00-20:00
 website: ""

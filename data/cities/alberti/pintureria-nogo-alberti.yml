@@ -1,11 +1,11 @@
 id: 1185981001
-type: way
+type: node
 latitude: -35.03222
 longitude: -60.28068
-postcode: "B6634"
+postcode: B6634
 city: Alberti
-street: "Leandro N. Alem"
-housenumber: 140
+street: Leandro N. Alem
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

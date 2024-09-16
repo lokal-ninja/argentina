@@ -1,11 +1,11 @@
 id: 470365409
-type: way
+type: node
 latitude: -34.55378
 longitude: -58.72637
 postcode: "1663"
 city: San Miguel
-street: "Avenida Papa Francisco"
-housenumber: 2700
+street: Avenida Papa Francisco
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

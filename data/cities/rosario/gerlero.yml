@@ -1,11 +1,11 @@
 id: 555030805
-type: way
+type: node
 latitude: -32.95721
 longitude: -60.64029
 postcode: ""
 city: Rosario
-street: "Avenida Carlos Pellegrini"
-housenumber: 
+street: Avenida Carlos Pellegrini
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

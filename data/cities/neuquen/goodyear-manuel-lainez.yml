@@ -1,11 +1,11 @@
 id: 1171036473
-type: way
+type: node
 latitude: -38.95917
 longitude: -68.06666
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Manuel Lainez"
-housenumber: 395
+street: Manuel Lainez
+housenumber: "395"
 phone: ""
 opening_hours: ""
-website: "https://www.neumaticoscorral.com.ar/"
+website: https://www.neumaticoscorral.com.ar/

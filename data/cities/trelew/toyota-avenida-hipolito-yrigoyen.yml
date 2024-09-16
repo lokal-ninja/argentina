@@ -1,11 +1,11 @@
 id: 841935759
-type: way
+type: node
 latitude: -43.26024
 longitude: -65.29519
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 1340
+street: Avenida Hipólito Yrigoyen
+housenumber: "1340"
 phone: ""
 opening_hours: ""
 website: ""

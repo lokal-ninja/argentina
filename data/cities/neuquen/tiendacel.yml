@@ -1,11 +1,11 @@
 id: 1172612631
-type: way
+type: node
 latitude: -38.9572
 longitude: -68.06286
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Domingo Faustino Sarmiento"
-housenumber: 244
+street: Domingo Faustino Sarmiento
+housenumber: "244"
 phone: ""
 opening_hours: ""
-website: "https://www.tiendacel.com.ar/"
+website: https://www.tiendacel.com.ar/

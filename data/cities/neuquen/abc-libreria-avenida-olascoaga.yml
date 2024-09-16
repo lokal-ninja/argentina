@@ -1,11 +1,11 @@
 id: 1089784692
-type: way
+type: node
 latitude: -38.96556
 longitude: -68.05957
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Olascoaga"
-housenumber: 983
+street: Avenida Olascoaga
+housenumber: "983"
 phone: ""
 opening_hours: ""
-website: "https://abclibreria.com.ar/"
+website: https://abclibreria.com.ar/

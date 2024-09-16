@@ -1,11 +1,11 @@
 id: 335683691
-type: way
+type: node
 latitude: -38.74015
 longitude: -62.21631
 postcode: "8000"
 city: Bahía Blanca
-street: "Rincón"
-housenumber: 3601
+street: Rincón
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

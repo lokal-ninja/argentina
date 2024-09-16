@@ -1,11 +1,11 @@
 id: 788279314
-type: way
+type: node
 latitude: -40.81919
 longitude: -63.00837
 postcode: "8500"
 city: Viedma
-street: "Venezuela"
-housenumber: 21
+street: Venezuela
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

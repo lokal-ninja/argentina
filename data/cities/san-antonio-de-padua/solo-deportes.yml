@@ -1,11 +1,11 @@
 id: 614349013
-type: way
+type: node
 latitude: -34.66669
 longitude: -58.70002
 postcode: "1718"
 city: San Antonio de Padua
-street: "Ayacucho"
-housenumber: 62
+street: Ayacucho
+housenumber: "62"
 phone: "08002227656"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "http://www.solodeportes.com.ar/"
+opening_hours: Mo-Sa 08:30-20:00
+website: http://www.solodeportes.com.ar/

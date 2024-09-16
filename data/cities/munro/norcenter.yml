@@ -1,11 +1,11 @@
 id: 232338981
-type: way
+type: node
 latitude: -34.51433
 longitude: -58.52388
-postcode: "B1605"
+postcode: B1605
 city: Munro
-street: "Esteban Echeverría"
-housenumber: 3750
+street: Esteban Echeverría
+housenumber: "3750"
 phone: ""
 opening_hours: ""
-website: "https://norcenter.com/"
+website: https://norcenter.com/

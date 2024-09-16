@@ -1,11 +1,11 @@
 id: 1067203424
-type: way
+type: node
 latitude: -38.13768
 longitude: -61.79653
 postcode: "8168"
 city: Sierra de la Ventana
-street: "Avenida Libertador General San Martín"
-housenumber: 189
+street: Avenida Libertador General San Martín
+housenumber: "189"
 phone: ""
 opening_hours: ""
 website: ""

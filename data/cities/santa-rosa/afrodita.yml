@@ -2,10 +2,10 @@ id: 7770924308
 type: node
 latitude: -36.62082
 longitude: -64.28332
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Oliver"
-housenumber: 399
+street: Oliver
+housenumber: "399"
 phone: ""
 opening_hours: ""
 website: ""

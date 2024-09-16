@@ -1,11 +1,11 @@
 id: 465021330
-type: way
+type: node
 latitude: -34.57132
 longitude: -58.45823
 postcode: "1426"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Elcano"
-housenumber: 3696
-phone: "+54 11 4553-4831"
-opening_hours: "Mo-Su 08:30-21:00"
-website: "https://www.coto.com.ar/"
+street: Avenida Elcano
+housenumber: "3696"
+phone: +54 11 4553-4831
+opening_hours: Mo-Su 08:30-21:00
+website: https://www.coto.com.ar/

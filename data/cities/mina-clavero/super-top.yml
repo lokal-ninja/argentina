@@ -1,11 +1,11 @@
 id: 339759590
-type: way
+type: node
 latitude: -31.73118
 longitude: -65.00509
 postcode: ""
 city: Mina Clavero
-street: "Avenida San Martín"
-housenumber: 729
-phone: "+54 03544 47-0245"
+street: Avenida San Martín
+housenumber: "729"
+phone: +54 03544 47-0245
 opening_hours: ""
 website: ""

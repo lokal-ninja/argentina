@@ -1,11 +1,11 @@
 id: 1172323063
-type: way
+type: node
 latitude: -38.95881
 longitude: -68.06621
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Manuel Lainez"
-housenumber: 350
+street: Manuel Lainez
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://cimarsrl.com.ar/nuevacimar/"
+website: https://cimarsrl.com.ar/nuevacimar/

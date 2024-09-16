@@ -1,11 +1,11 @@
 id: 1174477635
-type: way
+type: node
 latitude: -38.95831
 longitude: -68.05572
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Perito Moreno"
-housenumber: 237
+street: Perito Moreno
+housenumber: "237"
 phone: ""
 opening_hours: ""
-website: "https://www.lacasitaweb.com.ar/"
+website: https://www.lacasitaweb.com.ar/

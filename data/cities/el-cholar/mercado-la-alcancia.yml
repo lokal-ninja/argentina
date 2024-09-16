@@ -1,10 +1,10 @@
 id: 1234121316
-type: way
+type: node
 latitude: -37.44112
 longitude: -70.64701
-postcode: "Q8353"
+postcode: Q8353
 city: El Cholar
-street: "Avenida Güemes"
+street: Avenida Güemes
 housenumber: S/N
 phone: ""
 opening_hours: ""

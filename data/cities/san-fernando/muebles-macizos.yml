@@ -1,11 +1,11 @@
 id: 473422384
-type: way
+type: node
 latitude: -34.44234
 longitude: -58.57632
-postcode: "B1646"
+postcode: B1646
 city: San Fernando
-street: "Avenida Juan B. Justo"
-housenumber: 2556
+street: Avenida Juan B. Justo
+housenumber: "2556"
 phone: ""
 opening_hours: ""
 website: ""

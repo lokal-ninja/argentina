@@ -1,11 +1,11 @@
 id: 1152558907
-type: way
+type: node
 latitude: -38.70871
 longitude: -62.26544
 postcode: "8000"
 city: Bahía Blanca
-street: "Caronti"
-housenumber: 482
-phone: "+54 9 291 452-7425"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 09:00-13:00"
+street: Caronti
+housenumber: "482"
+phone: +54 9 291 452-7425
+opening_hours: Mo-Fr 07:00-21:00; Sa 09:00-13:00
 website: ""

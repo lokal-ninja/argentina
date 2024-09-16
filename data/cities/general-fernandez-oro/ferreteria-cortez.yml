@@ -1,11 +1,11 @@
 id: 1285024135
-type: way
+type: node
 latitude: -38.95605
 longitude: -67.91715
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "Hipólito Yrigoyen"
-housenumber: 188
+street: Hipólito Yrigoyen
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

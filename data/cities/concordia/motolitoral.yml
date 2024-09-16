@@ -1,11 +1,11 @@
 id: 584441059
-type: way
+type: node
 latitude: -31.38296
 longitude: -58.02949
 postcode: "3202"
 city: Concordia
-street: "Boulevard San Lorenzo Oeste"
-housenumber: 663
-phone: "+54 345 421-8513"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.hondamotolitoral.com.ar/"
+street: Boulevard San Lorenzo Oeste
+housenumber: "663"
+phone: +54 345 421-8513
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.hondamotolitoral.com.ar/

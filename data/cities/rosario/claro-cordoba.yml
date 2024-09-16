@@ -4,8 +4,8 @@ latitude: -32.94485
 longitude: -60.64615
 postcode: ""
 city: Rosario
-street: "Córdoba"
-housenumber: 1678
+street: Córdoba
+housenumber: "1678"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.claro.com.ar/"
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.claro.com.ar/

@@ -1,11 +1,11 @@
 id: 341498028
-type: way
+type: node
 latitude: -41.1311
 longitude: -71.36113
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Avenida de los Pioneros"
-housenumber: 4400
+street: Avenida de los Pioneros
+housenumber: "4400"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/004-bariloche"
+website: https://www.laanonima.com.ar/sucursales/004-bariloche

@@ -1,11 +1,11 @@
 id: 469329970
-type: way
+type: node
 latitude: -34.46977
 longitude: -58.51672
-postcode: "B1642"
+postcode: B1642
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 609
+street: Avenida Centenario
+housenumber: "609"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-13:00"
-website: "https://www.todocolchon.com.ar/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-13:00
+website: https://www.todocolchon.com.ar/

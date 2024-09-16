@@ -1,11 +1,11 @@
 id: 821951807
-type: way
+type: node
 latitude: -43.2508
 longitude: -65.30894
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "9 de Julio"
-housenumber: 119
+street: 9 de Julio
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

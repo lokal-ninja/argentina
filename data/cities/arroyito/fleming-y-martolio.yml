@@ -1,11 +1,11 @@
 id: 560635378
-type: way
+type: node
 latitude: -31.4264
 longitude: -63.0616
 postcode: "2434"
 city: Arroyito
-street: "Avenida Fulvio Salvador Pagani"
-housenumber: 2095
-phone: "+54 03576-423744"
+street: Avenida Fulvio Salvador Pagani
+housenumber: "2095"
+phone: +54 03576-423744
 opening_hours: ""
-website: "https://www.flemingymartolio.com.ar/"
+website: https://www.flemingymartolio.com.ar/

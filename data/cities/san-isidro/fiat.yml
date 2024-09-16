@@ -1,11 +1,11 @@
 id: 473632546
-type: way
+type: node
 latitude: -34.46655
 longitude: -58.51996
-postcode: "B1642"
+postcode: B1642
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 1001
-phone: "+54 11 4747-4747"
+street: Avenida Centenario
+housenumber: "1001"
+phone: +54 11 4747-4747
 opening_hours: ""
-website: "https://www.autodelsol.com/"
+website: https://www.autodelsol.com/

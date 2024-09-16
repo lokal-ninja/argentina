@@ -1,11 +1,11 @@
 id: 626246645
-type: way
+type: node
 latitude: -34.42306
 longitude: -58.73411
 postcode: "1619"
 city: Garin
-street: "Boulevard Presidente Perón"
-housenumber: 
+street: Boulevard Presidente Perón
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

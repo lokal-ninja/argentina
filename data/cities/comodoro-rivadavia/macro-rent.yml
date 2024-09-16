@@ -1,11 +1,11 @@
 id: 439965066
-type: way
+type: node
 latitude: -45.87516
 longitude: -67.50099
 postcode: "9000"
 city: Comodoro Rivadavia
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 1711
-phone: "+54 0297 444-5350"
-opening_hours: "Mo-Fr 09:00-12:30,15:30-20:00; Sa 08:00-13:00"
-website: "http://www.macrorent.com.ar/"
+street: Avenida Hipólito Yrigoyen
+housenumber: "1711"
+phone: +54 0297 444-5350
+opening_hours: Mo-Fr 09:00-12:30,15:30-20:00; Sa 08:00-13:00
+website: http://www.macrorent.com.ar/

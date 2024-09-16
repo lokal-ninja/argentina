@@ -1,11 +1,11 @@
 id: 1133938892
-type: way
+type: node
 latitude: -41.07068
 longitude: -71.16782
 postcode: "8402"
 city: Dina Huapi
-street: "Los Notros"
-housenumber: 173
+street: Los Notros
+housenumber: "173"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 474925782
-type: way
+type: node
 latitude: -34.49775
 longitude: -58.54513
 postcode: "1642"
 city: San Isidro
-street: "Avenida Fondo de la Legua"
-housenumber: 561
-phone: "+54 11 4765-5897"
-opening_hours: ""
+street: Avenida Fondo de la Legua
+housenumber: "561"
+phone: +54 11 4765-5897
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-13:00; Su,PH off
 website: ""

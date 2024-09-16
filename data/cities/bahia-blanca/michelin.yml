@@ -1,11 +1,11 @@
 id: 942040708
-type: way
+type: node
 latitude: -38.72368
 longitude: -62.26369
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Brown"
-housenumber: 411
+street: Brown
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

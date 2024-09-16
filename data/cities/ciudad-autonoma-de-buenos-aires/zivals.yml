@@ -1,11 +1,11 @@
 id: 473162796
-type: way
+type: node
 latitude: -34.60453
 longitude: -58.39201
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Callao"
-housenumber: 395
+street: Avenida Callao
+housenumber: "395"
 phone: ""
 opening_hours: ""
-website: "http://www.zivals.com/"
+website: http://www.zivals.com/

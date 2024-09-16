@@ -1,11 +1,11 @@
 id: 439777221
-type: way
+type: node
 latitude: -34.58699
 longitude: -58.42968
-postcode: "C1414DDJ"
+postcode: C1414DDJ
 city: Ciudad Autónoma de Buenos Aires
-street: "Thames"
-housenumber: 1762
+street: Thames
+housenumber: "1762"
 phone: ""
 opening_hours: ""
 website: ""

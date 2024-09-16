@@ -1,11 +1,11 @@
 id: 1217251536
-type: way
+type: node
 latitude: -38.94262
 longitude: -67.99919
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Tres Arroyos"
-housenumber: 231
+street: Avenida Tres Arroyos
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://www.olivaresdelneuquen.com.ar/"
+website: https://www.olivaresdelneuquen.com.ar/

@@ -1,11 +1,11 @@
 id: 471542910
-type: way
+type: node
 latitude: -34.59094
 longitude: -58.49787
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Nazca"
-housenumber: 4067
+street: Nazca
+housenumber: "4067"
 phone: ""
 opening_hours: ""
 website: ""

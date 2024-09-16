@@ -1,11 +1,11 @@
 id: 585483423
-type: way
+type: node
 latitude: -42.7702
 longitude: -65.04259
 postcode: "9120"
 city: Puerto Madryn
-street: "Belgrano"
-housenumber: 720
-phone: "+54 2965 47-4464"
-opening_hours: "Mo-Fr 08:30-12:30,15:30-20:00; Sa 08:30-13:00"
-website: "https://www.agropecuariabermejo.com/"
+street: Belgrano
+housenumber: "720"
+phone: +54 2965 47-4464
+opening_hours: Mo-Fr 08:30-12:30,15:30-20:00; Sa 08:30-13:00
+website: https://www.agropecuariabermejo.com/

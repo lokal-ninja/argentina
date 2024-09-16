@@ -1,11 +1,11 @@
 id: 585483421
-type: way
+type: node
 latitude: -31.41016
 longitude: -64.18267
 postcode: "5000"
 city: Córdoba
-street: "Humberto Primo"
-housenumber: 69
-phone: "+54 351 429-7380"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.amesmotos.com.ar/"
+street: Humberto Primo
+housenumber: "69"
+phone: +54 351 429-7380
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.amesmotos.com.ar/

@@ -1,11 +1,11 @@
 id: 832346839
-type: way
+type: node
 latitude: -36.62084
 longitude: -64.28457
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Avenida General San Martín Este"
-housenumber: 519
+street: Avenida General San Martín Este
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1074410432
-type: way
+type: node
 latitude: -38.95278
 longitude: -68.02381
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Río Uruguay"
-housenumber: 265
+street: Río Uruguay
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

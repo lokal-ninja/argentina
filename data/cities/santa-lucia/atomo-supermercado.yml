@@ -1,11 +1,11 @@
 id: 800007710
-type: way
+type: node
 latitude: -31.53295
 longitude: -68.49461
 postcode: "5411"
 city: Santa Lucía
-street: "Avenida Libertador General San Martín"
-housenumber: 2530
+street: Avenida Libertador General San Martín
+housenumber: "2530"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:30,16:30-21:00; Sa 09:00-13:30"
+opening_hours: Mo-Fr 08:30-13:30,16:30-21:00; Sa 09:00-13:30
 website: ""

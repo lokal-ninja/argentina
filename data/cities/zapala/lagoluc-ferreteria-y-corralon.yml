@@ -1,11 +1,11 @@
 id: 1149756260
-type: way
+type: node
 latitude: -38.90213
 longitude: -70.07901
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Sócrates"
-housenumber: 292
+street: Sócrates
+housenumber: "292"
 phone: ""
 opening_hours: ""
 website: ""

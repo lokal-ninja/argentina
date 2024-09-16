@@ -1,11 +1,11 @@
 id: 848254597
-type: way
+type: node
 latitude: -50.33741
 longitude: -72.26179
-postcode: "Z9405"
+postcode: Z9405
 city: El Calafate
-street: "Avenida del Libertador"
-housenumber: 902
+street: Avenida del Libertador
+housenumber: "902"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/131-el-calafate"
+website: https://www.laanonima.com.ar/sucursales/131-el-calafate

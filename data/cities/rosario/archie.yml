@@ -4,8 +4,9 @@ latitude: -32.94588
 longitude: -60.64185
 postcode: ""
 city: Rosario
-street: "Córdoba"
-housenumber: 1365
+street: Córdoba
+housenumber: "1365"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Jan 1 off Nuevo Año; Jul 7 off Día de la Independencia; Dec 8 off Inmaculada"
+opening_hours: Mo-Sa 09:00-19:00; Jan 1 off "Nuevo Año"; Jul 7 off "Día de la Independencia";
+    Dec 8 off "Inmaculada"
 website: ""

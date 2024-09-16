@@ -1,11 +1,11 @@
 id: 1302133596
-type: way
+type: node
 latitude: -24.20671
 longitude: -65.28636
 postcode: "4600"
 city: San Salvador de Jujuy
-street: "Riobamba"
-housenumber: 
+street: Riobamba
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

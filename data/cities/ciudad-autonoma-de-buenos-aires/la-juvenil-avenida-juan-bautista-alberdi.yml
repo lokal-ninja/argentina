@@ -4,8 +4,9 @@ latitude: -34.6314
 longitude: -58.46177
 postcode: "1406"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan Bautista Alberdi"
-housenumber: 2402
-phone: "+54 11 4611-9055"
-opening_hours: "Jan-Feb: Tu-Sa 09:00-13:30,16:30-20:30; Mar-Dec: Mo-Sa 08:00-13:30,15:30-20:30; Su 08:00-13:30"
-website: "https://www.lajuvenilpastas.com.ar/"
+street: Avenida Juan Bautista Alberdi
+housenumber: "2402"
+phone: +54 11 4611-9055
+opening_hours: 'Jan-Feb: Tu-Sa 09:00-13:30,16:30-20:30; Mar-Dec: Mo-Sa 08:00-13:30,15:30-20:30;
+    Su 08:00-13:30'
+website: https://www.lajuvenilpastas.com.ar/

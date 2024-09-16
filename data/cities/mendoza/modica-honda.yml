@@ -1,11 +1,11 @@
 id: 584441052
-type: way
+type: node
 latitude: -32.89455
 longitude: -68.82383
 postcode: "5500"
 city: Mendoza
-street: "Bandera de los Andes"
-housenumber: 737
-phone: "+54 261 431-9246"
-opening_hours: "Mo-Fr 09:00-13:00,17:00-20:30; Sa 09:00-13:00"
-website: "https://www.modicamotos.com.ar/"
+street: Bandera de los Andes
+housenumber: "737"
+phone: +54 261 431-9246
+opening_hours: Mo-Fr 09:00-13:00,17:00-20:30; Sa 09:00-13:00
+website: https://www.modicamotos.com.ar/

@@ -2,10 +2,10 @@ id: 12013103797
 type: node
 latitude: -38.94135
 longitude: -67.99432
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
 street: ""
-housenumber: 598
+housenumber: "598"
 phone: ""
 opening_hours: ""
-website: "https://www.axionenergy.com/Paginas/spot.aspx"
+website: https://www.axionenergy.com/Paginas/spot.aspx

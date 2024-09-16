@@ -1,11 +1,11 @@
 id: 1089784688
-type: way
+type: node
 latitude: -38.96477
 longitude: -68.0598
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Olascoaga"
-housenumber: 901
+street: Avenida Olascoaga
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

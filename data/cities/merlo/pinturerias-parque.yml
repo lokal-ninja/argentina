@@ -1,11 +1,11 @@
 id: 468564312
-type: way
+type: node
 latitude: -34.67056
 longitude: -58.73542
 postcode: "1722"
 city: Merlo
-street: "Constitución"
-housenumber: 802
-phone: "+54 220 485-4892"
+street: Constitución
+housenumber: "802"
+phone: +54 220 485-4892
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 915572659
-type: way
+type: node
 latitude: -46.58406
 longitude: -70.93731
-postcode: "Z9040"
+postcode: Z9040
 city: Perito Moreno
-street: "Hipólito Yrigoyen"
-housenumber: 2371
+street: Hipólito Yrigoyen
+housenumber: "2371"
 phone: ""
-opening_hours: "08:00–21:30"
-website: "https://www.laanonima.com.ar/sucursales/214-perito-moreno"
+opening_hours: 08:00–21:30
+website: https://www.laanonima.com.ar/sucursales/214-perito-moreno

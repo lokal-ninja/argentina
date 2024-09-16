@@ -1,11 +1,11 @@
 id: 393306957
-type: way
+type: node
 latitude: -40.80905
 longitude: -62.99825
 postcode: "8500"
 city: Viedma
-street: "25 de Mayo"
-housenumber: 799
+street: 25 de Mayo
+housenumber: "799"
 phone: ""
 opening_hours: ""
 website: ""

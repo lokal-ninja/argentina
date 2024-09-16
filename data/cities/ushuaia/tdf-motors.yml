@@ -1,11 +1,11 @@
 id: 241965200
-type: way
+type: node
 latitude: -54.79269
 longitude: -68.26629
 postcode: "9410"
 city: Ushuaia
-street: "17 de Octubre"
-housenumber: 342
-phone: "+54 2901 43-5077"
-opening_hours: "Mo-Fr 09:30-13:00,16:00-20:00; Sa 09:30-13:00"
-website: "http://www.tdfmotors.com/"
+street: 17 de Octubre
+housenumber: "342"
+phone: +54 2901 43-5077
+opening_hours: Mo-Fr 09:30-13:00,16:00-20:00; Sa 09:30-13:00
+website: http://www.tdfmotors.com/

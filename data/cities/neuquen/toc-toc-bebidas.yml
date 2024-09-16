@@ -1,11 +1,11 @@
 id: 1175232140
-type: way
+type: node
 latitude: -38.9585
 longitude: -68.05225
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Tierra del Fuego"
-housenumber: 323
+street: Tierra del Fuego
+housenumber: "323"
 phone: ""
 opening_hours: ""
 website: ""

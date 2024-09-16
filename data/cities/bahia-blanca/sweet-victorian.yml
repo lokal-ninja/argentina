@@ -1,11 +1,11 @@
 id: 948293417
-type: way
+type: node
 latitude: -38.71713
 longitude: -62.2682
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Estomba"
-housenumber: 154
+street: Estomba
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

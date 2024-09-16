@@ -1,11 +1,11 @@
 id: 828268923
-type: way
+type: node
 latitude: -53.785
 longitude: -67.69678
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Augusto Lasserre"
-housenumber: 448
+street: Augusto Lasserre
+housenumber: "448"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1168432047
-type: way
+type: node
 latitude: -38.95772
 longitude: -68.06759
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Onésimo Leguizamón"
-housenumber: 254
+street: Onésimo Leguizamón
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

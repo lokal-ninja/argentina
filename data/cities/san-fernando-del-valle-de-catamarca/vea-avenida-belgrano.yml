@@ -1,11 +1,11 @@
 id: 565121103
-type: way
+type: node
 latitude: -28.45899
 longitude: -65.77213
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "Avenida Belgrano"
-housenumber: 
+street: Avenida Belgrano
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

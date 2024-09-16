@@ -1,11 +1,11 @@
 id: 469185474
-type: way
+type: node
 latitude: -34.58192
 longitude: -58.47357
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Triunvirato"
-housenumber: 3700
-phone: "+54 11 4521-2913"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+street: Avenida Triunvirato
+housenumber: "3700"
+phone: +54 11 4521-2913
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

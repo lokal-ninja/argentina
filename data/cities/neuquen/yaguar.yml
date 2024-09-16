@@ -1,11 +1,11 @@
 id: 1073963015
-type: way
+type: node
 latitude: -38.95901
 longitude: -68.03718
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 1550
+street: Félix San Martín
+housenumber: "1550"
 phone: ""
 opening_hours: ""
-website: "https://www.yaguar.com.ar/"
+website: https://www.yaguar.com.ar/

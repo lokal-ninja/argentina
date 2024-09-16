@@ -1,11 +1,11 @@
 id: 1175385903
-type: way
+type: node
 latitude: -38.95737
 longitude: -68.05238
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bartolomé Mitre"
-housenumber: 481
-phone: "+54 9 299 326-6660"
+street: Bartolomé Mitre
+housenumber: "481"
+phone: +54 9 299 326-6660
 opening_hours: ""
 website: ""

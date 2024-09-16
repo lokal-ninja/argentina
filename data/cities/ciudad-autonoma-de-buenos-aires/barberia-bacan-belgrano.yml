@@ -2,10 +2,10 @@ id: 8944390712
 type: node
 latitude: -34.56917
 longitude: -58.44256
-postcode: "C1426"
+postcode: C1426
 city: Ciudad Autónoma de Buenos Aires
-street: "Olleros"
-housenumber: 2292
-phone: "+54 11 4775-5241"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
-website: "http://bacanbarberia.com.ar/"
+street: Olleros
+housenumber: "2292"
+phone: +54 11 4775-5241
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
+website: http://bacanbarberia.com.ar/

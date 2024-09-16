@@ -1,11 +1,11 @@
 id: 1202406611
-type: way
+type: node
 latitude: -38.95265
 longitude: -68.05199
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Tucumán"
-housenumber: 215
+street: Tucumán
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

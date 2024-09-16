@@ -1,11 +1,11 @@
 id: 1161389826
-type: way
+type: node
 latitude: -28.44229
 longitude: -65.76672
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "Chile"
-housenumber: 2010
+street: Chile
+housenumber: "2010"
 phone: ""
 opening_hours: ""
 website: ""

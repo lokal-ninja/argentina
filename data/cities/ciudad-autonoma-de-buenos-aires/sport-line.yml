@@ -1,11 +1,11 @@
 id: 470265193
-type: way
+type: node
 latitude: -34.57523
 longitude: -58.48515
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Triunvirato"
-housenumber: 4552
-phone: "+54 11 4587-2178"
-opening_hours: "Mo-Sa 09:00-20:30"
-website: "https://www.sportline.com.ar/"
+street: Avenida Triunvirato
+housenumber: "4552"
+phone: +54 11 4587-2178
+opening_hours: Mo-Sa 09:00-20:30
+website: https://www.sportline.com.ar/

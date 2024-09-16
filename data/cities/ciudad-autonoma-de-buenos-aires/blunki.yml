@@ -2,10 +2,10 @@ id: 8561805026
 type: node
 latitude: -34.60482
 longitude: -58.40412
-postcode: "C1046AAR"
+postcode: C1046AAR
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Corrientes"
-housenumber: 2654
+street: Avenida Corrientes
+housenumber: "2654"
 phone: "+5491149517456"
-opening_hours: "Mo-Fr 09:00-18:00 , Sa 09:00-14:00"
-website: "https://blunki.com.ar/"
+opening_hours: Mo-Fr 09:00-18:00 , Sa 09:00-14:00
+website: https://blunki.com.ar/

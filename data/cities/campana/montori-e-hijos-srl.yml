@@ -1,11 +1,11 @@
 id: 374538573
-type: way
+type: node
 latitude: -34.17862
 longitude: -58.96053
 postcode: "2804"
 city: Campana
-street: "Avenida Intendente Jorge Rubén Varela"
-housenumber: 1156
-phone: "+54 3489 421905"
-opening_hours: "Mo-Fr 08:30-20:00"
+street: Avenida Intendente Jorge Rubén Varela
+housenumber: "1156"
+phone: +54 3489 421905
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

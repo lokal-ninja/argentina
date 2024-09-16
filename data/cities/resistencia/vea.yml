@@ -1,11 +1,11 @@
 id: 479021143
-type: way
+type: node
 latitude: -27.45538
 longitude: -58.99145
 postcode: "3500"
 city: Resistencia
-street: "Avenida Alberdi"
-housenumber: 528
+street: Avenida Alberdi
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

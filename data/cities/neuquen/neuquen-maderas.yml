@@ -1,11 +1,11 @@
 id: 1172612687
-type: way
+type: node
 latitude: -38.95899
 longitude: -68.06321
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Misiones"
-housenumber: 297
+street: Misiones
+housenumber: "297"
 phone: ""
 opening_hours: ""
-website: "http://www.neuquenmaderas.com.ar/"
+website: http://www.neuquenmaderas.com.ar/

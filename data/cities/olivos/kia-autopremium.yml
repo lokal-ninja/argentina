@@ -1,11 +1,11 @@
 id: 467779436
-type: way
+type: node
 latitude: -34.51096
 longitude: -58.47851
 postcode: "1636"
 city: Olivos
-street: "Avenida del Libertador"
-housenumber: 2230
+street: Avenida del Libertador
+housenumber: "2230"
 phone: ""
 opening_hours: ""
-website: "https://kiaolivos.com.ar/"
+website: https://kiaolivos.com.ar/

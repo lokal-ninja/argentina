@@ -1,11 +1,11 @@
 id: 330399440
-type: way
+type: node
 latitude: -38.73859
 longitude: -62.2171
 postcode: "8000"
 city: Bahía Blanca
-street: "Rincón"
-housenumber: 3490
-phone: "+54 291 4814213"
-opening_hours: "Mo-Fr 08:30-12:30,17:00-21:00; Sa 08:30-13:00,17:00-21:00"
-website: "https://www.cooperativaobrera.coop/"
+street: Rincón
+housenumber: "3490"
+phone: +54 291 4814213
+opening_hours: Mo-Fr 08:30-12:30,17:00-21:00; Sa 08:30-13:00,17:00-21:00
+website: https://www.cooperativaobrera.coop/

@@ -1,11 +1,11 @@
 id: 1262660056
-type: way
+type: node
 latitude: -34.58299
 longitude: -58.53044
-postcode: "B1672"
+postcode: B1672
 city: Villa Lynch
-street: "Avenida 85 - Libertador General San Martín"
-housenumber: 1372
+street: Avenida 85 - Libertador General San Martín
+housenumber: "1372"
 phone: ""
 opening_hours: ""
-website: "https://www.sumser.com.ar/"
+website: https://www.sumser.com.ar/

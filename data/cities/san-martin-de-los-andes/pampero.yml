@@ -1,11 +1,11 @@
 id: 836815444
-type: way
+type: node
 latitude: -40.15562
 longitude: -71.3487
-postcode: "Q8370"
+postcode: Q8370
 city: San Martín de los Andes
-street: "Eduardo Elordi"
-housenumber: 767
+street: Eduardo Elordi
+housenumber: "767"
 phone: ""
 opening_hours: ""
 website: ""

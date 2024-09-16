@@ -1,11 +1,11 @@
 id: 1020640318
-type: way
+type: node
 latitude: -34.27178
 longitude: -62.71256
 postcode: "6100"
 city: Rufino
-street: "Hipólito Yrigoyen"
-housenumber: 990
+street: Hipólito Yrigoyen
+housenumber: "990"
 phone: ""
 opening_hours: ""
 website: ""

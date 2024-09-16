@@ -1,11 +1,11 @@
 id: 473617725
-type: way
+type: node
 latitude: -34.46777
 longitude: -58.51139
 postcode: "1642"
 city: San Isidro
-street: "Avenida 25 de Mayo"
-housenumber: 500
-phone: "+54 11 4743-6445"
+street: Avenida 25 de Mayo
+housenumber: "500"
+phone: +54 11 4743-6445
 opening_hours: ""
-website: "https://www.pintureriadelfondo.com/"
+website: https://www.pintureriadelfondo.com/

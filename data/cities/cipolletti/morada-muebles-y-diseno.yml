@@ -1,11 +1,11 @@
 id: 821142851
-type: way
+type: node
 latitude: -38.93604
 longitude: -67.99684
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General Villegas"
-housenumber: 466
+street: General Villegas
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

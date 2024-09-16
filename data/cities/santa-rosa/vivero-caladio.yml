@@ -1,11 +1,11 @@
 id: 1273592665
-type: way
+type: node
 latitude: -28.4574
 longitude: -65.70835
 postcode: "4707"
 city: Santa Rosa
-street: "Avenida Felipe Varela"
-housenumber: 1366
+street: Avenida Felipe Varela
+housenumber: "1366"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1308938548
-type: way
+type: node
 latitude: -38.94067
 longitude: -67.99471
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 555
-phone: "+54 299 477-5412"
+street: General San Martín
+housenumber: "555"
+phone: +54 299 477-5412
 opening_hours: ""
-website: "https://www.nipponmotos.com/"
+website: https://www.nipponmotos.com/

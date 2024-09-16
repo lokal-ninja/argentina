@@ -1,11 +1,11 @@
 id: 734647966
-type: way
+type: node
 latitude: -41.13443
 longitude: -71.31239
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Avenida General José de San Martín"
-housenumber: 162
+street: Avenida General José de San Martín
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

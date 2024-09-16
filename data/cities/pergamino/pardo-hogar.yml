@@ -1,11 +1,11 @@
 id: 786049643
-type: way
+type: node
 latitude: -33.89363
 longitude: -60.5726
 postcode: "2700"
 city: Pergamino
-street: "San Nicolás"
-housenumber: 472
+street: San Nicolás
+housenumber: "472"
 phone: ""
 opening_hours: ""
 website: ""

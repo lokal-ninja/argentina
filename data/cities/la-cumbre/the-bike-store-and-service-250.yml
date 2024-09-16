@@ -1,11 +1,11 @@
 id: 751984920
-type: way
+type: node
 latitude: -30.98267
 longitude: -64.49367
 postcode: "5178"
 city: La Cumbre
-street: "Belgrano"
-housenumber: 250
+street: Belgrano
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

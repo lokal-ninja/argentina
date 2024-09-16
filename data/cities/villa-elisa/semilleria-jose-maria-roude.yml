@@ -1,11 +1,11 @@
 id: 312265731
-type: way
+type: node
 latitude: -32.16557
 longitude: -58.40121
 postcode: ""
 city: Villa Elisa
-street: "San Martín"
-housenumber: 1224
+street: San Martín
+housenumber: "1224"
 phone: ""
 opening_hours: ""
 website: ""

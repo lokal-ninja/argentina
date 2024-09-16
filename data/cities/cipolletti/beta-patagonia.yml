@@ -1,11 +1,11 @@
 id: 1306274585
-type: way
+type: node
 latitude: -38.93952
 longitude: -67.99405
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General Roca"
-housenumber: 560
-phone: "+54 299 477-2255"
+street: General Roca
+housenumber: "560"
+phone: +54 299 477-2255
 opening_hours: ""
-website: "https://www.betapatagonia.com/"
+website: https://www.betapatagonia.com/

@@ -1,11 +1,11 @@
 id: 427805357
-type: way
+type: node
 latitude: -45.87282
 longitude: -67.50599
 postcode: "9000"
 city: Comodoro Rivadavia
-street: "Tacuarí"
-housenumber: 230
+street: Tacuarí
+housenumber: "230"
 phone: ""
-opening_hours: "08:00-17:00"
+opening_hours: 08:00-17:00
 website: ""

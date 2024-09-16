@@ -1,11 +1,11 @@
 id: 469285990
-type: way
+type: node
 latitude: -34.47041
 longitude: -58.51701
-postcode: "B1642"
+postcode: B1642
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 560
+street: Avenida Centenario
+housenumber: "560"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su,PH off"
-website: "https://www.fravega.com"
+opening_hours: Mo-Sa 09:30-19:30; Su,PH off
+website: https://www.fravega.com

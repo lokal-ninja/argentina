@@ -1,11 +1,11 @@
 id: 1241835899
-type: way
+type: node
 latitude: -36.53494
 longitude: -56.6957
-postcode: "B7107"
+postcode: B7107
 city: Santa Teresita
-street: "Avenida 32"
-housenumber: 550
+street: Avenida 32
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

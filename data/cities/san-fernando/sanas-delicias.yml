@@ -4,8 +4,8 @@ latitude: -34.44309
 longitude: -58.55893
 postcode: "1646"
 city: San Fernando
-street: "9 de Julio"
-housenumber: 1501
-phone: "+54 11 4725-1929"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-13:30"
+street: 9 de Julio
+housenumber: "1501"
+phone: +54 11 4725-1929
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-13:30
 website: ""

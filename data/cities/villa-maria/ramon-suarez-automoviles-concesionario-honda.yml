@@ -1,11 +1,11 @@
 id: 585483411
-type: way
+type: node
 latitude: -32.41186
 longitude: -63.2361
 postcode: "5900"
 city: Villa María
-street: "Boulevard Marcelo T. de Alvear"
-housenumber: 370
-phone: "+54 353 453-3546"
-opening_hours: "Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00"
-website: "https://motoshondaramonsuarez.com.ar/"
+street: Boulevard Marcelo T. de Alvear
+housenumber: "370"
+phone: +54 353 453-3546
+opening_hours: Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00
+website: https://motoshondaramonsuarez.com.ar/

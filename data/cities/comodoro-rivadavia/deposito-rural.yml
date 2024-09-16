@@ -1,11 +1,11 @@
 id: 439964776
-type: way
+type: node
 latitude: -45.88478
 longitude: -67.51945
 postcode: "9000"
 city: Comodoro Rivadavia
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 2851
+street: Avenida Hipólito Yrigoyen
+housenumber: "2851"
 phone: ""
-opening_hours: "08:30-12:30,14:30-19:30"
+opening_hours: 08:30-12:30,14:30-19:30
 website: ""

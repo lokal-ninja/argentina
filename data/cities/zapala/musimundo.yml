@@ -1,11 +1,11 @@
 id: 1153114185
-type: way
+type: node
 latitude: -38.90702
 longitude: -70.06125
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Avenida San Martín"
-housenumber: 747
-phone: "0800-444-0601"
+street: Avenida San Martín
+housenumber: "747"
+phone: 0800-444-0601
 opening_hours: ""
-website: "https://www.musimundo.com/"
+website: https://www.musimundo.com/

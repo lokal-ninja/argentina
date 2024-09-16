@@ -1,11 +1,11 @@
 id: 1278678207
-type: way
+type: node
 latitude: -38.953
 longitude: -68.05714
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Juan Bautista Alberdi"
-housenumber: 111
+street: Juan Bautista Alberdi
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://pueblastyle.mitiendanube.com/"
+website: https://pueblastyle.mitiendanube.com/

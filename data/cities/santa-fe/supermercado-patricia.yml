@@ -1,11 +1,11 @@
 id: 455420318
-type: way
+type: node
 latitude: -31.62754
 longitude: -60.70016
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Patricia"
-housenumber: 
+street: Patricia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

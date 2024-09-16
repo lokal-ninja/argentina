@@ -1,11 +1,11 @@
 id: 1215215351
-type: way
+type: node
 latitude: -38.93935
 longitude: -68.00758
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Pueyrredón"
-housenumber: 431
+street: Pueyrredón
+housenumber: "431"
 phone: ""
 opening_hours: ""
-website: "https://corralontronador.com.ar/"
+website: https://corralontronador.com.ar/

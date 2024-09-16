@@ -1,11 +1,11 @@
 id: 1227032609
-type: way
+type: node
 latitude: -38.94663
 longitude: -67.98673
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Las Heras"
-housenumber: 1265
+street: Las Heras
+housenumber: "1265"
 phone: ""
 opening_hours: ""
 website: ""

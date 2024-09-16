@@ -1,11 +1,11 @@
 id: 526912408
-type: way
+type: node
 latitude: -31.39383
 longitude: -58.01694
 postcode: "3200"
 city: Concordia
-street: "General Justo José de Urquiza"
-housenumber: 815
-phone: "+54 345 422-5355"
+street: General Justo José de Urquiza
+housenumber: "815"
+phone: +54 345 422-5355
 opening_hours: ""
-website: "https://www.naldo.com.ar/"
+website: https://www.naldo.com.ar/

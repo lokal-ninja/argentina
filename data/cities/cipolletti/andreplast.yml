@@ -1,11 +1,11 @@
 id: 1268206072
-type: way
+type: node
 latitude: -38.93808
 longitude: -67.98859
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
 street: ""
-housenumber: 425
-phone: "+54 299 456-8621;+54 299 478-5111"
+housenumber: "425"
+phone: +54 299 456-8621;+54 299 478-5111
 opening_hours: ""
-website: "https://bazarandreplast.com/"
+website: https://bazarandreplast.com/

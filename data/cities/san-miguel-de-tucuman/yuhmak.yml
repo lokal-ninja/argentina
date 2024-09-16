@@ -1,11 +1,11 @@
 id: 584441008
-type: way
+type: node
 latitude: -26.83629
 longitude: -65.24066
 postcode: "4000"
 city: San Miguel de Tucumán
-street: "Avenida Néstor Kirchner"
-housenumber: 2653
-phone: "+54 381 451-8863"
-opening_hours: "Mo-Fr 08:00-12:30,16:30-20:30; Sa 08:30-13:00"
-website: "https://www.yuhmak.com/"
+street: Avenida Néstor Kirchner
+housenumber: "2653"
+phone: +54 381 451-8863
+opening_hours: Mo-Fr 08:00-12:30,16:30-20:30; Sa 08:30-13:00
+website: https://www.yuhmak.com/

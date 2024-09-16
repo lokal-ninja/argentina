@@ -1,11 +1,11 @@
 id: 851295252
-type: way
+type: node
 latitude: -43.09755
 longitude: -71.46488
-postcode: "U9203"
+postcode: U9203
 city: Trevelin
-street: "Avenida San Martín"
-housenumber: 1440
+street: Avenida San Martín
+housenumber: "1440"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/168-trevelin"
+website: https://www.laanonima.com.ar/sucursales/168-trevelin

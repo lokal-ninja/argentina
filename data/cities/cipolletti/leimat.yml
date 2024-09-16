@@ -1,11 +1,11 @@
 id: 1225106976
-type: way
+type: node
 latitude: -38.94428
 longitude: -67.9907
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Luis Toschi"
-housenumber: 104
-phone: "+54 299 478-1476"
+street: Avenida Luis Toschi
+housenumber: "104"
+phone: +54 299 478-1476
 opening_hours: ""
-website: "https://leimat.com.ar/"
+website: https://leimat.com.ar/

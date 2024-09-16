@@ -1,11 +1,11 @@
 id: 274709948
-type: way
+type: node
 latitude: -34.61371
 longitude: -68.34135
 postcode: ""
 city: San Rafael
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 875
-phone: "+54 0260 4430802"
-opening_hours: "Mo-Sa 08:30-21:30; Su 09:00-21:00"
-website: "https://www.supermercadosvea.com.ar/"
+street: Avenida Hipólito Yrigoyen
+housenumber: "875"
+phone: +54 0260 4430802
+opening_hours: Mo-Sa 08:30-21:30; Su 09:00-21:00
+website: https://www.supermercadosvea.com.ar/

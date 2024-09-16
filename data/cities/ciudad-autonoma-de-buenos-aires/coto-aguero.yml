@@ -1,11 +1,11 @@
 id: 53860890
-type: way
+type: node
 latitude: -34.60183
 longitude: -58.41247
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Agüero"
-housenumber: 616
+street: Agüero
+housenumber: "616"
 phone: ""
-opening_hours: "08:30-22:30"
-website: "https://www.coto.com.ar/"
+opening_hours: 08:30-22:30
+website: https://www.coto.com.ar/

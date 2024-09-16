@@ -1,11 +1,11 @@
 id: 368963740
-type: way
+type: node
 latitude: -31.6257
 longitude: -60.71346
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Avenida López y Planes"
-housenumber: 
+street: Avenida López y Planes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

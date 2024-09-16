@@ -1,11 +1,11 @@
 id: 1285817742
-type: way
+type: node
 latitude: -38.95441
 longitude: -67.92
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "José María Jorge"
-housenumber: 275
+street: José María Jorge
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

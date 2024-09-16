@@ -1,11 +1,11 @@
 id: 1019774712
-type: way
+type: node
 latitude: -38.71646
 longitude: -62.27277
 postcode: "8000"
 city: Bahía Blanca
-street: "Vieytes"
-housenumber: 402
+street: Vieytes
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,17:00-21:00"
+opening_hours: Mo-Sa 10:00-14:00,17:00-21:00
 website: ""

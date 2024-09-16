@@ -1,11 +1,11 @@
 id: 1010017419
-type: way
+type: node
 latitude: -38.95277
 longitude: -67.99178
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Los Pioneros"
-housenumber: 1151
+street: Los Pioneros
+housenumber: "1151"
 phone: ""
 opening_hours: ""
 website: ""

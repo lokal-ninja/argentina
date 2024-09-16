@@ -1,11 +1,11 @@
 id: 470302101
-type: way
+type: node
 latitude: -34.57693
 longitude: -58.48201
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Triunvirato"
-housenumber: 4361
+street: Avenida Triunvirato
+housenumber: "4361"
 phone: ""
 opening_hours: ""
 website: ""

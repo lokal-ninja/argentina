@@ -1,11 +1,11 @@
 id: 1248713287
-type: way
+type: node
 latitude: -27.25499
 longitude: -58.9715
 postcode: "3505"
 city: Margarita Belen
-street: "Diagonal Norte"
-housenumber: 190
+street: Diagonal Norte
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

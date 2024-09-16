@@ -4,8 +4,8 @@ latitude: -34.56247
 longitude: -58.45356
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Cuba"
-housenumber: 1938
+street: Cuba
+housenumber: "1938"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00
 website: ""

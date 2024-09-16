@@ -1,11 +1,11 @@
 id: 473847080
-type: way
+type: node
 latitude: -34.61932
 longitude: -58.38006
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Bernardo de Irigoyen"
-housenumber: 960
+street: Bernardo de Irigoyen
+housenumber: "960"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1093507124
-type: way
+type: node
 latitude: -31.72494
 longitude: -64.40433
 postcode: ""
 city: Anisacate
-street: "Salomon Palacios"
-housenumber: 5
+street: Salomon Palacios
+housenumber: "5"
 phone: "0354715637695"
-opening_hours: "Mo-Su 08:30-14:00, 16:30-22:00"
+opening_hours: Mo-Su 08:30-14:00, 16:30-22:00
 website: ""

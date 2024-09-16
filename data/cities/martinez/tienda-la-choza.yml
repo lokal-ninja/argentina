@@ -1,11 +1,11 @@
 id: 463810080
-type: way
+type: node
 latitude: -34.48404
 longitude: -58.51225
 postcode: ""
 city: Martínez
-street: "Catamarca"
-housenumber: 501
+street: Catamarca
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-13:30"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-13:30
 website: ""

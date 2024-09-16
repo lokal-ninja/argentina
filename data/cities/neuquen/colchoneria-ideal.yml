@@ -1,11 +1,11 @@
 id: 1076995066
-type: way
+type: node
 latitude: -38.95975
 longitude: -68.05561
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 275
-phone: "0810-333-2862"
+street: Eugenio Perticone
+housenumber: "275"
+phone: 0810-333-2862
 opening_hours: ""
-website: "https://www.colchoneriaideal.com.ar/"
+website: https://www.colchoneriaideal.com.ar/

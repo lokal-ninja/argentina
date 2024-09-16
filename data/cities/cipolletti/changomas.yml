@@ -1,11 +1,11 @@
 id: 671945769
-type: way
+type: node
 latitude: -38.93158
 longitude: -67.9843
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Bolivia"
-housenumber: 1169
+street: Bolivia
+housenumber: "1169"
 phone: ""
 opening_hours: ""
 website: ""

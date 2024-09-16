@@ -4,8 +4,8 @@ latitude: -37.99552
 longitude: -57.54786
 postcode: "7600"
 city: Mar del Plata
-street: "9 de Julio"
-housenumber: 2898
-phone: "+0223 155 228011"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 09:00-13:30"
+street: 9 de Julio
+housenumber: "2898"
+phone: +0223 155 228011
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 09:00-13:30
 website: ""

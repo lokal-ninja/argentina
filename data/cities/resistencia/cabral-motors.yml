@@ -1,11 +1,11 @@
 id: 584441071
-type: way
+type: node
 latitude: -27.44808
 longitude: -58.99159
 postcode: "3500"
 city: Resistencia
-street: "Avenida Belgrano"
-housenumber: 95
-phone: "+54 362 444-2247"
-opening_hours: "Mo-Fr 08:00-12:15,17:00-20:00; Sa 08:00-13:00"
-website: "https://www.cabral-motors.com/"
+street: Avenida Belgrano
+housenumber: "95"
+phone: +54 362 444-2247
+opening_hours: Mo-Fr 08:00-12:15,17:00-20:00; Sa 08:00-13:00
+website: https://www.cabral-motors.com/

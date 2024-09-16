@@ -1,11 +1,11 @@
 id: 838303787
-type: way
+type: node
 latitude: -42.91625
 longitude: -71.32106
-postcode: "U9200"
+postcode: U9200
 city: Esquel
-street: "San Martín"
-housenumber: 878
+street: San Martín
+housenumber: "878"
 phone: ""
 opening_hours: ""
 website: ""

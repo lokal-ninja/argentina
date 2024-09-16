@@ -1,11 +1,11 @@
 id: 920980660
-type: way
+type: node
 latitude: -38.96903
 longitude: -68.05997
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Olascoaga"
-housenumber: 1221
+street: Avenida Olascoaga
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/232-neuquen"
+website: https://www.laanonima.com.ar/sucursales/232-neuquen

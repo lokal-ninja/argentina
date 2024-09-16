@@ -1,11 +1,11 @@
 id: 473122996
-type: way
+type: node
 latitude: -34.44763
 longitude: -58.54641
 postcode: "1644"
 city: Victoria
-street: "Avenida Presidente Teniente General Juan Domingo Perón"
-housenumber: 2330
-phone: "+54 11 2127-8076"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.galantedantonio.com/"
+street: Avenida Presidente Teniente General Juan Domingo Perón
+housenumber: "2330"
+phone: +54 11 2127-8076
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH,Su off
+website: https://www.galantedantonio.com/

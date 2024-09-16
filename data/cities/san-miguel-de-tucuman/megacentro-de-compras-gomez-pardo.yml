@@ -1,11 +1,11 @@
 id: 1259157525
-type: way
+type: node
 latitude: -26.84319
 longitude: -65.19681
 postcode: ""
 city: San Miguel de Tucumán
-street: "Avenida Brígido Teran"
-housenumber: 700
-phone: "+54 381 420-0558"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-14:00"
-website: "https://www.gomezpardo.com.ar/"
+street: Avenida Brígido Teran
+housenumber: "700"
+phone: +54 381 420-0558
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-14:00
+website: https://www.gomezpardo.com.ar/

@@ -1,11 +1,11 @@
 id: 475201861
-type: way
+type: node
 latitude: -34.62522
 longitude: -58.45392
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Rivadavia"
-housenumber: 6187
+street: Avenida Rivadavia
+housenumber: "6187"
 phone: ""
 opening_hours: ""
 website: ""

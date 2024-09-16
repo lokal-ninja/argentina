@@ -1,11 +1,11 @@
 id: 581704688
-type: way
+type: node
 latitude: -34.56242
 longitude: -59.11987
 postcode: "6700"
 city: Luján
-street: "4 - 9 de Julio"
-housenumber: 854
-phone: "+54 2323 43-5122"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00"
-website: "http://www.motolujan.com.ar/"
+street: 4 - 9 de Julio
+housenumber: "854"
+phone: +54 2323 43-5122
+opening_hours: Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00
+website: http://www.motolujan.com.ar/

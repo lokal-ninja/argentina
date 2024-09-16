@@ -1,11 +1,11 @@
 id: 1134192242
-type: way
+type: node
 latitude: -38.955
 longitude: -68.08314
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "General San Martín"
-housenumber: 1716
+street: General San Martín
+housenumber: "1716"
 phone: ""
 opening_hours: ""
 website: ""

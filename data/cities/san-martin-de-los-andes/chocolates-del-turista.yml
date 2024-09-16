@@ -1,11 +1,11 @@
 id: 836631015
-type: way
+type: node
 latitude: -40.15651
 longitude: -71.34991
-postcode: "Q8370"
+postcode: Q8370
 city: San Martín de los Andes
-street: "Avenida San Martín"
-housenumber: 892
+street: Avenida San Martín
+housenumber: "892"
 phone: ""
 opening_hours: ""
 website: ""

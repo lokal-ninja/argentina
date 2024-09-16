@@ -1,11 +1,11 @@
 id: 473434424
-type: way
+type: node
 latitude: -34.44354
 longitude: -58.56623
 postcode: "1646"
 city: San Fernando
-street: "Avenida Sobremonte"
-housenumber: 607
+street: Avenida Sobremonte
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

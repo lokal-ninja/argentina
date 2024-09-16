@@ -1,11 +1,11 @@
 id: 1016579198
-type: way
+type: node
 latitude: -34.2623
 longitude: -62.71231
 postcode: "6100"
 city: Rufino
-street: "Juan Bautista Justo"
-housenumber: 89
+street: Juan Bautista Justo
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

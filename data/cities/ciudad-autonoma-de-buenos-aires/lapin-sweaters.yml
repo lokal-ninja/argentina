@@ -4,8 +4,8 @@ latitude: -34.60428
 longitude: -58.40372
 postcode: "1031"
 city: Ciudad Autónoma de Buenos Aires
-street: "Paso"
-housenumber: 430
-phone: "+54 11 4961-1084"
-opening_hours: "Mo-Fr 08:30-19:30; Sa-Su 09:00-14:00"
-website: "https://www.vanlon.com.ar/"
+street: Paso
+housenumber: "430"
+phone: +54 11 4961-1084
+opening_hours: Mo-Fr 08:30-19:30; Sa-Su 09:00-14:00
+website: https://www.vanlon.com.ar/

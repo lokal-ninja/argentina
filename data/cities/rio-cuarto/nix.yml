@@ -1,11 +1,11 @@
 id: 331739353
-type: way
+type: node
 latitude: -33.12781
 longitude: -64.3834
 postcode: "5800"
 city: Río Cuarto
-street: "Ruta Nacional A005"
-housenumber: 
-phone: "+54 358 414-6110"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
-website: "http://www.nixsa.com.ar/"
+street: Ruta Nacional A005
+housenumber: ""
+phone: +54 358 414-6110
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-20:00
+website: http://www.nixsa.com.ar/

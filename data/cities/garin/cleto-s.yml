@@ -1,11 +1,11 @@
 id: 626690507
-type: way
+type: node
 latitude: -34.42245
 longitude: -58.73675
 postcode: "1619"
 city: Garin
-street: "Ayacucho"
-housenumber: 
+street: Ayacucho
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

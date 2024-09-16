@@ -1,11 +1,11 @@
 id: 1081251753
-type: way
+type: node
 latitude: -38.96904
 longitude: -68.04598
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "El Chocón"
-housenumber: 957
+street: El Chocón
+housenumber: "957"
 phone: ""
 opening_hours: ""
 website: ""

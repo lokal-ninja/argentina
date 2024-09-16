@@ -1,11 +1,11 @@
 id: 1134192267
-type: way
+type: node
 latitude: -38.95502
 longitude: -68.08073
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "General San Martín"
-housenumber: 1534
+street: General San Martín
+housenumber: "1534"
 phone: ""
 opening_hours: ""
-website: "https://www.turbinegroup.com.ar/"
+website: https://www.turbinegroup.com.ar/

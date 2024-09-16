@@ -1,11 +1,11 @@
 id: 948872143
-type: way
+type: node
 latitude: -38.72013
 longitude: -62.25741
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "General Paz"
-housenumber: 249
+street: General Paz
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

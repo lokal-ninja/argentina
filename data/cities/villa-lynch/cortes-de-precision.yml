@@ -1,11 +1,11 @@
 id: 1227662367
-type: way
+type: node
 latitude: -34.58388
 longitude: -58.52786
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "Avenida 85 - Libertador General San Martín"
-housenumber: 1159
+street: Avenida 85 - Libertador General San Martín
+housenumber: "1159"
 phone: ""
 opening_hours: ""
-website: "https://cortesdeprecision.com/"
+website: https://cortesdeprecision.com/

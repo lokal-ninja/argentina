@@ -2,10 +2,10 @@ id: 12022142160
 type: node
 latitude: -38.94123
 longitude: -67.99105
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 802
-phone: "+54 299 411-8800"
+street: General San Martín
+housenumber: "802"
+phone: +54 299 411-8800
 opening_hours: ""
-website: "https://www.garantec.com.ar/"
+website: https://www.garantec.com.ar/

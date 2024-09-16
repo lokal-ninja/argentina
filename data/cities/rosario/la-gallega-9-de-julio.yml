@@ -1,11 +1,11 @@
 id: 331157547
-type: way
+type: node
 latitude: -32.95436
 longitude: -60.63509
 postcode: "2000"
 city: Rosario
-street: "9 de Julio"
-housenumber: 734
+street: 9 de Julio
+housenumber: "734"
 phone: ""
 opening_hours: ""
 website: ""

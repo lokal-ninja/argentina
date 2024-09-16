@@ -1,11 +1,11 @@
 id: 465558524
-type: way
+type: node
 latitude: -34.50619
 longitude: -58.52863
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Edison"
-housenumber: 2805
-phone: "+54 11 4836-2566"
-opening_hours: "Mo-Sa 10:00-20:00; Su off"
-website: "https://www.suplacard.com"
+street: Edison
+housenumber: "2805"
+phone: +54 11 4836-2566
+opening_hours: Mo-Sa 10:00-20:00; Su off
+website: https://www.suplacard.com

@@ -1,11 +1,11 @@
 id: 476716555
-type: way
+type: node
 latitude: -34.42214
 longitude: -58.5795
 postcode: "1648"
 city: Tigre
-street: "General Bartolomé Mitre"
-housenumber: 398
+street: General Bartolomé Mitre
+housenumber: "398"
 phone: ""
 opening_hours: ""
-website: "https://www.pumbalalumba.com.ar/"
+website: https://www.pumbalalumba.com.ar/

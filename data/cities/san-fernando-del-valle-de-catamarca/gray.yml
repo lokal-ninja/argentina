@@ -1,11 +1,11 @@
 id: 1261371964
-type: way
+type: node
 latitude: -28.47044
 longitude: -65.77964
-postcode: "K4700EMP"
+postcode: K4700EMP
 city: San Fernando del Valle de Catamarca
-street: "Sarmiento"
-housenumber: 780
+street: Sarmiento
+housenumber: "780"
 phone: ""
 opening_hours: ""
 website: ""

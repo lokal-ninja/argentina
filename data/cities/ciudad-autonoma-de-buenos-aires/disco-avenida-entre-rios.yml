@@ -1,11 +1,11 @@
 id: 210440079
-type: way
+type: node
 latitude: -34.61355
 longitude: -58.39224
-postcode: "C1079ABD"
+postcode: C1079ABD
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Entre Ríos"
-housenumber: 361
+street: Avenida Entre Ríos
+housenumber: "361"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 09:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 09:00-21:00
 website: ""

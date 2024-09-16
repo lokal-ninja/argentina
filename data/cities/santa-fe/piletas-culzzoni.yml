@@ -1,11 +1,11 @@
 id: 373245038
-type: way
+type: node
 latitude: -31.64556
 longitude: -60.69343
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "Avenida Alem"
-housenumber: 
+street: Avenida Alem
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

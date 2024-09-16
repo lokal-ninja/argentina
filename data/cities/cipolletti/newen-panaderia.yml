@@ -1,11 +1,11 @@
 id: 1219509515
-type: way
+type: node
 latitude: -38.94707
 longitude: -67.99201
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Luis Toschi"
-housenumber: 301
-phone: "+54 299 477-3966"
+street: Avenida Luis Toschi
+housenumber: "301"
+phone: +54 299 477-3966
 opening_hours: ""
-website: "https://newenpanaderia.negocio.site/"
+website: https://newenpanaderia.negocio.site/

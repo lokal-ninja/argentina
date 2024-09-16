@@ -1,11 +1,11 @@
 id: 473453748
-type: way
+type: node
 latitude: -34.59877
 longitude: -58.40398
 postcode: "1032"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Pueyrredón"
-housenumber: 980
-phone: "+54 11 4961-8947"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-13:30"
-website: "https://www.avantmotos.com.ar/"
+street: Avenida Pueyrredón
+housenumber: "980"
+phone: +54 11 4961-8947
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-13:30
+website: https://www.avantmotos.com.ar/

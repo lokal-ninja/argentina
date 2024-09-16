@@ -1,11 +1,11 @@
 id: 585483419
-type: way
+type: node
 latitude: -31.42735
 longitude: -62.08631
 postcode: "2400"
 city: San Francisco
-street: "Belgrano"
-housenumber: 1854
-phone: "+54 (3564) 43-6444"
+street: Belgrano
+housenumber: "1854"
+phone: +54 (3564) 43-6444
 opening_hours: ""
-website: "http://www.cordobamotos.com.ar/"
+website: http://www.cordobamotos.com.ar/

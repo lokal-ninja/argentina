@@ -1,11 +1,11 @@
 id: 1022424463
-type: way
+type: node
 latitude: -38.70881
 longitude: -62.26694
 postcode: "8000"
 city: Bahía Blanca
-street: "Casanova"
-housenumber: 424
+street: Casanova
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1304457172
-type: way
+type: node
 latitude: -40.81077
 longitude: -62.99718
 postcode: "8500"
 city: Viedma
-street: "Almirante Brown"
-housenumber: 150
+street: Almirante Brown
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

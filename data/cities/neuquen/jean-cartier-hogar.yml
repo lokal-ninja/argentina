@@ -1,11 +1,11 @@
 id: 1172612692
-type: way
+type: node
 latitude: -38.95846
 longitude: -68.06344
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Misiones"
-housenumber: 324
+street: Misiones
+housenumber: "324"
 phone: ""
 opening_hours: ""
-website: "https://jeancartierhogar.com/franquicia-neuquen.php"
+website: https://jeancartierhogar.com/franquicia-neuquen.php

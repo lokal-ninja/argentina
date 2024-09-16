@@ -1,11 +1,11 @@
 id: 96019008
-type: way
+type: node
 latitude: -26.82251
 longitude: -65.2664
 postcode: "4107"
 city: Yerba Buena
-street: "Fermín Cariola"
-housenumber: 42
-phone: "+54 381 4357086"
+street: Fermín Cariola
+housenumber: "42"
+phone: +54 381 4357086
 opening_hours: ""
-website: "https://www.tucumanshopping.com.ar/"
+website: https://www.tucumanshopping.com.ar/

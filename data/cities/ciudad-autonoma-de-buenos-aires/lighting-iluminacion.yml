@@ -1,11 +1,11 @@
 id: 471642328
-type: way
+type: node
 latitude: -34.56427
 longitude: -58.46931
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Monroe"
-housenumber: 3382
+street: Avenida Monroe
+housenumber: "3382"
 phone: ""
 opening_hours: ""
 website: ""

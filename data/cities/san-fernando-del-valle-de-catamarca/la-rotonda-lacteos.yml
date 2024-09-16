@@ -1,11 +1,11 @@
 id: 687858133
-type: way
+type: node
 latitude: -28.4667
 longitude: -65.75787
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "Avenida Acosta Villafañe"
-housenumber: 2115
-phone: "+54 387 595-4744"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "http://larotondalacteos.com.ar/"
+street: Avenida Acosta Villafañe
+housenumber: "2115"
+phone: +54 387 595-4744
+opening_hours: Mo-Sa 08:00-21:00
+website: http://larotondalacteos.com.ar/

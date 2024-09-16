@@ -1,11 +1,11 @@
 id: 138037847
-type: way
+type: node
 latitude: -28.46911
 longitude: -65.77193
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "San Martín"
-housenumber: 1049
-phone: "+54 383 445-2088"
-opening_hours: "Mo-Fr 08:30-12:30,17:00-21:00; Sa 09:00-12:30"
+street: San Martín
+housenumber: "1049"
+phone: +54 383 445-2088
+opening_hours: Mo-Fr 08:30-12:30,17:00-21:00; Sa 09:00-12:30
 website: ""

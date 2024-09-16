@@ -2,10 +2,11 @@ id: 10591074235
 type: node
 latitude: -34.56223
 longitude: -58.5572
-postcode: "B1650"
+postcode: B1650
 city: Villa Ballester
-street: "95 - San Lorenzo"
-housenumber: 3773
+street: 95 - San Lorenzo
+housenumber: "3773"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 08:00-21:00; Dec 21-23,29-30 08:00-23:00; Dec 24,31 08:00-18:00; Dec 25,Jan 01 off"
-website: "https://www.jumbo.com.ar/"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 08:00-21:00; Dec 21-23,29-30 08:00-23:00;
+    Dec 24,31 08:00-18:00; Dec 25,Jan 01 off
+website: https://www.jumbo.com.ar/

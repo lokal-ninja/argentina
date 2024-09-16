@@ -1,11 +1,11 @@
 id: 941183311
-type: way
+type: node
 latitude: -38.72044
 longitude: -62.26368
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Chiclana"
-housenumber: 263
+street: Chiclana
+housenumber: "263"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 8677598446
 type: node
 latitude: -31.64552
 longitude: -60.70661
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "La Rioja"
-housenumber: 2622
-phone: "+54 342 452-6967"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: La Rioja
+housenumber: "2622"
+phone: +54 342 452-6967
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1309461435
-type: way
+type: node
 latitude: -38.94045
 longitude: -67.99666
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "España"
-housenumber: 77
-phone: "+54 299 478-1485"
+street: España
+housenumber: "77"
+phone: +54 299 478-1485
 opening_hours: ""
-website: "http://www.monteroamoblamiento.com.ar/"
+website: http://www.monteroamoblamiento.com.ar/

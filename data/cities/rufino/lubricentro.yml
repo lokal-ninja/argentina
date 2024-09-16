@@ -1,11 +1,11 @@
 id: 1020371269
-type: way
+type: node
 latitude: -34.27042
 longitude: -62.7135
 postcode: "6100"
 city: Rufino
-street: "Cobo"
-housenumber: 879
+street: Cobo
+housenumber: "879"
 phone: ""
 opening_hours: ""
 website: ""

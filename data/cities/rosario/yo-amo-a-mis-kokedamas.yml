@@ -1,11 +1,11 @@
 id: 550670402
-type: way
+type: node
 latitude: -32.93983
 longitude: -60.66997
 postcode: "2002"
 city: Rosario
-street: "Cafferata"
-housenumber: 729
+street: Cafferata
+housenumber: "729"
 phone: ""
-opening_hours: "Tu-Su 09:00-22:00"
+opening_hours: Tu-Su 09:00-22:00
 website: ""

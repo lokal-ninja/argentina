@@ -1,11 +1,11 @@
 id: 863188860
-type: way
+type: node
 latitude: -34.55713
 longitude: -58.56258
 postcode: "1653"
 city: Villa Ballester
-street: "89 - Formosa"
-housenumber: 4839
+street: 89 - Formosa
+housenumber: "4839"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:30"
+opening_hours: Mo-Su 08:00-21:30
 website: ""

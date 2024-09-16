@@ -1,11 +1,11 @@
 id: 1113531638
-type: way
+type: node
 latitude: -38.93343
 longitude: -68.06774
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "San Francisco"
-housenumber: 590
+street: San Francisco
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 820738005
-type: way
+type: node
 latitude: -38.9383
 longitude: -67.999
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Manuel Belgrano"
-housenumber: 224
+street: Manuel Belgrano
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

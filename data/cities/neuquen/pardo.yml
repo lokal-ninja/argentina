@@ -1,11 +1,11 @@
 id: 1172887241
-type: way
+type: node
 latitude: -38.95829
 longitude: -68.0601
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 44
-phone: "+54 247 344-9620;+54 247 350-1786"
+street: Ministro Alcorta
+housenumber: "44"
+phone: +54 247 344-9620;+54 247 350-1786
 opening_hours: ""
-website: "https://www.pardo.com.ar/"
+website: https://www.pardo.com.ar/

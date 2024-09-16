@@ -1,11 +1,11 @@
 id: 468786790
-type: way
+type: node
 latitude: -34.6657
 longitude: -58.69711
 postcode: "1718"
 city: San Antonio de Padua
-street: "Avenida Presidente Juan Domingo Perón"
-housenumber: 23770
-phone: "+54 220 4862402"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "vea.com.ar"
+street: Avenida Presidente Juan Domingo Perón
+housenumber: "23770"
+phone: +54 220 4862402
+opening_hours: Mo-Su 08:00-20:00
+website: vea.com.ar

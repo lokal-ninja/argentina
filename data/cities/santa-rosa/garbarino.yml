@@ -1,11 +1,11 @@
 id: 832440922
-type: way
+type: node
 latitude: -36.61897
 longitude: -64.29112
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Nicolás Avellaneda"
-housenumber: 215
+street: Nicolás Avellaneda
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 466971971
-type: way
+type: node
 latitude: -34.52565
 longitude: -58.54895
 postcode: ""
 city: Villa Adelina
-street: "Paraná"
-housenumber: 6543
-phone: "0800-444-8484"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Paraná
+housenumber: "6543"
+phone: 0800-444-8484
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

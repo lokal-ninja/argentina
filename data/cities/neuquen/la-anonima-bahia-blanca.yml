@@ -1,11 +1,11 @@
 id: 821683759
-type: way
+type: node
 latitude: -38.95896
 longitude: -68.05087
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bahía Blanca"
-housenumber: 371
+street: Bahía Blanca
+housenumber: "371"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/006-neuquen"
+website: https://www.laanonima.com.ar/sucursales/006-neuquen

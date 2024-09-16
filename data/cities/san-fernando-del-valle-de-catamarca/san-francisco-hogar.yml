@@ -1,11 +1,11 @@
 id: 137946121
-type: way
+type: node
 latitude: -28.46808
 longitude: -65.77742
-postcode: "K4700BMN"
+postcode: K4700BMN
 city: San Fernando del Valle de Catamarca
-street: "República"
-housenumber: 652
+street: República
+housenumber: "652"
 phone: ""
 opening_hours: ""
 website: ""

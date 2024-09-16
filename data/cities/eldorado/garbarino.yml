@@ -2,10 +2,10 @@ id: 4446345889
 type: node
 latitude: -26.40825
 longitude: -54.60337
-postcode: "N3380"
+postcode: N3380
 city: Eldorado
-street: "Avenida San Martín Este"
-housenumber: 0
+street: Avenida San Martín Este
+housenumber: "0"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30,16:30-20:30"
+opening_hours: Mo-Sa 08:30-12:30,16:30-20:30
 website: ""

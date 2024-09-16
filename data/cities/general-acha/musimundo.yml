@@ -1,11 +1,11 @@
 id: 835899745
-type: way
+type: node
 latitude: -37.37736
 longitude: -64.60348
-postcode: "L8200"
+postcode: L8200
 city: General Acha
-street: "Manuel J. Campos"
-housenumber: 780
+street: Manuel J. Campos
+housenumber: "780"
 phone: ""
 opening_hours: ""
 website: ""

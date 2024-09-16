@@ -1,11 +1,11 @@
 id: 1174170768
-type: way
+type: node
 latitude: -38.9577
 longitude: -68.0567
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Río Negro"
-housenumber: 255
+street: Río Negro
+housenumber: "255"
 phone: ""
 opening_hours: ""
-website: "https://www.cheeky.com.ar/"
+website: https://www.cheeky.com.ar/

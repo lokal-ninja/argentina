@@ -1,11 +1,11 @@
 id: 28262622
-type: way
+type: node
 latitude: -34.56707
 longitude: -58.43772
-postcode: "C1426BOC"
+postcode: C1426BOC
 city: Ciudad Aurónoma de Buenos Aires
-street: "Avenida Luis María Campos"
-housenumber: 
-phone: "+54 11 4778-5031"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.elsolarshopping.com.ar/"
+street: Avenida Luis María Campos
+housenumber: ""
+phone: +54 11 4778-5031
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.elsolarshopping.com.ar/

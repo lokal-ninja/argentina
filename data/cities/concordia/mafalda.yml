@@ -1,11 +1,11 @@
 id: 630135604
-type: way
+type: node
 latitude: -31.39123
 longitude: -58.01726
 postcode: "3200"
 city: Concordia
-street: "3 de Febrero"
-housenumber: 1624
+street: 3 de Febrero
+housenumber: "1624"
 phone: ""
 opening_hours: ""
 website: ""

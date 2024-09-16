@@ -1,11 +1,11 @@
 id: 1265014671
-type: way
+type: node
 latitude: -38.93841
 longitude: -67.98441
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Leandro N. Alem"
-housenumber: 1209
+street: Leandro N. Alem
+housenumber: "1209"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 512982517
-type: way
+type: node
 latitude: -34.1917
 longitude: -58.95958
 postcode: "2804"
 city: Campana
-street: "Avenida Rivadavia"
-housenumber: 
+street: Avenida Rivadavia
+housenumber: ""
 phone: ""
-opening_hours: "Sa-Su 09:00-18:00"
+opening_hours: Sa-Su 09:00-18:00
 website: ""

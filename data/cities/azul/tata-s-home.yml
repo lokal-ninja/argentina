@@ -1,11 +1,11 @@
 id: 919791855
-type: way
+type: node
 latitude: -36.78547
 longitude: -59.87349
 postcode: ""
 city: Azul
-street: "Avenida Pellegrini"
-housenumber: 1247
+street: Avenida Pellegrini
+housenumber: "1247"
 phone: ""
 opening_hours: ""
 website: ""

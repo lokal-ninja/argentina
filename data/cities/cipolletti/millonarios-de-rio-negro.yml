@@ -2,10 +2,10 @@ id: 11770622625
 type: node
 latitude: -38.93928
 longitude: -67.98897
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
 street: ""
-housenumber: 325
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

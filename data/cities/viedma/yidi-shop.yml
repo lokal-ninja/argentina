@@ -1,11 +1,11 @@
 id: 835834565
-type: way
+type: node
 latitude: -40.81605
 longitude: -63.00216
 postcode: "8500"
 city: Viedma
-street: "Álvaro Barros"
-housenumber: 1326
+street: Álvaro Barros
+housenumber: "1326"
 phone: ""
 opening_hours: ""
 website: ""

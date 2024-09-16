@@ -1,11 +1,11 @@
 id: 467220559
-type: way
+type: node
 latitude: -34.50905
 longitude: -58.48104
 postcode: "1636"
 city: Olivos
-street: "Corrientes"
-housenumber: 635
-phone: "+54 11 4790-0592"
+street: Corrientes
+housenumber: "635"
+phone: +54 11 4790-0592
 opening_hours: ""
 website: ""

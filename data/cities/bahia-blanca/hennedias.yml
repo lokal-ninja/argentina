@@ -1,11 +1,11 @@
 id: 854979015
-type: way
+type: node
 latitude: -38.71002
 longitude: -62.26456
 postcode: "8000"
 city: Bahía Blanca
-street: "11 de Abril"
-housenumber: 474
-phone: "+54 9 291 406-0900"
+street: 11 de Abril
+housenumber: "474"
+phone: +54 9 291 406-0900
 opening_hours: ""
-website: "https://www.hennedias.com"
+website: https://www.hennedias.com

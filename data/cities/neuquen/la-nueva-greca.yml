@@ -1,11 +1,11 @@
 id: 1174467222
-type: way
+type: node
 latitude: -38.95894
 longitude: -68.05756
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Corrientes"
-housenumber: 380
+street: Corrientes
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

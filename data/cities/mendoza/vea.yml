@@ -1,11 +1,11 @@
 id: 160244727
-type: way
+type: node
 latitude: -32.89972
 longitude: -68.86034
 postcode: ""
 city: Mendoza
-street: "Paso de los Andes"
-housenumber: 82
+street: Paso de los Andes
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

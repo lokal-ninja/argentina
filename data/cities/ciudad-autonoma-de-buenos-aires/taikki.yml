@@ -1,11 +1,11 @@
 id: 471183202
-type: way
+type: node
 latitude: -34.60321
 longitude: -58.50637
 postcode: "1419"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Francisco Beiró"
-housenumber: 3836
-phone: "+54 11 4789-5009"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:30"
-website: "https://www.taikki.com.ar/"
+street: Avenida Francisco Beiró
+housenumber: "3836"
+phone: +54 11 4789-5009
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:30
+website: https://www.taikki.com.ar/

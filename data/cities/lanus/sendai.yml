@@ -1,11 +1,11 @@
 id: 578585959
-type: way
+type: node
 latitude: -34.68979
 longitude: -58.38969
 postcode: "1824"
 city: Lanús
-street: "Senador José Pallarés"
-housenumber: 570
-phone: "+54 11 2060-8777"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00"
-website: "https://www.sendai.com.ar/"
+street: Senador José Pallarés
+housenumber: "570"
+phone: +54 11 2060-8777
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00
+website: https://www.sendai.com.ar/

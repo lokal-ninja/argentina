@@ -1,11 +1,11 @@
 id: 835661453
-type: way
+type: node
 latitude: -24.80686
 longitude: -65.40745
 postcode: "4400"
 city: Salta Capital
-street: "Delfín Leguizamón"
-housenumber: 223
+street: Delfín Leguizamón
+housenumber: "223"
 phone: "+543874237880"
 opening_hours: ""
 website: ""

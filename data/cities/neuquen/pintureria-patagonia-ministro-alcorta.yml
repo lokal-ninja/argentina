@@ -1,11 +1,11 @@
 id: 1172612590
-type: way
+type: node
 latitude: -38.95798
 longitude: -68.06459
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 398
+street: Ministro Alcorta
+housenumber: "398"
 phone: ""
 opening_hours: ""
-website: "http://pintureriapatagonia.net/"
+website: http://pintureriapatagonia.net/

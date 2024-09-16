@@ -1,11 +1,11 @@
 id: 471645269
-type: way
+type: node
 latitude: -34.57471
 longitude: -58.4788
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Álvarez Thomas"
-housenumber: 2711
-phone: "+54 11 4521-1400"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-13:30"
-website: "http://patriciazino.blogspot.com.ar/"
+street: Avenida Álvarez Thomas
+housenumber: "2711"
+phone: +54 11 4521-1400
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-13:30
+website: http://patriciazino.blogspot.com.ar/

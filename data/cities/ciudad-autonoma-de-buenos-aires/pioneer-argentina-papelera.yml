@@ -1,11 +1,11 @@
 id: 469492784
-type: way
+type: node
 latitude: -34.57804
 longitude: -58.48039
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Triunvirato"
-housenumber: 4231
-phone: "+54 11 4522-1238"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
-website: "http://www.pioneerpapelera.com.ar/"
+street: Avenida Triunvirato
+housenumber: "4231"
+phone: +54 11 4522-1238
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00
+website: http://www.pioneerpapelera.com.ar/

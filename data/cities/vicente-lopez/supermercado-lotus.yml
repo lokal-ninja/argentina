@@ -1,11 +1,11 @@
 id: 465645102
-type: way
+type: node
 latitude: -34.50085
 longitude: -58.49578
 postcode: "1636"
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 3811
-phone: "+54 11 4711-3463"
+street: Avenida Maipú
+housenumber: "3811"
+phone: +54 11 4711-3463
 opening_hours: ""
 website: ""

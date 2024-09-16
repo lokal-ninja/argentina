@@ -1,11 +1,11 @@
 id: 1297195586
-type: way
+type: node
 latitude: -38.93994
 longitude: -67.9935
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General Roca"
-housenumber: 623
-phone: "0800-777-0222;+54 299 478-2835"
+street: General Roca
+housenumber: "623"
+phone: 0800-777-0222;+54 299 478-2835
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/051-cipolletti"
+website: https://www.laanonima.com.ar/sucursales/051-cipolletti

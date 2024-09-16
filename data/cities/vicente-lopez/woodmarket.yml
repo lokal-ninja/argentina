@@ -1,11 +1,11 @@
 id: 467779431
-type: way
+type: node
 latitude: -34.51476
 longitude: -58.47682
 postcode: "1638"
 city: Vicente López
-street: "Avenida del Libertador"
-housenumber: 1948
+street: Avenida del Libertador
+housenumber: "1948"
 phone: ""
 opening_hours: ""
-website: "https://woodmarket.com.ar/"
+website: https://woodmarket.com.ar/

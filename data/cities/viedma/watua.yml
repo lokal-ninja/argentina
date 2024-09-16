@@ -1,11 +1,11 @@
 id: 683146510
-type: way
+type: node
 latitude: -40.81154
 longitude: -62.9892
 postcode: "8500"
 city: Viedma
-street: "Bartolomé Mitre"
-housenumber: 295
+street: Bartolomé Mitre
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

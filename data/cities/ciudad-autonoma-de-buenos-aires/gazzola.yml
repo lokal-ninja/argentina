@@ -1,11 +1,11 @@
 id: 514038009
-type: way
+type: node
 latitude: -34.57766
 longitude: -58.47706
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "La Pampa"
-housenumber: 4787
-phone: "+54 11 4521-0623"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-19:00"
-website: "http://www.tallergazzola.com.ar/"
+street: La Pampa
+housenumber: "4787"
+phone: +54 11 4521-0623
+opening_hours: Mo-Fr 08:00-13:00,14:00-19:00
+website: http://www.tallergazzola.com.ar/

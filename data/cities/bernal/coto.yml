@@ -1,11 +1,11 @@
 id: 545531993
-type: way
+type: node
 latitude: -34.71857
 longitude: -58.29157
 postcode: "1876"
 city: Bernal
-street: "Avenida Dardo Rocha"
-housenumber: 251
+street: Avenida Dardo Rocha
+housenumber: "251"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-14:00"
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-14:00
 website: ""

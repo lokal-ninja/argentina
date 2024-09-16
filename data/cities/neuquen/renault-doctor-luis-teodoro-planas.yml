@@ -1,11 +1,11 @@
 id: 1133896205
-type: way
+type: node
 latitude: -38.95883
 longitude: -68.08423
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 1795
+street: Doctor Luis Teodoro Planas
+housenumber: "1795"
 phone: ""
 opening_hours: ""
-website: "https://www.kumenia.com/"
+website: https://www.kumenia.com/

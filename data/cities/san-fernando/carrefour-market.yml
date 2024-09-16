@@ -1,11 +1,11 @@
 id: 207218052
-type: way
+type: node
 latitude: -34.44136
 longitude: -58.5536
 postcode: "1646"
 city: San Fernando
-street: "Avenida Presidente Teniente General Juan Domingo Perón"
-housenumber: 1350
-phone: "0800-444-8484"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Avenida Presidente Teniente General Juan Domingo Perón
+housenumber: "1350"
+phone: 0800-444-8484
+opening_hours: Mo-Su 07:00-22:00
 website: ""

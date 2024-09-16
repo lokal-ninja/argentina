@@ -1,11 +1,11 @@
 id: 1104826193
-type: way
+type: node
 latitude: -32.95802
 longitude: -60.66676
-postcode: "S2000HYR"
+postcode: S2000HYR
 city: Rosario
-street: "Avenida Ovidio Lagos"
-housenumber: 2174
+street: Avenida Ovidio Lagos
+housenumber: "2174"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

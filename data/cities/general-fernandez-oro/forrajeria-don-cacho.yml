@@ -1,11 +1,11 @@
 id: 1286691577
-type: way
+type: node
 latitude: -38.95347
 longitude: -67.9211
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "General Roca"
-housenumber: 365
+street: General Roca
+housenumber: "365"
 phone: ""
 opening_hours: ""
 website: ""

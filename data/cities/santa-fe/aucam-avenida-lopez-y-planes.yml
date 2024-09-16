@@ -1,11 +1,11 @@
 id: 578586011
-type: way
+type: node
 latitude: -31.62523
 longitude: -60.71339
 postcode: "3002"
 city: Santa Fe
-street: "Avenida López y Planes"
-housenumber: 4346
-phone: "+54 342 450-3776"
-opening_hours: "Mo-Fr 08:00-12:00,15:30-20:00; Sa 08:30-12:30"
-website: "https://www.aucam.com.ar/"
+street: Avenida López y Planes
+housenumber: "4346"
+phone: +54 342 450-3776
+opening_hours: Mo-Fr 08:00-12:00,15:30-20:00; Sa 08:30-12:30
+website: https://www.aucam.com.ar/

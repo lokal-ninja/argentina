@@ -1,11 +1,11 @@
 id: 1155618564
-type: way
+type: node
 latitude: -34.57567
 longitude: -58.53527
-postcode: "B1650CBE"
+postcode: B1650CBE
 city: General San Martín
-street: "52 - Belgrano"
-housenumber: 3487
+street: 52 - Belgrano
+housenumber: "3487"
 phone: ""
 opening_hours: ""
 website: ""

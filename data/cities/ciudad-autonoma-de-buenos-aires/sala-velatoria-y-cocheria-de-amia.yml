@@ -2,10 +2,10 @@ id: 6546374590
 type: node
 latitude: -34.59093
 longitude: -58.43995
-postcode: "C1414AUW"
+postcode: C1414AUW
 city: Ciudad Autónoma de Buenos Aires
-street: "Loyola"
-housenumber: 1139
-phone: "+54 11 4855-8088"
-opening_hours: "24/7"
+street: Loyola
+housenumber: "1139"
+phone: +54 11 4855-8088
+opening_hours: 24/7
 website: ""

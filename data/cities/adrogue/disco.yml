@@ -1,11 +1,11 @@
 id: 316964988
-type: way
+type: node
 latitude: -34.79892
 longitude: -58.40351
-postcode: "B1846DGH"
+postcode: B1846DGH
 city: Adrogué
-street: "Avenida Amenedo"
-housenumber: 302
-phone: "+54 11 4293-4432"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH 09:00-20:00"
-website: "https://www.disco.com.ar/"
+street: Avenida Amenedo
+housenumber: "302"
+phone: +54 11 4293-4432
+opening_hours: Mo-Sa 08:00-21:00; Su,PH 09:00-20:00
+website: https://www.disco.com.ar/

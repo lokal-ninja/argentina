@@ -1,11 +1,11 @@
 id: 1224921912
-type: way
+type: node
 latitude: -34.56348
 longitude: -58.56283
-postcode: "B1653"
+postcode: B1653
 city: Villa Ballester
-street: "101 - 9 de Julio"
-housenumber: 4429
+street: 101 - 9 de Julio
+housenumber: "4429"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 715738219
-type: way
+type: node
 latitude: -31.62234
 longitude: -58.50666
 postcode: ""
 city: San Salvador
-street: "Avenida Malarín"
-housenumber: 582
+street: Avenida Malarín
+housenumber: "582"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,16:00-20:00"
+opening_hours: Mo-Sa 08:00-12:00,16:00-20:00
 website: ""

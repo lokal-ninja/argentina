@@ -1,11 +1,11 @@
 id: 1309461488
-type: way
+type: node
 latitude: -38.94115
 longitude: -67.9959
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Fernández Oro"
-housenumber: 476
-phone: "+54 299 477-1812"
+street: Avenida General Fernández Oro
+housenumber: "476"
+phone: +54 299 477-1812
 opening_hours: ""
-website: "https://tiendaalvarezneumaticos.com.ar/"
+website: https://tiendaalvarezneumaticos.com.ar/

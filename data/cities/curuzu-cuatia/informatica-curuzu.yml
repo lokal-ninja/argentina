@@ -1,11 +1,11 @@
 id: 1082341464
-type: way
+type: node
 latitude: -29.78992
 longitude: -58.06032
 postcode: "3460"
 city: Curuzú Cuatiá
-street: "Berón de Astrada"
-housenumber: 1119
+street: Berón de Astrada
+housenumber: "1119"
 phone: ""
-opening_hours: "08:00-12:30,16:00-20:30"
-website: "https://www.informaticacuruzu.com.ar/"
+opening_hours: 08:00-12:30,16:00-20:30
+website: https://www.informaticacuruzu.com.ar/

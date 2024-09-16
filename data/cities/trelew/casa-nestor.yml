@@ -1,11 +1,11 @@
 id: 841074515
-type: way
+type: node
 latitude: -43.25428
 longitude: -65.31086
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "San Martín"
-housenumber: 378
+street: San Martín
+housenumber: "378"
 phone: ""
 opening_hours: ""
 website: ""

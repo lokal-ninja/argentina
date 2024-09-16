@@ -1,11 +1,11 @@
 id: 466459456
-type: way
+type: node
 latitude: -34.56236
 longitude: -58.58241
 postcode: ""
 city: Villa Ballester
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 5679
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "5679"
 phone: ""
 opening_hours: ""
 website: ""

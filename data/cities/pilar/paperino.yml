@@ -1,11 +1,11 @@
 id: 585483412
-type: way
+type: node
 latitude: -31.67398
 longitude: -63.88626
 postcode: "5972"
 city: Pilar
-street: "Juan Bautista Alberdi"
-housenumber: 1775
-phone: "+54 3572 47-2000"
-opening_hours: "Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30"
+street: Juan Bautista Alberdi
+housenumber: "1775"
+phone: +54 3572 47-2000
+opening_hours: Mo-Fr 08:30-12:30,16:00-20:00; Sa 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 360578082
-type: way
+type: node
 latitude: -32.92719
 longitude: -60.75125
 postcode: ""
 city: Rosario
-street: "Avenida Eva Perón"
-housenumber: 9547
+street: Avenida Eva Perón
+housenumber: "9547"
 phone: ""
 opening_hours: ""
 website: ""

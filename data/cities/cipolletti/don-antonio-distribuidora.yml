@@ -1,11 +1,11 @@
 id: 1308938510
-type: way
+type: node
 latitude: -38.94148
 longitude: -67.99479
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Fernández Oro"
-housenumber: 540
+street: Avenida General Fernández Oro
+housenumber: "540"
 phone: ""
 opening_hours: ""
-website: "https://donantoniodistribuidora.com/"
+website: https://donantoniodistribuidora.com/

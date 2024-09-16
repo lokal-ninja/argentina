@@ -1,11 +1,11 @@
 id: 1268304445
-type: way
+type: node
 latitude: -34.5764
 longitude: -58.58082
 postcode: ""
 city: Billinghurst
-street: "141 - Avenida Triunvirato"
-housenumber: 4545
+street: 141 - Avenida Triunvirato
+housenumber: "4545"
 phone: ""
 opening_hours: ""
-website: "https://www.hidromor.com.ar/"
+website: https://www.hidromor.com.ar/

@@ -1,11 +1,11 @@
 id: 477621649
-type: way
+type: node
 latitude: -34.60131
 longitude: -58.44245
-postcode: "C1414DLC"
+postcode: C1414DLC
 city: Ciudad Autónoma de Buenos Aires
-street: "Malabia"
-housenumber: 103
+street: Malabia
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://www.coto.com.ar/"
+website: https://www.coto.com.ar/

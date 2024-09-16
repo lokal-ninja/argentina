@@ -1,11 +1,11 @@
 id: 477529945
-type: way
+type: node
 latitude: -34.62529
 longitude: -58.42764
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Pedro Goyena"
-housenumber: 22
+street: Avenida Pedro Goyena
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

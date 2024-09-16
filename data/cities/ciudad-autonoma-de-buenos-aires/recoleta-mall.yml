@@ -1,11 +1,11 @@
 id: 73510970
-type: way
+type: node
 latitude: -34.58937
 longitude: -58.3933
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Vicente López"
-housenumber: 2050
-phone: "+54 11 4808-0605"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.recoletamall.com.ar/"
+street: Vicente López
+housenumber: "2050"
+phone: +54 11 4808-0605
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.recoletamall.com.ar/

@@ -1,11 +1,11 @@
 id: 465558527
-type: way
+type: node
 latitude: -34.50652
 longitude: -58.52902
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Edison"
-housenumber: 2869
-phone: "+54 11 4717-4135"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-17:00; Su off"
-website: "https://www.pisosalemanes.com/"
+street: Edison
+housenumber: "2869"
+phone: +54 11 4717-4135
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-17:00; Su off
+website: https://www.pisosalemanes.com/

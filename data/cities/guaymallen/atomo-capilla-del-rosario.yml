@@ -1,11 +1,11 @@
 id: 800875004
-type: way
+type: node
 latitude: -32.91002
 longitude: -68.76024
 postcode: "5523"
 city: Guaymallén
-street: "Amigorena"
-housenumber: 6893
+street: Amigorena
+housenumber: "6893"
 phone: ""
-opening_hours: "Mo-Su 09:00-13:00, Mo-Sa 17:00-21:00"
+opening_hours: Mo-Su 09:00-13:00, Mo-Sa 17:00-21:00
 website: ""

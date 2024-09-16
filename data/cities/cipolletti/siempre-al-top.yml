@@ -1,11 +1,11 @@
 id: 1306469646
-type: way
+type: node
 latitude: -38.93885
 longitude: -67.99636
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "España"
-housenumber: 220
-phone: "+54 299 524-8674"
+street: España
+housenumber: "220"
+phone: +54 299 524-8674
 opening_hours: ""
-website: "https://www.siemprealtopcipolletti.com/"
+website: https://www.siemprealtopcipolletti.com/

@@ -1,11 +1,11 @@
 id: 1136060772
-type: way
+type: node
 latitude: -34.57811
 longitude: -58.53752
-postcode: "B1650BEH"
+postcode: B1650BEH
 city: General San Martín
-street: "91 - San Martín"
-housenumber: 1982
-phone: "+54 11 4752-6689"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.fravega.com/"
+street: 91 - San Martín
+housenumber: "1982"
+phone: +54 11 4752-6689
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.fravega.com/

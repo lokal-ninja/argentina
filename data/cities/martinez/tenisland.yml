@@ -1,11 +1,11 @@
 id: 464842335
-type: way
+type: node
 latitude: -34.4871
 longitude: -58.50167
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida Santa Fe"
-housenumber: 1676
-phone: "+54 11 4793-3115"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "http://www.tenisland.com.ar/"
+street: Avenida Santa Fe
+housenumber: "1676"
+phone: +54 11 4793-3115
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: http://www.tenisland.com.ar/

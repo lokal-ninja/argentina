@@ -1,11 +1,11 @@
 id: 1188186676
-type: way
+type: node
 latitude: -38.93086
 longitude: -69.19951
-postcode: "Q8318"
+postcode: Q8318
 city: Plaza Huincul
-street: "Avenida San Martín"
-housenumber: 387
+street: Avenida San Martín
+housenumber: "387"
 phone: ""
 opening_hours: ""
 website: ""

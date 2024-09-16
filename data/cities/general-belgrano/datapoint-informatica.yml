@@ -2,10 +2,10 @@ id: 5829314776
 type: node
 latitude: -35.76736
 longitude: -58.49555
-postcode: "B7223"
+postcode: B7223
 city: General Belgrano
-street: "Estrada"
-housenumber: 631
+street: Estrada
+housenumber: "631"
 phone: ""
 opening_hours: ""
-website: "https://datapoint.com.ar/"
+website: https://datapoint.com.ar/

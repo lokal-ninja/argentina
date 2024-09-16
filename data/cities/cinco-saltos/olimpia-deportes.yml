@@ -1,11 +1,11 @@
 id: 845900446
-type: way
+type: node
 latitude: -38.82903
 longitude: -68.06428
-postcode: "R8303"
+postcode: R8303
 city: Cinco Saltos
-street: "Don Bosco"
-housenumber: 2
+street: Don Bosco
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

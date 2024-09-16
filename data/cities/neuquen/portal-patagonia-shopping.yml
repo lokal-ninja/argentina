@@ -1,11 +1,11 @@
 id: 1086569671
-type: way
+type: node
 latitude: -38.9613
 longitude: -68.09283
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Juan Julián Lastra"
-housenumber: 2400
+street: Juan Julián Lastra
+housenumber: "2400"
 phone: ""
 opening_hours: ""
-website: "https://portalpatagonia.com.ar/"
+website: https://portalpatagonia.com.ar/

@@ -1,11 +1,11 @@
 id: 476369443
-type: way
+type: node
 latitude: -34.61781
 longitude: -58.43709
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Acoyte"
-housenumber: 44
-phone: "+54 11 4901-2932"
+street: Avenida Acoyte
+housenumber: "44"
+phone: +54 11 4901-2932
 opening_hours: ""
 website: ""

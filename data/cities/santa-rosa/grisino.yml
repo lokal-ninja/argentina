@@ -1,11 +1,11 @@
 id: 834360332
-type: way
+type: node
 latitude: -36.62315
 longitude: -64.29162
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Escalante"
-housenumber: 33
+street: Escalante
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

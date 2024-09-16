@@ -1,11 +1,11 @@
 id: 473405386
-type: way
+type: node
 latitude: -34.60755
 longitude: -58.48475
-postcode: "C1417CUN"
+postcode: C1417CUN
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Nazca"
-housenumber: 2432
+street: Avenida Nazca
+housenumber: "2432"
 phone: "+541145015377"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:30"
-website: "https://www.lacasahnos.com/"
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:30
+website: https://www.lacasahnos.com/

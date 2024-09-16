@@ -1,11 +1,11 @@
 id: 1149555482
-type: way
+type: node
 latitude: -38.89993
 longitude: -70.07508
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Añelo"
-housenumber: 341
+street: Añelo
+housenumber: "341"
 phone: ""
 opening_hours: ""
 website: ""

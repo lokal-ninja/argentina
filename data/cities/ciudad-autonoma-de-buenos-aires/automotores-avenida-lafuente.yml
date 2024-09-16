@@ -1,11 +1,11 @@
 id: 476975333
-type: way
+type: node
 latitude: -34.64788
 longitude: -58.45734
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Lafuente"
-housenumber: 1551
+street: Avenida Lafuente
+housenumber: "1551"
 phone: ""
 opening_hours: ""
 website: ""

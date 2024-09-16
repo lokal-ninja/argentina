@@ -1,11 +1,11 @@
 id: 1149756087
-type: way
+type: node
 latitude: -38.90524
 longitude: -70.06863
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Uriburu"
-housenumber: 286
+street: Uriburu
+housenumber: "286"
 phone: ""
 opening_hours: ""
 website: ""

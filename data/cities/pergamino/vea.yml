@@ -1,11 +1,11 @@
 id: 582703827
-type: way
+type: node
 latitude: -33.89877
 longitude: -60.57716
 postcode: "2700"
 city: Pergamino
-street: "Merced"
-housenumber: 1183
+street: Merced
+housenumber: "1183"
 phone: ""
 opening_hours: ""
-website: "https://www.veadigital.com.ar"
+website: https://www.veadigital.com.ar

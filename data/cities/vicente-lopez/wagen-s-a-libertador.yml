@@ -1,11 +1,11 @@
 id: 467816251
-type: way
+type: node
 latitude: -34.51625
 longitude: -58.47562
 postcode: "1638"
 city: Vicente López
-street: "Avenida del Libertador"
-housenumber: 
+street: Avenida del Libertador
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://volkswagen.carone.com.ar/"
+website: https://volkswagen.carone.com.ar/

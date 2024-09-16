@@ -1,11 +1,11 @@
 id: 471346234
-type: way
+type: node
 latitude: -34.53464
 longitude: -58.47823
 postcode: ""
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 388
+street: Avenida Maipú
+housenumber: "388"
 phone: "47183345"
 opening_hours: ""
 website: ""

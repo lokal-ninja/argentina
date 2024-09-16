@@ -1,11 +1,11 @@
 id: 775368336
-type: way
+type: node
 latitude: -35.66129
 longitude: -63.75382
 postcode: "6360"
 city: General Pico
-street: "Calle 17"
-housenumber: 852
+street: Calle 17
+housenumber: "852"
 phone: ""
 opening_hours: ""
 website: ""

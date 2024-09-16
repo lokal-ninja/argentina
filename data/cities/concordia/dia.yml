@@ -1,11 +1,11 @@
 id: 526913527
-type: way
+type: node
 latitude: -31.38845
 longitude: -58.01534
 postcode: "3200"
 city: Concordia
-street: "Santiago Coldaroli"
-housenumber: 78
+street: Santiago Coldaroli
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 474917549
-type: way
+type: node
 latitude: -34.49507
 longitude: -58.54549
-postcode: "B1642AKF"
+postcode: B1642AKF
 city: San Isidro
-street: "Avenida Diego Carman"
-housenumber: 451
-phone: "0800-444-8484"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.carrefour.com.ar/"
+street: Avenida Diego Carman
+housenumber: "451"
+phone: 0800-444-8484
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.carrefour.com.ar/

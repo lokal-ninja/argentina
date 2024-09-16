@@ -1,11 +1,11 @@
 id: 942040655
-type: way
+type: node
 latitude: -38.72502
 longitude: -62.26109
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Undiano"
-housenumber: 84
+street: Undiano
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

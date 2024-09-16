@@ -1,11 +1,11 @@
 id: 872263189
-type: way
+type: node
 latitude: -24.76266
 longitude: -65.39406
 postcode: "4400"
 city: Salta
-street: "Los Arces"
-housenumber: 665
+street: Los Arces
+housenumber: "665"
 phone: "03874399249"
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

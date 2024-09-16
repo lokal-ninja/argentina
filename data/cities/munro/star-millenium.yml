@@ -1,11 +1,11 @@
 id: 496730098
-type: way
+type: node
 latitude: -34.53002
 longitude: -58.52313
 postcode: "1605"
 city: Munro
-street: "Avenida Vélez Sarsfield"
-housenumber: 4586
-phone: "+54 11 4762-2117"
-opening_hours: "Mo-Sa 10:00-13:30, 16:00-20:00"
-website: "http://StarMillenium.com.ar"
+street: Avenida Vélez Sarsfield
+housenumber: "4586"
+phone: +54 11 4762-2117
+opening_hours: Mo-Sa 10:00-13:30, 16:00-20:00
+website: http://StarMillenium.com.ar

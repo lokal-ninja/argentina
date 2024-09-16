@@ -1,11 +1,11 @@
 id: 1134678097
-type: way
+type: node
 latitude: -38.95418
 longitude: -68.08418
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Cacique Catriel"
-housenumber: 75
+street: Cacique Catriel
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

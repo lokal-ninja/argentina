@@ -1,11 +1,11 @@
 id: 473390923
-type: way
+type: node
 latitude: -34.60444
 longitude: -58.38296
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Corrientes"
-housenumber: 
+street: Avenida Corrientes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.carrefour.com.ar/"
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.carrefour.com.ar/

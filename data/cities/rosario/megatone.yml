@@ -4,8 +4,8 @@ latitude: -32.94621
 longitude: -60.64017
 postcode: "2000"
 city: Rosario
-street: "Córdoba"
-housenumber: 1235
-phone: "+54 8104446342"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.megatone.net"
+street: Córdoba
+housenumber: "1235"
+phone: +54 8104446342
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.megatone.net

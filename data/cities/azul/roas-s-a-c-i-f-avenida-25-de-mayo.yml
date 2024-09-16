@@ -1,11 +1,11 @@
 id: 678045801
-type: way
+type: node
 latitude: -36.77706
 longitude: -59.85668
 postcode: "7300"
 city: Azul
-street: "Avenida 25 de Mayo"
-housenumber: 409
-phone: "+54 2281 42 6166; +54 2281 42 3135"
-opening_hours: "Mo-Fr 08:00-12:00, 5:30-20:00; Sa 08:00-12:00"
-website: "https://www.roas.com.ar/"
+street: Avenida 25 de Mayo
+housenumber: "409"
+phone: +54 2281 42 6166; +54 2281 42 3135
+opening_hours: Mo-Fr 08:00-12:00, 5:30-20:00; Sa 08:00-12:00
+website: https://www.roas.com.ar/

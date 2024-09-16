@@ -1,11 +1,11 @@
 id: 1174689634
-type: way
+type: node
 latitude: -38.95723
 longitude: -68.05526
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bartolomé Mitre"
-housenumber: 299
+street: Bartolomé Mitre
+housenumber: "299"
 phone: ""
 opening_hours: ""
-website: "https://www.elninofeliz.com.ar/"
+website: https://www.elninofeliz.com.ar/

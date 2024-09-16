@@ -2,10 +2,10 @@ id: 4305742118
 type: node
 latitude: -31.65512
 longitude: -60.70772
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "25 de Mayo"
-housenumber: 1785
+street: 25 de Mayo
+housenumber: "1785"
 phone: ""
 opening_hours: ""
 website: ""

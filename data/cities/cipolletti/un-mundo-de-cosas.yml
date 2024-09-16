@@ -1,11 +1,11 @@
 id: 990144921
-type: way
+type: node
 latitude: -38.93892
 longitude: -67.97385
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Leandro N. Alem"
-housenumber: 1850
+street: Avenida Leandro N. Alem
+housenumber: "1850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1173822094
-type: way
+type: node
 latitude: -38.95828
 longitude: -68.05887
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Perito Moreno"
-housenumber: 5
+street: Perito Moreno
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

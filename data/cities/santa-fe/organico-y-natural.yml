@@ -2,10 +2,10 @@ id: 6982909896
 type: node
 latitude: -31.64173
 longitude: -60.70172
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "San Luis"
-housenumber: 3001
+street: San Luis
+housenumber: "3001"
 phone: ""
-opening_hours: "Mo-Fr 08:00-15:00"
+opening_hours: Mo-Fr 08:00-15:00
 website: ""

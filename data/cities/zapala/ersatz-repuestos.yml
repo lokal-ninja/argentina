@@ -1,11 +1,11 @@
 id: 1149555469
-type: way
+type: node
 latitude: -38.90072
 longitude: -70.07299
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Avenida 12 de Julio"
-housenumber: 229
+street: Avenida 12 de Julio
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

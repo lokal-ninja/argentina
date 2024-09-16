@@ -1,11 +1,11 @@
 id: 1181061909
-type: way
+type: node
 latitude: -38.95119
 longitude: -68.05967
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Argentina"
-housenumber: 376
+street: Avenida Argentina
+housenumber: "376"
 phone: ""
 opening_hours: ""
-website: "https://www.movistar.com.ar/"
+website: https://www.movistar.com.ar/

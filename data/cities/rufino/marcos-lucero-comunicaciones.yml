@@ -1,11 +1,11 @@
 id: 1026760578
-type: way
+type: node
 latitude: -34.26794
 longitude: -62.71411
 postcode: "6100"
 city: Rufino
-street: "Bulevar España"
-housenumber: 645
+street: Bulevar España
+housenumber: "645"
 phone: ""
 opening_hours: ""
 website: ""

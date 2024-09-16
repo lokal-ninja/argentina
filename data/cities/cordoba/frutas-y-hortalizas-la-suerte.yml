@@ -1,11 +1,11 @@
 id: 1154042425
-type: way
+type: node
 latitude: -31.42319
 longitude: -64.20146
 postcode: "5000"
 city: Córdoba
-street: "Avenida Pueyrredón"
-housenumber: 990
+street: Avenida Pueyrredón
+housenumber: "990"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30; Su 08:30-14:00"
+opening_hours: Mo-Sa 08:30-21:30; Su 08:30-14:00
 website: ""

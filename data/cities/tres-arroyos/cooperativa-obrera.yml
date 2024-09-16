@@ -1,11 +1,11 @@
 id: 1081242002
-type: way
+type: node
 latitude: -38.37822
 longitude: -60.27663
 postcode: "7500"
 city: Tres Arroyos
-street: "54 bis - Colón"
-housenumber: 33
+street: 54 bis - Colón
+housenumber: "33"
 phone: "+542983432005"
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.cooperativaobrera.coop/"
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.cooperativaobrera.coop/

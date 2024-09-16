@@ -1,11 +1,11 @@
 id: 1153087948
-type: way
+type: node
 latitude: -38.88977
 longitude: -70.04666
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Chosica"
-housenumber: 298
+street: Chosica
+housenumber: "298"
 phone: ""
 opening_hours: ""
 website: ""

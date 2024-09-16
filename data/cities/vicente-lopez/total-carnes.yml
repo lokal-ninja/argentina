@@ -1,11 +1,11 @@
 id: 471331444
-type: way
+type: node
 latitude: -34.5354
 longitude: -58.4773
-postcode: "B1638"
+postcode: B1638
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 299
+street: Avenida Maipú
+housenumber: "299"
 phone: ""
 opening_hours: ""
-website: "https://comercios.vicentelopez.gov.ar/comercio/carnes-vicente-lopez"
+website: https://comercios.vicentelopez.gov.ar/comercio/carnes-vicente-lopez

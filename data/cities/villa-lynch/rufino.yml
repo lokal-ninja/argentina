@@ -1,11 +1,11 @@
 id: 1227277174
-type: way
+type: node
 latitude: -34.58237
 longitude: -58.52184
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "79 - 25 de Mayo"
-housenumber: 1020
+street: 79 - 25 de Mayo
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

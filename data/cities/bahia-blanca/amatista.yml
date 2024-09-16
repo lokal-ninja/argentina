@@ -1,11 +1,11 @@
 id: 1229499852
-type: way
+type: node
 latitude: -38.7138
 longitude: -62.26953
 postcode: "8000"
 city: Bahía Blanca
-street: "11 de Abril"
-housenumber: 80
-phone: "+5492914612068;+5492915038426"
+street: 11 de Abril
+housenumber: "80"
+phone: +5492914612068;+5492915038426
 opening_hours: ""
 website: ""

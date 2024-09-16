@@ -1,11 +1,11 @@
 id: 476437944
-type: way
+type: node
 latitude: -34.59791
 longitude: -58.41853
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Córdoba"
-housenumber: 3650
-phone: "+54 11 4011-0000"
+street: Avenida Córdoba
+housenumber: "3650"
+phone: +54 11 4011-0000
 opening_hours: ""
 website: ""

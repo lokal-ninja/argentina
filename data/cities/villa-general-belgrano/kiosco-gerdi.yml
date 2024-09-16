@@ -1,11 +1,11 @@
 id: 1132351987
-type: way
+type: node
 latitude: -31.98239
 longitude: -64.56069
-postcode: "X5194"
+postcode: X5194
 city: Villa General Belgrano
-street: "Avenida Julio Argentino Roca"
-housenumber: 319
+street: Avenida Julio Argentino Roca
+housenumber: "319"
 phone: ""
-opening_hours: "7:20-2:00"
+opening_hours: 7:20-2:00
 website: ""

@@ -1,11 +1,11 @@
 id: 882585417
-type: way
+type: node
 latitude: -36.62399
 longitude: -64.28128
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Avenida Pedro Luro"
-housenumber: 685
+street: Avenida Pedro Luro
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

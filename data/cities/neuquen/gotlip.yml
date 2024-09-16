@@ -1,11 +1,11 @@
 id: 1076726056
-type: way
+type: node
 latitude: -38.95995
 longitude: -68.04975
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 685
+street: Eugenio Perticone
+housenumber: "685"
 phone: ""
 opening_hours: ""
-website: "https://www.gotlip.com.ar/home.php?v=1"
+website: https://www.gotlip.com.ar/home.php?v=1

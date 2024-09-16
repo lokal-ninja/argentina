@@ -1,11 +1,11 @@
 id: 388495492
-type: way
+type: node
 latitude: -29.15828
 longitude: -67.49332
 postcode: "5360"
 city: Chilecito
-street: "19 de Febrero"
-housenumber: 497
+street: 19 de Febrero
+housenumber: "497"
 phone: ""
 opening_hours: ""
 website: ""

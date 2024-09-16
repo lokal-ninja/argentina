@@ -1,11 +1,11 @@
 id: 832827489
-type: way
+type: node
 latitude: -36.61888
 longitude: -64.29213
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Manuel Quintana"
-housenumber: 69
+street: Manuel Quintana
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

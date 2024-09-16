@@ -1,11 +1,11 @@
 id: 607077824
-type: way
+type: node
 latitude: -34.91281
 longitude: -57.94735
 postcode: "1900"
 city: La Plata
-street: "Avenida 51"
-housenumber: 491
+street: Avenida 51
+housenumber: "491"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.pasajerodrigo.com.ar/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.pasajerodrigo.com.ar/

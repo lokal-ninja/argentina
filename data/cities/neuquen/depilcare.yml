@@ -1,11 +1,11 @@
 id: 1222163896
-type: way
+type: node
 latitude: -38.95445
 longitude: -68.05475
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Córdoba"
-housenumber: 55
+street: Córdoba
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.depilcare.com.ar/"
+website: https://www.depilcare.com.ar/

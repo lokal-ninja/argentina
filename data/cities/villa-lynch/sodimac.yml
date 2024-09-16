@@ -1,11 +1,11 @@
 id: 95543978
-type: way
+type: node
 latitude: -34.58829
 longitude: -58.51889
-postcode: "C1004AAJ"
+postcode: C1004AAJ
 city: Villa Lynch
-street: "Avenida 85 - Libertador General San Martín"
-housenumber: 420
+street: Avenida 85 - Libertador General San Martín
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Th 08:00-21:00; Fr-Su 08:00-22:00"
-website: "https://www.sodimac.com.ar"
+opening_hours: Mo-Th 08:00-21:00; Fr-Su 08:00-22:00
+website: https://www.sodimac.com.ar

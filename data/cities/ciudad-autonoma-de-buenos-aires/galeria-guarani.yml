@@ -1,11 +1,11 @@
 id: 1091972817
-type: way
+type: node
 latitude: -34.65303
 longitude: -58.41776
-postcode: "C1437"
+postcode: C1437
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Sáenz"
-housenumber: 1075
+street: Avenida Sáenz
+housenumber: "1075"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1153506649
-type: way
+type: node
 latitude: -38.70919
 longitude: -62.27706
 postcode: "8000"
 city: Bahía Blanca
-street: "Perú"
-housenumber: 29
+street: Perú
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

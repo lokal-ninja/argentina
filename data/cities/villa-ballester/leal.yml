@@ -1,11 +1,11 @@
 id: 1188175987
-type: way
+type: node
 latitude: -34.56061
 longitude: -58.5662
-postcode: "B1653MTY"
+postcode: B1653MTY
 city: Villa Ballester
-street: "112 - Vicente López"
-housenumber: 4153
+street: 112 - Vicente López
+housenumber: "4153"
 phone: ""
 opening_hours: ""
 website: ""

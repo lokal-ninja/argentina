@@ -1,11 +1,11 @@
 id: 726584602
-type: way
+type: node
 latitude: -40.821
 longitude: -62.9962
 postcode: "8500"
 city: Viedma
-street: "Boulevard Sussini"
-housenumber: 597
+street: Boulevard Sussini
+housenumber: "597"
 phone: ""
 opening_hours: ""
 website: ""

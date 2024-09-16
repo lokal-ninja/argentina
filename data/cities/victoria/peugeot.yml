@@ -1,11 +1,11 @@
 id: 475344718
-type: way
+type: node
 latitude: -34.44864
 longitude: -58.53672
 postcode: "1644"
 city: Victoria
-street: "Avenida del Libertador"
-housenumber: 2897
-phone: "+54 11 7700-0005"
+street: Avenida del Libertador
+housenumber: "2897"
+phone: +54 11 7700-0005
 opening_hours: ""
-website: "https://www.autofrance.com.ar/"
+website: https://www.autofrance.com.ar/

@@ -1,11 +1,11 @@
 id: 1297813593
-type: way
+type: node
 latitude: -31.73087
 longitude: -64.41038
 postcode: ""
 city: Anisacate
-street: "Doctor Cafferata"
-housenumber: 30
+street: Doctor Cafferata
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

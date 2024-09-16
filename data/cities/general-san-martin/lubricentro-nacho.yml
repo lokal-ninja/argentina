@@ -1,11 +1,11 @@
 id: 468431931
-type: way
+type: node
 latitude: -34.57118
 longitude: -58.52201
-postcode: "B1650KFY"
+postcode: B1650KFY
 city: General San Martín
-street: "Avenida 44 - Presidente Arturo Umberto Illia"
-housenumber: 2254
-phone: "+54 11 4713-4280"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: Avenida 44 - Presidente Arturo Umberto Illia
+housenumber: "2254"
+phone: +54 11 4713-4280
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

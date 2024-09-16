@@ -1,11 +1,11 @@
 id: 1018289142
-type: way
+type: node
 latitude: -34.26302
 longitude: -62.71432
 postcode: "6100"
 city: Rufino
-street: "Santa Fe"
-housenumber: 202
+street: Santa Fe
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://pamperorufino.com/"
+website: https://pamperorufino.com/

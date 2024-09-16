@@ -1,11 +1,11 @@
 id: 471153826
-type: way
+type: node
 latitude: -34.56553
 longitude: -58.4819
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Congreso"
-housenumber: 
+street: Avenida Congreso
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1273374037
-type: way
+type: node
 latitude: -34.2637
 longitude: -62.70935
 postcode: "6100"
 city: Rufino
-street: "Primitivo Galán"
-housenumber: 182
+street: Primitivo Galán
+housenumber: "182"
 phone: ""
 opening_hours: ""
 website: ""

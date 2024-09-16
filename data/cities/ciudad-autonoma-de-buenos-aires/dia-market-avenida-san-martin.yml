@@ -1,11 +1,11 @@
 id: 680780558
-type: way
+type: node
 latitude: -34.60718
 longitude: -58.44843
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida San Martín"
-housenumber: 1372
+street: Avenida San Martín
+housenumber: "1372"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.supermercadosdia.com.ar/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.supermercadosdia.com.ar/

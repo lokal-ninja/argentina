@@ -1,11 +1,11 @@
 id: 581704685
-type: way
+type: node
 latitude: -34.44975
 longitude: -58.90336
 postcode: "1629"
 city: Pilar
-street: "12 de Octubre"
-housenumber: 455
-phone: "+54 230 437-3666"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.motopier.com.ar/"
+street: 12 de Octubre
+housenumber: "455"
+phone: +54 230 437-3666
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.motopier.com.ar/

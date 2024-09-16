@@ -1,11 +1,11 @@
 id: 1099974946
-type: way
+type: node
 latitude: -38.95401
 longitude: -68.06946
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Juan Bautista Justo"
-housenumber: 730
+street: Juan Bautista Justo
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 426198049
-type: way
+type: node
 latitude: -32.94673
 longitude: -60.63962
 postcode: ""
 city: Rosario
-street: "Bartolomé Mitre"
-housenumber: 857
+street: Bartolomé Mitre
+housenumber: "857"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

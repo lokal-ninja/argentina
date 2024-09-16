@@ -1,11 +1,11 @@
 id: 1173836597
-type: way
+type: node
 latitude: -38.95755
 longitude: -68.05895
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Olascoaga"
-housenumber: 238
+street: Avenida Olascoaga
+housenumber: "238"
 phone: ""
 opening_hours: ""
-website: "https://urbanstore.com.ar/"
+website: https://urbanstore.com.ar/

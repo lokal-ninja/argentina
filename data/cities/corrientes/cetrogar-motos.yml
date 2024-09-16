@@ -1,11 +1,11 @@
 id: 584441069
-type: way
+type: node
 latitude: -27.47451
 longitude: -58.84447
 postcode: "3400"
 city: Corrientes
-street: "Avenida 3 de Abril"
-housenumber: 541
-phone: "+54 379 442-8000"
-opening_hours: "Mo-Sa 08:00-12:30,17:30-21:00"
-website: "https://www.cetrogarmotos.com.ar/"
+street: Avenida 3 de Abril
+housenumber: "541"
+phone: +54 379 442-8000
+opening_hours: Mo-Sa 08:00-12:30,17:30-21:00
+website: https://www.cetrogarmotos.com.ar/

@@ -1,11 +1,11 @@
 id: 474868673
-type: way
+type: node
 latitude: -34.49489
 longitude: -58.55146
-postcode: "B1609HTC"
+postcode: B1609HTC
 city: Boulogne Sur Mer
-street: "Blas Parera"
-housenumber: 19
-phone: "011 4735-7462"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su off"
-website: "https://marroncelli.com/"
+street: Blas Parera
+housenumber: "19"
+phone: 011 4735-7462
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su off
+website: https://marroncelli.com/

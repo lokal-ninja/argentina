@@ -1,11 +1,11 @@
 id: 896330227
-type: way
+type: node
 latitude: -35.67034
 longitude: -63.77484
 postcode: "6360"
 city: General Pico
-street: "116 - Adolfo Alsina"
-housenumber: 293
+street: 116 - Adolfo Alsina
+housenumber: "293"
 phone: ""
 opening_hours: ""
 website: ""

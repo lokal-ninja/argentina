@@ -1,11 +1,11 @@
 id: 842064692
-type: way
+type: node
 latitude: -31.53768
 longitude: -68.55215
 postcode: "5400"
 city: San Juan
-street: "Avenida José Ignacio de la Roza"
+street: Avenida José Ignacio de la Roza
 housenumber: 1807 (O)
-phone: "+54 264 426-3434"
-opening_hours: "Mo-Fr 08:30-13:00,17:00-20:30; Sa 09:00-13:00"
-website: "https://www.motolucero.com.ar/"
+phone: +54 264 426-3434
+opening_hours: Mo-Fr 08:30-13:00,17:00-20:30; Sa 09:00-13:00
+website: https://www.motolucero.com.ar/

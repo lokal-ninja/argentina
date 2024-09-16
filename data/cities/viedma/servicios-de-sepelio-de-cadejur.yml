@@ -1,11 +1,11 @@
 id: 685512715
-type: way
+type: node
 latitude: -40.81774
 longitude: -63.00408
 postcode: "8500"
 city: Viedma
-street: "Juan Manuel de Rosas"
-housenumber: 163
+street: Juan Manuel de Rosas
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

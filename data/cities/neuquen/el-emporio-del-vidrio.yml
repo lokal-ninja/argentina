@@ -1,11 +1,11 @@
 id: 1098348121
-type: way
+type: node
 latitude: -38.95844
 longitude: -68.0699
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Pasaje Sayi"
-housenumber: 665
+street: Pasaje Sayi
+housenumber: "665"
 phone: ""
 opening_hours: ""
 website: ""

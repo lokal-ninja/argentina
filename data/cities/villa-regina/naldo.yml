@@ -1,11 +1,11 @@
 id: 918434503
-type: way
+type: node
 latitude: -39.10199
 longitude: -67.08767
-postcode: "R8336"
+postcode: R8336
 city: Villa Regina
-street: "Avenida Mitre"
-housenumber: 568
+street: Avenida Mitre
+housenumber: "568"
 phone: ""
 opening_hours: ""
 website: ""

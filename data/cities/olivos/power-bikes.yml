@@ -1,11 +1,11 @@
 id: 467779434
-type: way
+type: node
 latitude: -34.51104
 longitude: -58.47848
 postcode: "1636"
 city: Olivos
-street: "Avenida del Libertador"
-housenumber: 2206
-phone: "+54 11 4790-8648"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-14:00"
-website: "https://www.powerbikes.com.ar/"
+street: Avenida del Libertador
+housenumber: "2206"
+phone: +54 11 4790-8648
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-14:00
+website: https://www.powerbikes.com.ar/

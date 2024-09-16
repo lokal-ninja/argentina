@@ -1,11 +1,11 @@
 id: 816320615
-type: way
+type: node
 latitude: -34.63433
 longitude: -58.54799
 postcode: "1702"
 city: Ciudadela
-street: "225 - Avenida Gaona"
-housenumber: 4251
-phone: "+54 (11) 4488-4802"
+street: 225 - Avenida Gaona
+housenumber: "4251"
+phone: +54 (11) 4488-4802
 opening_hours: ""
-website: "http://www.bodega10.com/"
+website: http://www.bodega10.com/

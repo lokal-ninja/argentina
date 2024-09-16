@@ -1,11 +1,11 @@
 id: 1257619911
-type: way
+type: node
 latitude: -28.46952
 longitude: -65.77804
-postcode: "K4700BOM"
+postcode: K4700BOM
 city: San Fernando del Valle de Catamarca
-street: "San Martín"
-housenumber: 619
+street: San Martín
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

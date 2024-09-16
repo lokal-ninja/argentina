@@ -1,11 +1,11 @@
 id: 1098153140
-type: way
+type: node
 latitude: -38.95717
 longitude: -68.06792
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Domingo Faustino Sarmiento"
-housenumber: 618
+street: Domingo Faustino Sarmiento
+housenumber: "618"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 327489493
-type: way
+type: node
 latitude: -27.19418
 longitude: -55.47245
 postcode: "3324"
 city: Gobernador Roca
-street: "Paraguay"
-housenumber: 510
-phone: "+54 376 4498450"
+street: Paraguay
+housenumber: "510"
+phone: +54 376 4498450
 opening_hours: ""
 website: ""

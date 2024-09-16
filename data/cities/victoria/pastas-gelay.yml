@@ -1,11 +1,11 @@
 id: 475901952
-type: way
+type: node
 latitude: -34.44977
 longitude: -58.53271
 postcode: "1644"
 city: Victoria
-street: "Simón de Iriondo"
-housenumber: 582
-phone: "+54 11 3522-2480"
-opening_hours: "Mo-Th,Su 10:00-14:30,17:00-22:00; Fr-Sa 10:00-14:30,17:00-23:00"
-website: "https://www.gelaypastas.com/"
+street: Simón de Iriondo
+housenumber: "582"
+phone: +54 11 3522-2480
+opening_hours: Mo-Th,Su 10:00-14:30,17:00-22:00; Fr-Sa 10:00-14:30,17:00-23:00
+website: https://www.gelaypastas.com/

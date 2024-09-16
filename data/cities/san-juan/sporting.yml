@@ -1,11 +1,11 @@
 id: 802758665
-type: way
+type: node
 latitude: -31.53611
 longitude: -68.5233
 postcode: "5402"
 city: San Juan
-street: "Tucumán"
-housenumber: 
+street: Tucumán
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.sporting.com.ar"
+website: https://www.sporting.com.ar

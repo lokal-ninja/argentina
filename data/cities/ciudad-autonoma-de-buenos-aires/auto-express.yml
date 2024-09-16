@@ -1,11 +1,11 @@
 id: 471215215
-type: way
+type: node
 latitude: -34.57233
 longitude: -58.48262
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Álvarez Thomas"
-housenumber: 3090
-phone: "+54 11 4523-6664"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Avenida Álvarez Thomas
+housenumber: "3090"
+phone: +54 11 4523-6664
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

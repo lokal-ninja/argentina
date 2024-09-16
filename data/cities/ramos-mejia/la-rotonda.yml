@@ -1,11 +1,11 @@
 id: 475944427
-type: way
+type: node
 latitude: -34.64015
 longitude: -58.55712
 postcode: "1704"
 city: Ramos Mejía
-street: "Avenida Rivadavia"
-housenumber: 13496
-phone: "7506-0441"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://web.larotondapinturerias.com.ar/ramos-mejia/"
+street: Avenida Rivadavia
+housenumber: "13496"
+phone: 7506-0441
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://web.larotondapinturerias.com.ar/ramos-mejia/

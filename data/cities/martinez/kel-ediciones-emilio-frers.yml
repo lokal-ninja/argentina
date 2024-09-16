@@ -1,11 +1,11 @@
 id: 462005215
-type: way
+type: node
 latitude: -34.50646
 longitude: -58.5317
 postcode: "1640"
 city: Martínez
-street: "Emilio Frers"
-housenumber: 2228
-phone: "+54 11 4717-5603; +54 11 4890-9900"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"
-website: "https://www.kelediciones.com/"
+street: Emilio Frers
+housenumber: "2228"
+phone: +54 11 4717-5603; +54 11 4890-9900
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:00
+website: https://www.kelediciones.com/

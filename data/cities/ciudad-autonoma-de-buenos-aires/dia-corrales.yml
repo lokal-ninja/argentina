@@ -1,11 +1,11 @@
 id: 1262656690
-type: way
+type: node
 latitude: -34.66236
 longitude: -58.43986
 postcode: "1437"
 city: Ciudad Autónoma de Buenos Aires
-street: "Corrales"
-housenumber: 3002
+street: Corrales
+housenumber: "3002"
 phone: ""
-opening_hours: "24/7"
-website: "https://diaonline.supermercadosdia.com.ar/"
+opening_hours: 24/7
+website: https://diaonline.supermercadosdia.com.ar/

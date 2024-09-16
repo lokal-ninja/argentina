@@ -1,11 +1,11 @@
 id: 362083158
-type: way
+type: node
 latitude: -38.04307
 longitude: -57.54438
 postcode: "7600"
 city: Mar del Plata
-street: "Avenida de los Trabajadores"
-housenumber: 291
-phone: "+54 223 489-6674"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "http://www.motosporta.com.ar/"
+street: Avenida de los Trabajadores
+housenumber: "291"
+phone: +54 223 489-6674
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: http://www.motosporta.com.ar/

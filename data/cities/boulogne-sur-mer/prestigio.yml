@@ -1,11 +1,11 @@
 id: 474868674
-type: way
+type: node
 latitude: -34.49473
 longitude: -58.55112
-postcode: "B1609"
+postcode: B1609
 city: Boulogne Sur Mer
-street: "Avenida Avelino Rolón"
-housenumber: 50
-phone: "011 4765-8761"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-19:00; Sa 09:00-13:00; Su off"
-website: "http://www.prestigioweb.com/"
+street: Avenida Avelino Rolón
+housenumber: "50"
+phone: 011 4765-8761
+opening_hours: Mo-Fr 08:00-13:00,14:00-19:00; Sa 09:00-13:00; Su off
+website: http://www.prestigioweb.com/

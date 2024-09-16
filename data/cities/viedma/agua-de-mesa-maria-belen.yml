@@ -1,11 +1,11 @@
 id: 787685547
-type: way
+type: node
 latitude: -40.80717
 longitude: -62.99456
 postcode: "8500"
 city: Viedma
-street: "San Martín"
-housenumber: 319
+street: San Martín
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

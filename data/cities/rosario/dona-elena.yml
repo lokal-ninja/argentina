@@ -1,11 +1,11 @@
 id: 555285340
-type: way
+type: node
 latitude: -32.95613
 longitude: -60.63498
 postcode: ""
 city: Rosario
-street: "Zeballos"
-housenumber: 
+street: Zeballos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

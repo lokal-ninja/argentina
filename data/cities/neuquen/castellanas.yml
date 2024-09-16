@@ -1,11 +1,11 @@
 id: 1172612618
-type: way
+type: node
 latitude: -38.95765
 longitude: -68.06297
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 249
+street: Ministro Alcorta
+housenumber: "249"
 phone: ""
 opening_hours: ""
-website: "https://castellanas.com.ar/"
+website: https://castellanas.com.ar/

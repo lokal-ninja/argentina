@@ -1,11 +1,11 @@
 id: 820192107
-type: way
+type: node
 latitude: -34.68158
 longitude: -58.75999
-postcode: "B1721FKU"
+postcode: B1721FKU
 city: Parque San Martín
-street: "Avenida Doctor Ricardo Balbín"
-housenumber: 3998
-phone: "+54 9 11 5962-5786"
-opening_hours: "Mo-Sa 09:00-13:00"
-website: "https://mayjo.com.ar/"
+street: Avenida Doctor Ricardo Balbín
+housenumber: "3998"
+phone: +54 9 11 5962-5786
+opening_hours: Mo-Sa 09:00-13:00
+website: https://mayjo.com.ar/

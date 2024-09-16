@@ -2,10 +2,10 @@ id: 10895323772
 type: node
 latitude: -38.95787
 longitude: -68.06092
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "San Luis"
-housenumber: 277
+street: San Luis
+housenumber: "277"
 phone: ""
 opening_hours: ""
-website: "https://urbanstore.com.ar/"
+website: https://urbanstore.com.ar/

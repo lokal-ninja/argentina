@@ -1,11 +1,11 @@
 id: 307673457
-type: way
+type: node
 latitude: -31.86529
 longitude: -59.0339
 postcode: "3240"
 city: Villaguay
-street: "Solís"
-housenumber: 171
+street: Solís
+housenumber: "171"
 phone: ""
 opening_hours: ""
-website: "https://yaguane.com.ar"
+website: https://yaguane.com.ar

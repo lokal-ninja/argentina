@@ -1,11 +1,11 @@
 id: 834074788
-type: way
+type: node
 latitude: -36.62196
 longitude: -64.28697
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Lisandro de la Torre"
-housenumber: 333
+street: Lisandro de la Torre
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/122-santa-rosa"
+website: https://www.laanonima.com.ar/sucursales/122-santa-rosa

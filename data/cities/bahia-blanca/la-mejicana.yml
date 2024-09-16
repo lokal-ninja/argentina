@@ -1,11 +1,11 @@
 id: 1302891288
-type: way
+type: node
 latitude: -38.715
 longitude: -62.28631
 postcode: "8000"
 city: Bahía Blanca
-street: "Mendoza"
-housenumber: 602
-phone: "+54 9 291 502-0796"
-opening_hours: "Mo-Sa 08:00-14:00,15:00-21:00; Su 09:00-14:00"
+street: Mendoza
+housenumber: "602"
+phone: +54 9 291 502-0796
+opening_hours: Mo-Sa 08:00-14:00,15:00-21:00; Su 09:00-14:00
 website: ""

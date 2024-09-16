@@ -1,11 +1,11 @@
 id: 711519432
-type: way
+type: node
 latitude: -40.80271
 longitude: -62.98295
 postcode: "8504"
 city: Carmen de Patagones
-street: "Bynon"
-housenumber: 184
+street: Bynon
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

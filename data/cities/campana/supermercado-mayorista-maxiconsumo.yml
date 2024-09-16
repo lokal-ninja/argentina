@@ -1,11 +1,11 @@
 id: 495273251
-type: way
+type: node
 latitude: -34.18344
 longitude: -58.95522
 postcode: "2804"
 city: Campana
-street: "Colectora Sur"
-housenumber: 452
+street: Colectora Sur
+housenumber: "452"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

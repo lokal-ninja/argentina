@@ -4,8 +4,9 @@ latitude: -34.59401
 longitude: -58.42035
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Honduras"
-housenumber: 4055
+street: Avenida Honduras
+housenumber: "4055"
 phone: ""
-opening_hours: "Mo-Tu 10:00-14:00,16:30-20:30; We 10:00-14:00,16:30-18:15; Th-Fr 10:00-14:00,16:30-20:30; Sa 10:00-16:30"
+opening_hours: Mo-Tu 10:00-14:00,16:30-20:30; We 10:00-14:00,16:30-18:15; Th-Fr 10:00-14:00,16:30-20:30;
+    Sa 10:00-16:30
 website: ""

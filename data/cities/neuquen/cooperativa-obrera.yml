@@ -1,11 +1,11 @@
 id: 702177310
-type: way
+type: node
 latitude: -38.92543
 longitude: -68.08383
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Piuquén"
-housenumber: 1780
+street: Piuquén
+housenumber: "1780"
 phone: ""
 opening_hours: ""
-website: "https://www.cooperativaobrera.coop/"
+website: https://www.cooperativaobrera.coop/

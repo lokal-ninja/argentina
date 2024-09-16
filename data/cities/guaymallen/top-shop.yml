@@ -1,11 +1,11 @@
 id: 800834009
-type: way
+type: node
 latitude: -32.90294
 longitude: -68.76827
 postcode: "5523"
 city: Guaymallén
-street: "Higuerita"
-housenumber: 2223
+street: Higuerita
+housenumber: "2223"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00,16:00-20:00"
+opening_hours: Mo-Sa 09:00-13:00,16:00-20:00
 website: ""

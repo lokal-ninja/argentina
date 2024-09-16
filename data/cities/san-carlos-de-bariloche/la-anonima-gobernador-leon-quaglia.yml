@@ -1,11 +1,11 @@
 id: 827722469
-type: way
+type: node
 latitude: -41.13506
 longitude: -71.30868
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Gobernador León Quaglia"
-housenumber: 333
+street: Gobernador León Quaglia
+housenumber: "333"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-21:00"
-website: "https://www.laanonima.com.ar/sucursales/008-bariloche"
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-21:00
+website: https://www.laanonima.com.ar/sucursales/008-bariloche

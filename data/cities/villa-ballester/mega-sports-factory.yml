@@ -1,11 +1,11 @@
 id: 1168882419
-type: way
+type: node
 latitude: -34.54788
 longitude: -58.5519
-postcode: "B1653CJL"
+postcode: B1653CJL
 city: Villa Ballester
-street: "114 - Carlos María de Alvear"
-housenumber: 2458
+street: 114 - Carlos María de Alvear
+housenumber: "2458"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 374837092
-type: way
+type: node
 latitude: -34.19019
 longitude: -58.94293
 postcode: "2804"
 city: Campana
-street: "Colectora Norte Ruta Nacional 9"
-housenumber: 1662
+street: Colectora Norte Ruta Nacional 9
+housenumber: "1662"
 phone: ""
-opening_hours: "Mo-Sa,PH 09:00-18:00"
+opening_hours: Mo-Sa,PH 09:00-18:00
 website: ""

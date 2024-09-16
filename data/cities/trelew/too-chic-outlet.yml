@@ -1,11 +1,11 @@
 id: 821725543
-type: way
+type: node
 latitude: -43.25186
 longitude: -65.3098
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "Rivadavia"
-housenumber: 237
+street: Rivadavia
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

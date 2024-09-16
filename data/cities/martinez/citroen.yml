@@ -1,11 +1,11 @@
 id: 435022144
-type: way
+type: node
 latitude: -34.49335
 longitude: -58.49832
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida Santa Fe"
-housenumber: 2458
+street: Avenida Santa Fe
+housenumber: "2458"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH,Su off"
-website: "http://www.chambordcitroen.com.ar/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; PH,Su off
+website: http://www.chambordcitroen.com.ar/

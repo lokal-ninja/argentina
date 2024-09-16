@@ -1,11 +1,11 @@
 id: 447306393
-type: way
+type: node
 latitude: -27.48423
 longitude: -58.84531
 postcode: "3400"
 city: Corrientes
-street: "Juan Bautista Alberdi"
-housenumber: 
+street: Juan Bautista Alberdi
+housenumber: ""
 phone: ""
-opening_hours: "07:30-13:00,17:00-21:30"
+opening_hours: 07:30-13:00,17:00-21:30
 website: ""

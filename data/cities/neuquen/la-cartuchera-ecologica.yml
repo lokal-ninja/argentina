@@ -1,11 +1,11 @@
 id: 1118723937
-type: way
+type: node
 latitude: -38.9506
 longitude: -68.05474
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Maestro Thames Alderete"
-housenumber: 302
+street: Maestro Thames Alderete
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

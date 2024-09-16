@@ -4,8 +4,8 @@ latitude: -34.6122
 longitude: -58.37005
 postcode: "1092"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Belgrano"
-housenumber: 265
-phone: "+54 11 4342-9946"
-opening_hours: "Mo-Fr 07:30-19:00"
-website: "https://www.buenosairesbakery.com.ar/"
+street: Avenida Belgrano
+housenumber: "265"
+phone: +54 11 4342-9946
+opening_hours: Mo-Fr 07:30-19:00
+website: https://www.buenosairesbakery.com.ar/

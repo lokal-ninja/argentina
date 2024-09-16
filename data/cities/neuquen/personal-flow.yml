@@ -1,11 +1,11 @@
 id: 1278943909
-type: way
+type: node
 latitude: -38.95408
 longitude: -68.05707
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Bernardino Rivadavia"
-housenumber: 145
-phone: "0800-555-3569"
+street: Bernardino Rivadavia
+housenumber: "145"
+phone: 0800-555-3569
 opening_hours: ""
-website: "https://www.personal.com.ar/"
+website: https://www.personal.com.ar/

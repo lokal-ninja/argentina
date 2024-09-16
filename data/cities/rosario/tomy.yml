@@ -1,11 +1,12 @@
 id: 335277065
-type: way
+type: node
 latitude: -32.94607
 longitude: -60.64237
 postcode: ""
 city: Rosario
-street: "Corrientes"
-housenumber: 
+street: Corrientes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Jan 1 off Nuevo Año; Jul 7 off Día de la Independencia; Dec 8 off Inmaculada"
+opening_hours: Mo-Sa 09:00-19:00; Jan 1 off "Nuevo Año"; Jul 7 off "Día de la Independencia";
+    Dec 8 off "Inmaculada"
 website: ""

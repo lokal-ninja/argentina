@@ -1,11 +1,11 @@
 id: 1076223811
-type: way
+type: node
 latitude: -38.96021
 longitude: -68.04558
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Intendente Pedro Linares"
-housenumber: 479
+street: Intendente Pedro Linares
+housenumber: "479"
 phone: ""
 opening_hours: ""
 website: ""

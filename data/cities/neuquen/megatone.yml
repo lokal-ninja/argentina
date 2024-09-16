@@ -1,11 +1,11 @@
 id: 1172645171
-type: way
+type: node
 latitude: -38.95812
 longitude: -68.06033
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 75
-phone: "0810-444-6342"
-opening_hours: "Mo-Sa 09:00-20:30"
-website: "https://www.megatone.net/"
+street: Ministro Alcorta
+housenumber: "75"
+phone: 0810-444-6342
+opening_hours: Mo-Sa 09:00-20:30
+website: https://www.megatone.net/

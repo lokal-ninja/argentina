@@ -1,11 +1,11 @@
 id: 499666567
-type: way
+type: node
 latitude: -32.94119
 longitude: -60.64076
 postcode: "2000"
 city: Rosario
-street: "Tucumán"
-housenumber: 1349
+street: Tucumán
+housenumber: "1349"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-13:00
 website: ""

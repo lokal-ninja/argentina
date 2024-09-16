@@ -1,11 +1,11 @@
 id: 1153083186
-type: way
+type: node
 latitude: -38.90195
 longitude: -70.05948
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Bartolomé Mitre"
-housenumber: 367
+street: Bartolomé Mitre
+housenumber: "367"
 phone: ""
 opening_hours: ""
 website: ""

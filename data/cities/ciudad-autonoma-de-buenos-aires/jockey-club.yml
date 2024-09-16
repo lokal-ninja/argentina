@@ -4,8 +4,8 @@ latitude: -34.56984
 longitude: -58.43594
 postcode: "1426"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Luis María Campos"
-housenumber: 737
-phone: "+54 11 4771-5660"
-opening_hours: "Mo-Sa 08:00-14:00,16:00-21:00; Su 08:00-14:00"
+street: Avenida Luis María Campos
+housenumber: "737"
+phone: +54 11 4771-5660
+opening_hours: Mo-Sa 08:00-14:00,16:00-21:00; Su 08:00-14:00
 website: ""

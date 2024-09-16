@@ -1,11 +1,11 @@
 id: 682269946
-type: way
+type: node
 latitude: -34.60885
 longitude: -58.44863
-postcode: "C1416DRO"
+postcode: C1416DRO
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Gaona"
-housenumber: 1384
+street: Avenida Gaona
+housenumber: "1384"
 phone: ""
-opening_hours: "Mo-Sa 08:30-22:00; Su,PH 11:00-20:00"
-website: "https://www.carrefour.com.ar/"
+opening_hours: Mo-Sa 08:30-22:00; Su,PH 11:00-20:00
+website: https://www.carrefour.com.ar/

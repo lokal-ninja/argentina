@@ -4,8 +4,8 @@ latitude: -34.59261
 longitude: -58.40629
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Santa Fe"
-housenumber: 2802
+street: Avenida Santa Fe
+housenumber: "2802"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.reverpass.com"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.reverpass.com

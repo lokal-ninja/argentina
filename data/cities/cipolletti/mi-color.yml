@@ -1,11 +1,11 @@
 id: 1304926908
-type: way
+type: node
 latitude: -38.93792
 longitude: -67.99582
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "España"
-housenumber: 301
-phone: "+54 299 410-1394"
+street: España
+housenumber: "301"
+phone: +54 299 410-1394
 opening_hours: ""
 website: ""

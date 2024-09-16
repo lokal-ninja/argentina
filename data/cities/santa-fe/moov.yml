@@ -2,10 +2,10 @@ id: 6625253805
 type: node
 latitude: -31.64874
 longitude: -60.70751
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "San Martín"
-housenumber: 2325
+street: San Martín
+housenumber: "2325"
 phone: ""
 opening_hours: ""
 website: ""

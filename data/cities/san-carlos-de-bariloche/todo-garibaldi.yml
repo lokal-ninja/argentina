@@ -1,11 +1,11 @@
 id: 755687683
-type: way
+type: node
 latitude: -41.1325
 longitude: -71.2804
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Garibaldi"
-housenumber: 50
+street: Garibaldi
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

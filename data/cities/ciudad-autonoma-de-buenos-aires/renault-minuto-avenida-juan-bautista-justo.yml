@@ -1,11 +1,11 @@
 id: 471236333
-type: way
+type: node
 latitude: -34.6284
 longitude: -58.49344
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan Bautista Justo"
-housenumber: 7337
+street: Avenida Juan Bautista Justo
+housenumber: "7337"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off
 website: ""

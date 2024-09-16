@@ -1,11 +1,11 @@
 id: 476184968
-type: way
+type: node
 latitude: -34.6101
 longitude: -58.44038
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Acoyte"
-housenumber: 702
+street: Avenida Acoyte
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

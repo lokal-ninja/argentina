@@ -1,11 +1,11 @@
 id: 1294901645
-type: way
+type: node
 latitude: -38.95072
 longitude: -67.92151
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "Avenida Primeros Pobladores"
-housenumber: 385
+street: Avenida Primeros Pobladores
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

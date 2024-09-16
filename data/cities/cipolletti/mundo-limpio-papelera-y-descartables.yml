@@ -1,11 +1,11 @@
 id: 1212129128
-type: way
+type: node
 latitude: -38.93914
 longitude: -68.00227
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Mengelle"
-housenumber: 98
+street: Avenida Mengelle
+housenumber: "98"
 phone: ""
 opening_hours: ""
-website: "https://www.mundolimpiodigital.com/"
+website: https://www.mundolimpiodigital.com/

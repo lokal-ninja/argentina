@@ -1,11 +1,11 @@
 id: 471331437
-type: way
+type: node
 latitude: -34.53485
 longitude: -58.47726
 postcode: "1642"
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 316
-phone: "+54 11 4796-2321"
+street: Avenida Maipú
+housenumber: "316"
+phone: +54 11 4796-2321
 opening_hours: ""
-website: "http://www.prestigioweb.com/"
+website: http://www.prestigioweb.com/

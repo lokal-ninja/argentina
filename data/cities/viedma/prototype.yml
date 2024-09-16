@@ -1,11 +1,11 @@
 id: 377182195
-type: way
+type: node
 latitude: -40.80679
 longitude: -62.99218
 postcode: "8500"
 city: Viedma
-street: "Buenos Aires"
-housenumber: 22
+street: Buenos Aires
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

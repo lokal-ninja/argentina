@@ -1,11 +1,11 @@
 id: 882573801
-type: way
+type: node
 latitude: -36.60043
 longitude: -64.30219
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Pilcomayo"
-housenumber: 1551
+street: Pilcomayo
+housenumber: "1551"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/202-santa-rosa"
+website: https://www.laanonima.com.ar/sucursales/202-santa-rosa

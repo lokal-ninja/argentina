@@ -1,11 +1,11 @@
 id: 377085124
-type: way
+type: node
 latitude: -40.80952
 longitude: -62.9909
 postcode: "8500"
 city: Viedma
-street: "Colón"
-housenumber: 345
+street: Colón
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

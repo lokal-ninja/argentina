@@ -1,11 +1,11 @@
 id: 144807401
-type: way
+type: node
 latitude: -31.72627
 longitude: -60.52468
 postcode: "3100"
 city: Paraná
-street: "San Juan"
-housenumber: 
+street: San Juan
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

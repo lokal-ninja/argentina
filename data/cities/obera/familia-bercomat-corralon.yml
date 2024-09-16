@@ -1,11 +1,11 @@
 id: 317028018
-type: way
+type: node
 latitude: -27.48012
 longitude: -55.10719
 postcode: ""
 city: Oberá
-street: "Avenida de Las Américas"
-housenumber: 434
+street: Avenida de Las Américas
+housenumber: "434"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 15:30-19:30, Sa 15:30-18:30"
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 15:30-19:30, Sa 15:30-18:30
 website: ""

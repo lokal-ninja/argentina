@@ -1,11 +1,11 @@
 id: 772204608
-type: way
+type: node
 latitude: -33.90631
 longitude: -60.58004
 postcode: "2700"
 city: Pergamino
-street: "Avenida Juan B. Justo"
-housenumber: 1890
+street: Avenida Juan B. Justo
+housenumber: "1890"
 phone: ""
 opening_hours: ""
 website: ""

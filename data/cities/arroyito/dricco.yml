@@ -1,11 +1,11 @@
 id: 601454494
-type: way
+type: node
 latitude: -31.42244
 longitude: -63.0506
 postcode: "2434"
 city: Arroyito
-street: "San Martín"
-housenumber: 156
+street: San Martín
+housenumber: "156"
 phone: ""
 opening_hours: ""
-website: "https://www.dricco.com.ar/"
+website: https://www.dricco.com.ar/

@@ -1,11 +1,11 @@
 id: 1133272740
-type: way
+type: node
 latitude: -34.54392
 longitude: -58.55765
-postcode: "B1653BAT"
+postcode: B1653BAT
 city: Villa Ballester
-street: "57 - Boulevard Ballester"
-housenumber: 5400
+street: 57 - Boulevard Ballester
+housenumber: "5400"
 phone: ""
 opening_hours: ""
 website: ""

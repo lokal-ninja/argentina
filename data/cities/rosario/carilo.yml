@@ -1,11 +1,11 @@
 id: 382913204
-type: way
+type: node
 latitude: -32.94981
 longitude: -60.68348
-postcode: "S2003"
+postcode: S2003
 city: Rosario
-street: "Avenida Carlos Pellegrini"
-housenumber: 
+street: Avenida Carlos Pellegrini
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

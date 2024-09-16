@@ -2,10 +2,10 @@ id: 6625253853
 type: node
 latitude: -34.60531
 longitude: -58.40549
-postcode: "C1032"
+postcode: C1032
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Pueyrredón"
-housenumber: 421
-phone: "+54 8104446342"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.megatone.net"
+street: Avenida Pueyrredón
+housenumber: "421"
+phone: +54 8104446342
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.megatone.net

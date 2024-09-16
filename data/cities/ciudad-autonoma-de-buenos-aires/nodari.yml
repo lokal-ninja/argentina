@@ -4,8 +4,8 @@ latitude: -34.60888
 longitude: -58.433
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Díaz Vélez"
-housenumber: 4686
+street: Avenida Díaz Vélez
+housenumber: "4686"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00,Sa 09:00-15:00"
-website: "https://nodari.com.ar/"
+opening_hours: Mo-Fr 10:00-19:00,Sa 09:00-15:00
+website: https://nodari.com.ar/

@@ -1,11 +1,11 @@
 id: 904783165
-type: way
+type: node
 latitude: -53.78379
 longitude: -67.69795
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Avenida Manuel Belgrano"
-housenumber: 423
+street: Avenida Manuel Belgrano
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

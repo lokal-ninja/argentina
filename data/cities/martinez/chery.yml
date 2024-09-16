@@ -1,11 +1,11 @@
 id: 465224514
-type: way
+type: node
 latitude: -34.49131
 longitude: -58.48425
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida del Libertador"
-housenumber: 12909
+street: Avenida del Libertador
+housenumber: "12909"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-18:00"
-website: "http://www.zenautomotores.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-18:00
+website: http://www.zenautomotores.com/

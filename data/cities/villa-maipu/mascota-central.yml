@@ -1,11 +1,11 @@
 id: 1264385470
-type: way
+type: node
 latitude: -34.56655
 longitude: -58.51459
-postcode: "B1650"
+postcode: B1650
 city: Villa Maipú
-street: "Avenida 44 - Presidente Arturo Umberto Illia"
-housenumber: 1265
+street: Avenida 44 - Presidente Arturo Umberto Illia
+housenumber: "1265"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 632237363
-type: way
+type: node
 latitude: -34.94609
 longitude: -58.00424
 postcode: ""
 city: San Carlos
-street: "Calle 149"
-housenumber: 
-phone: "+54 221 4169000;+54 221 4702457"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:30; Sa 08:00-13:00"
-website: "https://kiara.gruporandazzo.com/postventa;http://peara.gruporandazzo.com/postventa/"
+street: Calle 149
+housenumber: ""
+phone: +54 221 4169000;+54 221 4702457
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:30; Sa 08:00-13:00
+website: https://kiara.gruporandazzo.com/postventa;http://peara.gruporandazzo.com/postventa/

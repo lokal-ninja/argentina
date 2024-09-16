@@ -1,11 +1,11 @@
 id: 1172612682
-type: way
+type: node
 latitude: -38.959
 longitude: -68.06275
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 271
+street: Doctor Luis Teodoro Planas
+housenumber: "271"
 phone: ""
 opening_hours: ""
-website: "https://www.fravega.com/"
+website: https://www.fravega.com/

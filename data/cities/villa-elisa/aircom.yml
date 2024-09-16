@@ -1,11 +1,11 @@
 id: 315493612
-type: way
+type: node
 latitude: -32.16515
 longitude: -58.40328
 postcode: ""
 city: Villa Elisa
-street: "Avenida Mitre"
-housenumber: 1127
+street: Avenida Mitre
+housenumber: "1127"
 phone: ""
 opening_hours: ""
 website: ""

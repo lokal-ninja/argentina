@@ -1,11 +1,11 @@
 id: 109918304
-type: way
+type: node
 latitude: -38.69995
 longitude: -62.27591
 postcode: "8000"
 city: Bahía Blanca
-street: "Guatemala"
-housenumber: 533
-phone: "+54-9291-456-5565"
-opening_hours: "Mo-Su 09:00-21:30"
-website: "https://www.cooperativaobrera.coop/"
+street: Guatemala
+housenumber: "533"
+phone: +54-9291-456-5565
+opening_hours: Mo-Su 09:00-21:30
+website: https://www.cooperativaobrera.coop/

@@ -1,11 +1,11 @@
 id: 468504526
-type: way
+type: node
 latitude: -34.56458
 longitude: -58.51446
-postcode: "B1650"
+postcode: B1650
 city: Villa Maipú
-street: "48 - Estrada"
-housenumber: 1210
+street: 48 - Estrada
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

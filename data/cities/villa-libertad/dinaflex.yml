@@ -1,11 +1,11 @@
 id: 1215666097
-type: way
+type: node
 latitude: -34.58246
 longitude: -58.5611
 postcode: "1650"
 city: Villa Libertad
-street: "129 - Carlos Gardel"
-housenumber: 2862
-phone: "+54 9 11 7399 8079"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
-website: "https://www.catalogodesellos.com/"
+street: 129 - Carlos Gardel
+housenumber: "2862"
+phone: +54 9 11 7399 8079
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
+website: https://www.catalogodesellos.com/

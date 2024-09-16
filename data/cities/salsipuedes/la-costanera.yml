@@ -1,11 +1,11 @@
 id: 764257328
-type: way
+type: node
 latitude: -31.13605
 longitude: -64.29693
-postcode: "X5113"
+postcode: X5113
 city: Salsipuedes
-street: "Paseo Colón"
-housenumber: 62
+street: Paseo Colón
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

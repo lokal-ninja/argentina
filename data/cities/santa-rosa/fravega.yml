@@ -1,11 +1,11 @@
 id: 832453263
-type: way
+type: node
 latitude: -36.61944
 longitude: -64.28983
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Coronel Gil"
-housenumber: 267
+street: Coronel Gil
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

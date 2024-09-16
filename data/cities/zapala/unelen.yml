@@ -1,11 +1,11 @@
 id: 1149303155
-type: way
+type: node
 latitude: -38.90395
 longitude: -70.06412
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Avenida San Martín"
-housenumber: 338
-phone: "+54 294 259-9935"
+street: Avenida San Martín
+housenumber: "338"
+phone: +54 294 259-9935
 opening_hours: ""
-website: "https://www.unelen.com.ar/"
+website: https://www.unelen.com.ar/

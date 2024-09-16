@@ -1,11 +1,11 @@
 id: 465779963
-type: way
+type: node
 latitude: -34.56908
 longitude: -58.55664
-postcode: "B1650NBV"
+postcode: B1650NBV
 city: Billinghurst
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 3526
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "3526"
 phone: ""
 opening_hours: ""
 website: ""

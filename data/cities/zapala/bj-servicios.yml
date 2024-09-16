@@ -1,11 +1,11 @@
 id: 1149793175
-type: way
+type: node
 latitude: -38.90371
 longitude: -70.06295
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Luis Monti"
-housenumber: 354
+street: Luis Monti
+housenumber: "354"
 phone: ""
 opening_hours: ""
 website: ""

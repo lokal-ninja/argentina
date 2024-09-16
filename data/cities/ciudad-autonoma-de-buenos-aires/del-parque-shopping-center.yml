@@ -1,11 +1,11 @@
 id: 28266050
-type: way
+type: node
 latitude: -34.60167
 longitude: -58.49479
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Nazarre"
-housenumber: 3175
+street: Nazarre
+housenumber: "3175"
 phone: ""
 opening_hours: ""
-website: "http://www.delparqueshopping.com.ar"
+website: http://www.delparqueshopping.com.ar

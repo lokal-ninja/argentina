@@ -1,11 +1,11 @@
 id: 826352079
-type: way
+type: node
 latitude: -41.13347
 longitude: -71.29735
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Clemente Onelli"
-housenumber: 85
+street: Clemente Onelli
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

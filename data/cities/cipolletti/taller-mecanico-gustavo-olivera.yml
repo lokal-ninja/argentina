@@ -1,11 +1,11 @@
 id: 1209463108
-type: way
+type: node
 latitude: -38.9362
 longitude: -68.00173
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Vicente López y Planes"
-housenumber: 50
+street: Vicente López y Planes
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

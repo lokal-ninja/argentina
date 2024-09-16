@@ -1,11 +1,11 @@
 id: 1144556670
-type: way
+type: node
 latitude: -38.67643
 longitude: -62.23222
 postcode: "8000"
 city: Bahía Blanca
-street: "Florida"
-housenumber: 4500
-phone: "+54 9 291 486-1120"
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://cultivosbahiablanca.com.ar/"
+street: Florida
+housenumber: "4500"
+phone: +54 9 291 486-1120
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00
+website: https://cultivosbahiablanca.com.ar/

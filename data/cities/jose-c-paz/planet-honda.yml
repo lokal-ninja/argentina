@@ -1,11 +1,11 @@
 id: 470273088
-type: way
+type: node
 latitude: -34.51743
 longitude: -58.74809
 postcode: "1665"
 city: José C. Paz
-street: "Avenida Presidente Hipólito Yrigoyen"
-housenumber: 1417
-phone: "+54 2320 42-8833"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00"
-website: "https://www.planethonda.com.ar/"
+street: Avenida Presidente Hipólito Yrigoyen
+housenumber: "1417"
+phone: +54 2320 42-8833
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00
+website: https://www.planethonda.com.ar/

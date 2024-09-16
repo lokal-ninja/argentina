@@ -1,11 +1,11 @@
 id: 1172323073
-type: way
+type: node
 latitude: -38.95892
 longitude: -68.06587
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 475
+street: Doctor Luis Teodoro Planas
+housenumber: "475"
 phone: ""
 opening_hours: ""
-website: "https://tienda.promofiesta.com.ar/"
+website: https://tienda.promofiesta.com.ar/

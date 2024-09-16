@@ -1,11 +1,11 @@
 id: 835661456
-type: way
+type: node
 latitude: -24.80186
 longitude: -65.40777
 postcode: "4400"
 city: Salta
-street: "Hernando de Lerma"
-housenumber: 927
+street: Hernando de Lerma
+housenumber: "927"
 phone: ""
 opening_hours: ""
 website: ""

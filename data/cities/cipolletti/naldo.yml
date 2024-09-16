@@ -1,11 +1,11 @@
 id: 1308580846
-type: way
+type: node
 latitude: -38.93988
 longitude: -67.99776
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 336
-phone: "0810-222-6253;+54 299 597-8476"
+street: General San Martín
+housenumber: "336"
+phone: 0810-222-6253;+54 299 597-8476
 opening_hours: ""
-website: "https://www.naldo.com.ar/"
+website: https://www.naldo.com.ar/

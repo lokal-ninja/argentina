@@ -1,11 +1,11 @@
 id: 896591655
-type: way
+type: node
 latitude: -34.46854
 longitude: -58.64942
 postcode: "1618"
 city: El Talar
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 1934
-phone: "0054-911-15-5947-1848"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://aleliesencias.com.ar/"
+street: Avenida Hipólito Yrigoyen
+housenumber: "1934"
+phone: 0054-911-15-5947-1848
+opening_hours: Mo-Fr 09:00-17:00
+website: https://aleliesencias.com.ar/

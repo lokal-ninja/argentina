@@ -1,11 +1,11 @@
 id: 1041805781
-type: way
+type: node
 latitude: -38.95698
 longitude: -68.23914
-postcode: "Q8316"
+postcode: Q8316
 city: Plottier
-street: "Buenos Aires Sur"
-housenumber: 770
+street: Buenos Aires Sur
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

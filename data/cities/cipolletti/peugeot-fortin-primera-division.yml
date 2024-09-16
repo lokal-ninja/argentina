@@ -1,11 +1,11 @@
 id: 1008761613
-type: way
+type: node
 latitude: -38.94381
 longitude: -68.01045
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Fortín Primera División"
-housenumber: 461
+street: Fortín Primera División
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

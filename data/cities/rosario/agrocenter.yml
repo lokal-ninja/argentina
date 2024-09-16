@@ -1,11 +1,11 @@
 id: 1229189846
-type: way
+type: node
 latitude: -32.93367
 longitude: -60.72444
 postcode: ""
 city: Rosario
-street: "Colectora José María Rosa"
-housenumber: 450
+street: Colectora José María Rosa
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

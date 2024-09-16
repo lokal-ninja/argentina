@@ -1,11 +1,11 @@
 id: 1041755384
-type: way
+type: node
 latitude: -38.95658
 longitude: -68.23132
-postcode: "Q8316"
+postcode: Q8316
 city: Plottier
-street: "Buenos Aires Norte"
-housenumber: 311
+street: Buenos Aires Norte
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

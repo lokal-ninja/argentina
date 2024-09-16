@@ -1,11 +1,11 @@
 id: 481281772
-type: way
+type: node
 latitude: -32.94541
 longitude: -60.63922
 postcode: "2000"
 city: Rosario
-street: "Bartolomé Mitre"
-housenumber: 737
+street: Bartolomé Mitre
+housenumber: "737"
 phone: ""
 opening_hours: ""
 website: ""

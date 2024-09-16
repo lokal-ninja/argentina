@@ -1,11 +1,11 @@
 id: 405781993
-type: way
+type: node
 latitude: -33.01958
 longitude: -68.87439
 postcode: "5507"
 city: Luján de Cuyo
-street: "San Martín"
-housenumber: 2044
+street: San Martín
+housenumber: "2044"
 phone: ""
 opening_hours: ""
 website: ""

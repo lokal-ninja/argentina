@@ -1,11 +1,11 @@
 id: 1175232164
-type: way
+type: node
 latitude: -38.95894
 longitude: -68.05295
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 430
+street: Félix San Martín
+housenumber: "430"
 phone: ""
 opening_hours: ""
-website: "http://www.casatorrens.com.ar/"
+website: http://www.casatorrens.com.ar/

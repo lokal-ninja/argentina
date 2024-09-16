@@ -1,11 +1,11 @@
 id: 625906088
-type: way
+type: node
 latitude: -34.40844
 longitude: -58.77103
 postcode: "1620"
 city: Maquinista Savio
-street: "9 de Julio"
-housenumber: 
+street: 9 de Julio
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

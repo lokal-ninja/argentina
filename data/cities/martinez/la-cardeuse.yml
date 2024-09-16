@@ -1,11 +1,11 @@
 id: 462005216
-type: way
+type: node
 latitude: -34.5048
 longitude: -58.53494
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Conscripto Marcelo Oscar Romero"
-housenumber: 947
+street: Conscripto Marcelo Oscar Romero
+housenumber: "947"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.lacardeuse.com.ar"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.lacardeuse.com.ar

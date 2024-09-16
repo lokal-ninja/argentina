@@ -1,11 +1,11 @@
 id: 1174477676
-type: way
+type: node
 latitude: -38.95875
 longitude: -68.05619
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Río Negro"
-housenumber: 356
+street: Río Negro
+housenumber: "356"
 phone: ""
 opening_hours: ""
-website: "https://www.lacardeuse.com.ar/"
+website: https://www.lacardeuse.com.ar/

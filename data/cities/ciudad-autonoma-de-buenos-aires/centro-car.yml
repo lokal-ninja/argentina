@@ -1,11 +1,11 @@
 id: 514038010
-type: way
+type: node
 latitude: -34.57754
 longitude: -58.47635
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "La Pampa"
-housenumber: 4747
-phone: "+54 11 4521-6171"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://www.boschcarservice.com/"
+street: La Pampa
+housenumber: "4747"
+phone: +54 11 4521-6171
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00
+website: https://www.boschcarservice.com/

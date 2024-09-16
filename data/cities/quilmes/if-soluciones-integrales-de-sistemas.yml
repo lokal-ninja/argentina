@@ -1,11 +1,11 @@
 id: 1206218859
-type: way
+type: node
 latitude: -34.7279
 longitude: -58.24929
 postcode: "1878"
 city: Quilmes
-street: "Avenida Mitre"
-housenumber: 1059
+street: Avenida Mitre
+housenumber: "1059"
 phone: "01142242828"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www2.ifsur.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www2.ifsur.com/

@@ -1,11 +1,11 @@
 id: 1267257743
-type: way
+type: node
 latitude: -28.46973
 longitude: -65.76287
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "Avenida Independencia"
-housenumber: 780
+street: Avenida Independencia
+housenumber: "780"
 phone: ""
 opening_hours: ""
-website: "https://ivesscatamarca.com.ar/"
+website: https://ivesscatamarca.com.ar/

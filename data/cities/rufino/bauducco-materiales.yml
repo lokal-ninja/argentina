@@ -1,11 +1,11 @@
 id: 1017410276
-type: way
+type: node
 latitude: -34.26882
 longitude: -62.70207
 postcode: "6100"
 city: Rufino
-street: "Garay"
-housenumber: 505
+street: Garay
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

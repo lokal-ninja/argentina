@@ -1,11 +1,11 @@
 id: 312315554
-type: way
+type: node
 latitude: -32.15455
 longitude: -58.41112
 postcode: ""
 city: Villa Elisa
-street: "Avenida Urquiza"
-housenumber: 2511
+street: Avenida Urquiza
+housenumber: "2511"
 phone: ""
 opening_hours: ""
 website: ""

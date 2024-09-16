@@ -1,11 +1,11 @@
 id: 1306970431
-type: way
+type: node
 latitude: -38.94002
 longitude: -67.99403
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Sarmiento"
-housenumber: 176
+street: Sarmiento
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

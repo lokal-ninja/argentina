@@ -1,11 +1,11 @@
 id: 470800715
-type: way
+type: node
 latitude: -34.5002
 longitude: -58.49574
 postcode: "1636"
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 3869
+street: Avenida Maipú
+housenumber: "3869"
 phone: ""
 opening_hours: ""
-website: "http://abelsonsa.com.ar/"
+website: http://abelsonsa.com.ar/

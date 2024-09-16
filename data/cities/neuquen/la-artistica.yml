@@ -1,11 +1,11 @@
 id: 1120483405
-type: way
+type: node
 latitude: -38.95832
 longitude: -68.05194
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Perito Moreno"
-housenumber: 507
+street: Perito Moreno
+housenumber: "507"
 phone: ""
 opening_hours: ""
-website: "http://www.librerialaartistica.com.ar/"
+website: http://www.librerialaartistica.com.ar/

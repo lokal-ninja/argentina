@@ -1,11 +1,11 @@
 id: 468157757
-type: way
+type: node
 latitude: -34.58172
 longitude: -58.54162
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 1970
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "1970"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa,PH 10:00-18:00"
-website: "https://autosrotter.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa,PH 10:00-18:00
+website: https://autosrotter.com/

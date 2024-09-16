@@ -1,11 +1,11 @@
 id: 840940651
-type: way
+type: node
 latitude: -43.25866
 longitude: -65.32862
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "Avenida 25 de Mayo"
-housenumber: 1665
+street: Avenida 25 de Mayo
+housenumber: "1665"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11339619411
 type: node
 latitude: -38.9528
 longitude: -68.05609
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Santa Fe"
-housenumber: 205
-phone: "+54 299 546-4923"
+street: Santa Fe
+housenumber: "205"
+phone: +54 299 546-4923
 opening_hours: ""
-website: "https://www.dicasa.com.ar/"
+website: https://www.dicasa.com.ar/

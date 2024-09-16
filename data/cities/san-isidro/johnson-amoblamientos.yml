@@ -1,11 +1,11 @@
 id: 473633230
-type: way
+type: node
 latitude: -34.46806
 longitude: -58.51097
 postcode: "1642"
 city: San Isidro
-street: "Avenida 25 de Mayo"
-housenumber: 454
+street: Avenida 25 de Mayo
+housenumber: "454"
 phone: ""
 opening_hours: ""
-website: "http://www.johnsonsanisidro.com.ar/"
+website: http://www.johnsonsanisidro.com.ar/

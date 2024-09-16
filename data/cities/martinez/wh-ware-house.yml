@@ -1,11 +1,11 @@
 id: 465560355
-type: way
+type: node
 latitude: -34.50698
 longitude: -58.53008
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "García Merou"
-housenumber: 2362
+street: García Merou
+housenumber: "2362"
 phone: ""
 opening_hours: ""
 website: ""

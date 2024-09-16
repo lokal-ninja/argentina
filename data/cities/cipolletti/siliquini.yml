@@ -1,11 +1,11 @@
 id: 1215423991
-type: way
+type: node
 latitude: -38.94122
 longitude: -68.00701
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida General Pacheco"
-housenumber: 373
+street: Avenida General Pacheco
+housenumber: "373"
 phone: ""
 opening_hours: ""
-website: "http://siliquini.com/"
+website: http://siliquini.com/

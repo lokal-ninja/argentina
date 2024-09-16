@@ -1,11 +1,11 @@
 id: 467500362
-type: way
+type: node
 latitude: -34.58565
 longitude: -58.53617
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "38 - Hipólito Yrigoyen"
-housenumber: 4286
-phone: "+54 11 4755-6889"
+street: 38 - Hipólito Yrigoyen
+housenumber: "4286"
+phone: +54 11 4755-6889
 opening_hours: ""
-website: "www.electro-dos.com.ar"
+website: www.electro-dos.com.ar

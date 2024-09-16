@@ -1,11 +1,11 @@
 id: 475358697
-type: way
+type: node
 latitude: -34.65226
 longitude: -58.58525
 postcode: "1706"
 city: Haedo
-street: "Avenida Don Bosco"
-housenumber: 847
+street: Avenida Don Bosco
+housenumber: "847"
 phone: ""
 opening_hours: ""
 website: ""

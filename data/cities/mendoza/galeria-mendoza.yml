@@ -1,11 +1,11 @@
 id: 258412944
-type: way
+type: node
 latitude: -32.88735
 longitude: -68.8395
 postcode: ""
 city: Mendoza
-street: "Avenida General San Martín"
-housenumber: 1360
+street: Avenida General San Martín
+housenumber: "1360"
 phone: ""
 opening_hours: ""
 website: ""

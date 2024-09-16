@@ -1,11 +1,11 @@
 id: 703342958
-type: way
+type: node
 latitude: -31.13967
 longitude: -64.29716
-postcode: "X5113"
+postcode: X5113
 city: Salsipuedes
-street: "Avenida San Martín"
-housenumber: 498
+street: Avenida San Martín
+housenumber: "498"
 phone: ""
 opening_hours: ""
 website: ""

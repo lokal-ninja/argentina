@@ -1,11 +1,11 @@
 id: 710755891
-type: way
+type: node
 latitude: -40.80317
 longitude: -62.98359
 postcode: "8504"
 city: Carmen de Patagones
-street: "Olivera"
-housenumber: 1
+street: Olivera
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

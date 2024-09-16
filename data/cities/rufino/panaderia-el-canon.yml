@@ -1,11 +1,11 @@
 id: 1282828954
-type: way
+type: node
 latitude: -34.26569
 longitude: -62.7151
 postcode: ""
 city: Rufino
-street: "Centenario"
-housenumber: 470
+street: Centenario
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

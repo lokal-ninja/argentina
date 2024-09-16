@@ -1,11 +1,11 @@
 id: 632244653
-type: way
+type: node
 latitude: -35.51431
 longitude: -58.32623
 postcode: "1987"
 city: Ranchos
-street: "Estanislao A Garay"
-housenumber: 
-phone: "+54 2241 481193"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Estanislao A Garay
+housenumber: ""
+phone: +54 2241 481193
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

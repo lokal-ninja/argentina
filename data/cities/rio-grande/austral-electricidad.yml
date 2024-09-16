@@ -1,11 +1,11 @@
 id: 904783146
-type: way
+type: node
 latitude: -53.78333
 longitude: -67.70169
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Luis Piedrabuena"
-housenumber: 520
+street: Luis Piedrabuena
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

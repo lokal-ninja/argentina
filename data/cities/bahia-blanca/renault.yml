@@ -1,11 +1,11 @@
 id: 648303839
-type: way
+type: node
 latitude: -38.72512
 longitude: -62.26933
 postcode: ""
 city: Bahía Blanca
-street: "Fitz Roy"
-housenumber: 451
+street: Fitz Roy
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188229580
-type: way
+type: node
 latitude: -32.95935
 longitude: -60.64324
-postcode: "S2000"
+postcode: S2000
 city: Rosario
-street: "Bartolomé Mitre"
-housenumber: 1900
+street: Bartolomé Mitre
+housenumber: "1900"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-20:00; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-13:00,15:00-20:00; Sa 09:30-14:00
 website: ""

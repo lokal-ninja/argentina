@@ -1,11 +1,11 @@
 id: 615881319
-type: way
+type: node
 latitude: -34.54454
 longitude: -58.53836
 postcode: "1651"
 city: San Andres
-street: "27 Mercedes"
-housenumber: 
+street: 27 Mercedes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

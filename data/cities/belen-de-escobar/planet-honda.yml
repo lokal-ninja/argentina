@@ -1,11 +1,11 @@
 id: 583003828
-type: way
+type: node
 latitude: -34.35113
 longitude: -58.79347
 postcode: "1625"
 city: Belén de Escobar
-street: "Rivadavia"
-housenumber: 335
-phone: "+54 348 442-4809"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.planethonda.com.ar/"
+street: Rivadavia
+housenumber: "335"
+phone: +54 348 442-4809
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.planethonda.com.ar/

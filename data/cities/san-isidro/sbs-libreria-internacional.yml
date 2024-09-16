@@ -1,11 +1,11 @@
 id: 473674732
-type: way
+type: node
 latitude: -34.4702
 longitude: -58.50927
 postcode: ""
 city: San Isidro
-street: "Martín y Omar"
-housenumber: 417
+street: Martín y Omar
+housenumber: "417"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 9:00-13:00"
-website: "http://sbs.com.ar"
+opening_hours: Mo-Fr 10:00-19:00, Sa 9:00-13:00
+website: http://sbs.com.ar

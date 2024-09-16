@@ -1,11 +1,11 @@
 id: 841431300
-type: way
+type: node
 latitude: -43.26682
 longitude: -65.28189
-postcode: "U9100"
+postcode: U9100
 city: Trelew
-street: "Avenida Eva Perón"
-housenumber: 2400
+street: Avenida Eva Perón
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

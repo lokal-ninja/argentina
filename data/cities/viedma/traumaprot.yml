@@ -1,11 +1,11 @@
 id: 787543603
-type: way
+type: node
 latitude: -40.81315
 longitude: -62.98854
 postcode: "8500"
 city: Viedma
-street: "José María Guido"
-housenumber: 302
+street: José María Guido
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

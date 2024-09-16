@@ -1,11 +1,11 @@
 id: 1151050671
-type: way
+type: node
 latitude: -34.58468
 longitude: -58.53646
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "42 - Perdriel"
-housenumber: 4262
+street: 42 - Perdriel
+housenumber: "4262"
 phone: ""
 opening_hours: ""
 website: ""

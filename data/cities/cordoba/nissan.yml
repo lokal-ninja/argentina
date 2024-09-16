@@ -1,11 +1,11 @@
 id: 576415402
-type: way
+type: node
 latitude: -31.41251
 longitude: -64.26873
 postcode: "5003"
 city: Córdoba
-street: "Avenida Santa Ana"
-housenumber: 6499
+street: Avenida Santa Ana
+housenumber: "6499"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "http://www.nixsa.com.ar/"
+opening_hours: Mo-Sa 08:30-20:00
+website: http://www.nixsa.com.ar/

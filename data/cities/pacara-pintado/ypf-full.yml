@@ -1,11 +1,11 @@
 id: 1011113286
-type: way
+type: node
 latitude: -26.8796
 longitude: -65.16582
 postcode: ""
 city: Pacará Pintado
-street: "Ruta Nacional 9"
-housenumber: 1285
+street: Ruta Nacional 9
+housenumber: "1285"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

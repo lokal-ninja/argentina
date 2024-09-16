@@ -1,11 +1,11 @@
 id: 473611887
-type: way
+type: node
 latitude: -34.59401
 longitude: -58.43024
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Córdoba"
-housenumber: 
+street: Avenida Córdoba
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.stockcenter.com.ar"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.stockcenter.com.ar

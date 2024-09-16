@@ -1,11 +1,11 @@
 id: 782190629
-type: way
+type: node
 latitude: -39.29251
 longitude: -65.65986
-postcode: "R8360"
+postcode: R8360
 city: Choele Choel
-street: "Avellaneda"
-housenumber: 962
+street: Avellaneda
+housenumber: "962"
 phone: ""
 opening_hours: ""
 website: ""

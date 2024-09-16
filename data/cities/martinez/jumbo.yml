@@ -2,10 +2,10 @@ id: 4574353254
 type: node
 latitude: -34.50831
 longitude: -58.52762
-postcode: "B1640"
+postcode: B1640
 city: Martinez
-street: "Paraná"
-housenumber: 3745
+street: Paraná
+housenumber: "3745"
 phone: ""
-opening_hours: "08:00-21:30"
-website: "https://www.jumbo.com.ar/"
+opening_hours: 08:00-21:30
+website: https://www.jumbo.com.ar/

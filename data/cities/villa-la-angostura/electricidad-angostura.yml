@@ -1,11 +1,11 @@
 id: 885650778
-type: way
+type: node
 latitude: -40.7632
 longitude: -71.64651
-postcode: "Q8407"
+postcode: Q8407
 city: Villa La Angostura
-street: "Las Frambuesas"
-housenumber: 66
+street: Las Frambuesas
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

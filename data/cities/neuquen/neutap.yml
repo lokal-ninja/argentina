@@ -1,11 +1,11 @@
 id: 1077195955
-type: way
+type: node
 latitude: -38.96265
 longitude: -68.05322
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Teniente General Pablo Riccheri"
-housenumber: 423
+street: Teniente General Pablo Riccheri
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

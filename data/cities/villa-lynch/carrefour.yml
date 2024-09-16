@@ -1,11 +1,11 @@
 id: 55602378
-type: way
+type: node
 latitude: -34.58509
 longitude: -58.51765
-postcode: "C1004AAJ"
+postcode: C1004AAJ
 city: Villa Lynch
-street: "Avenida 85 - Libertador General San Martín"
-housenumber: 420
+street: Avenida 85 - Libertador General San Martín
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Fr 08:30-22:00; Sa 07:30-23:00; Su 07:00-18:00"
-website: "https://www.carrefour.com.ar"
+opening_hours: Mo-Fr 08:30-22:00; Sa 07:30-23:00; Su 07:00-18:00
+website: https://www.carrefour.com.ar

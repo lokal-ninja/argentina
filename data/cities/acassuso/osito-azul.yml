@@ -1,11 +1,11 @@
 id: 468094808
-type: way
+type: node
 latitude: -34.47369
 longitude: -58.50271
 postcode: "1641"
 city: Acassuso
-street: "Avenida del Libertador"
-housenumber: 15389
+street: Avenida del Libertador
+housenumber: "15389"
 phone: ""
 opening_hours: ""
-website: "https://www.ositoazul.com.ar/"
+website: https://www.ositoazul.com.ar/

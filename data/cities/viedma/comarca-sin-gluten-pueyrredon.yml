@@ -1,11 +1,11 @@
 id: 1186525586
-type: way
+type: node
 latitude: -40.80521
 longitude: -63.00293
 postcode: "8500"
 city: Viedma
-street: "Pueyrredón"
-housenumber: 799
+street: Pueyrredón
+housenumber: "799"
 phone: ""
 opening_hours: ""
 website: ""

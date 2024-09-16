@@ -1,11 +1,11 @@
 id: 1068341592
-type: way
+type: node
 latitude: -38.13853
 longitude: -61.79721
 postcode: "8168"
 city: Sierra de la Ventana
-street: "Avenida Malvinas"
-housenumber: 66
+street: Avenida Malvinas
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

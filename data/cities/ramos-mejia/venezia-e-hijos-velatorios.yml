@@ -1,11 +1,11 @@
 id: 477770052
-type: way
+type: node
 latitude: -34.65296
 longitude: -58.5773
 postcode: "1704"
 city: Ramos Mejía
-street: "Triunvirato"
-housenumber: 1471
+street: Triunvirato
+housenumber: "1471"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

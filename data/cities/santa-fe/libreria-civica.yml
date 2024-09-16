@@ -2,10 +2,10 @@ id: 4617882091
 type: node
 latitude: -31.65356
 longitude: -60.70858
-postcode: "S3000"
+postcode: S3000
 city: Santa Fe
-street: "San Martín"
-housenumber: 1900
+street: San Martín
+housenumber: "1900"
 phone: "03424595544"
 opening_hours: ""
-website: "https://www.libreriacivica.com.ar/"
+website: https://www.libreriacivica.com.ar/

@@ -1,11 +1,11 @@
 id: 1068810765
-type: way
+type: node
 latitude: -34.57416
 longitude: -58.44929
-postcode: "C1426AQR"
+postcode: C1426AQR
 city: Ciudad Autónoma de Buenos Aires
-street: "Conesa"
-housenumber: 820
-phone: "+54 9 11 5892 0886"
+street: Conesa
+housenumber: "820"
+phone: +54 9 11 5892 0886
 opening_hours: ""
 website: ""

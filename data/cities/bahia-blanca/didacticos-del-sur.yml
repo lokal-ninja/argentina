@@ -1,11 +1,11 @@
 id: 1150429700
-type: way
+type: node
 latitude: -38.71083
 longitude: -62.26594
 postcode: "8000"
 city: Bahía Blanca
-street: "11 de Abril"
-housenumber: 388
-phone: "+54 9 291 572 6443"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.didacticosdelsur.com"
+street: 11 de Abril
+housenumber: "388"
+phone: +54 9 291 572 6443
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.didacticosdelsur.com

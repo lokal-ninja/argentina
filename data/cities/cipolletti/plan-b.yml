@@ -1,11 +1,11 @@
 id: 971006472
-type: way
+type: node
 latitude: -38.93859
 longitude: -68.00029
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "25 de Mayo"
-housenumber: 191
+street: 25 de Mayo
+housenumber: "191"
 phone: ""
 opening_hours: ""
-website: "https://planb.com.ar/"
+website: https://planb.com.ar/

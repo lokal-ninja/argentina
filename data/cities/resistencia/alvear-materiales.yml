@@ -1,11 +1,11 @@
 id: 1044369177
-type: way
+type: node
 latitude: -27.45052
 longitude: -59.00253
 postcode: "3500"
 city: Resistencia
-street: "Avenida Carlos María de Alvear"
-housenumber: 931
-phone: "+54 362 4430547"
+street: Avenida Carlos María de Alvear
+housenumber: "931"
+phone: +54 362 4430547
 opening_hours: ""
 website: ""

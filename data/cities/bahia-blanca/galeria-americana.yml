@@ -1,11 +1,11 @@
 id: 940919469
-type: way
+type: node
 latitude: -38.7192
 longitude: -62.26632
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "O'Higgins"
-housenumber: 27
+street: O'Higgins
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

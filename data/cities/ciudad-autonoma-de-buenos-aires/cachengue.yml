@@ -1,11 +1,11 @@
 id: 1161236514
-type: way
+type: node
 latitude: -34.61984
 longitude: -58.50918
 postcode: "1417"
 city: Ciudad Autónoma de Buenos Aires
-street: "Bermúdez"
-housenumber: 2022
+street: Bermúdez
+housenumber: "2022"
 phone: "01165683565"
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

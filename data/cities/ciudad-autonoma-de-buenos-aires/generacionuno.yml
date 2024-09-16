@@ -4,8 +4,8 @@ latitude: -34.60628
 longitude: -58.37937
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Suipacha"
-housenumber: 174
-phone: "+54 11 4328-2305"
-opening_hours: "Mo-Fr 10:30-18:30"
-website: "http://www.generacionuno.com.ar"
+street: Suipacha
+housenumber: "174"
+phone: +54 11 4328-2305
+opening_hours: Mo-Fr 10:30-18:30
+website: http://www.generacionuno.com.ar

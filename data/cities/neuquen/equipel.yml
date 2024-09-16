@@ -1,11 +1,11 @@
 id: 1074012091
-type: way
+type: node
 latitude: -38.95335
 longitude: -68.02705
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 2322
+street: Félix San Martín
+housenumber: "2322"
 phone: ""
 opening_hours: ""
-website: "https://www.equipel.com.ar/"
+website: https://www.equipel.com.ar/

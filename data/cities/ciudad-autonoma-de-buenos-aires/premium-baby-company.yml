@@ -4,8 +4,8 @@ latitude: -34.56866
 longitude: -58.43695
 postcode: "1426"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Luis María Campos"
-housenumber: 871
-phone: "+54 11 4774-4902"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.babycompany.com.ar/"
+street: Avenida Luis María Campos
+housenumber: "871"
+phone: +54 11 4774-4902
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.babycompany.com.ar/

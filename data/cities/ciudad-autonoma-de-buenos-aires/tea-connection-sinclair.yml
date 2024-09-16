@@ -4,8 +4,8 @@ latitude: -34.57482
 longitude: -58.42314
 postcode: "1425"
 city: Ciudad Autónoma de Buenos Aires
-street: "Sinclair"
-housenumber: 3027
-phone: "+54 11 4776-6410"
-opening_hours: "Mo-Th 07:30-00:00; Fr-Sa 09:00-01:00; Su 09:00-24:00"
-website: "https://www.teaconnection.com.ar/"
+street: Sinclair
+housenumber: "3027"
+phone: +54 11 4776-6410
+opening_hours: Mo-Th 07:30-00:00; Fr-Sa 09:00-01:00; Su 09:00-24:00
+website: https://www.teaconnection.com.ar/

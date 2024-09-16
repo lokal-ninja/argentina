@@ -1,11 +1,11 @@
 id: 473402501
-type: way
+type: node
 latitude: -34.46127
 longitude: -58.57361
-postcode: "B1645"
+postcode: B1645
 city: Virreyes
-street: "Avenida Nicolás Avellaneda"
-housenumber: 3790
-phone: "+54 11 4714-6400"
+street: Avenida Nicolás Avellaneda
+housenumber: "3790"
+phone: +54 11 4714-6400
 opening_hours: ""
 website: ""

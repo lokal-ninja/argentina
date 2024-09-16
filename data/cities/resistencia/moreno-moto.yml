@@ -4,8 +4,8 @@ latitude: -27.45781
 longitude: -58.99279
 postcode: "3500"
 city: Resistencia
-street: "Avenida Juan José Castelli"
-housenumber: 65
-phone: "+54 362 457-0659"
-opening_hours: "Mo-Fr 08:00-12:00,16:30-20:30; Sa 08:00-12:00"
+street: Avenida Juan José Castelli
+housenumber: "65"
+phone: +54 362 457-0659
+opening_hours: Mo-Fr 08:00-12:00,16:30-20:30; Sa 08:00-12:00
 website: ""

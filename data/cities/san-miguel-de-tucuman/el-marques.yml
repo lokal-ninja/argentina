@@ -1,11 +1,11 @@
 id: 1214878767
-type: way
+type: node
 latitude: -26.8238
 longitude: -65.20134
-postcode: "T4000IFK"
+postcode: T4000IFK
 city: San Miguel de Tucumán
-street: "Laprida"
-housenumber: 547
+street: Laprida
+housenumber: "547"
 phone: ""
-opening_hours: "Mo-Su 08:30-22:00"
+opening_hours: Mo-Su 08:30-22:00
 website: ""

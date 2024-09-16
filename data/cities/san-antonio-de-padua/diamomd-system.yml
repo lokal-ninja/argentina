@@ -1,11 +1,11 @@
 id: 468789052
-type: way
+type: node
 latitude: -34.66543
 longitude: -58.69504
 postcode: ""
 city: San Antonio de Padua
-street: "Avenida Presidente Juan Domingo Perón"
-housenumber: 23648
+street: Avenida Presidente Juan Domingo Perón
+housenumber: "23648"
 phone: ""
 opening_hours: ""
 website: ""

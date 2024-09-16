@@ -1,11 +1,11 @@
 id: 525994368
-type: way
+type: node
 latitude: -31.39463
 longitude: -64.20183
 postcode: ""
 city: Córdoba
-street: "Avenida Castro Barros"
-housenumber: 1155
+street: Avenida Castro Barros
+housenumber: "1155"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00"
+opening_hours: Mo-Fr 09:00-20:00
 website: ""

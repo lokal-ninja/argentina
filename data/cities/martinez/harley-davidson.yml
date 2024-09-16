@@ -1,11 +1,11 @@
 id: 464025044
-type: way
+type: node
 latitude: -34.49198
 longitude: -58.52294
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida Sir Alexander Fleming"
-housenumber: 1124
-phone: "+54 11 4798-9793"
+street: Avenida Sir Alexander Fleming
+housenumber: "1124"
+phone: +54 11 4798-9793
 opening_hours: ""
-website: "https://www.harley-davidson.com.ar/"
+website: https://www.harley-davidson.com.ar/

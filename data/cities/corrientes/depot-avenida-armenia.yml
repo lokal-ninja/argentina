@@ -1,11 +1,11 @@
 id: 1198262449
-type: way
+type: node
 latitude: -27.46682
 longitude: -58.79111
 postcode: "3400"
 city: Corrientes
-street: "Avenida Armenia"
-housenumber: 4751
+street: Avenida Armenia
+housenumber: "4751"
 phone: ""
 opening_hours: ""
 website: ""

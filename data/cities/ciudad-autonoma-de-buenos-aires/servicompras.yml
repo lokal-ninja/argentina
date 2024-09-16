@@ -1,11 +1,11 @@
 id: 471197807
-type: way
+type: node
 latitude: -34.55989
 longitude: -58.48881
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Crisólogo Larralde"
-housenumber: 4688
+street: Crisólogo Larralde
+housenumber: "4688"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.ypf.com/"
+opening_hours: 24/7
+website: https://www.ypf.com/

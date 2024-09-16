@@ -1,11 +1,11 @@
 id: 462382717
-type: way
+type: node
 latitude: -34.5391
 longitude: -58.50696
 postcode: ""
 city: Buenos Aires
-street: "Avenida Bartolomé Mitre"
-housenumber: 1171
+street: Avenida Bartolomé Mitre
+housenumber: "1171"
 phone: ""
 opening_hours: ""
-website: "www.alarmastausend.com"
+website: www.alarmastausend.com

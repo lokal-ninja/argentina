@@ -1,11 +1,11 @@
 id: 837463652
-type: way
+type: node
 latitude: -34.54637
 longitude: -58.474
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Besares"
-housenumber: 2732
+street: Besares
+housenumber: "2732"
 phone: ""
 opening_hours: ""
 website: ""

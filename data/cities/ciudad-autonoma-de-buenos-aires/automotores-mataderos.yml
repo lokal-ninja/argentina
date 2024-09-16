@@ -1,11 +1,11 @@
 id: 473889443
-type: way
+type: node
 latitude: -34.63815
 longitude: -58.5059
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Rivadavia"
-housenumber: 10089
-phone: "+54 11 4683-5000;+54 11 4683-5006;+54 11 4683-5007"
+street: Avenida Rivadavia
+housenumber: "10089"
+phone: +54 11 4683-5000;+54 11 4683-5006;+54 11 4683-5007
 opening_hours: ""
 website: ""

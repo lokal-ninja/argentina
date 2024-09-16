@@ -4,8 +4,8 @@ latitude: -32.94832
 longitude: -60.63696
 postcode: ""
 city: Rosario
-street: "José de San Martín"
-housenumber: 925
+street: José de San Martín
+housenumber: "925"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Apr 2 off Día de los caídos; Dec 8 off Inmaculada"
-website: "https://www.claro.com.ar/"
+opening_hours: Mo-Fr 09:00-19:00; Apr 2 off "Día de los caídos"; Dec 8 off "Inmaculada"
+website: https://www.claro.com.ar/

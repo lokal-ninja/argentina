@@ -1,11 +1,11 @@
 id: 1286876905
-type: way
+type: node
 latitude: -34.59372
 longitude: -58.43218
 postcode: "1414"
 city: Ciudad Autónoma de Buenos Aires
-street: "Malabia"
-housenumber: 1116
+street: Malabia
+housenumber: "1116"
 phone: "+5491164266863"
 opening_hours: ""
-website: "https://ateliermolina.com.ar/"
+website: https://ateliermolina.com.ar/

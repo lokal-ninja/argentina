@@ -1,11 +1,11 @@
 id: 1031461398
-type: way
+type: node
 latitude: -34.39824
 longitude: -58.65341
 postcode: "1624"
 city: Nordelta
-street: "Luis Pasteur"
-housenumber: 38
+street: Luis Pasteur
+housenumber: "38"
 phone: "+541124879065"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://patagoniaflooring.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://patagoniaflooring.com/

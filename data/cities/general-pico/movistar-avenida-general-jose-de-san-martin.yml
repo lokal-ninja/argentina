@@ -1,11 +1,11 @@
 id: 775324333
-type: way
+type: node
 latitude: -35.66035
 longitude: -63.75584
 postcode: "6360"
 city: General Pico
-street: "Avenida General José de San Martín"
-housenumber: 602
+street: Avenida General José de San Martín
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

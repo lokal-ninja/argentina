@@ -1,11 +1,11 @@
 id: 1074012080
-type: way
+type: node
 latitude: -38.95413
 longitude: -68.02776
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 2230
+street: Félix San Martín
+housenumber: "2230"
 phone: ""
 opening_hours: ""
 website: ""

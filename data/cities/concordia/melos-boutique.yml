@@ -2,10 +2,10 @@ id: 5010472967
 type: node
 latitude: -31.39472
 longitude: -58.01918
-postcode: "E3202ABM"
+postcode: E3202ABM
 city: Concordia
-street: "San Luis"
-housenumber: 751
+street: San Luis
+housenumber: "751"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, 16:00-20:00"
+opening_hours: Mo-Fr 08:30-12:30, 16:00-20:00
 website: ""

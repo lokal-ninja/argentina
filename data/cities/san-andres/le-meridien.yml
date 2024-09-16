@@ -1,11 +1,11 @@
 id: 1158594330
-type: way
+type: node
 latitude: -34.5754
 longitude: -58.54815
-postcode: "B1650"
+postcode: B1650
 city: San Andrés
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 2669
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "2669"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00
 website: ""

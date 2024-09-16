@@ -1,11 +1,11 @@
 id: 667587592
-type: way
+type: node
 latitude: -38.71087
 longitude: -62.27621
 postcode: "8000"
 city: Bahía Blanca
-street: "Estomba"
-housenumber: 898
-phone: "+54 9291 456 0044"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-12:30"
+street: Estomba
+housenumber: "898"
+phone: +54 9291 456 0044
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-12:30
 website: ""

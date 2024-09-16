@@ -1,11 +1,11 @@
 id: 526933412
-type: way
+type: node
 latitude: -24.26375
 longitude: -65.21977
 postcode: "4612"
 city: Palpalá
-street: "Santa Catalina"
-housenumber: 95
+street: Santa Catalina
+housenumber: "95"
 phone: "4053645"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471844049
-type: way
+type: node
 latitude: -34.57535
 longitude: -58.47833
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Álvarez Thomas"
-housenumber: 2670
-phone: "+54 11 4524-8100"
+street: Avenida Álvarez Thomas
+housenumber: "2670"
+phone: +54 11 4524-8100
 opening_hours: ""
-website: "https://www.autogenerali.com.ar/"
+website: https://www.autogenerali.com.ar/

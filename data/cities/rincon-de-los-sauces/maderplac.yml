@@ -1,11 +1,11 @@
 id: 925734679
-type: way
+type: node
 latitude: -37.38904
 longitude: -68.92453
-postcode: "Q8319"
+postcode: Q8319
 city: Rincón de Los Sauces
-street: "Avenida General Mosconi"
-housenumber: 611
+street: Avenida General Mosconi
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 828268945
-type: way
+type: node
 latitude: -53.78817
 longitude: -67.69959
-postcode: "V9420"
+postcode: V9420
 city: Río Grande
-street: "Monseñor Fagnano"
-housenumber: 775
+street: Monseñor Fagnano
+housenumber: "775"
 phone: ""
 opening_hours: ""
 website: ""

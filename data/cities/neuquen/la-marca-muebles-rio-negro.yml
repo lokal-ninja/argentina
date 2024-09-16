@@ -1,11 +1,11 @@
 id: 1174477673
-type: way
+type: node
 latitude: -38.95894
 longitude: -68.05619
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Río Negro"
-housenumber: 376
+street: Río Negro
+housenumber: "376"
 phone: ""
 opening_hours: ""
-website: "https://www.lamarcamuebles.com.ar/"
+website: https://www.lamarcamuebles.com.ar/

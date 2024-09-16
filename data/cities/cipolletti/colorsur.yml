@@ -1,11 +1,11 @@
 id: 1298901724
-type: way
+type: node
 latitude: -38.93781
 longitude: -67.99279
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Sarmiento"
-housenumber: 399
-phone: "+54 299 477-7004"
+street: Sarmiento
+housenumber: "399"
+phone: +54 299 477-7004
 opening_hours: ""
 website: ""

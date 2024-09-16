@@ -1,11 +1,11 @@
 id: 1306274597
-type: way
+type: node
 latitude: -38.93903
 longitude: -67.99404
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Sarmiento"
-housenumber: 224
-phone: "0800-444-6686"
+street: Sarmiento
+housenumber: "224"
+phone: 0800-444-6686
 opening_hours: ""
-website: "https://www.novogar.com.ar/"
+website: https://www.novogar.com.ar/

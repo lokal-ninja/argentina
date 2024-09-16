@@ -1,11 +1,11 @@
 id: 467020686
-type: way
+type: node
 latitude: -34.52531
 longitude: -58.54804
 postcode: "1607"
 city: Villa Adelina
-street: "Paraná"
-housenumber: 6370
+street: Paraná
+housenumber: "6370"
 phone: ""
 opening_hours: ""
 website: ""

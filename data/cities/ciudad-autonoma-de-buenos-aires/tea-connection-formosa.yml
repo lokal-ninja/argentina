@@ -4,8 +4,8 @@ latitude: -34.62137
 longitude: -58.43494
 postcode: "1424"
 city: Ciudad Autónoma de Buenos Aires
-street: "Formosa"
-housenumber: 490
-phone: "+54 11 5901-0056"
-opening_hours: "Mo-Th 07:30-24:00; Fr 07:30-02:00; Sa 08:00-02:00; Su 09:00-24:00"
-website: "https://www.teaconnection.com.ar/"
+street: Formosa
+housenumber: "490"
+phone: +54 11 5901-0056
+opening_hours: Mo-Th 07:30-24:00; Fr 07:30-02:00; Sa 08:00-02:00; Su 09:00-24:00
+website: https://www.teaconnection.com.ar/

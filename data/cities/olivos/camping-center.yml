@@ -1,11 +1,11 @@
 id: 462000890
-type: way
+type: node
 latitude: -34.51798
 longitude: -58.51491
-postcode: "B1636"
+postcode: B1636
 city: Olivos
-street: "Blas Parera"
-housenumber: 3145
-phone: "+54 11 4794-5534"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off"
-website: "https://www.campingcenter.com.ar/"
+street: Blas Parera
+housenumber: "3145"
+phone: +54 11 4794-5534
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off
+website: https://www.campingcenter.com.ar/

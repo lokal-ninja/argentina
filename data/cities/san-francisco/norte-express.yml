@@ -4,8 +4,8 @@ latitude: -31.41777
 longitude: -62.08943
 postcode: "2400"
 city: San Francisco
-street: "Bulevar Buenos Aires"
-housenumber: 1191
-phone: "03564-435070"
-opening_hours: "Tu-Sa 08:30-13:00, 16:30-21:30; Mo 16:30-21:30"
+street: Bulevar Buenos Aires
+housenumber: "1191"
+phone: 03564-435070
+opening_hours: Tu-Sa 08:30-13:00, 16:30-21:30; Mo 16:30-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 398041830
-type: way
+type: node
 latitude: -40.8121
 longitude: -63.00453
 postcode: "8500"
 city: Viedma
-street: "Avenida Caseros"
-housenumber: 1293
+street: Avenida Caseros
+housenumber: "1293"
 phone: ""
 opening_hours: ""
 website: ""

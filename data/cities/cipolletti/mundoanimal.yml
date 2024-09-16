@@ -1,11 +1,11 @@
 id: 1263141424
-type: way
+type: node
 latitude: -38.94216
 longitude: -67.97943
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "John Kennedy"
-housenumber: 236
+street: John Kennedy
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

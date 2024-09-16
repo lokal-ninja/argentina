@@ -1,11 +1,11 @@
 id: 471885371
-type: way
+type: node
 latitude: -34.49244
 longitude: -58.49923
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida Santa Fe"
-housenumber: 2333
-phone: "+54 11 4792 2986"
+street: Avenida Santa Fe
+housenumber: "2333"
+phone: +54 11 4792 2986
 opening_hours: ""
 website: ""

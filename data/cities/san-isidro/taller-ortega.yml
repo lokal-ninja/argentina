@@ -1,11 +1,11 @@
 id: 468504741
-type: way
+type: node
 latitude: -34.46358
 longitude: -58.52447
-postcode: "B1643"
+postcode: B1643
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 1488
-phone: "+54 11 4743-0121"
-opening_hours: "Mo-Fr 08:00-13:00,02:00-18:00"
+street: Avenida Centenario
+housenumber: "1488"
+phone: +54 11 4743-0121
+opening_hours: Mo-Fr 08:00-13:00,02:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1117671275
-type: way
+type: node
 latitude: -38.9476
 longitude: -68.05736
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Islas Malvinas"
-housenumber: 115
+street: Islas Malvinas
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

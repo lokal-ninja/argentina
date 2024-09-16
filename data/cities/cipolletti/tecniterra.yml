@@ -1,11 +1,11 @@
 id: 1216158942
-type: way
+type: node
 latitude: -38.94143
 longitude: -68.00313
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Lisandro de la Torre"
-housenumber: 51
+street: Avenida Lisandro de la Torre
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.tecniterra.com.ar/"
+website: https://www.tecniterra.com.ar/

@@ -1,11 +1,11 @@
 id: 601168002
-type: way
+type: node
 latitude: -28.47677
 longitude: -65.77929
-postcode: "K4700EKA"
+postcode: K4700EKA
 city: San Fernando del Valle de Catamarca
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 1283
+street: Avenida Hipólito Yrigoyen
+housenumber: "1283"
 phone: ""
-opening_hours: "08:00-23:00"
+opening_hours: 08:00-23:00
 website: ""

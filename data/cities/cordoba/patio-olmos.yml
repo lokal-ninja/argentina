@@ -1,11 +1,11 @@
 id: 1126847036
-type: way
+type: node
 latitude: -31.41933
 longitude: -64.18834
-postcode: "X5000JJD"
+postcode: X5000JJD
 city: Córdoba
-street: "Avenida Vélez Sarsfield"
-housenumber: 361
+street: Avenida Vélez Sarsfield
+housenumber: "361"
 phone: "03515704199"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.patioolmos.com/"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.patioolmos.com/

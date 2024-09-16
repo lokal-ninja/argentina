@@ -1,11 +1,11 @@
 id: 825271779
-type: way
+type: node
 latitude: -41.15949
 longitude: -71.31904
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Pasaje Gutiérrez"
-housenumber: 3443
+street: Pasaje Gutiérrez
+housenumber: "3443"
 phone: ""
-opening_hours: "09:00–19:00"
-website: "https://www.hipertehuelche.com/"
+opening_hours: 09:00–19:00
+website: https://www.hipertehuelche.com/

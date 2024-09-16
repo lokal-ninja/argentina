@@ -1,11 +1,11 @@
 id: 468195367
-type: way
+type: node
 latitude: -34.4801
 longitude: -58.4924
 postcode: "1640"
 city: Martínez
-street: "Avenida del Libertador"
-housenumber: 14317
+street: Avenida del Libertador
+housenumber: "14317"
 phone: ""
 opening_hours: ""
-website: "https://www.lidermoto.com/"
+website: https://www.lidermoto.com/

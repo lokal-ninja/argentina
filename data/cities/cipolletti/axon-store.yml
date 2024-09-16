@@ -1,11 +1,11 @@
 id: 1297195530
-type: way
+type: node
 latitude: -38.94105
 longitude: -67.99288
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 683
-phone: "+54 299 477-1570"
+street: General San Martín
+housenumber: "683"
+phone: +54 299 477-1570
 opening_hours: ""
-website: "https://axon-store.ar/"
+website: https://axon-store.ar/

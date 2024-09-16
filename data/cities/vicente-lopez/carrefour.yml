@@ -1,11 +1,11 @@
 id: 205341253
-type: way
+type: node
 latitude: -34.53235
 longitude: -58.4668
 postcode: "1638"
 city: Vicente López
-street: "Avenida del Libertador"
-housenumber: 215
+street: Avenida del Libertador
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

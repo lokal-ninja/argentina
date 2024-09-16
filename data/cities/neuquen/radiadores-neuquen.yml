@@ -1,11 +1,11 @@
 id: 1076223959
-type: way
+type: node
 latitude: -38.96009
 longitude: -68.04877
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "José Rosa"
-housenumber: 440
+street: José Rosa
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 475344711
-type: way
+type: node
 latitude: -34.44743
 longitude: -58.54238
 postcode: "1644"
 city: Victoria
-street: "Avenida del Libertador"
-housenumber: 
+street: Avenida del Libertador
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"
-website: "https://www.besten.com.ar/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 10:00-13:00
+website: https://www.besten.com.ar/

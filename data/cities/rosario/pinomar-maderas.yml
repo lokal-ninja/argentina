@@ -1,11 +1,11 @@
 id: 326570655
-type: way
+type: node
 latitude: -32.92625
 longitude: -60.75299
-postcode: "S2008QKQ"
+postcode: S2008QKQ
 city: Rosario
-street: "Avenida Eva Perón"
-housenumber: 8730
+street: Avenida Eva Perón
+housenumber: "8730"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:30
 website: ""

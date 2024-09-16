@@ -2,10 +2,10 @@ id: 5010217629
 type: node
 latitude: -31.39645
 longitude: -58.01769
-postcode: "E3200AGL"
+postcode: E3200AGL
 city: Concordia
-street: "General Justo José de Urquiza"
-housenumber: 676
-phone: "+54 345 421-9328"
-opening_hours: "Mo-Fr 08:00-12:00, 16:00-20:00; Sa 08:30-12:30"
+street: General Justo José de Urquiza
+housenumber: "676"
+phone: +54 345 421-9328
+opening_hours: Mo-Fr 08:00-12:00, 16:00-20:00; Sa 08:30-12:30
 website: ""

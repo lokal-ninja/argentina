@@ -1,11 +1,11 @@
 id: 772179544
-type: way
+type: node
 latitude: -33.904
 longitude: -60.58679
 postcode: "2700"
 city: Pergamino
-street: "Avenida Ernesto Illia"
-housenumber: 1895
+street: Avenida Ernesto Illia
+housenumber: "1895"
 phone: ""
 opening_hours: ""
 website: ""

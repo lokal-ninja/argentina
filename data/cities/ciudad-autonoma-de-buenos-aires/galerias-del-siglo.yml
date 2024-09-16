@@ -1,11 +1,11 @@
 id: 475163262
-type: way
+type: node
 latitude: -34.60486
 longitude: -58.40325
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Corrientes"
-housenumber: 2564
+street: Avenida Corrientes
+housenumber: "2564"
 phone: ""
 opening_hours: ""
 website: ""

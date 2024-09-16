@@ -1,11 +1,11 @@
 id: 311129407
-type: way
+type: node
 latitude: -34.5104
 longitude: -58.47829
 postcode: "1636"
 city: Olivos
-street: "Avenida del Libertador"
-housenumber: 2229
-phone: "+54 11 7078-4002"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-20:00"
-website: "https://www.alparamis.com.ar/"
+street: Avenida del Libertador
+housenumber: "2229"
+phone: +54 11 7078-4002
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-20:00
+website: https://www.alparamis.com.ar/

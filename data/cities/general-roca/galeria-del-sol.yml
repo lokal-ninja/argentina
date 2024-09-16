@@ -1,11 +1,11 @@
 id: 820533369
-type: way
+type: node
 latitude: -39.02878
 longitude: -67.57206
-postcode: "R8332"
+postcode: R8332
 city: General Roca
-street: "Tucumán"
-housenumber: 517
+street: Tucumán
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

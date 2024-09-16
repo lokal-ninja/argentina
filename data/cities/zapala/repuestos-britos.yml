@@ -1,11 +1,11 @@
 id: 1153083125
-type: way
+type: node
 latitude: -38.90066
 longitude: -70.06126
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Mayor Torres"
-housenumber: 902
+street: Mayor Torres
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

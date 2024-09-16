@@ -1,11 +1,11 @@
 id: 372899638
-type: way
+type: node
 latitude: -34.18707
 longitude: -58.94312
 postcode: "2804"
 city: Campana
-street: "Avenida 6 de Julio"
-housenumber: 1578
+street: Avenida 6 de Julio
+housenumber: "1578"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:00
 website: ""

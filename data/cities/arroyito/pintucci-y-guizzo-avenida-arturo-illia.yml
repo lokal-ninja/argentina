@@ -1,11 +1,11 @@
 id: 565971300
-type: way
+type: node
 latitude: -31.41628
 longitude: -63.04538
 postcode: "2434"
 city: Arroyito
-street: "Avenida Arturo Illia"
-housenumber: 602
+street: Avenida Arturo Illia
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

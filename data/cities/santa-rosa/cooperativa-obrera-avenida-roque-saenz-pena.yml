@@ -1,11 +1,11 @@
 id: 882573800
-type: way
+type: node
 latitude: -36.62655
 longitude: -64.28762
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Avenida Roque Saenz Peña"
-housenumber: 899
+street: Avenida Roque Saenz Peña
+housenumber: "899"
 phone: ""
 opening_hours: ""
 website: ""

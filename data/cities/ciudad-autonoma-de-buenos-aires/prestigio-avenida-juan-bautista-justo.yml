@@ -1,11 +1,11 @@
 id: 470809214
-type: way
+type: node
 latitude: -34.57971
 longitude: -58.42825
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan Bautista Justo"
-housenumber: 795
+street: Avenida Juan Bautista Justo
+housenumber: "795"
 phone: ""
 opening_hours: ""
-website: "http://www.prestigioweb.com/"
+website: http://www.prestigioweb.com/

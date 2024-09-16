@@ -1,11 +1,11 @@
 id: 584441013
-type: way
+type: node
 latitude: -26.81283
 longitude: -65.2979
 postcode: "4107"
 city: Yerba Buena
-street: "Avenida Aconquija"
-housenumber: 1970
-phone: "+54 381 425-0090"
-opening_hours: "Mo-Fr 08:00-13:00,16:30-21:00; Sa 08:30-13:00"
-website: "https://aspenmotos.com/"
+street: Avenida Aconquija
+housenumber: "1970"
+phone: +54 381 425-0090
+opening_hours: Mo-Fr 08:00-13:00,16:30-21:00; Sa 08:30-13:00
+website: https://aspenmotos.com/

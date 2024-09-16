@@ -1,11 +1,11 @@
 id: 312246169
-type: way
+type: node
 latitude: -32.15599
 longitude: -58.40128
 postcode: ""
 city: Villa Elisa
-street: "Guex"
-housenumber: 1890
+street: Guex
+housenumber: "1890"
 phone: ""
 opening_hours: ""
 website: ""

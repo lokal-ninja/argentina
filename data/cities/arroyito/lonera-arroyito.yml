@@ -1,11 +1,11 @@
 id: 560635362
-type: way
+type: node
 latitude: -31.42155
 longitude: -63.0361
 postcode: "2434"
 city: Arroyito
-street: "Contador José Bautista Bertone"
-housenumber: 70
-phone: "+54 3576 423838"
+street: Contador José Bautista Bertone
+housenumber: "70"
+phone: +54 3576 423838
 opening_hours: ""
 website: ""

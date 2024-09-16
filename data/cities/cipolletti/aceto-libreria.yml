@@ -1,11 +1,11 @@
 id: 1298901679
-type: way
+type: node
 latitude: -38.93869
 longitude: -67.99118
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Hipólito Yrigoyen"
-housenumber: 736
+street: Hipólito Yrigoyen
+housenumber: "736"
 phone: ""
 opening_hours: ""
 website: ""

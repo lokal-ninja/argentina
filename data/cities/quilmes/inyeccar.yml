@@ -1,11 +1,11 @@
 id: 1208874399
-type: way
+type: node
 latitude: -34.73202
 longitude: -58.25049
 postcode: "1878"
 city: Quilmes
-street: "Garay"
-housenumber: 183
+street: Garay
+housenumber: "183"
 phone: ""
 opening_hours: ""
 website: ""

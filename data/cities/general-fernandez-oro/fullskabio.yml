@@ -1,11 +1,11 @@
 id: 1285043851
-type: way
+type: node
 latitude: -38.95536
 longitude: -67.92111
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "San Martín"
-housenumber: 80
+street: San Martín
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

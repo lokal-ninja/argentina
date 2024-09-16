@@ -1,11 +1,11 @@
 id: 1076223912
-type: way
+type: node
 latitude: -38.95982
 longitude: -68.04759
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 851
+street: Eugenio Perticone
+housenumber: "851"
 phone: ""
 opening_hours: ""
-website: "https://www.chevroletsahiora.com.ar/"
+website: https://www.chevroletsahiora.com.ar/

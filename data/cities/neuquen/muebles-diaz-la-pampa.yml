@@ -1,11 +1,11 @@
 id: 1172639583
-type: way
+type: node
 latitude: -38.9572
 longitude: -68.06206
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "La Pampa"
-housenumber: 196
+street: La Pampa
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

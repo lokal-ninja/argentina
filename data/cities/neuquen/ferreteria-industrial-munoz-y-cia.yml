@@ -1,11 +1,11 @@
 id: 1092766973
-type: way
+type: node
 latitude: -38.96012
 longitude: -68.06346
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Misiones"
-housenumber: 482
+street: Misiones
+housenumber: "482"
 phone: ""
 opening_hours: ""
 website: ""

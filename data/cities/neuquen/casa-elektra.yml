@@ -1,11 +1,11 @@
 id: 1172323148
-type: way
+type: node
 latitude: -38.95809
 longitude: -68.06521
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ministro Alcorta"
-housenumber: 401
+street: Ministro Alcorta
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "http://www.casaelektra.com.ar/"
+website: http://www.casaelektra.com.ar/

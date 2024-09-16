@@ -4,8 +4,8 @@ latitude: -34.666
 longitude: -58.69913
 postcode: "1718"
 city: San Antonio de Padua
-street: "Avenida Presidente Juan Domingo Perón"
-housenumber: 23866
+street: Avenida Presidente Juan Domingo Perón
+housenumber: "23866"
 phone: "08004448484"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://express.carrefour.com.ar/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://express.carrefour.com.ar/

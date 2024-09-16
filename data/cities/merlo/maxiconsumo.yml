@@ -1,11 +1,11 @@
 id: 511545399
-type: way
+type: node
 latitude: -34.67047
 longitude: -58.74756
 postcode: ""
 city: Merlo
-street: "Avenida Doctor Ricardo Balbín"
-housenumber: 2351
-phone: "+54 220 483-5518"
+street: Avenida Doctor Ricardo Balbín
+housenumber: "2351"
+phone: +54 220 483-5518
 opening_hours: ""
 website: ""

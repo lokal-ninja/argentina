@@ -1,11 +1,11 @@
 id: 722607744
-type: way
+type: node
 latitude: -32.3665
 longitude: -63.22756
-postcode: "X5900"
+postcode: X5900
 city: Villa María
-street: "Colectora Au Córdoba Rosario"
-housenumber: 
-phone: "0353 4861250"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.colcarcordoba.com.ar/"
+street: Colectora Au Córdoba Rosario
+housenumber: ""
+phone: 0353 4861250
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.colcarcordoba.com.ar/

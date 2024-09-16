@@ -1,11 +1,11 @@
 id: 686376492
-type: way
+type: node
 latitude: -40.81004
 longitude: -63.00481
 postcode: "8500"
 city: Viedma
-street: "Boulevard Contín"
-housenumber: 468
+street: Boulevard Contín
+housenumber: "468"
 phone: ""
 opening_hours: ""
 website: ""

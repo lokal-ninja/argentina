@@ -1,11 +1,11 @@
 id: 468543189
-type: way
+type: node
 latitude: -34.57515
 longitude: -58.59652
 postcode: "1682"
 city: Villa Bosch
-street: "853 - Avenida Bernabé Márquez"
-housenumber: 1400
-phone: "+54 (11) 4842-2064"
+street: 853 - Avenida Bernabé Márquez
+housenumber: "1400"
+phone: +54 (11) 4842-2064
 opening_hours: ""
 website: ""

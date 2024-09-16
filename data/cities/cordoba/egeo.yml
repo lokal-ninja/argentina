@@ -1,11 +1,11 @@
 id: 578585989
-type: way
+type: node
 latitude: -31.39048
 longitude: -64.20276
 postcode: "5006"
 city: Córdoba
-street: "Emilio Caraffa"
-housenumber: 1754
-phone: "+54 351 414-8080"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.egeoautomotores.com.ar/"
+street: Emilio Caraffa
+housenumber: "1754"
+phone: +54 351 414-8080
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.egeoautomotores.com.ar/

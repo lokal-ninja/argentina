@@ -1,11 +1,11 @@
 id: 531993927
-type: way
+type: node
 latitude: -31.64616
 longitude: -60.69581
 postcode: "3000"
 city: Santa Fe
-street: "Avenida Alem"
-housenumber: 
-phone: "+54 342 455-0045"
-opening_hours: "Mo-Fr 08:00-12:30,16:00-20:30; Sa 08:30-13:00,16:00-20:00; Su 16:30-19:30"
-website: "https://www.aucam.com.ar/"
+street: Avenida Alem
+housenumber: ""
+phone: +54 342 455-0045
+opening_hours: Mo-Fr 08:00-12:30,16:00-20:30; Sa 08:30-13:00,16:00-20:00; Su 16:30-19:30
+website: https://www.aucam.com.ar/

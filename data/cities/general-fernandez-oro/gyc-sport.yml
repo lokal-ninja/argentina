@@ -1,11 +1,11 @@
 id: 1286691603
-type: way
+type: node
 latitude: -38.95317
 longitude: -67.92001
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "San Martín"
-housenumber: 367
-phone: "+54 299 499-6345"
+street: San Martín
+housenumber: "367"
+phone: +54 299 499-6345
 opening_hours: ""
 website: ""

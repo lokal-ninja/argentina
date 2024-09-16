@@ -1,11 +1,11 @@
 id: 578247664
-type: way
+type: node
 latitude: -31.65512
 longitude: -60.72282
 postcode: "3000"
 city: Santa Fe
-street: "Avenida General López"
-housenumber: 3569
-phone: "+54 342 4891383"
+street: Avenida General López
+housenumber: "3569"
+phone: +54 342 4891383
 opening_hours: ""
-website: "https://www.eltunelsupermercados.com.ar/"
+website: https://www.eltunelsupermercados.com.ar/

@@ -1,11 +1,11 @@
 id: 398220001
-type: way
+type: node
 latitude: -40.80386
 longitude: -63.00366
 postcode: "8500"
 city: Viedma
-street: "Boulevard Ayacucho"
-housenumber: 871
+street: Boulevard Ayacucho
+housenumber: "871"
 phone: ""
 opening_hours: ""
 website: ""

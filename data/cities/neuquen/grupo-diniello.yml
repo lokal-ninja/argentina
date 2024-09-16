@@ -1,11 +1,11 @@
 id: 1098153098
-type: way
+type: node
 latitude: -38.95758
 longitude: -68.0692
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Enrique Nordenstrom"
-housenumber: 239
+street: Enrique Nordenstrom
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1180556245
-type: way
+type: node
 latitude: -34.57614
 longitude: -58.53833
-postcode: "B1650BSB"
+postcode: B1650BSB
 city: General San Martín
-street: "89 - Doctor Ramón Carrillo"
-housenumber: 2126
+street: 89 - Doctor Ramón Carrillo
+housenumber: "2126"
 phone: ""
 opening_hours: ""
 website: ""

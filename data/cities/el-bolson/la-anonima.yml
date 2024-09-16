@@ -1,11 +1,11 @@
 id: 825242554
-type: way
+type: node
 latitude: -41.96255
 longitude: -71.53598
-postcode: "R8430"
+postcode: R8430
 city: El Bolsón
-street: "Avenida San Martín"
-housenumber: 2934
+street: Avenida San Martín
+housenumber: "2934"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/018-el-bolson"
+website: https://www.laanonima.com.ar/sucursales/018-el-bolson

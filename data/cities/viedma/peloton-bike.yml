@@ -1,11 +1,11 @@
 id: 1300744769
-type: way
+type: node
 latitude: -40.81386
 longitude: -62.98949
 postcode: "8500"
 city: Viedma
-street: "Rivadavia"
-housenumber: 320
+street: Rivadavia
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

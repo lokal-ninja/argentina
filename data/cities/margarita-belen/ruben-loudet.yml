@@ -1,11 +1,11 @@
 id: 1249664507
-type: way
+type: node
 latitude: -27.26355
 longitude: -58.97329
 postcode: "3505"
 city: Margarita Belen
-street: "Ricardo Montovani"
-housenumber: 396
+street: Ricardo Montovani
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

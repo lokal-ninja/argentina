@@ -1,11 +1,11 @@
 id: 918837162
-type: way
+type: node
 latitude: -39.09482
 longitude: -67.08314
-postcode: "R8336"
+postcode: R8336
 city: Villa Regina
-street: "25 de Mayo"
-housenumber: 5
+street: 25 de Mayo
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

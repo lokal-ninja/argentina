@@ -1,11 +1,11 @@
 id: 1092758429
-type: way
+type: node
 latitude: -38.96069
 longitude: -68.06116
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Chile"
-housenumber: 110
+street: Chile
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

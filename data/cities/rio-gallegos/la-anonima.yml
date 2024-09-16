@@ -1,11 +1,11 @@
 id: 721052614
-type: way
+type: node
 latitude: -51.62065
 longitude: -69.21599
 postcode: "9400"
 city: Río Gallegos
-street: "Avenida Néstor Kirchner"
-housenumber: 973
+street: Avenida Néstor Kirchner
+housenumber: "973"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/033-rio-gallegos"
+website: https://www.laanonima.com.ar/sucursales/033-rio-gallegos

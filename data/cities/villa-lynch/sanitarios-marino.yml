@@ -1,11 +1,11 @@
 id: 1203025082
-type: way
+type: node
 latitude: -34.59152
 longitude: -58.55998
-postcode: "B1650"
+postcode: B1650
 city: Villa Lynch
-street: "56 - 1 de Mayo"
-housenumber: 6104
+street: 56 - 1 de Mayo
+housenumber: "6104"
 phone: ""
 opening_hours: ""
 website: ""

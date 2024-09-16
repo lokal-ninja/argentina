@@ -1,11 +1,11 @@
 id: 1017607036
-type: way
+type: node
 latitude: -34.26675
 longitude: -62.71603
 postcode: "6100"
 city: Rufino
-street: "Juan Bautista Alberdi"
-housenumber: 266
+street: Juan Bautista Alberdi
+housenumber: "266"
 phone: ""
 opening_hours: ""
-website: "https://www.rigonat4x4.com.ar/"
+website: https://www.rigonat4x4.com.ar/

@@ -1,11 +1,11 @@
 id: 468920869
-type: way
+type: node
 latitude: -34.58923
 longitude: -58.48512
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centraltire.com.ar/"
+website: https://centraltire.com.ar/

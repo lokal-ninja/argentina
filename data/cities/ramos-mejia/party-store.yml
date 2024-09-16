@@ -1,11 +1,11 @@
 id: 475938758
-type: way
+type: node
 latitude: -34.64026
 longitude: -58.56139
 postcode: "1704"
 city: Ramos Mejía
-street: "Avenida Rivadavia"
-housenumber: 13770
-phone: "4654-1671"
-opening_hours: "Mo-Sa 09:00-14:00,15:00-19:00"
-website: "https://www.partystore.com.ar/"
+street: Avenida Rivadavia
+housenumber: "13770"
+phone: 4654-1671
+opening_hours: Mo-Sa 09:00-14:00,15:00-19:00
+website: https://www.partystore.com.ar/

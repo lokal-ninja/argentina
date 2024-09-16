@@ -1,11 +1,11 @@
 id: 918480043
-type: way
+type: node
 latitude: -39.0938
 longitude: -67.08497
-postcode: "R8336"
+postcode: R8336
 city: Villa Regina
-street: "Avenida Rivadavia"
-housenumber: 150
+street: Avenida Rivadavia
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 700207136
-type: way
+type: node
 latitude: -34.57017
 longitude: -58.59447
 postcode: ""
 city: Loma Hermosa
-street: "853 - Avenida Bernabé Márquez"
-housenumber: 969
+street: 853 - Avenida Bernabé Márquez
+housenumber: "969"
 phone: ""
 opening_hours: ""
 website: ""

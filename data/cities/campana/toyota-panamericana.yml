@@ -1,11 +1,11 @@
 id: 215284800
-type: way
+type: node
 latitude: -34.18972
 longitude: -58.94707
 postcode: "2804"
 city: Campana
-street: "Colectora Sur"
-housenumber: 1775
-phone: "+54 3489 450450"
+street: Colectora Sur
+housenumber: "1775"
+phone: +54 3489 450450
 opening_hours: ""
-website: "https://toyotapanamericana.com/"
+website: https://toyotapanamericana.com/

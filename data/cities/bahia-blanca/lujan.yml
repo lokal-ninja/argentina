@@ -1,11 +1,11 @@
 id: 625774656
-type: way
+type: node
 latitude: -38.71046
 longitude: -62.30062
 postcode: ""
 city: Bahía Blanca
-street: "17 de Mayo"
-housenumber: 987
+street: 17 de Mayo
+housenumber: "987"
 phone: ""
 opening_hours: ""
 website: ""

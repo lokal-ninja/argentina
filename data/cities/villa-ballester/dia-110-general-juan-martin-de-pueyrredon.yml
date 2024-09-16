@@ -1,11 +1,11 @@
 id: 1259130311
-type: way
+type: node
 latitude: -34.55004
 longitude: -58.55264
-postcode: "B1653"
+postcode: B1653
 city: Villa Ballester
-street: "110 - General Juan Martín de Pueyrredón"
-housenumber: 2663
+street: 110 - General Juan Martín de Pueyrredón
+housenumber: "2663"
 phone: ""
 opening_hours: ""
 website: ""

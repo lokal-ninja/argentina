@@ -1,11 +1,11 @@
 id: 851735376
-type: way
+type: node
 latitude: -42.76631
 longitude: -65.03655
-postcode: "U9120"
+postcode: U9120
 city: Puerto Madryn
-street: "28 de Julio"
-housenumber: 201
+street: 28 de Julio
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

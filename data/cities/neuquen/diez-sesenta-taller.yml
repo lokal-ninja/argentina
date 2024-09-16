@@ -1,11 +1,11 @@
 id: 1091374618
-type: way
+type: node
 latitude: -38.96062
 longitude: -68.07061
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Intendente Chaneton"
-housenumber: 515
+street: Intendente Chaneton
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

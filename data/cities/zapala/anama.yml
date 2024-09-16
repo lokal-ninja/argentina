@@ -1,11 +1,11 @@
 id: 1149349835
-type: way
+type: node
 latitude: -38.9053
 longitude: -70.06246
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Avenida Avellaneda"
-housenumber: 553
+street: Avenida Avellaneda
+housenumber: "553"
 phone: ""
 opening_hours: ""
 website: ""

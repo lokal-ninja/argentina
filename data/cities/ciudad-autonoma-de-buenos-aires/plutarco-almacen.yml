@@ -1,11 +1,11 @@
 id: 471936856
-type: way
+type: node
 latitude: -34.56135
 longitude: -58.47867
 postcode: "1430"
 city: Ciudad Autónoma de Buenos Aires
-street: "Iberá"
-housenumber: 3852
+street: Iberá
+housenumber: "3852"
 phone: "+541145433390"
-opening_hours: "Mo-Fr 10:00-20:00"
-website: "https://plutarcoalmacen.mitiendanube.com/"
+opening_hours: Mo-Fr 10:00-20:00
+website: https://plutarcoalmacen.mitiendanube.com/

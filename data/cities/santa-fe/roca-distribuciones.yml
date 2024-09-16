@@ -1,11 +1,11 @@
 id: 927814066
-type: way
+type: node
 latitude: -31.62035
 longitude: -60.68578
-postcode: "S3004"
+postcode: S3004
 city: Santa Fe
-street: "Avenida General Paz"
-housenumber: 5420
-phone: "+54 342 460-2945"
-opening_hours: "Mo-Sa 08:00-14:00"
+street: Avenida General Paz
+housenumber: "5420"
+phone: +54 342 460-2945
+opening_hours: Mo-Sa 08:00-14:00
 website: ""

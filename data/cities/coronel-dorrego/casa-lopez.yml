@@ -1,11 +1,11 @@
 id: 962331425
-type: way
+type: node
 latitude: -38.71738
 longitude: -61.29036
-postcode: "B8150"
+postcode: B8150
 city: Coronel Dorrego
-street: "Yrigoyen"
-housenumber: 653
+street: Yrigoyen
+housenumber: "653"
 phone: ""
 opening_hours: ""
 website: ""

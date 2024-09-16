@@ -4,8 +4,9 @@ latitude: -34.60036
 longitude: -58.49617
 postcode: "1417"
 city: Ciudad Autónoma de Buenos Aires
-street: "Cuenca"
-housenumber: 3230
-phone: "+54 11 4501-6402"
-opening_hours: "Jan-Feb: Tu-Sa 09:00-13:30,17:00-21:00; Mar-Dec: Mo 09:00-13:30,16:00-21:00; Tu-Sa 08:00-13:30,16:00-21:00; Su 08:00-13:30"
-website: "https://www.lajuvenilpastas.com.ar/"
+street: Cuenca
+housenumber: "3230"
+phone: +54 11 4501-6402
+opening_hours: 'Jan-Feb: Tu-Sa 09:00-13:30,17:00-21:00; Mar-Dec: Mo 09:00-13:30,16:00-21:00;
+    Tu-Sa 08:00-13:30,16:00-21:00; Su 08:00-13:30'
+website: https://www.lajuvenilpastas.com.ar/

@@ -1,11 +1,11 @@
 id: 1034502500
-type: way
+type: node
 latitude: -34.25654
 longitude: -62.71793
 postcode: "6100"
 city: Rufino
-street: "General López"
-housenumber: 618
+street: General López
+housenumber: "618"
 phone: ""
 opening_hours: ""
 website: ""

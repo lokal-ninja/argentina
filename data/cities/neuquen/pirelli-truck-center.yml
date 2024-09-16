@@ -1,11 +1,11 @@
 id: 1134103302
-type: way
+type: node
 latitude: -38.95514
 longitude: -68.07821
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ignacio Rivas"
-housenumber: 20
+street: Ignacio Rivas
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.alvarezneumaticos.com/"
+website: https://www.alvarezneumaticos.com/

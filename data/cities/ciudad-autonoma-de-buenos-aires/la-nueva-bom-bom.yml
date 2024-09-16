@@ -1,11 +1,11 @@
 id: 470680197
-type: way
+type: node
 latitude: -34.55399
 longitude: -58.46434
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Cabildo"
-housenumber: 3056
-phone: "+54 11 4545-5104"
+street: Avenida Cabildo
+housenumber: "3056"
+phone: +54 11 4545-5104
 opening_hours: ""
 website: ""

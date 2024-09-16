@@ -1,11 +1,11 @@
 id: 470835435
-type: way
+type: node
 latitude: -34.62779
 longitude: -58.50667
-postcode: "C1407BNL"
+postcode: C1407BNL
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Lope de Vega"
-housenumber: 1265
+street: Avenida Lope de Vega
+housenumber: "1265"
 phone: ""
 opening_hours: ""
 website: ""

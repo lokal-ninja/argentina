@@ -1,11 +1,11 @@
 id: 832667601
-type: way
+type: node
 latitude: -36.61994
 longitude: -64.28814
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Hipólito Yrigoyen"
-housenumber: 232
+street: Hipólito Yrigoyen
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

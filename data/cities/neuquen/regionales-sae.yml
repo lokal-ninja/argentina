@@ -1,11 +1,11 @@
 id: 1087120720
-type: way
+type: node
 latitude: -38.96858
 longitude: -68.06516
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "José Fava"
-housenumber: 427
+street: José Fava
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

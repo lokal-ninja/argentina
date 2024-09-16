@@ -1,11 +1,11 @@
 id: 1268051267
-type: way
+type: node
 latitude: -38.93901
 longitude: -67.98557
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "9 de Julio"
-housenumber: 1140
+street: 9 de Julio
+housenumber: "1140"
 phone: ""
 opening_hours: ""
 website: ""

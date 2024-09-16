@@ -1,11 +1,11 @@
 id: 188204460
-type: way
+type: node
 latitude: -32.89433
 longitude: -68.78926
 postcode: ""
 city: Guaymallén
-street: "Tomás Godoy Cruz"
-housenumber: 3825
-phone: "54 0261 4262735"
-opening_hours: "Mo-Sa 08:30-21:30"
+street: Tomás Godoy Cruz
+housenumber: "3825"
+phone: 54 0261 4262735
+opening_hours: Mo-Sa 08:30-21:30
 website: ""

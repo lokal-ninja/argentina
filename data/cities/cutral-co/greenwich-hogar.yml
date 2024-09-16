@@ -1,11 +1,11 @@
 id: 1191340801
-type: way
+type: node
 latitude: -38.9357
 longitude: -69.23015
-postcode: "Q8322"
+postcode: Q8322
 city: Cutral Có
-street: "Avenida Julio Argentino Roca"
-housenumber: 555
+street: Avenida Julio Argentino Roca
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

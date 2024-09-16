@@ -1,11 +1,11 @@
 id: 948872076
-type: way
+type: node
 latitude: -38.71627
 longitude: -62.26496
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Zelarrayán"
-housenumber: 51
+street: Zelarrayán
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

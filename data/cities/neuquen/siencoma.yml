@@ -1,11 +1,11 @@
 id: 1101371258
-type: way
+type: node
 latitude: -38.95291
 longitude: -68.07216
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Carlos H. Rodríguez"
-housenumber: 926
+street: Carlos H. Rodríguez
+housenumber: "926"
 phone: ""
 opening_hours: ""
 website: ""

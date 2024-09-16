@@ -1,11 +1,11 @@
 id: 1296418447
-type: way
+type: node
 latitude: -38.94133
 longitude: -67.99152
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "General San Martín"
-housenumber: 797
-phone: "+54 299 478-2222"
+street: General San Martín
+housenumber: "797"
+phone: +54 299 478-2222
 opening_hours: ""
-website: "https://www.fluidospatagonia.com.ar/"
+website: https://www.fluidospatagonia.com.ar/

@@ -1,11 +1,11 @@
 id: 649708660
-type: way
+type: node
 latitude: -31.64032
 longitude: -60.70117
 postcode: "3000"
 city: Santa Fe
-street: "San Luis"
-housenumber: 3102
-phone: "+54 342 4530606"
+street: San Luis
+housenumber: "3102"
+phone: +54 342 4530606
 opening_hours: ""
-website: "https://valmotors.com.ar"
+website: https://valmotors.com.ar

@@ -1,11 +1,11 @@
 id: 1208169277
-type: way
+type: node
 latitude: -38.92923
 longitude: -67.99916
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Mengelle"
-housenumber: 1058
-phone: "0800-333-3443;+54 299 477-0603"
+street: Avenida Mengelle
+housenumber: "1058"
+phone: 0800-333-3443;+54 299 477-0603
 opening_hours: ""
-website: "https://www.cooperativaobrera.coop/"
+website: https://www.cooperativaobrera.coop/

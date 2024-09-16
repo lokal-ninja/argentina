@@ -2,10 +2,10 @@ id: 6315132410
 type: node
 latitude: -34.60804
 longitude: -58.44446
-postcode: "C1405DCX"
+postcode: C1405DCX
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Díaz Vélez"
-housenumber: 5538
+street: Avenida Díaz Vélez
+housenumber: "5538"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.supermercadosdia.com.ar/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.supermercadosdia.com.ar/

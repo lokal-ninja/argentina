@@ -1,11 +1,11 @@
 id: 42389649
-type: way
+type: node
 latitude: -28.46645
 longitude: -65.75567
 postcode: "4700"
 city: San Fernando del Valle de Catamarca
-street: "Avenida Acosta Villafañe"
-housenumber: 2420
+street: Avenida Acosta Villafañe
+housenumber: "2420"
 phone: ""
 opening_hours: ""
 website: ""

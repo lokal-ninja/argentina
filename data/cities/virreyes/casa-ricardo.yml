@@ -1,11 +1,11 @@
 id: 473666925
-type: way
+type: node
 latitude: -34.45112
 longitude: -58.55296
-postcode: "B1646"
+postcode: B1646
 city: Virreyes
-street: "Avenida Nicolás Avellaneda"
-housenumber: 1722
+street: Avenida Nicolás Avellaneda
+housenumber: "1722"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-13:30,16:00-20:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-13:30,16:00-20:00
 website: ""

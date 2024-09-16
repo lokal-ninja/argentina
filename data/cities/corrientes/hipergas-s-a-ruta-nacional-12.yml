@@ -1,11 +1,11 @@
 id: 1206879367
-type: way
+type: node
 latitude: -27.44309
 longitude: -58.74316
 postcode: "3400"
 city: Corrientes
-street: "Ruta Nacional 12"
-housenumber: 
+street: Ruta Nacional 12
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

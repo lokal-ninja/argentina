@@ -1,11 +1,11 @@
 id: 1024684124
-type: way
+type: node
 latitude: -32.03172
 longitude: -61.2256
-postcode: "S2252"
+postcode: S2252
 city: Gálvez
-street: "Hipólito Yrigoyen"
-housenumber: 602
+street: Hipólito Yrigoyen
+housenumber: "602"
 phone: ""
-opening_hours: "Mo-Th 09:30-01:00; Fr,Sa 09:30-04:00; Su 09:30-02:00"
+opening_hours: Mo-Th 09:30-01:00; Fr,Sa 09:30-04:00; Su 09:30-02:00
 website: ""

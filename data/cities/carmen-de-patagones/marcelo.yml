@@ -1,11 +1,11 @@
 id: 781005896
-type: way
+type: node
 latitude: -40.80049
 longitude: -62.98591
 postcode: "8504"
 city: Carmen de Patagones
-street: "7 de Marzo"
-housenumber: 176
+street: 7 de Marzo
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1192149039
-type: way
+type: node
 latitude: -38.93029
 longitude: -69.22856
 postcode: "8322"
 city: Cutral Có
-street: "Primeros Pobladores"
-housenumber: 100
+street: Primeros Pobladores
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.milla.com.ar/"
+website: https://www.milla.com.ar/

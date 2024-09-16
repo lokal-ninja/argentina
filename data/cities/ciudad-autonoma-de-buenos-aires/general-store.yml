@@ -4,8 +4,8 @@ latitude: -34.56199
 longitude: -58.45625
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juramento"
-housenumber: 2378
-phone: "+54 11 3705-5702"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00"
-website: "https://www.general-store.com.ar/"
+street: Avenida Juramento
+housenumber: "2378"
+phone: +54 11 3705-5702
+opening_hours: Mo-Fr 09:30-20:00; Sa 10:00-20:00
+website: https://www.general-store.com.ar/

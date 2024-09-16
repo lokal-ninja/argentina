@@ -1,11 +1,11 @@
 id: 1205903385
-type: way
+type: node
 latitude: -29.12792
 longitude: -59.26072
 postcode: "3450"
 city: Goya
-street: "Avenida Primeros Consejales"
-housenumber: 
+street: Avenida Primeros Consejales
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

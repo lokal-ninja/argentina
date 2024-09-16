@@ -1,11 +1,11 @@
 id: 1101371365
-type: way
+type: node
 latitude: -38.95339
 longitude: -68.06778
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Jujuy"
-housenumber: 146
+street: Jujuy
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 882563911
-type: way
+type: node
 latitude: -36.63077
 longitude: -64.29808
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "Florentino Ameghino"
-housenumber: 1250
+street: Florentino Ameghino
+housenumber: "1250"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/090-santa-rosa"
+website: https://www.laanonima.com.ar/sucursales/090-santa-rosa

@@ -1,11 +1,11 @@
 id: 475338275
-type: way
+type: node
 latitude: -34.43169
 longitude: -58.56955
 postcode: "1648"
 city: Tigre
-street: "Avenida Daniel M. Cazón"
-housenumber: 399
-phone: "+54 11 4005-1391"
-opening_hours: "Mo-Fr 08:30-12:30,15:00-19:30; Sa 09:00-13:30"
-website: "https://www.motodelta.com.ar/"
+street: Avenida Daniel M. Cazón
+housenumber: "399"
+phone: +54 11 4005-1391
+opening_hours: Mo-Fr 08:30-12:30,15:00-19:30; Sa 09:00-13:30
+website: https://www.motodelta.com.ar/

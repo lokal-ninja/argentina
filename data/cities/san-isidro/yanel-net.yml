@@ -1,11 +1,11 @@
 id: 469300208
-type: way
+type: node
 latitude: -34.4691
 longitude: -58.51762
 postcode: ""
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 672
+street: Avenida Centenario
+housenumber: "672"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off
 website: ""

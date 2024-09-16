@@ -1,11 +1,11 @@
 id: 1099974992
-type: way
+type: node
 latitude: -38.95428
 longitude: -68.06802
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Jujuy"
-housenumber: 54
+street: Jujuy
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

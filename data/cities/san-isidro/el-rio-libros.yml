@@ -1,11 +1,11 @@
 id: 474427880
-type: way
+type: node
 latitude: -34.47062
 longitude: -58.51085
-postcode: "B1642"
+postcode: B1642
 city: San Isidro
-street: "Acassuso"
-housenumber: 215
-phone: "+54 11 4747-0440"
+street: Acassuso
+housenumber: "215"
+phone: +54 11 4747-0440
 opening_hours: ""
 website: ""

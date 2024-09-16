@@ -1,11 +1,11 @@
 id: 396307008
-type: way
+type: node
 latitude: -38.71572
 longitude: -62.27148
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Roca"
-housenumber: 34
+street: Roca
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

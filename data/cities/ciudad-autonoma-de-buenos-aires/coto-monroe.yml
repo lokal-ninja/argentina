@@ -1,11 +1,11 @@
 id: 470285002
-type: way
+type: node
 latitude: -34.57409
 longitude: -58.48617
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Monroe"
-housenumber: 5055
-phone: "+54 11 4523-4965"
-opening_hours: "Mo-Fr 08:30-21:00; Sa 08:30-22:00; Su 09:00-21:00"
-website: "https://www.coto.com.ar/"
+street: Monroe
+housenumber: "5055"
+phone: +54 11 4523-4965
+opening_hours: Mo-Fr 08:30-21:00; Sa 08:30-22:00; Su 09:00-21:00
+website: https://www.coto.com.ar/

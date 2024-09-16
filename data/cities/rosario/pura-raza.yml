@@ -1,11 +1,11 @@
 id: 962003572
-type: way
+type: node
 latitude: -32.94086
 longitude: -60.75429
 postcode: ""
 city: Rosario
-street: "Avenida San José de Calasanz"
-housenumber: 9057
+street: Avenida San José de Calasanz
+housenumber: "9057"
 phone: ""
 opening_hours: ""
 website: ""

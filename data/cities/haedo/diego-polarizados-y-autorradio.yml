@@ -1,11 +1,11 @@
 id: 607711430
-type: way
+type: node
 latitude: -34.64193
 longitude: -58.578
 postcode: "1704"
 city: Haedo
-street: "Doctor Luis Güemes"
-housenumber: 7
-phone: "+54 11 4659-8491"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Doctor Luis Güemes
+housenumber: "7"
+phone: +54 11 4659-8491
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

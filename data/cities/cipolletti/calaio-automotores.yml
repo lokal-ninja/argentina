@@ -1,11 +1,11 @@
 id: 1218657875
-type: way
+type: node
 latitude: -38.94556
 longitude: -67.99135
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Luis Toschi"
-housenumber: 153
+street: Avenida Luis Toschi
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

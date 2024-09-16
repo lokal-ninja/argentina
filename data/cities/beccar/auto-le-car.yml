@@ -1,11 +1,11 @@
 id: 473637601
-type: way
+type: node
 latitude: -34.45896
 longitude: -58.52971
 postcode: "1643"
 city: Beccar
-street: "Avenida Centenario"
-housenumber: 2177
+street: Avenida Centenario
+housenumber: "2177"
 phone: ""
-opening_hours: "24/7 closed"
+opening_hours: 24/7 closed
 website: ""

@@ -1,11 +1,11 @@
 id: 576415404
-type: way
+type: node
 latitude: -31.4136
 longitude: -64.26895
 postcode: "5003"
 city: Córdoba
-street: "Avenida Santa Ana"
-housenumber: 6499
-phone: "+54 351 442-4900"
+street: Avenida Santa Ana
+housenumber: "6499"
+phone: +54 351 442-4900
 opening_hours: ""
-website: "http://www.avantpeugeot.com.ar/"
+website: http://www.avantpeugeot.com.ar/

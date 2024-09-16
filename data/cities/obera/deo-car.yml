@@ -1,11 +1,11 @@
 id: 567609813
-type: way
+type: node
 latitude: -27.49413
 longitude: -55.11121
 postcode: "3360"
 city: Oberá
-street: "Avenida Andresito"
-housenumber: 563
+street: Avenida Andresito
+housenumber: "563"
 phone: ""
 opening_hours: ""
 website: ""

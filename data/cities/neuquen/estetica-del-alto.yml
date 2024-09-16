@@ -2,10 +2,10 @@ id: 10222336365
 type: node
 latitude: -38.94777
 longitude: -68.05608
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Santa Fe"
-housenumber: 671
+street: Santa Fe
+housenumber: "671"
 phone: ""
 opening_hours: ""
 website: ""

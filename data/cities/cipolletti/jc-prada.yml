@@ -1,11 +1,11 @@
 id: 1213981337
-type: way
+type: node
 latitude: -38.93284
 longitude: -68.01124
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Mariano Moreno"
-housenumber: 801
+street: Avenida Mariano Moreno
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

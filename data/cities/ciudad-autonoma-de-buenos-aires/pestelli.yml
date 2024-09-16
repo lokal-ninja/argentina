@@ -1,11 +1,11 @@
 id: 477570002
-type: way
+type: node
 latitude: -34.61418
 longitude: -58.42015
 postcode: "1201"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 4299
+street: Avenida Hipólito Yrigoyen
+housenumber: "4299"
 phone: ""
 opening_hours: ""
 website: ""

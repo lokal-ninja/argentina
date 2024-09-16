@@ -1,11 +1,11 @@
 id: 475206692
-type: way
+type: node
 latitude: -34.60528
 longitude: -58.41441
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Gallo"
-housenumber: 
+street: Gallo
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:30"
-website: "https://www.coto.com.ar"
+opening_hours: Mo-Sa 08:00-21:30
+website: https://www.coto.com.ar

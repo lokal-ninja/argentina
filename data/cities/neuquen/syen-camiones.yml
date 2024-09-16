@@ -1,11 +1,11 @@
 id: 1076223905
-type: way
+type: node
 latitude: -38.95983
 longitude: -68.04693
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Eugenio Perticone"
-housenumber: 899
+street: Eugenio Perticone
+housenumber: "899"
 phone: ""
 opening_hours: ""
 website: ""

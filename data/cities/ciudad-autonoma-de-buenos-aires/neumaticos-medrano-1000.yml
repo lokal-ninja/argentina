@@ -1,11 +1,11 @@
 id: 476463301
-type: way
+type: node
 latitude: -34.59786
 longitude: -58.42041
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Medrano"
-housenumber: 1000
+street: Avenida Medrano
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

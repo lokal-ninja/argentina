@@ -1,11 +1,11 @@
 id: 1258480598
-type: way
+type: node
 latitude: -34.60115
 longitude: -58.52621
-postcode: "B1674"
+postcode: B1674
 city: Sáenz Peña
-street: "403 - Avenida América"
-housenumber: 436
+street: 403 - Avenida América
+housenumber: "436"
 phone: ""
 opening_hours: ""
 website: ""

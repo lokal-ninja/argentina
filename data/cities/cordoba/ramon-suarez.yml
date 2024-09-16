@@ -1,11 +1,11 @@
 id: 585483408
-type: way
+type: node
 latitude: -31.39606
 longitude: -64.23412
 postcode: "5003"
 city: Córdoba
-street: "Avenida Sagrada Familia"
-housenumber: 376
-phone: "+54 351 485-0504"
-opening_hours: "Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00"
-website: "https://motoshondaramonsuarez.com.ar/"
+street: Avenida Sagrada Familia
+housenumber: "376"
+phone: +54 351 485-0504
+opening_hours: Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00
+website: https://motoshondaramonsuarez.com.ar/

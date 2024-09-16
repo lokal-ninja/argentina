@@ -1,11 +1,11 @@
 id: 1071150413
-type: way
+type: node
 latitude: -38.9549
 longitude: -68.04488
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Independencia"
-housenumber: 1010
+street: Independencia
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1153114234
-type: way
+type: node
 latitude: -38.90823
 longitude: -70.06163
-postcode: "Q8340"
+postcode: Q8340
 city: Zapala
-street: "Coronel Olascoaga"
-housenumber: 461
-phone: "0800-444-6686"
+street: Coronel Olascoaga
+housenumber: "461"
+phone: 0800-444-6686
 opening_hours: ""
-website: "https://www.novogar.com.ar/"
+website: https://www.novogar.com.ar/

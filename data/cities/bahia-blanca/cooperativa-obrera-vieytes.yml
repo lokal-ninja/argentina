@@ -1,11 +1,11 @@
 id: 655251798
-type: way
+type: node
 latitude: -38.7018
 longitude: -62.29123
 postcode: ""
 city: Bahía Blanca
-street: "Vieytes"
-housenumber: 2139
-phone: "+54-9291-488-5022"
+street: Vieytes
+housenumber: "2139"
+phone: +54-9291-488-5022
 opening_hours: ""
-website: "https://www.cooperativaobrera.coop/"
+website: https://www.cooperativaobrera.coop/

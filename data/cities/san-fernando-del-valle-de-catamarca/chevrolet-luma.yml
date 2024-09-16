@@ -1,11 +1,11 @@
 id: 137838099
-type: way
+type: node
 latitude: -28.46598
 longitude: -65.76966
 postcode: "4707"
 city: San Fernando del Valle de Catamarca
-street: "Avenida Alem"
-housenumber: 488
-phone: "+54 9 383 495-0835"
-opening_hours: "Mo-Fr 08:30-13:30,17:00-21:00; Sa 09:00-13:00"
-website: "https://www.chevroletluma.com.ar/"
+street: Avenida Alem
+housenumber: "488"
+phone: +54 9 383 495-0835
+opening_hours: Mo-Fr 08:30-13:30,17:00-21:00; Sa 09:00-13:00
+website: https://www.chevroletluma.com.ar/

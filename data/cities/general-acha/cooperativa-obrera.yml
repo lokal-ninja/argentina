@@ -1,11 +1,11 @@
 id: 835892972
-type: way
+type: node
 latitude: -37.37921
 longitude: -64.60043
-postcode: "L8200"
+postcode: L8200
 city: General Acha
-street: "Don Bosco"
-housenumber: 582
+street: Don Bosco
+housenumber: "582"
 phone: ""
 opening_hours: ""
 website: ""

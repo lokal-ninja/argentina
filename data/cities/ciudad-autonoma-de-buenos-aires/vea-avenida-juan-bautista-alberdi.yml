@@ -1,11 +1,11 @@
 id: 476181856
-type: way
+type: node
 latitude: -34.62462
 longitude: -58.44736
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan Bautista Alberdi"
-housenumber: 1363
+street: Avenida Juan Bautista Alberdi
+housenumber: "1363"
 phone: ""
 opening_hours: ""
-website: "https://www.supermercadosvea.com.ar/"
+website: https://www.supermercadosvea.com.ar/

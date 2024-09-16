@@ -1,11 +1,11 @@
 id: 1120483408
-type: way
+type: node
 latitude: -38.95881
 longitude: -68.05156
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Félix San Martín"
-housenumber: 2274
+street: Félix San Martín
+housenumber: "2274"
 phone: ""
 opening_hours: ""
-website: "http://leimat.com.ar/site/inicio"
+website: http://leimat.com.ar/site/inicio

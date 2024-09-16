@@ -4,8 +4,8 @@ latitude: -32.96495
 longitude: -60.6283
 postcode: ""
 city: Rosario
-street: "Necochea"
-housenumber: 2150
+street: Necochea
+housenumber: "2150"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00 Repuestos; Mo-Fr 08:00-13:30,14:15-17:00 Taller"
+opening_hours: Mo-Fr 08:00-18:00 "Repuestos"; Mo-Fr 08:00-13:30,14:15-17:00 "Taller"
 website: ""

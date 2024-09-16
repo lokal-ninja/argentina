@@ -1,11 +1,11 @@
 id: 477540163
-type: way
+type: node
 latitude: -34.64185
 longitude: -58.56262
 postcode: "1704"
 city: Ramos Mejía
-street: "Mariano Moreno"
-housenumber: 146
+street: Mariano Moreno
+housenumber: "146"
 phone: ""
 opening_hours: ""
-website: "https://beautyinfinit.com.ar/"
+website: https://beautyinfinit.com.ar/

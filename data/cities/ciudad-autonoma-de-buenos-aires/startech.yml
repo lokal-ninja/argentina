@@ -1,11 +1,11 @@
 id: 471645265
-type: way
+type: node
 latitude: -34.57551
 longitude: -58.47771
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Álvarez Thomas"
-housenumber: 2635
-phone: "+54 11 4522-7645"
+street: Avenida Álvarez Thomas
+housenumber: "2635"
+phone: +54 11 4522-7645
 opening_hours: ""
 website: ""

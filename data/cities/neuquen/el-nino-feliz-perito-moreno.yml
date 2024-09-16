@@ -1,11 +1,11 @@
 id: 1173836571
-type: way
+type: node
 latitude: -38.95776
 longitude: -68.05849
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Perito Moreno"
-housenumber: 40
+street: Perito Moreno
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.elninofeliz.com.ar/"
+website: https://www.elninofeliz.com.ar/

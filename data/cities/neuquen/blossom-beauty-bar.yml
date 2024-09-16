@@ -2,10 +2,10 @@ id: 11873075593
 type: node
 latitude: -38.95475
 longitude: -68.0575
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Buenos Aires"
-housenumber: 25
-phone: "+54 299 471-0891"
+street: Buenos Aires
+housenumber: "25"
+phone: +54 299 471-0891
 opening_hours: ""
 website: ""

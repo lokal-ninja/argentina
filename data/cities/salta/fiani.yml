@@ -1,11 +1,11 @@
 id: 578586019
-type: way
+type: node
 latitude: -24.78959
 longitude: -65.40463
 postcode: "4400"
 city: Salta
-street: "Caseros"
-housenumber: 120
-phone: "+54 387 431-1602"
+street: Caseros
+housenumber: "120"
+phone: +54 387 431-1602
 opening_hours: ""
 website: ""

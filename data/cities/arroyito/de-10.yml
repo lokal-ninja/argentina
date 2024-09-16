@@ -1,11 +1,11 @@
 id: 616775648
-type: way
+type: node
 latitude: -31.4221
 longitude: -63.0497
 postcode: "2434"
 city: Arroyito
-street: "Rivadavia"
-housenumber: 140
+street: Rivadavia
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1035120740
-type: way
+type: node
 latitude: -34.26437
 longitude: -62.71219
 postcode: "6100"
 city: Rufino
-street: "Eva Perón"
-housenumber: 18
+street: Eva Perón
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

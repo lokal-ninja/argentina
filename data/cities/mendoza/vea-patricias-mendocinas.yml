@@ -1,11 +1,11 @@
 id: 207489371
-type: way
+type: node
 latitude: -32.8821
 longitude: -68.84207
 postcode: ""
 city: Mendoza
-street: "Patricias Mendocinas"
-housenumber: 1800
+street: Patricias Mendocinas
+housenumber: "1800"
 phone: ""
-opening_hours: "08:30-22:00"
+opening_hours: 08:30-22:00
 website: ""

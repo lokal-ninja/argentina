@@ -1,11 +1,11 @@
 id: 677489335
-type: way
+type: node
 latitude: -38.9417
 longitude: -68.06377
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Doctor Ramón"
-housenumber: 382
+street: Avenida Doctor Ramón
+housenumber: "382"
 phone: ""
 opening_hours: ""
 website: ""

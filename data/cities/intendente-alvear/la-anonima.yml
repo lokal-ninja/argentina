@@ -1,11 +1,11 @@
 id: 875876680
-type: way
+type: node
 latitude: -35.23336
 longitude: -63.59336
-postcode: "L6221"
+postcode: L6221
 city: Intendente Alvear
-street: "Avenida Sarmiento"
-housenumber: 1065
+street: Avenida Sarmiento
+housenumber: "1065"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/149-intendente-alvear"
+website: https://www.laanonima.com.ar/sucursales/149-intendente-alvear

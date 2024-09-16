@@ -1,11 +1,11 @@
 id: 468238920
-type: way
+type: node
 latitude: -34.46306
 longitude: -58.52465
-postcode: "B1643"
+postcode: B1643
 city: Beccar
-street: "Avenida Centenario"
-housenumber: 1545
-phone: "+54 11 4732-3332"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.autofrance.com.ar/"
+street: Avenida Centenario
+housenumber: "1545"
+phone: +54 11 4732-3332
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.autofrance.com.ar/

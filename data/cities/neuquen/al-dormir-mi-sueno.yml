@@ -1,11 +1,11 @@
 id: 1168432048
-type: way
+type: node
 latitude: -38.95754
 longitude: -68.06721
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Onésimo Leguizamón"
-housenumber: 250
+street: Onésimo Leguizamón
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://aldormirmisuenio.com.ar/"
+website: https://aldormirmisuenio.com.ar/

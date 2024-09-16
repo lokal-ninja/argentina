@@ -1,11 +1,11 @@
 id: 1076995147
-type: way
+type: node
 latitude: -38.96191
 longitude: -68.05553
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Chubut"
-housenumber: 641
+street: Chubut
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,10 +1,10 @@
 id: 789022940
-type: way
+type: node
 latitude: -40.80787
 longitude: -62.99185
 postcode: "8500"
 city: Viedma
-street: "Belgrano"
+street: Belgrano
 housenumber: 305;309
 phone: ""
 opening_hours: ""

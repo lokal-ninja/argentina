@@ -1,11 +1,11 @@
 id: 1171036476
-type: way
+type: node
 latitude: -38.95899
 longitude: -68.06678
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Doctor Luis Teodoro Planas"
-housenumber: 535
+street: Doctor Luis Teodoro Planas
+housenumber: "535"
 phone: ""
 opening_hours: ""
-website: "https://saraya.com.ar/"
+website: https://saraya.com.ar/

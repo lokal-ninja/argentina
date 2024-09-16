@@ -1,11 +1,11 @@
 id: 465214956
-type: way
+type: node
 latitude: -34.48797
 longitude: -58.48516
-postcode: "B1640"
+postcode: B1640
 city: Martínez
-street: "Avenida del Libertador"
-housenumber: 13275
+street: Avenida del Libertador
+housenumber: "13275"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://argentina.miele-importer.com/es/index.htm"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://argentina.miele-importer.com/es/index.htm

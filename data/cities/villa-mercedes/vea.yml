@@ -1,11 +1,11 @@
 id: 750332696
-type: way
+type: node
 latitude: -33.68064
 longitude: -65.46352
 postcode: "5730"
 city: villa mercedes
-street: "Avenida Mitre"
-housenumber: 667
+street: Avenida Mitre
+housenumber: "667"
 phone: ""
-opening_hours: "09:00-22:00"
+opening_hours: 09:00-22:00
 website: ""

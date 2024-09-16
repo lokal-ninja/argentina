@@ -1,11 +1,11 @@
 id: 896298120
-type: way
+type: node
 latitude: -41.13133
 longitude: -71.36058
-postcode: "R8400"
+postcode: R8400
 city: San Carlos de Bariloche
-street: "Avenida de los Pioneros"
-housenumber: 4321
+street: Avenida de los Pioneros
+housenumber: "4321"
 phone: ""
 opening_hours: ""
 website: ""

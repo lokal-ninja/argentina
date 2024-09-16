@@ -1,11 +1,12 @@
 id: 1157563900
-type: way
+type: node
 latitude: -34.56814
 longitude: -58.51119
-postcode: "B1650"
+postcode: B1650
 city: Villa Maipú
-street: "Avenida 1 - Avenida de los Constituyentes (GSM) / Avenida de los Constituyentes (VL)"
-housenumber: 1300
+street: Avenida 1 - Avenida de los Constituyentes (GSM) / Avenida de los Constituyentes
+    (VL)
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

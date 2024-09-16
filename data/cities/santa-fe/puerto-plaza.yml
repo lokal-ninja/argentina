@@ -1,11 +1,11 @@
 id: 1185377345
-type: way
+type: node
 latitude: -31.64636
 longitude: -60.69781
 postcode: "3000"
 city: Santa Fe
-street: "Remolcador Meteoro"
-housenumber: 2760
-phone: "+54 0342-4547966"
-opening_hours: "24/7"
-website: "https://puertoplaza.com.ar/"
+street: Remolcador Meteoro
+housenumber: "2760"
+phone: +54 0342-4547966
+opening_hours: 24/7
+website: https://puertoplaza.com.ar/

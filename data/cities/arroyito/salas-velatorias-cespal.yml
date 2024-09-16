@@ -1,11 +1,11 @@
 id: 506579004
-type: way
+type: node
 latitude: -31.41577
 longitude: -63.04511
 postcode: "2434"
 city: Arroyito
-street: "Avenida Mariano Moreno"
-housenumber: 465
+street: Avenida Mariano Moreno
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

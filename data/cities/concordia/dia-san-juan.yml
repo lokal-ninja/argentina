@@ -1,11 +1,11 @@
 id: 639463179
-type: way
+type: node
 latitude: -31.39506
 longitude: -58.01296
 postcode: "3200"
 city: Concordia
-street: "San Juan"
-housenumber: 784
+street: San Juan
+housenumber: "784"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:30"
+opening_hours: Mo-Su 08:00-21:30
 website: ""

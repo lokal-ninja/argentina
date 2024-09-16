@@ -1,11 +1,11 @@
 id: 788279308
-type: way
+type: node
 latitude: -40.81476
 longitude: -63.01399
 postcode: "8500"
 city: Viedma
-street: "Puerto Rico"
-housenumber: 386
+street: Puerto Rico
+housenumber: "386"
 phone: ""
 opening_hours: ""
 website: ""

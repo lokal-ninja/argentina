@@ -1,11 +1,11 @@
 id: 1119075193
-type: way
+type: node
 latitude: -38.95409
 longitude: -68.05182
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Tucumán"
-housenumber: 95
+street: Tucumán
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://laplataliving.com.ar/"
+website: https://laplataliving.com.ar/

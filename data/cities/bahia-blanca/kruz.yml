@@ -1,11 +1,11 @@
 id: 942421145
-type: way
+type: node
 latitude: -38.72022
 longitude: -62.26436
-postcode: "B8000"
+postcode: B8000
 city: Bahía Blanca
-street: "Donado"
-housenumber: 10
+street: Donado
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

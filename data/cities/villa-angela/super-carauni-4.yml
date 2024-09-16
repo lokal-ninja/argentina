@@ -1,11 +1,11 @@
 id: 806939253
-type: way
+type: node
 latitude: -27.57391
 longitude: -60.73458
 postcode: "3540"
 city: Villa Ángela
-street: "Avenida Uruguay"
-housenumber: 1810
+street: Avenida Uruguay
+housenumber: "1810"
 phone: ""
 opening_hours: ""
 website: ""

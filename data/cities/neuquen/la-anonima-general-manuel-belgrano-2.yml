@@ -1,11 +1,11 @@
 id: 1102220123
-type: way
+type: node
 latitude: -38.95084
 longitude: -68.07536
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "General Manuel Belgrano"
-housenumber: 1154
+street: General Manuel Belgrano
+housenumber: "1154"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/233-neuquen"
+website: https://www.laanonima.com.ar/sucursales/233-neuquen

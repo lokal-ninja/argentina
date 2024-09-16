@@ -1,11 +1,11 @@
 id: 665720115
-type: way
+type: node
 latitude: -31.64987
 longitude: -60.70418
 postcode: "3000"
 city: Santa Fe
-street: "Avenida 27 de Febrero"
-housenumber: 2302
+street: Avenida 27 de Febrero
+housenumber: "2302"
 phone: "+543424558873"
 opening_hours: ""
-website: "https://www.facebook.com/ocamponeumaticos"
+website: https://www.facebook.com/ocamponeumaticos

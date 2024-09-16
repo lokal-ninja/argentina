@@ -1,11 +1,11 @@
 id: 842752946
-type: way
+type: node
 latitude: -38.95493
 longitude: -68.06733
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "José de San Martín"
-housenumber: 573
+street: José de San Martín
+housenumber: "573"
 phone: ""
 opening_hours: ""
 website: ""

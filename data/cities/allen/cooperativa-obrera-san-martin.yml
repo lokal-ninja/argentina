@@ -1,11 +1,11 @@
 id: 1005018170
-type: way
+type: node
 latitude: -38.97941
 longitude: -67.82345
-postcode: "R8328"
+postcode: R8328
 city: Allen
-street: "San Martín"
-housenumber: 454
+street: San Martín
+housenumber: "454"
 phone: ""
 opening_hours: ""
 website: ""

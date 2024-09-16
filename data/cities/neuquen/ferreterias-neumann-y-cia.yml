@@ -1,11 +1,11 @@
 id: 1097831467
-type: way
+type: node
 latitude: -38.95559
 longitude: -68.07092
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "12 de Septiembre"
-housenumber: 835
+street: 12 de Septiembre
+housenumber: "835"
 phone: ""
 opening_hours: ""
 website: ""

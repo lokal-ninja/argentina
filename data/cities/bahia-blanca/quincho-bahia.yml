@@ -1,11 +1,11 @@
 id: 982320274
-type: way
+type: node
 latitude: -38.70886
 longitude: -62.25705
 postcode: "8000"
 city: Bahía Blanca
-street: "Sarmiento"
-housenumber: 902
-phone: "+54 9 291 451 3453;"
+street: Sarmiento
+housenumber: "902"
+phone: +54 9 291 451 3453;
 opening_hours: ""
-website: "https://quinchobahia.com"
+website: https://quinchobahia.com

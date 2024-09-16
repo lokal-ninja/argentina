@@ -1,11 +1,11 @@
 id: 516863886
-type: way
+type: node
 latitude: -27.47096
 longitude: -58.84257
 postcode: "3400"
 city: Corrientes
-street: "Tucumán"
-housenumber: 1236
+street: Tucumán
+housenumber: "1236"
 phone: ""
 opening_hours: ""
 website: ""

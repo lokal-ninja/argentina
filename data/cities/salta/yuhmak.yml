@@ -1,11 +1,11 @@
 id: 584441039
-type: way
+type: node
 latitude: -24.79947
 longitude: -65.40899
 postcode: "4400"
 city: Salta
-street: "Córdoba"
-housenumber: 749
-phone: "+54 387 496-0992"
-opening_hours: "Mo-Fr 08:30-13:00,17:00-21:00; Sa 08:30-13:00"
-website: "https://www.yuhmak.com/"
+street: Córdoba
+housenumber: "749"
+phone: +54 387 496-0992
+opening_hours: Mo-Fr 08:30-13:00,17:00-21:00; Sa 08:30-13:00
+website: https://www.yuhmak.com/

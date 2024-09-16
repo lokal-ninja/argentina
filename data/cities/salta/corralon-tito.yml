@@ -1,11 +1,11 @@
 id: 832647736
-type: way
+type: node
 latitude: -24.81224
 longitude: -65.40882
 postcode: "4400"
 city: Salta
-street: "Avenida Juan Carlos Dávalos"
-housenumber: 300
+street: Avenida Juan Carlos Dávalos
+housenumber: "300"
 phone: "+543875028495"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://corralontito.business.site/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://corralontito.business.site/

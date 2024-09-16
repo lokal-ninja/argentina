@@ -1,11 +1,11 @@
 id: 104061438
-type: way
+type: node
 latitude: -40.79905
 longitude: -62.97811
 postcode: "8504"
 city: Carmen de Patagones
-street: "San Lorenzo"
-housenumber: 59
+street: San Lorenzo
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/069-carmen-de-patagones"
+website: https://www.laanonima.com.ar/sucursales/069-carmen-de-patagones

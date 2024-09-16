@@ -1,11 +1,11 @@
 id: 303204523
-type: way
+type: node
 latitude: -34.58263
 longitude: -58.44543
 postcode: "1414"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Dorrego"
-housenumber: 1650
+street: Avenida Dorrego
+housenumber: "1650"
 phone: ""
-opening_hours: "Tu-Su 11:00-18:30"
-website: "http://www.elmercadodepulgas.com.ar/"
+opening_hours: Tu-Su 11:00-18:30
+website: http://www.elmercadodepulgas.com.ar/

@@ -1,11 +1,11 @@
 id: 315315944
-type: way
+type: node
 latitude: -32.16162
 longitude: -58.40603
 postcode: ""
 city: Villa Elisa
-street: "Gutiérrez"
-housenumber: 1762
+street: Gutiérrez
+housenumber: "1762"
 phone: ""
 opening_hours: ""
 website: ""

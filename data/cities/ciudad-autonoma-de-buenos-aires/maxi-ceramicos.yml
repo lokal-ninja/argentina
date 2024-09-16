@@ -1,11 +1,11 @@
 id: 471215209
-type: way
+type: node
 latitude: -34.57246
 longitude: -58.48223
 postcode: "1431"
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Álvarez Thomas"
-housenumber: 3060
-phone: "+54 11 4522-9710"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-19:00; Sa 08:30-13:30"
-website: "https://www.maxiceramicos.com/"
+street: Avenida Álvarez Thomas
+housenumber: "3060"
+phone: +54 11 4522-9710
+opening_hours: Mo-Fr 08:30-12:30,14:30-19:00; Sa 08:30-13:30
+website: https://www.maxiceramicos.com/

@@ -1,11 +1,11 @@
 id: 470297847
-type: way
+type: node
 latitude: -34.47365
 longitude: -58.5553
-postcode: "B1643"
+postcode: B1643
 city: Beccar
-street: "Avenida Sucre"
-housenumber: 2599
-phone: "+54 11 4747-3110"
+street: Avenida Sucre
+housenumber: "2599"
+phone: +54 11 4747-3110
 opening_hours: ""
 website: ""

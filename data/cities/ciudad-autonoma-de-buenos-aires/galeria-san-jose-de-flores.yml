@@ -1,11 +1,11 @@
 id: 432960048
-type: way
+type: node
 latitude: -34.62745
 longitude: -58.461
-postcode: "C1406GLK"
+postcode: C1406GLK
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Rivadavia"
-housenumber: 6733
+street: Avenida Rivadavia
+housenumber: "6733"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -34.47417
 longitude: -58.51307
 postcode: "1642"
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 12
+street: Avenida Centenario
+housenumber: "12"
 phone: "08003210611"
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su closed"
-website: "https://www.movistar.com.ar/"
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su closed
+website: https://www.movistar.com.ar/

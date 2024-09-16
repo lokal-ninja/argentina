@@ -4,8 +4,8 @@ latitude: -34.55723
 longitude: -58.45123
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Mendoza"
-housenumber: 1725
+street: Mendoza
+housenumber: "1725"
 phone: ""
-opening_hours: "Tu-Su 09:00-19:00"
-website: "https://defu.com.ar"
+opening_hours: Tu-Su 09:00-19:00
+website: https://defu.com.ar

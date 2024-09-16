@@ -1,11 +1,11 @@
 id: 1208120902
-type: way
+type: node
 latitude: -38.92599
 longitude: -67.99795
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Mengelle"
-housenumber: 1398
+street: Avenida Mengelle
+housenumber: "1398"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1077195893
-type: way
+type: node
 latitude: -38.96389
 longitude: -68.0544
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ángel Edelman"
-housenumber: 333
+street: Ángel Edelman
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

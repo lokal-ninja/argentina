@@ -1,11 +1,11 @@
 id: 400529798
-type: way
+type: node
 latitude: -32.94067
 longitude: -60.75982
-postcode: "S2008"
+postcode: S2008
 city: Rosario
-street: "Avenida San José de Calasanz"
-housenumber: 9290
+street: Avenida San José de Calasanz
+housenumber: "9290"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

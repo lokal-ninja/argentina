@@ -1,11 +1,11 @@
 id: 616775649
-type: way
+type: node
 latitude: -31.42212
 longitude: -63.04889
 postcode: "2434"
 city: Arroyito
-street: "Belgrano"
-housenumber: 965
+street: Belgrano
+housenumber: "965"
 phone: ""
 opening_hours: ""
 website: ""

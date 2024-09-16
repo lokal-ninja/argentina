@@ -1,11 +1,11 @@
 id: 467304265
-type: way
+type: node
 latitude: -34.51923
 longitude: -58.56116
 postcode: ""
 city: Boulogne Sur Mer
-street: "Avenida Bernardo Ader"
-housenumber: 775
+street: Avenida Bernardo Ader
+housenumber: "775"
 phone: ""
-opening_hours: "08:00-22:00"
+opening_hours: 08:00-22:00
 website: ""

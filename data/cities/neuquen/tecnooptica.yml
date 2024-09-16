@@ -1,11 +1,11 @@
 id: 1181061905
-type: way
+type: node
 latitude: -38.95136
 longitude: -68.05953
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Avenida Argentina"
-housenumber: 344
+street: Avenida Argentina
+housenumber: "344"
 phone: ""
 opening_hours: ""
-website: "https://www.tecnooptica.com.ar/"
+website: https://www.tecnooptica.com.ar/

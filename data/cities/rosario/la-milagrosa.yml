@@ -1,11 +1,11 @@
 id: 250799401
-type: way
+type: node
 latitude: -32.95837
 longitude: -60.64998
 postcode: ""
 city: Rosario
-street: "España"
-housenumber: 1924
+street: España
+housenumber: "1924"
 phone: ""
 opening_hours: ""
 website: ""

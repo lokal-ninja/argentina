@@ -1,11 +1,11 @@
 id: 1180552215
-type: way
+type: node
 latitude: -34.57671
 longitude: -58.53925
-postcode: "B1650BQB"
+postcode: B1650BQB
 city: General San Martín
-street: "91 - San Lorenzo"
-housenumber: 2148
+street: 91 - San Lorenzo
+housenumber: "2148"
 phone: ""
 opening_hours: ""
 website: ""

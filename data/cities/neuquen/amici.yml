@@ -1,11 +1,11 @@
 id: 1279555466
-type: way
+type: node
 latitude: -38.95368
 longitude: -68.05775
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Buenos Aires"
-housenumber: 116
+street: Buenos Aires
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

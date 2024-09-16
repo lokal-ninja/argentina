@@ -1,11 +1,11 @@
 id: 578586010
-type: way
+type: node
 latitude: -31.62499
 longitude: -60.71311
 postcode: "3002"
 city: Santa Fe
-street: "Pedro Zenteno"
-housenumber: 3527
-phone: "+54 342 450-3772"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.aucam.com.ar/"
+street: Pedro Zenteno
+housenumber: "3527"
+phone: +54 342 450-3772
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.aucam.com.ar/

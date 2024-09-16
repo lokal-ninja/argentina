@@ -1,11 +1,11 @@
 id: 248406221
-type: way
+type: node
 latitude: -26.82337
 longitude: -65.24088
-postcode: "T4000CQP"
+postcode: T4000CQP
 city: San Miguel de Tucumán
-street: "Avenida Mate de Luna"
-housenumber: 2852
+street: Avenida Mate de Luna
+housenumber: "2852"
 phone: "+5438147331000"
-opening_hours: "Mo-Sa 08:30-22:00; Su 08:00-22:00"
-website: "https://www.vea.com.ar/"
+opening_hours: Mo-Sa 08:30-22:00; Su 08:00-22:00
+website: https://www.vea.com.ar/

@@ -1,11 +1,11 @@
 id: 1089886918
-type: way
+type: node
 latitude: -38.9626
 longitude: -68.07181
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Fray Luis Beltrán"
-housenumber: 890
+street: Fray Luis Beltrán
+housenumber: "890"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1089886948
-type: way
+type: node
 latitude: -38.9632
 longitude: -68.07273
-postcode: "Q8300"
+postcode: Q8300
 city: Neuquén
-street: "Ceferino Namuncurá"
-housenumber: 955
+street: Ceferino Namuncurá
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

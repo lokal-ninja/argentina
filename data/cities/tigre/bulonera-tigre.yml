@@ -1,11 +1,11 @@
 id: 476185003
-type: way
+type: node
 latitude: -34.43242
 longitude: -58.56906
-postcode: "B1648"
+postcode: B1648
 city: Tigre
-street: "Avenida Daniel M. Cazón"
-housenumber: 
-phone: "+54 11 4198-9398"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:30-12:00; Su off"
-website: "https://www.buloneratigre.com.ar/"
+street: Avenida Daniel M. Cazón
+housenumber: ""
+phone: +54 11 4198-9398
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:30-12:00; Su off
+website: https://www.buloneratigre.com.ar/

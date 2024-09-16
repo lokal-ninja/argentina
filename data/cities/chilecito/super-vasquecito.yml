@@ -1,11 +1,11 @@
 id: 574823603
-type: way
+type: node
 latitude: -29.15662
 longitude: -67.49407
 postcode: "5360"
 city: Chilecito
-street: "Avenida Pelagio B. Luna"
-housenumber: 601
+street: Avenida Pelagio B. Luna
+housenumber: "601"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00,17:30-21:00"
+opening_hours: Mo-Sa 08:00-13:00,17:30-21:00
 website: ""

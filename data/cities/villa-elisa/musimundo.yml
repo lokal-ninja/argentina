@@ -1,11 +1,11 @@
 id: 312243561
-type: way
+type: node
 latitude: -32.16057
 longitude: -58.40267
 postcode: ""
 city: Villa Elisa
-street: "Avenida Urquiza"
-housenumber: 1668
+street: Avenida Urquiza
+housenumber: "1668"
 phone: ""
 opening_hours: ""
-website: "https://www.musimundo.com/"
+website: https://www.musimundo.com/

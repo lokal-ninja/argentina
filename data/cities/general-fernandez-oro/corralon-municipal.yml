@@ -1,11 +1,11 @@
 id: 1286691589
-type: way
+type: node
 latitude: -38.95304
 longitude: -67.92096
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "Sarmiento"
-housenumber: 350
+street: Sarmiento
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

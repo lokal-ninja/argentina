@@ -1,11 +1,11 @@
 id: 666471044
-type: way
+type: node
 latitude: -38.71543
 longitude: -62.29016
 postcode: ""
 city: Bahía Blanca
-street: "Almafuerte"
-housenumber: 1202
-phone: "+54 9291 454 0004"
-opening_hours: "Mo-Fr 08:00-12:00,15:30-19:30; Sa 08:30-12:30"
-website: "http://www.pinturerialucaioli.com/"
+street: Almafuerte
+housenumber: "1202"
+phone: +54 9291 454 0004
+opening_hours: Mo-Fr 08:00-12:00,15:30-19:30; Sa 08:30-12:30
+website: http://www.pinturerialucaioli.com/

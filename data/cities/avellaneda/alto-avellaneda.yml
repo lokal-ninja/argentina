@@ -1,11 +1,11 @@
 id: 28057858
-type: way
+type: node
 latitude: -34.67676
 longitude: -58.37028
 postcode: "1873"
 city: Avellaneda
-street: "Avenida General Güemes"
-housenumber: 897
-phone: "+54 11 4229-0324"
-opening_hours: "Mo-Th,Su 10:00-23:00; Fr,Sa 10:00-01:00"
-website: "https://www.altoavellaneda.com.ar/"
+street: Avenida General Güemes
+housenumber: "897"
+phone: +54 11 4229-0324
+opening_hours: Mo-Th,Su 10:00-23:00; Fr,Sa 10:00-01:00
+website: https://www.altoavellaneda.com.ar/

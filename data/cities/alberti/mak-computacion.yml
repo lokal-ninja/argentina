@@ -1,11 +1,11 @@
 id: 1185347564
-type: way
+type: node
 latitude: -35.03256
 longitude: -60.2817
-postcode: "B6634"
+postcode: B6634
 city: Alberti
-street: "10 de Junio"
-housenumber: 154
+street: 10 de Junio
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

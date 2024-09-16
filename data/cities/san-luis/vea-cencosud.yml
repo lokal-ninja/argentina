@@ -1,11 +1,11 @@
 id: 529086278
-type: way
+type: node
 latitude: -33.29668
 longitude: -66.33895
 postcode: "5700"
 city: San Luis
-street: "San Martín"
-housenumber: 1162
-phone: "0266 442-7593"
+street: San Martín
+housenumber: "1162"
+phone: 0266 442-7593
 opening_hours: ""
 website: ""

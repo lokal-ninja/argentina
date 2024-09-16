@@ -1,11 +1,11 @@
 id: 626246632
-type: way
+type: node
 latitude: -34.42318
 longitude: -58.7347
 postcode: "1619"
 city: Garin
-street: "Cayetano Bourdet"
-housenumber: 
+street: Cayetano Bourdet
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

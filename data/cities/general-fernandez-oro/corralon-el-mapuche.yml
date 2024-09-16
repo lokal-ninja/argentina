@@ -1,11 +1,11 @@
 id: 1285043841
-type: way
+type: node
 latitude: -38.9559
 longitude: -67.92175
-postcode: "R8324"
+postcode: R8324
 city: General Fernández Oro
-street: "Avenida Cipolletti"
-housenumber: 335
-phone: "+54 299 499-6560"
+street: Avenida Cipolletti
+housenumber: "335"
+phone: +54 299 499-6560
 opening_hours: ""
 website: ""

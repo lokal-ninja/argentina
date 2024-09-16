@@ -1,11 +1,11 @@
 id: 107939581
-type: way
+type: node
 latitude: -34.58111
 longitude: -58.54278
-postcode: "B1650"
+postcode: B1650
 city: General San Martín
-street: "Avenida 101 - Doctor Ricardo Balbín"
-housenumber: 2030
+street: Avenida 101 - Doctor Ricardo Balbín
+housenumber: "2030"
 phone: ""
-opening_hours: "Mo-Fr 08:30-21:00; Sa 08:30-22:00; Su 09:00-14:00"
+opening_hours: Mo-Fr 08:30-21:00; Sa 08:30-22:00; Su 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1198262448
-type: way
+type: node
 latitude: -27.46613
 longitude: -58.78831
 postcode: "3400"
 city: Corrientes
-street: "Avenida Libertad"
-housenumber: 5131
+street: Avenida Libertad
+housenumber: "5131"
 phone: ""
 opening_hours: ""
 website: ""

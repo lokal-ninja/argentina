@@ -1,11 +1,11 @@
 id: 473440975
-type: way
+type: node
 latitude: -34.46792
 longitude: -58.51874
-postcode: "B1642CAW"
+postcode: B1642CAW
 city: San Isidro
-street: "Avenida Centenario"
-housenumber: 810
+street: Avenida Centenario
+housenumber: "810"
 phone: ""
-opening_hours: "closed"
-website: "https://www.viacargo.com.ar"
+opening_hours: closed
+website: https://www.viacargo.com.ar

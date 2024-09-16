@@ -1,11 +1,11 @@
 id: 471353912
-type: way
+type: node
 latitude: -34.52364
 longitude: -58.48418
-postcode: "B1605"
+postcode: B1605
 city: Vicente López
-street: "Avenida Maipú"
-housenumber: 1550
-phone: "+54 11 7079-0200"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.vielautomotores.com.ar/"
+street: Avenida Maipú
+housenumber: "1550"
+phone: +54 11 7079-0200
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.vielautomotores.com.ar/

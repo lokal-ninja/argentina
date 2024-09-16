@@ -1,11 +1,11 @@
 id: 815869963
-type: way
+type: node
 latitude: -34.6349
 longitude: -58.556
 postcode: "1704"
 city: Ramos Mejía
-street: "República"
-housenumber: 490
+street: República
+housenumber: "490"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.belvedere.com.ar/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.belvedere.com.ar/

@@ -1,11 +1,11 @@
 id: 474447067
-type: way
+type: node
 latitude: -34.47032
 longitude: -58.51243
-postcode: "B1642"
+postcode: B1642
 city: Acassuso
-street: "Belgrano"
-housenumber: 202
-phone: "+54 11 4747 8158"
+street: Belgrano
+housenumber: "202"
+phone: +54 11 4747 8158
 opening_hours: ""
-website: "https://www.laprimaveracasa.com.ar/"
+website: https://www.laprimaveracasa.com.ar/

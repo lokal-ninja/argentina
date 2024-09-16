@@ -1,11 +1,11 @@
 id: 1005018152
-type: way
+type: node
 latitude: -38.97449
 longitude: -67.83932
-postcode: "R8328"
+postcode: R8328
 city: Allen
-street: "Avenida Hipólito Yrigoyen"
-housenumber: 648
+street: Avenida Hipólito Yrigoyen
+housenumber: "648"
 phone: ""
 opening_hours: ""
 website: ""

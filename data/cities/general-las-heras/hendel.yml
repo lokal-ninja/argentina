@@ -1,11 +1,11 @@
 id: 150673366
-type: way
+type: node
 latitude: -34.92669
 longitude: -58.94588
 postcode: "1741"
 city: General Las Heras
-street: "Las Heras"
-housenumber: 848
+street: Las Heras
+housenumber: "848"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

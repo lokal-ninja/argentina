@@ -1,11 +1,11 @@
 id: 464828363
-type: way
+type: node
 latitude: -34.6307
 longitude: -58.41371
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida Juan de Garay"
-housenumber: 3437
+street: Avenida Juan de Garay
+housenumber: "3437"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471646177
-type: way
+type: node
 latitude: -34.59881
 longitude: -58.48115
 postcode: ""
 city: Ciudad Autónoma de Buenos Aires
-street: "Avenida San Martín"
-housenumber: 4220
+street: Avenida San Martín
+housenumber: "4220"
 phone: ""
 opening_hours: ""
 website: ""

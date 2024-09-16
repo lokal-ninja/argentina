@@ -1,11 +1,11 @@
 id: 832822315
-type: way
+type: node
 latitude: -36.61847
 longitude: -64.28853
-postcode: "L6300"
+postcode: L6300
 city: Santa Rosa
-street: "25 de Mayo"
-housenumber: 167
+street: 25 de Mayo
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

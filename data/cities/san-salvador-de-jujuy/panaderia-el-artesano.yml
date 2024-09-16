@@ -1,11 +1,11 @@
 id: 290126716
-type: way
+type: node
 latitude: -24.19426
 longitude: -65.28973
 postcode: "4600"
 city: San Salvador de Jujuy
-street: "Avenida Almirante Brown"
-housenumber: 
+street: Avenida Almirante Brown
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

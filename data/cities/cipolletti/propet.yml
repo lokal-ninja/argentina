@@ -1,11 +1,11 @@
 id: 1225106974
-type: way
+type: node
 latitude: -38.94447
 longitude: -67.99075
-postcode: "R8324"
+postcode: R8324
 city: Cipolletti
-street: "Avenida Luis Toschi"
-housenumber: 124
-phone: "+54 299 442-4550"
+street: Avenida Luis Toschi
+housenumber: "124"
+phone: +54 299 442-4550
 opening_hours: ""
-website: "https://www.propet.com.ar/"
+website: https://www.propet.com.ar/

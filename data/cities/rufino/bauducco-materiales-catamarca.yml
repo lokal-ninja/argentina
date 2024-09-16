@@ -1,11 +1,11 @@
 id: 1264815132
-type: way
+type: node
 latitude: -34.26871
 longitude: -62.70173
 postcode: "6100"
 city: Rufino
-street: "Catamarca"
-housenumber: 850
+street: Catamarca
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""
