@@ -1,5 +1,5 @@
 ---
-title: "Casa América"
+title: "Casa America"
 url: /ciudad-autonoma-de-buenos-aires/casa-america/
-shop: música
+shop: pasta
 ---
