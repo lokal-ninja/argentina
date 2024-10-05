@@ -1,5 +1,5 @@
 ---
-title: "Cotillón"
+title: "Cotillon"
 url: /ciudad-autonoma-de-buenos-aires/cotillon/
-shop: general
+shop: comodidad
 ---

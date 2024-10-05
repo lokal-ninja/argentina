@@ -1,6 +1,6 @@
 ---
 title: Salta
 url: /salta/
-latitude: -24.786
-longitude: -65.411
+latitude: -24.79
+longitude: -65.408
 ---
