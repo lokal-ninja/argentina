@@ -1,6 +1,6 @@
 ---
 title: Mercedes
 url: /mercedes/
-latitude: -34.654
-longitude: -59.432
+latitude: -29.183
+longitude: -58.08
 ---
