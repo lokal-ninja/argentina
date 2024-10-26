@@ -1,6 +1,6 @@
 ---
-title: Maipú
+title: Maipu
 url: /maipu/
-latitude: -33.002
-longitude: -68.796
+latitude: -33.013
+longitude: -68.799
 ---
