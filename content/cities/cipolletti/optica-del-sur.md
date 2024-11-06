@@ -1,5 +1,5 @@
 ---
-title: "Optica del Sur"
+title: "Óptica del Sur"
 url: /cipolletti/optica-del-sur/
 shop: óptico
 ---

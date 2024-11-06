@@ -1,5 +1,5 @@
 ---
 title: "Boedo"
 url: /ciudad-autonoma-de-buenos-aires/boedo-avenida-boedo/
-shop: hardware
+shop: general
 ---
