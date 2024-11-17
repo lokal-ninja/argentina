@@ -1,6 +1,6 @@
 ---
 title: Avellaneda
 url: /avellaneda/
-latitude: -34.677
-longitude: -58.37
+latitude: -34.673
+longitude: -58.362
 ---
