@@ -1,6 +1,6 @@
 ---
 title: Isidro Casanova
 url: /isidro-casanova/
-latitude: -34.695
-longitude: -58.573
+latitude: -34.697
+longitude: -58.57
 ---
