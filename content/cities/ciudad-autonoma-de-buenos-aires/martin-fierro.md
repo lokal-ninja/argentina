@@ -1,5 +1,5 @@
 ---
-title: "Martin Fierro"
+title: "Martín Fierro"
 url: /ciudad-autonoma-de-buenos-aires/martin-fierro/
-shop: comodidad
+shop: hardware
 ---

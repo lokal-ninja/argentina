@@ -1,6 +1,6 @@
 ---
 title: Tristán Suárez
 url: /tristan-suarez/
-latitude: -34.89
-longitude: -58.568
+latitude: -34.892
+longitude: -58.57
 ---

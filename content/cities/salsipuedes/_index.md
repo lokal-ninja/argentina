@@ -1,6 +1,6 @@
 ---
 title: Salsipuedes
 url: /salsipuedes/
-latitude: -31.107
-longitude: -64.292
+latitude: -31.139
+longitude: -64.297
 ---
