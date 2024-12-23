@@ -1,6 +1,6 @@
 ---
 title: Palpalá
 url: /palpala/
-latitude: -24.264
-longitude: -65.22
+latitude: -24.265
+longitude: -65.217
 ---
