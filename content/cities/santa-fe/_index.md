@@ -1,6 +1,6 @@
 ---
 title: Santa Fe
 url: /santa-fe/
-latitude: -31.622
-longitude: -60.699
+latitude: -31.645
+longitude: -60.708
 ---
