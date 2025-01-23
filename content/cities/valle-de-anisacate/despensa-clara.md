@@ -1,5 +1,5 @@
 ---
-title: "Despensa clara"
+title: "Despensa Clara"
 url: /valle-de-anisacate/despensa-clara/
-shop: tienda rural
+shop: comodidad
 ---
