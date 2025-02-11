@@ -1,6 +1,6 @@
 ---
 title: Balcarce
 url: /balcarce/
-latitude: -37.677
-longitude: -58.444
+latitude: -37.841
+longitude: -58.256
 ---

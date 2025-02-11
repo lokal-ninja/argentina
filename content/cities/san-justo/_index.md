@@ -1,6 +1,6 @@
 ---
 title: San Justo
 url: /san-justo/
-latitude: -34.699
-longitude: -58.562
+latitude: -34.703
+longitude: -58.569
 ---
