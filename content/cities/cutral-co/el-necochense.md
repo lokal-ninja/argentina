@@ -1,5 +1,5 @@
 ---
 title: "El Necochense"
 url: /cutral-co/el-necochense/
-shop: general
+shop: reparación de automóviles
 ---
