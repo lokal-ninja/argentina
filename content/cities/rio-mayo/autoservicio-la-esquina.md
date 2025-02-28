@@ -1,5 +1,5 @@
 ---
-title: "Autoservicio la esquina"
+title: "Autoservicio La Esquina"
 url: /rio-mayo/autoservicio-la-esquina/
-shop: comodidad
+shop: supermercado
 ---
