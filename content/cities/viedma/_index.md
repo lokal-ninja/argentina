@@ -1,6 +1,6 @@
 ---
 title: Viedma
 url: /viedma/
-latitude: -40.823
-longitude: -62.984
+latitude: -40.801
+longitude: -62.996
 ---

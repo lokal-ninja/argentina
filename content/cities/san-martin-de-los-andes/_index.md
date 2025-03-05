@@ -1,6 +1,6 @@
 ---
-title: San Martín de Los Andes
+title: San Martín de los Andes
 url: /san-martin-de-los-andes/
-latitude: -40.174
-longitude: -71.401
+latitude: -40.155
+longitude: -71.346
 ---
