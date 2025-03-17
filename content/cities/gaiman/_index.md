@@ -1,6 +1,6 @@
 ---
 title: Gaiman
 url: /gaiman/
-latitude: -43.3
-longitude: -65.491
+latitude: -43.299
+longitude: -65.505
 ---
