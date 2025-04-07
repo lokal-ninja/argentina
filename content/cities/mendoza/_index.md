@@ -1,6 +1,6 @@
 ---
 title: Mendoza
 url: /mendoza/
-latitude: -32.889
-longitude: -68.839
+latitude: -32.881
+longitude: -68.852
 ---
