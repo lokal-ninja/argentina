@@ -1,5 +1,5 @@
 ---
 title: "Scania"
 url: /cipolletti/scania/
-shop: coche
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smile"
 url: /ciudad-autonoma-de-buenos-aires/smile/
-shop: quiosco
+shop: música
 ---

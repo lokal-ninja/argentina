@@ -1,6 +1,6 @@
 ---
 title: General Cabrera
 url: /general-cabrera/
-latitude: -32.811
-longitude: -63.873
+latitude: -32.812
+longitude: -63.875
 ---

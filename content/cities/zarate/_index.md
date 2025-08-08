@@ -1,6 +1,6 @@
 ---
 title: Zárate
 url: /zarate/
-latitude: -34.091
-longitude: -59.041
+latitude: -34.113
+longitude: -59.015
 ---

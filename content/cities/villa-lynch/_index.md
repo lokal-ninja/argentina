@@ -1,6 +1,6 @@
 ---
 title: Villa Lynch
 url: /villa-lynch/
-latitude: -34.588
-longitude: -58.521
+latitude: -34.591
+longitude: -58.533
 ---
