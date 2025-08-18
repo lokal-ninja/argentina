@@ -1,6 +1,6 @@
 ---
 title: Luján de Cuyo
 url: /lujan-de-cuyo/
-latitude: -33.034
-longitude: -68.874
+latitude: -32.963
+longitude: -68.854
 ---
