@@ -1,6 +1,6 @@
 ---
-title: General Rodríguez
+title: General Rodriguez
 url: /general-rodriguez/
-latitude: -34.609
-longitude: -58.909
+latitude: -34.604
+longitude: -58.983
 ---
