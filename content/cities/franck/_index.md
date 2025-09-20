@@ -1,6 +1,6 @@
 ---
 title: Franck
 url: /franck/
-latitude: -31.591
-longitude: -60.942
+latitude: -31.585
+longitude: -60.939
 ---

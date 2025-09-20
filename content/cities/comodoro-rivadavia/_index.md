@@ -1,6 +1,6 @@
 ---
 title: Comodoro Rivadavia
 url: /comodoro-rivadavia/
-latitude: -45.882
-longitude: -67.516
+latitude: -45.865
+longitude: -67.492
 ---
