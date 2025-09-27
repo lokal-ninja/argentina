@@ -1,5 +1,5 @@
 ---
-title: "Coquitos"
+title: "Coquito's"
 url: /ciudad-autonoma-de-buenos-aires/coquitos/
-shop: comodidad
+shop: alimentación sana
 ---
