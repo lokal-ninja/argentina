@@ -1,6 +1,6 @@
 ---
 title: Caleta Olivia
 url: /caleta-olivia/
-latitude: -46.451
-longitude: -67.529
+latitude: -46.45
+longitude: -67.528
 ---
