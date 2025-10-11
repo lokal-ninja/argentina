@@ -1,5 +1,5 @@
 ---
-title: "La Revisteria"
+title: "La Revistería"
 url: /ciudad-autonoma-de-buenos-aires/la-revisteria/
-shop: quiosco
+shop: libros
 ---
