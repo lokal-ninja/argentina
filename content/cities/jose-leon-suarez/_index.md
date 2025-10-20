@@ -1,6 +1,6 @@
 ---
 title: José León Suarez
 url: /jose-leon-suarez/
-latitude: -34.532
+latitude: -34.526
 longitude: -58.577
 ---
