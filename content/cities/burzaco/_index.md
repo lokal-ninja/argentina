@@ -1,6 +1,6 @@
 ---
 title: Burzaco
 url: /burzaco/
-latitude: -34.816
+latitude: -34.819
 longitude: -58.389
 ---

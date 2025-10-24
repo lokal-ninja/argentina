@@ -1,6 +1,6 @@
 ---
 title: Unquillo
 url: /unquillo/
-latitude: -31.237
-longitude: -64.314
+latitude: -31.218
+longitude: -64.318
 ---

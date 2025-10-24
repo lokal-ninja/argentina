@@ -1,5 +1,5 @@
 ---
 title: "Mario"
 url: /ciudad-autonoma-de-buenos-aires/mario/
-shop: zapatos
+shop: piezas de automóviles
 ---

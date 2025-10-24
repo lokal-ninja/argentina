@@ -1,6 +1,6 @@
 ---
 title: Merlo
 url: /merlo/
-latitude: -34.673
-longitude: -58.724
+latitude: -34.667
+longitude: -58.726
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /neuquen/citroen/
-shop: coche
+shop: reparación de automóviles
 ---
