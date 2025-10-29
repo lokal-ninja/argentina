@@ -1,5 +1,5 @@
 ---
-title: Realico
+title: Realicó
 url: /realico/
 latitude: -35.041
 longitude: -64.249
