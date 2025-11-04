@@ -1,0 +1,5 @@
+---
+title: "Primavera Casa"
+url: /ciudad-autonoma-de-buenos-aires/primavera-casa-avenida-federico-lacroze/
+shop: general
+---
