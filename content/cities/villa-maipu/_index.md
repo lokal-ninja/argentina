@@ -1,6 +1,6 @@
 ---
 title: Villa Maipú
 url: /villa-maipu/
-latitude: -34.569
-longitude: -58.522
+latitude: -34.572
+longitude: -58.523
 ---
