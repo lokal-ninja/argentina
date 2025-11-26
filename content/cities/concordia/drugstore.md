@@ -1,5 +1,5 @@
 ---
-title: "drugstore"
+title: "Drugstore"
 url: /concordia/drugstore/
 shop: comodidad
 ---
