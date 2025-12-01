@@ -1,5 +1,5 @@
 ---
-title: "Directo de Fábrica"
+title: "Directo de Fabrica"
 url: /ciudad-autonoma-de-buenos-aires/directo-de-fabrica/
-shop: general
+shop: tela
 ---
