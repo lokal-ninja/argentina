@@ -1,5 +1,5 @@
 ---
-title: "Los Mil Artículos"
+title: "Los Mil Articulos"
 url: /san-fernando-del-valle-de-catamarca/los-mil-articulos/
-shop: tienda de variedades
+shop: grandes almacenes
 ---
