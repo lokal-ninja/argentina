@@ -1,6 +1,6 @@
 ---
 title: La Tablada
 url: /la-tablada/
-latitude: -34.674
-longitude: -58.528
+latitude: -34.696
+longitude: -58.548
 ---
