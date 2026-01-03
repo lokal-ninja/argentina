@@ -1,6 +1,6 @@
 ---
 title: Vedia
 url: /vedia/
-latitude: -34.498
-longitude: -61.543
+latitude: -34.495
+longitude: -61.542
 ---
