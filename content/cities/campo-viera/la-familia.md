@@ -1,5 +1,5 @@
 ---
 title: "La Familia"
 url: /campo-viera/la-familia/
-shop: comodidad
+shop: carnicero
 ---
