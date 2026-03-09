@@ -1,6 +1,6 @@
 ---
 title: Dorrego
 url: /dorrego/
-latitude: -32.905
-longitude: -68.835
+latitude: -32.908
+longitude: -68.832
 ---

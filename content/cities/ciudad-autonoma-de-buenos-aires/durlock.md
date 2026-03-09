@@ -1,5 +1,5 @@
 ---
 title: "Durlock"
 url: /ciudad-autonoma-de-buenos-aires/durlock/
-shop: hardware
+shop: pintura
 ---

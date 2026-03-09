@@ -1,6 +1,6 @@
 ---
 title: Jardín América
 url: /jardin-america/
-latitude: -27.048
-longitude: -55.24
+latitude: -27.033
+longitude: -55.234
 ---
