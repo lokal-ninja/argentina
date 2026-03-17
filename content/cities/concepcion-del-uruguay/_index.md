@@ -1,6 +1,6 @@
 ---
 title: Concepción del Uruguay
 url: /concepcion-del-uruguay/
-latitude: -32.483
-longitude: -58.235
+latitude: -32.491
+longitude: -58.227
 ---

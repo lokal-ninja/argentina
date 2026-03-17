@@ -1,5 +1,5 @@
 ---
 title: "Senta"
 url: /rosario/senta/
-shop: coche
+shop: reparación de automóviles
 ---
