@@ -1,5 +1,5 @@
 ---
 title: "Pixiu"
 url: /ciudad-autonoma-de-buenos-aires/pixiu/
-shop: supermercado
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jovi"
+title: "JOVI"
 url: /ciudad-autonoma-de-buenos-aires/jovi/
-shop: vacante
+shop: hardware
 ---
