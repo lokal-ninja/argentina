@@ -1,6 +1,6 @@
 ---
 title: Villa Bonita
 url: /villa-bonita/
-latitude: -27.485
-longitude: -54.955
+latitude: -27.479
+longitude: -54.968
 ---

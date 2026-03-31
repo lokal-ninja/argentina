@@ -1,6 +1,6 @@
 ---
 title: Mina Clavero
 url: /mina-clavero/
-latitude: -31.731
-longitude: -65.005
+latitude: -31.727
+longitude: -65.004
 ---

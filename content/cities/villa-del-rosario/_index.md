@@ -1,6 +1,6 @@
 ---
 title: Villa del Rosario
 url: /villa-del-rosario/
-latitude: -30.794
-longitude: -57.914
+latitude: -31.553
+longitude: -63.536
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tortuguitas
 url: /tortuguitas/
-latitude: -34.469
-longitude: -58.756
+latitude: -34.471
+longitude: -58.759
 ---
