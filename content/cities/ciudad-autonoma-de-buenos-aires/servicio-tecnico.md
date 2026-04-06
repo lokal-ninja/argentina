@@ -1,5 +1,5 @@
 ---
-title: "Servicio Tecnico"
+title: "Servício Técnico"
 url: /ciudad-autonoma-de-buenos-aires/servicio-tecnico/
-shop: electrónica
+shop: general
 ---
