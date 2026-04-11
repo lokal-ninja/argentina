@@ -1,6 +1,6 @@
 ---
 title: San Miguel de Tucumán
 url: /san-miguel-de-tucuman/
-latitude: -26.842
-longitude: -65.212
+latitude: -26.828
+longitude: -65.204
 ---
