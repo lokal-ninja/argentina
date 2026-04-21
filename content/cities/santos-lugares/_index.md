@@ -1,6 +1,6 @@
 ---
 title: Santos Lugares
 url: /santos-lugares/
-latitude: -34.601
-longitude: -58.547
+latitude: -34.602
+longitude: -58.543
 ---
