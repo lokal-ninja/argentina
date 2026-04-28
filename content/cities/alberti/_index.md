@@ -1,6 +1,6 @@
 ---
-title: Alberti
+title: alberti
 url: /alberti/
-latitude: -35.032
+latitude: -35.033
 longitude: -60.281
 ---
