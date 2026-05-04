@@ -1,5 +1,5 @@
 ---
-title: "Neumáticos Delmenico"
+title: "Neumaticos Delmenico"
 url: /rosario/neumaticos-delmenico/
 shop: neumáticos
 ---

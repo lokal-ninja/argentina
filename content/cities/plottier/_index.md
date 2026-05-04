@@ -1,6 +1,6 @@
 ---
 title: Plottier
 url: /plottier/
-latitude: -38.957
-longitude: -68.238
+latitude: -38.951
+longitude: -68.226
 ---
