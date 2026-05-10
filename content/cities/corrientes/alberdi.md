@@ -1,5 +1,5 @@
 ---
 title: "Alberdi"
 url: /corrientes/alberdi/
-shop: quiosco
+shop: frutería
 ---
