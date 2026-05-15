@@ -1,6 +1,6 @@
 ---
 title: Córdoba
 url: /cordoba/
-latitude: -31.386
-longitude: -64.269
+latitude: -31.419
+longitude: -64.188
 ---
