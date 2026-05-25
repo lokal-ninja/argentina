@@ -1,5 +1,5 @@
 ---
-title: "Aba Gas"
+title: "ABA Gas"
 url: /ciudad-autonoma-de-buenos-aires/aba-gas/
-shop: piezas de automóviles
+shop: reparación de automóviles
 ---

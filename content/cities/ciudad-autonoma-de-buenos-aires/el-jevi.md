@@ -1,5 +1,5 @@
 ---
 title: "El Jevi"
 url: /ciudad-autonoma-de-buenos-aires/el-jevi/
-shop: quiosco
+shop: comodidad
 ---
