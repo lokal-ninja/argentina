@@ -1,6 +1,6 @@
 ---
 title: Pérez
 url: /perez/
-latitude: -32.999
+latitude: -33
 longitude: -60.773
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pergamino
 url: /pergamino/
-latitude: -33.89
-longitude: -60.58
+latitude: -33.896
+longitude: -60.575
 ---

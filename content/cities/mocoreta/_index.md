@@ -1,6 +1,6 @@
 ---
 title: Mocoretá
 url: /mocoreta/
-latitude: -30.503
-longitude: -57.988
+latitude: -30.617
+longitude: -57.965
 ---

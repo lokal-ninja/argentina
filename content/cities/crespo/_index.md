@@ -1,6 +1,6 @@
 ---
 title: Crespo
 url: /crespo/
-latitude: -32.036
-longitude: -60.309
+latitude: -32.032
+longitude: -60.308
 ---
