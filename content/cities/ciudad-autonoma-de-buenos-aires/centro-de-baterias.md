@@ -1,5 +1,5 @@
 ---
-title: "Centro de Baterias"
+title: "Centro de Baterías"
 url: /ciudad-autonoma-de-buenos-aires/centro-de-baterias/
-shop: general
+shop: reparación de automóviles
 ---

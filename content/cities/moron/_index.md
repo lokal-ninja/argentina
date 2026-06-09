@@ -1,6 +1,6 @@
 ---
 title: Morón
 url: /moron/
-latitude: -34.67
-longitude: -58.605
+latitude: -34.667
+longitude: -58.602
 ---
