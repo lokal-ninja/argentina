@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /neuquen/mitsubishi/
-shop: coche
+shop: reparación de automóviles
 ---
