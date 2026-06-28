@@ -1,5 +1,5 @@
 ---
 title: "Pirelli"
 url: /ciudad-autonoma-de-buenos-aires/pirelli/
-shop: neumáticos
+shop: reparación de automóviles
 ---
