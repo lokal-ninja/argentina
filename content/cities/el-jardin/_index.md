@@ -1,6 +1,6 @@
 ---
-title: El Jardin
+title: El Jardín
 url: /el-jardin/
-latitude: -26.085
-longitude: -65.483
+latitude: -26.078
+longitude: -65.392
 ---

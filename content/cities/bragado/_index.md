@@ -1,6 +1,6 @@
 ---
 title: Bragado
 url: /bragado/
-latitude: -35.118
-longitude: -60.489
+latitude: -35.126
+longitude: -60.472
 ---
