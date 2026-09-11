@@ -1,5 +1,5 @@
 ---
-title: "Maracuyá"
+title: "Maracuya"
 url: /obera/maracuya/
-shop: general
+shop: tienda
 ---

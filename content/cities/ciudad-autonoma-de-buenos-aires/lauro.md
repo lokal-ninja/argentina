@@ -1,5 +1,5 @@
 ---
 title: "Lauro"
 url: /ciudad-autonoma-de-buenos-aires/lauro/
-shop: bicicleta
+shop: ropa
 ---
