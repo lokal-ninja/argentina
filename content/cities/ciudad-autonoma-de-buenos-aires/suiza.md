@@ -1,5 +1,5 @@
 ---
 title: "Suiza"
 url: /ciudad-autonoma-de-buenos-aires/suiza/
-shop: general
+shop: relojes
 ---

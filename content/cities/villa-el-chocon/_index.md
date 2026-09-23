@@ -1,6 +1,6 @@
 ---
 title: Villa El Chocón
 url: /villa-el-chocon/
-latitude: -39.261
-longitude: -68.785
+latitude: -39.263
+longitude: -68.783
 ---
