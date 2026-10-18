@@ -1,6 +1,6 @@
 ---
 title: Sauce Viejo
 url: /sauce-viejo/
-latitude: -31.727
-longitude: -60.813
+latitude: -31.771
+longitude: -60.839
 ---

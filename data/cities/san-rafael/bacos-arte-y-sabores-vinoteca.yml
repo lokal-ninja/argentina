@@ -7,5 +7,5 @@ city: San Rafael
 street: José Quiroga
 housenumber: "1328"
 phone: ""
-opening_hours: 10:00-14:00 17:15-23:00
+opening_hours: 10:00-14:00, 17:15-23:00
 website: ""

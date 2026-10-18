@@ -7,5 +7,5 @@ city: Ciudad Autónoma de Buenos Aires
 street: Florida
 housenumber: "537"
 phone: "+541123575522"
-opening_hours: Mo-Fr 10:00-19:00 - Sa 11:00-16:00
+opening_hours: Mo-Fr 10:00-19:00;Sa 11:00-16:00
 website: https://www.maximus.com.ar

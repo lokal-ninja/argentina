@@ -1,5 +1,5 @@
 ---
-title: "Iofi Racks"
+title: "IOFI Racks"
 url: /ciudad-autonoma-de-buenos-aires/iofi-racks/
 shop: muebles
 ---
