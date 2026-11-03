@@ -1,6 +1,6 @@
 ---
 title: Cutral Có
 url: /cutral-co/
-latitude: -38.935
-longitude: -69.232
+latitude: -38.932
+longitude: -69.219
 ---
