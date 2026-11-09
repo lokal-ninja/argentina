@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /cordoba/carrefour/
-shop: comodidad
+shop: supermercado
 ---

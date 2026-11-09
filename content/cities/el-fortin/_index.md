@@ -1,6 +1,6 @@
 ---
-title: El Fortin
+title: El Fortín
 url: /el-fortin/
-latitude: -31.964
-longitude: -62.325
+latitude: -31.969
+longitude: -62.302
 ---
