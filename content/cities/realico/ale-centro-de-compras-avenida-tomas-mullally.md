@@ -1,5 +1,5 @@
 ---
 title: "Ale Centro de Compras"
 url: /realico/ale-centro-de-compras-avenida-tomas-mullally/
-shop: menaje del hogar
+shop: grandes almacenes
 ---

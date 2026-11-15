@@ -1,6 +1,6 @@
 ---
 title: Margarita Belen
 url: /margarita-belen/
-latitude: -27.263
-longitude: -58.963
+latitude: -27.26
+longitude: -58.971
 ---

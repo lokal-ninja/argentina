@@ -1,6 +1,6 @@
 ---
 title: Sunchales
 url: /sunchales/
-latitude: -30.944
-longitude: -61.541
+latitude: -30.945
+longitude: -61.566
 ---
