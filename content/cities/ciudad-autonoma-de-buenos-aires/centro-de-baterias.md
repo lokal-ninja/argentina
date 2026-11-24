@@ -1,5 +1,5 @@
 ---
 title: "Centro de Baterias"
 url: /ciudad-autonoma-de-buenos-aires/centro-de-baterias/
-shop: piezas de automóviles
+shop: general
 ---
